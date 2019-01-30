@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
+<!-- Just remove the comment tag to associate to schema -->
 <root>
     <header>
         <fileDesc>
@@ -17,9 +18,9 @@
                 <bibl>
                     <title></title>
                     <date when=""/>
-                    <location where=""/>
+                    <location lat="" long=""/>
                     <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
-                    <ref target="">Banksy's Personal Site</ref>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">Article That Supplied Information for Markup</ref>
                 </bibl>
