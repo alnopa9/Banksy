@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -24,11 +25,13 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
-            <p></p>
-        </encodingDesc>
     </header>
     <body>
         <desc>Short description about the work. Although the location and date are in the meta data, include it in the description as well. This will be displayed on the site.</desc>
+        <p>
+            <img src=""/>
+            <title></title>
+            <credit></credit>
+        </p>
     </body>
 </root>

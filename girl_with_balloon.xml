@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -15,8 +16,8 @@
             <sourceDesc>
                 <bibl>
                     <title>Girl with Balloon</title>
-                    <alternate n="1">Balloon Girl</alternate>
-                    <alternate n="2">Girl and Balloon</alternate>
+                    <alternate>Balloon Girl</alternate>
+                    <alternate>Girl and Balloon</alternate>
                     <date when="2002"/>
                     <location lat="51.508611" long="-0.116944">Stairs for the Waterloo Bridge on the
                         South Bank side</location>
