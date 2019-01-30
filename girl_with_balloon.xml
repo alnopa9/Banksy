@@ -15,6 +15,8 @@
             <sourceDesc>
                 <bibl>
                     <title>Girl with Balloon</title>
+                    <alternate n="1">Balloon Girl</alternate>
+                    <alternate n="2">Girl and Balloon</alternate>
                     <date when="2002"/>
                     <location lat="51.508611" long="-0.116944">Stairs for the Waterloo Bridge on the
                         South Bank side</location>
@@ -24,6 +26,9 @@
                         Instagram</ref>
                     <ref target="https://en.wikipedia.org/wiki/Girl_with_Balloon">Wikipedia
                         Article</ref>
+                    <cause when="2005">West Bank Barrier</cause>
+                    <cause when="2014">Syrian Refugee Crisis</cause>
+                    <cause when="2017">UK Election</cause>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -34,5 +39,17 @@
     <body>
         <desc>One of Banksy's most iconic pieces, the Girl with Balloon first appeared at the stairs
             for the Waterloo Bridge on the South Bank side in 2002.</desc>
+        <p>
+            <img src="girl_with_balloon_waterloo.jpg"/>
+            <title>Girl with Balloon</title>
+            <credit>By Dominic Robinson from Bristol, UK - Banksy Girl and Heart Balloon, CC BY-SA
+                2.0, https://commons.wikimedia.org/w/index.php?curid=73570221</credit>
+        </p>
+        <p>
+            <img src="girl_with_balloon_london.jpg"/>
+            <title>Girl with Balloon</title>
+            <credit>By LYDIA and her SALAD DAYS - Girl with heart balloon, Banksy, London,
+                https://www.flickr.com/photos/82029517@N00/434681350</credit>
+        </p>
     </body>
 </root>
