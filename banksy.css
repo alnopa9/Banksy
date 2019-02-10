@@ -3,6 +3,11 @@ html {
     background-attachment: fixed;
     background-size: cover;
 }
+body{
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    color: #000000 ;
+}
 .body-container{
     position: fixed;
     top: 10vH;
