@@ -1,0 +1,60 @@
+html {
+    background: url(img/background.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.body-container{
+    position: fixed;
+    top: 10vH;
+    left: 10%;
+    width: 80%;
+    height: 80vH;
+    padding-top: 40px;
+    margin: auto;
+    text-align: center;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    overflow: scroll;
+}
+.menu-container{
+    position: fixed;
+    top: 0vH;
+    width: 80%;
+    font-size: 1.25em;
+    left: 10%;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+.logo-container{
+    display: flex;
+    justify-content: flex-end;
+    width: 35%;
+}
+.menu-buttons{
+    display: flex;
+    justify-content: space-around;
+    width: 65%;
+}
+.side-bars{
+    position: fixed;
+    top: 0vH;
+    width: 100%;
+}
+.left-side{
+    position: fixed;
+    top: 10vH;
+    left: 1%;
+    width: 9%;
+    height: 100%;
+}
+.right-side{
+    position: fixed;
+    top: 60vH;
+    right: 0px;
+    width: 10%;
+    height: 100%;
+}
