@@ -18,7 +18,6 @@ body{
     margin: auto;
     text-align: center;
     background-color: #ffffff;
-    border: 1px solid #000000;
     overflow: scroll;
 }
 .menu-container{
