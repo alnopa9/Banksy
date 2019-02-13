@@ -62,6 +62,12 @@ body{
     width: 10%;
     height: 100%;
 }
+.license-container{
+    position: fixed;
+    top: 90vh;
+    height: 9.5vH;
+    width: 100%;
+}
 .license{
     display: flex;
     align-items: flex-end;
