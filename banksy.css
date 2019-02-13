@@ -62,3 +62,11 @@ body{
     width: 10%;
     height: 100%;
 }
+.license{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 100%;
+    top: 0%;
+    font-size: 15px;
+}
