@@ -5,7 +5,7 @@ html {
 }
 body{
     font-family: 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     color: #000000 ;
 }
 .body-container{
@@ -18,7 +18,6 @@ body{
     margin: auto;
     text-align: center;
     background-color: #ffffff;
-    overflow: scroll;
 }
 .menu-container{
     position: fixed;
@@ -75,4 +74,56 @@ body{
     height: 100%;
     top: 0%;
     font-size: 15px;
+}
+.content-container{
+    display: flex;
+    width: 97%;
+    height: 100%;
+    align-items: center;
+}
+.left-content{
+    display: flex;
+    width: 45%;
+    justify-content: center;
+    align-items: center;
+}
+.right-content{
+    display: flex;
+    width: 55%;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.front-container{
+    position: absolute;
+    left: 0%;
+    width: 33%;
+    top: 0%;
+    height: 100%;
+}
+.middle-container{
+    position: absolute;
+    left: 33%;
+    width: 33%;
+    top: 0%;
+    height: 100%;
+}
+.last-container{
+    position: absolute;
+    left: 66%;
+    width: 34%;
+    top: 0%;
+    height: 100%;
+}
+.front-container:hover{
+    background-color: #66ff66;
+    transition: .5s ease;
+}
+.middle-container:hover{
+    background-color: #ff6600;
+    transition: .5s ease;
+}
+.last-container:hover{
+    background-color: #33ccff;
+    transition: .5s ease;
 }
