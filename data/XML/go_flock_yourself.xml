@@ -5,9 +5,9 @@
     <header>
         <fileDesc>
             <titleStmt>
-                <title>Title of the Work, If None Then Get Creative</title>
+                <title>Go FLock Yourself</title>
                 <creator>Banksy</creator>
-                <editor>Your Name Here</editor>
+                <editor>James Farley</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
@@ -16,23 +16,23 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title></title>
-                    <date when=""/>
-                    <location lat="" long=""/>
+                    <title>Go FLock Yourself</title>
+                    <date when="2018"/>
+                    <location lat="48.8566101" long="2.3514992"/>
                     <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
-                    <ref target="">Banksy's Personal Instagram</ref>
-                    <ref target="">Article That Supplied Information for Markup</ref>
+                    <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
+                    <ref target="https://www.thisiscolossal.com/2018/06/banksy-in-paris/">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>Short description about the work. Although the location and date are in the meta data, include it in the description as well. This will be displayed on the site.</desc>
+        <desc>This piece is a spray painting that was done by Banksy in retaliation to the movement in Paris to displace migrants from their makeshift camps. The painting is of a young African girl covering a swastika with the fleur-de-lis.</desc>
         <p>
-            <img src=""/>
-            <title></title>
-            <credit></credit>
+            <img src="go-flock-yourself.jpeg"/>
+            <title>Go FLock Yourself</title>
+            <credit>The article was written by Sasha Bogojev</credit>
         </p>
     </body>
 </root>
