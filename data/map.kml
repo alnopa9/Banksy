@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
-    <Placemark>
-      <name>Girl with Balloon</name>
-      <description>Stairs for the Waterloo Bridge on the
+    <Document>
+        <Placemark>
+            <name>Girl with Balloon</name>
+            <description>Stairs for the Waterloo Bridge on the
         South Bank side</description>
-      <TimeStamp>
-        <when>2002</when>
-      </TimeStamp>
-      <Point>
-          <coordinates>-0.116944,51.508611</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
+            <TimeStamp>
+                <when>2002</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>-0.116944,51.508611</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
             <name>Sweep it Under the Carpet</name>
             <description>Women in black clothes sweeping dust 
                 under the carpet on a brick wall.</description>
@@ -65,5 +65,5 @@
                 <coordinates>40.43639,73.592674</coordinates>
             </Point>
         </Placemark>
-  </Document>
+    </Document>
 </kml>
