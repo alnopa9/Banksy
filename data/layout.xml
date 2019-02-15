@@ -18,6 +18,7 @@
                 <bibl>
                     <title></title>
                     <date when=""/>
+                    <medium type=""/>
                     <location lat="" long=""/>
                     <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
@@ -30,7 +31,7 @@
     <body>
         <desc>Short description about the work. Although the location and date are in the meta data, include it in the description as well. This will be displayed on the site.</desc>
         <p>
-            <img src=""/>
+            <img src="" alt=""/>
             <title></title>
             <credit></credit>
         </p>
