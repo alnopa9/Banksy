@@ -19,6 +19,11 @@ body{
     text-align: center;
     background-color: #ffffff;
 }
+.text-container{
+    text-align: center;
+    font-size: 18px;
+    margin-top: -5%;
+}
 .menu-container{
     position: fixed;
     top: 0vH;
@@ -118,12 +123,63 @@ body{
 .front-container:hover{
     background-color: #66ff66;
     transition: .5s ease;
+    color: #ffffff;
 }
 .middle-container:hover{
     background-color: #ff6600;
     transition: .5s ease;
+        color: #ffffff;
 }
 .last-container:hover{
     background-color: #33ccff;
     transition: .5s ease;
+    color: #ffffff;
 }
+.graffiti{
+    position: absolute;
+    left: 0%;
+    width: 25%;
+    top: 12%;
+    height: 88%;
+}
+.paintings{
+    position: absolute;
+    left: 25%;
+    width: 25%;
+    top: 12%;
+    height: 88%;
+}
+.sculptures{
+    position: absolute;
+    left: 50%;
+    width: 25%;
+    top: 12%;
+    height: 88%;
+}
+.installations{
+    position: absolute;
+    left: 75%;
+    width: 25%;
+    top: 12%;
+    height: 88%;
+}
+.graffiti img, .paintings img, .sculptures img, .installations img{
+    height: 100%;
+    width: 93%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.overlay-graffiti, .overlay-paintings, .overlay-sculptures, .overlay-installations{
+    position: absolute;
+    left: 0%;
+    width: 100%;
+    top: 0%;
+    height: 98.5%;
+    opacity: 0;
+    transition: .5s ease;
+}
+.graffiti:hover .overlay-graffiti{opacity: 1}
+.paintings:hover .overlay-paintings{opacity: 1}
+.sculptures:hover .overlay-sculptures{opacity: 1}
+.installations:hover .overlay-installations{opacity: 1}
