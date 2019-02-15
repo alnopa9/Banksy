@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
+ <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
 <!-- Just remove the comment tag to associate to schema -->
 <root>
     <header>
@@ -18,6 +18,7 @@
                 <bibl>
                     <title>Box cutter rat</title>
                     <date when="2018"/>
+                    <medium type="spray_paint"/>
                     <location lat="48.8566101" long="2.3514992"/>
                     <size>N/A</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
@@ -30,7 +31,7 @@
     <body>
         <desc>This painting is a spray painting created by Banksy in 2018 in the city of Paris. The painting is of a masked rat holding a booxcutter.</desc>
         <p>
-            <img src="boxcutter_rat.jpg"/>
+            <img src="boxcutter_rat.jpg" alt="The Box Cutter Rat"/>
             <title>Box cutter rat</title>
             <credit>The original article was written by journalist Annalisa Quinn</credit>
         </p>
