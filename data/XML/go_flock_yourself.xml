@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
+<!-- Just remove the comment tag to associate to schema -->
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <title>Go FLock Yourself</title>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Go FLock Yourself</title>
+                    <date when="2018"/>
+                    <location lat="48.8566101" long="2.3514992"/>
+                    <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
+                    <ref target="https://www.thisiscolossal.com/2018/06/banksy-in-paris/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This piece is a spray painting that was done by Banksy in retaliation to the movement in Paris to displace migrants from their makeshift camps. The painting is of a young African girl covering a swastika with the fleur-de-lis.</desc>
+        <p>
+            <img src="go-flock-yourself.jpeg"/>
+            <title>Go FLock Yourself</title>
+            <credit>The article was written by Sasha Bogojev</credit>
+        </p>
+    </body>
+</root>
