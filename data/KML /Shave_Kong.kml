@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Shave Kong</name>
+      <description>Gorilla sitting on a tiny bucket in thinking form.</description>
+      <TimeStamp>
+        <when>2008</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>0.065652,51.30702</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

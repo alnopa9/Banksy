@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Well, Hung Lover</name>
+      <description>Naked Guy hangiing from a window in front of a health Clinic in Bristol UK.</description>
+      <TimeStamp>
+        <when>2006</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>-2.6011,51.4534</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
