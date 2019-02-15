@@ -12,5 +12,58 @@
           <coordinates>-0.116944,51.508611</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+            <name>Sweep it Under the Carpet</name>
+            <description>Women in black clothes sweeping dust 
+                under the carpet on a brick wall.</description>
+            <TimeStamp>
+                <when>2006</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>-0.083699,51.654815</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Snorting Copper</name>
+            <description>Police Officer in uniform 
+                snorting a line of coke.</description>
+            <TimeStamp>
+                <when>2005</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>-0.133869,51.51001</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Shave Kong</name>
+            <description>Gorilla sitting on a tiny bucket in thinking form.</description>
+            <TimeStamp>
+                <when>2008</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>0.065652,51.30702</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Well, Hung Lover</name>
+            <description>Naked Guy hangiing from a window in front of a health Clinic in Bristol UK.</description>
+            <TimeStamp>
+                <when>2006</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>-2.6011,51.4534</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Graffiti is a Crime</name>
+            <description>Two guys standing on top of each other 
+                macking the anti graffiti sign in New York City.</description>
+            <TimeStamp>
+                <when>2013</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>40.43639,73.592674</coordinates>
+            </Point>
+        </Placemark>
   </Document>
 </kml>
