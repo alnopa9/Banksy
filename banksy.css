@@ -21,7 +21,8 @@ body{
 .text-container{
     text-align: center;
     font-size: 18px;
-    margin-top: -1%;
+    margin-top: -44%;
+    width: 97%;
 }
 .menu-container{
     position: fixed;
@@ -83,10 +84,8 @@ body{
     display: flex;
     width: 100%;
     height: 100%;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: solid 1px #000000;
 }
 .gallery{
     display: flex;
@@ -149,29 +148,29 @@ body{
     position: absolute;
     left: 0%;
     width: 25%;
-    top: 12%;
-    height: 88%;
+    top: 15%;
+    height: 85%;
 }
 .paintings{
     position: absolute;
     left: 25%;
     width: 25%;
-    top: 12%;
-    height: 88%;
+    top: 15%;
+    height: 85%;
 }
 .sculptures{
     position: absolute;
     left: 50%;
     width: 25%;
-    top: 12%;
-    height: 88%;
+    top: 15%;
+    height: 85%;
 }
 .installations{
     position: absolute;
     left: 75%;
     width: 25%;
-    top: 12%;
-    height: 88%;
+    top: 15%;
+    height: 85%;
 }
 .graffiti img, .paintings img, .sculptures img, .installations img{
     height: 100%;
