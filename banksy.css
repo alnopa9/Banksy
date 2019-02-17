@@ -17,12 +17,15 @@ body{
     margin: auto;
     text-align: center;
     background-color: #ffffff;
+    border: 2px dashed;
 }
 .text-container{
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15%;
     font-size: 18px;
-    margin-top: -44%;
-    width: 97%;
+    width: 98%;
 }
 .menu-container{
     position: fixed;
@@ -47,24 +50,20 @@ body{
     justify-content: space-around;
     width: 65%;
 }
+.side-bars, .left-side, .right-side{ position: fixed; height: 100%;}
 .side-bars{
-    position: fixed;
     top: 0vH;
     width: 100%;
 }
 .left-side{
-    position: fixed;
     top: 10vH;
     left: 1%;
     width: 9%;
-    height: 100%;
 }
 .right-side{
-    position: fixed;
     top: 60vH;
     right: 0px;
     width: 10%;
-    height: 100%;
 }
 .license-container{
     position: fixed;
@@ -80,115 +79,78 @@ body{
     top: 0%;
     font-size: 15px;
 }
-.content-container{
+.content-container-a, .content-container-b{
     display: flex;
     width: 100%;
     height: 100%;
-    align-items: center;
     justify-content: center;
+    align-items: center;
 }
-.gallery{
+.content-container-b{flex-direction: column;}
+.left-content, .right-content{
     display: flex;
-    width: 55%;
+    height: 100%;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
-    border: solid 1px #000000;
+    flex-direction: column;
 }
-.left-content{
-    display: flex;
-    width: 45%;
-    justify-content: center;
-    align-items: center;
-}
+.left-content{width: 45%}
 .right-content{
-    display: flex;
     width: 55%;
-    justify-content: center;
-    align-items: center;
     flex-wrap: wrap;
 }
-.front-container{
+.front-container, .middle-container, .last-container{
     position: absolute;
     left: 0%;
-    width: 33%;
     top: 0%;
     height: 100%;
 }
-.middle-container{
-    position: absolute;
-    left: 33%;
-    width: 33%;
-    top: 0%;
-    height: 100%;
-}
-.last-container{
-    position: absolute;
-    left: 66%;
-    width: 34%;
-    top: 0%;
-    height: 100%;
-}
-.front-container:hover{
-    background-color: #66ff66;
-    transition: .5s ease;
-    color: #ffffff;
-}
-.middle-container:hover{
-    background-color: #ff6600;
-    transition: .5s ease;
-        color: #ffffff;
-}
-.last-container:hover{
-    background-color: #33ccff;
-    transition: .5s ease;
-    color: #ffffff;
-}
-.graffiti{
-    position: absolute;
-    left: 0%;
-    width: 25%;
-    top: 15%;
-    height: 85%;
-}
-.paintings{
-    position: absolute;
-    left: 25%;
-    width: 25%;
-    top: 15%;
-    height: 85%;
-}
-.sculptures{
-    position: absolute;
-    left: 50%;
-    width: 25%;
-    top: 15%;
-    height: 85%;
-}
-.installations{
-    position: absolute;
-    left: 75%;
-    width: 25%;
-    top: 15%;
-    height: 85%;
-}
-.graffiti img, .paintings img, .sculptures img, .installations img{
-    height: 100%;
-    width: 93%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.overlay-graffiti, .overlay-paintings, .overlay-sculptures, .overlay-installations{
-    position: absolute;
-    left: 0%;
+.front-container, .middle-container{width: 33%}
+.middle-container{left: 33%;}
+.last-container{left: 66%; width: 34%;}
+.front-container:hover, .middle-container:hover, .last-container:hover{transition: .5s ease; color: #ffffff;}
+.front-container:hover{background-color: #66ff66;}
+.middle-container:hover{background-color: #ff6600;}
+.last-container:hover{background-color: #33ccff;}
+.works-column-graffiti, .works-column-paintings, .works-column-sculptures, .works-column-installations{
+    display: flex;
     width: 100%;
-    top: 0%;
-    height: 98.5%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.works-column-graffiti{left: 0%}
+.works-column-paintings{left: 25%}
+.works-column-sculptures{left: 50%}
+.works-column-installations{left: 75%}
+.graffiti img, .paintings img, .sculptures img, .installations img{
+    position: absolute;
+    top: 14%;
+    height: 85%;
+    width: 24%;
     opacity: 0;
     transition: .5s ease;
 }
-.graffiti:hover .overlay-graffiti{opacity: 1}
-.paintings:hover .overlay-paintings{opacity: 1}
-.sculptures:hover .overlay-sculptures{opacity: 1}
-.installations:hover .overlay-installations{opacity: 1}
+.graffiti img{left:.5%}
+.paintings img{left:25.5%}
+.sculptures img {left:50.5%}
+.installations img{left:75.5%}
+.works-column-graffiti:hover .graffiti img, .works-column-paintings:hover .paintings img, .works-column-sculptures:hover .sculptures img, .works-column-installations:hover .installations img{opacity:.5}
+.works-column-graffiti:hover, .works-column-paintings:hover, .works-column-sculptures:hover, .works-column-installations:hover{color: red; transition: .5s ease}
+.works-ssi{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 15px;
+    width: 100%;
+    height: 5%;
+}
+.gallery{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
