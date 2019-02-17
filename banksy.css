@@ -8,6 +8,8 @@ body{
     font-size: 18px;
     color: #000000 ;
 }
+a{text-decoration: none; color: #000000;}
+a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease;}
 .body-container{
     position: fixed;
     top: 10vH;
@@ -119,6 +121,7 @@ body{
     height: 100%;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     font-size: 21px;
     color: black;
 }
@@ -141,6 +144,7 @@ body{
 .installations img{left:75.5%}
 .works-column-graffiti:hover .graffiti img, .works-column-paintings:hover .paintings img, .works-column-sculptures:hover .sculptures img, .works-column-installations:hover .installations img{opacity:.5}
 .works-column-graffiti:hover, .works-column-paintings:hover, .works-column-sculptures:hover, .works-column-installations:hover{color: red; text-shadow: 2px 2px black; transition: .5s ease}
+.works-column-graffiti:hover a, .works-column-paintings:hover a, .works-column-sculptures:hover a, .works-column-installations:hover a{color: red; text-shadow: 2px 2px black;}
 .works-ssi{
     display: flex;
     align-items: center;
