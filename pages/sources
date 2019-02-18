@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="../banksy.css" />
+        <link rel="icon" href="img/background/SSI/icon.png"/>
+        <title>Banksy | Sources</title>
+    </head>
+    <body>
+        <!-- SSI line below-->
+        <!--#include virtual="top.html" -->
+        <div class="body-container">
+            <div class="content-container-a">
+                <div class="gallery-b">
+                    <div class="text">
+                        <h1>Under Construction!</h1>
+                        <p>This site is a work in progress</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
