@@ -127,7 +127,7 @@
                 <when>2015</when>
             </TimeStamp>
             <Point>
-                <coordinates>37.8142,144.96299999999997</coordinates>
+                <coordinates>144.96299999999997,37.8142</coordinates>
             </Point>
         </Placemark>
     </Document>
