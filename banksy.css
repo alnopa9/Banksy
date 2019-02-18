@@ -1,6 +1,7 @@
 html {
-    background: url(pages/img/background/SSI/background.png);
+    background-image: url(pages/img/background/SSI/background.png);
     background-attachment: fixed;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 body{
@@ -14,10 +15,10 @@ svg #timeline text:hover{fill: red}
 svg text{fill: black}
 .body-container{
     position: fixed;
-    top: 10vH;
+    top: 10%;
     left: 10%;
     width: 80%;
-    height: 85vH;
+    height: 85%;
     margin: auto;
     text-align: center;
     background-color: #ffffff;
@@ -33,56 +34,76 @@ svg text{fill: black}
 }
 .menu-container{
     position: fixed;
-    top: 0vH;
+    top: 0%;
     width: 80%;
     font-size: 1.25em;
     left: 10%;
+    height: 10%;
 }
 .menu{
     display: flex;
     justify-content: space-around;
     flex-direction: row;
     align-items: center;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 100%;
 }
+@media screen and (max-width: 1000px) {
+    html{background-size: 100vH 100vH;}
+    body{font-size: 26px}
+    .menu{flex-direction:column; font-size: 30px}
+    .logo-container{width:100%; justify-content:center}
+    .menu-buttons{width:100%}
+    .content-container-a{flex-direction: column}
+    .gallery-b{overflow: scroll}
+    }
 .logo-container{
     display: flex;
-    justify-content: flex-end;
-    width: 35%;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
 }
 .menu-buttons{
     display: flex;
     justify-content: space-around;
-    width: 65%;
+    align-items: center;
+    width: 100%;
+    height: 100%;
 }
 .left-side, .right-side{ position: fixed; height: 100%;}
-.side-bars{
+.left-side, .right-side{
     position: fixed;
-    top: 0vH;
-    width: 100%;
-}
-.left-side{
-    top: 10vH;
-    left: 1%;
-    width: 9%;
-}
-.right-side{
-    top: 60vH;
-    right: 0px;
+    top: 10%;
     width: 10%;
+    height: 90%;
 }
+.left-side{left: 0%}
+.right-side{right: 0%}
+.left-side-flex, .right-side-flex{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+.left-side-flex{align-items: flex-start;}
+.right-side-flex{align-items: flex-end;}
+.left-side img, .right-side img{width: 100%;}
 .license-container{
     position: fixed;
-    top: 90vh;
-    height: 9.5vH;
+    top: 95%;
+    left: 0%;
+    height: 5%;
     width: 100%;
 }
 .license{
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     justify-content: center;
     height: 100%;
-    top: 0%;
-    font-size: 15px;
+    width: 100%;
+    font-size: 75%;
 }
 .content-container-a, .content-container-b{
     display: flex;
@@ -95,15 +116,12 @@ svg text{fill: black}
 .left-content, .right-content{
     display: flex;
     height: 100%;
+    width: 100%;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.left-content{width: 45%}
-.right-content{
-    width: 55%;
-    flex-wrap: wrap;
-}
+.left-content img{width: 100%; height: 100%;}
 .front-container, .middle-container, .last-container{
     position: absolute;
     left: 0%;
