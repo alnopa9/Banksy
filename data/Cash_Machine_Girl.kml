@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Cash Machine Girl</name>
+      <description>A Painting of young girl being grabbed by 
+        a robotic arm out of a cash machine.</description>
+      <TimeStamp>
+        <when>2007</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>51.654827,-0.083599</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

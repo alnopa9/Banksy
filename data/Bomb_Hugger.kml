@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Bomb Hugger</name>
+      <description>A picture of a young girl hugging a bomb
+        as showing her love for the milatary war going during that time.</description>
+      <TimeStamp>
+        <when>2003</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>33.01529, 27.8546</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
