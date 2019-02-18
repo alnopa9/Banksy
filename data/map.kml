@@ -65,5 +65,60 @@
                 <coordinates>40.43639,73.592674</coordinates>
             </Point>
         </Placemark>
+        <Placemark>
+            <name>Bomb Hugger</name>
+            <description>A picture of a young girl hugging a bomb
+                as showing her love for the milatary war going during that time.</description>
+            <TimeStamp>
+                <when>2003</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>33.01529, 27.8546</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cash Machine Girl</name>
+            <description>A Painting of young girl being grabbed by 
+                a robotic arm out of a cash machine.</description>
+            <TimeStamp>
+                <when>2007</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>51.654827,-0.083599</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Child Soldier</name>
+            <description>A Painting of a child holding a haeavy machine gun 
+                dressed as a Soldier.</description>
+            <TimeStamp>
+                <when>2011</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>34.052235,-118.243683</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Follow your Dreams - Canceled</name>
+            <description>A painter painting follow your dreams with a 
+                big sign on it saying Canceled as the man being depressed.</description>
+            <TimeStamp>
+                <when>2011</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>42.3501,71.0624</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gangsta Rat</name>
+            <description>A Painting of a rat dressed in a baseball hat and a chain with 
+                a boombox.</description>
+            <TimeStamp>
+                <when>2006</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>51.5276,0.0898 </coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
