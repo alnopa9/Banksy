@@ -10,6 +10,8 @@ body{
 }
 a{text-decoration: none; color: #000000;}
 a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease;}
+svg #timeline text:hover{fill: red}
+svg text{fill: black}
 .body-container{
     position: fixed;
     top: 10vH;
@@ -153,11 +155,12 @@ a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5
     width: 100%;
     height: 5%;
 }
-.gallery{
+.gallery-a, .gallery-b{
     display: flex;
     width: 100%;
     height: 100%;
     justify-content: center;
     align-items: center;
-    flex-wrap: nowrap;
 }
+.gallery-a{flex-wrap: nowrap;}
+.gallery-b{flex-wrap: wrap; overflow-y: scroll;}
