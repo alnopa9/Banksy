@@ -120,5 +120,15 @@
                 <coordinates>51.5276,0.0898 </coordinates>
             </Point>
         </Placemark>
+        <Placemark>
+            <name>I Want Chnage</name>
+            <description>An art piece that was spray painted depicting a homeless man with a sign around his neck saying "keep your coins, I want change".</description>
+            <TimeStamp>
+                <when>2015</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>37.8142,144.96299999999997</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
