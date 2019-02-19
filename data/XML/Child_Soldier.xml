@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-<!-- Just remove the comment tag to associate to schema -->
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -18,9 +17,8 @@
                 <bibl>
                     <title>Child Soldier</title>
                     <date when="2011"/>
-                    <medium type="Street Art"/>
-                    <location lat="34.052235," long="-118.243683"> In front of Urban Outfitters, on a wall in Westend Street in Los Angles, California. </location>
-                    <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
+                    <medium type="spray_paint"/>
+                    <location lat="34.052235" long="-118.243683"> In front of Urban Outfitters, on a wall in Westend Street in Los Angles, California. </location>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="http://www.banksy.co.uk/out.asp">Banksy's Personal Instagram</ref>
                     <ref target="https://www.independent.co.uk/news/world/americas/banksy-goes-to-hollywood-2217158.html"></ref>

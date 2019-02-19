@@ -130,5 +130,109 @@
                 <coordinates>144.96299999999997,37.8142</coordinates>
             </Point>
         </Placemark>
+        <Placemark>
+            <name>Seal Mural</name>
+            <description>The image is that of a seal juggling a ball on its nose. It was painted by Banksy on the side of a rundown building on 1249 Coney Avenue and was uploaded to instagram on March 20, 2018</description>
+            <TimeStamp>
+                <when>2018-05-20</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>40.627400, -73.965400</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Blinded Napoleon</name>
+            <description>This piece is a spray painted piece and an interpretation of the original painting of Napoleon by Jacques-Louis David.</description>
+            <TimeStamp>
+                <when>2018</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>48.8566101, 2.3514992</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Box Cutter Rat</name>
+            <description>This painting is a spray painting created by Banksy in 2018 in the city of Paris. The painting is of a masked rat holding a booxcutter.</description>
+            <TimeStamp>
+                <when>2018</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>48.8566101, 2.3514992</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bronx Zoo</name>
+            <description>This painting is of a leopard yawning while lounging on a railing at Yankee Stadium</description>
+            <TimeStamp>
+                <when>2013</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>40.8295828, -73.9265212</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Go Flock Yourself</name>
+            <description>This piece is a spray painting that was done by Banksy in retaliation to the movement in Paris to displace migrants from their makeshift camps. The painting is of a young African girl covering a swastika with the fleur-de-lis.</description>
+            <TimeStamp>
+                <when>2018</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>48.8566101, 2.3514992</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Choose Your Weapon</name>
+            <description></description>
+            <TimeStamp>
+                <when>2002</when>
+            </TimeStamp>
+            <Point>
+                <coordinates></coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mild Mild West</name>
+            <description>The Mild Mild West depicts a teddy bear tossing a moatov cocktail at policemen in riot
+                gear. Banksy created this in response to police armed in riot gear attacking partygoers
+                at an event at Winterstroke Road.</description>
+            <TimeStamp>
+                <when>1999</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>51.462783, -2.589352</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Israeli-Palestinian Pillow Fight</name>
+            <description>This is a hand painted piece that can be found in one of the hotel rooms at the walled off hotel. It depicts a palestian fighter and an israeli soldier having a pillow fight. It was painted sometime in 2017.</description>
+            <TimeStamp>
+                <when>2017</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>31.7193016, 35.2031564</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Season's Greetings</name>
+            <description>Season's Greetings was how Banksy finished off the 2018 year. The image appears on two
+                sides of a garage; one depicting a child enjoying snow falling while the other side reveals
+                the "snow" is actually ash from a dumpster fire.</description>
+            <TimeStamp>
+                <when>2018-12-19</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>51.59055, -3.79859</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name></name>
+            <description></description>
+            <TimeStamp>
+                <when></when>
+            </TimeStamp>
+            <Point>
+                <coordinates></coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>

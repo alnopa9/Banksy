@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-<!-- Just remove the comment tag to associate to schema -->
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -19,9 +18,8 @@
                     <title>Follow your Dreams - Canceled</title>
                     <alternate>Dreams are Canceled</alternate>
                     <date when="2011"/>
-                    <medium type="Street Art"/>
+                    <medium type="spray_paint"/>
                     <location lat="42.3501" long="71.0624"> In Chinatown, behind Shadi Restrauant in Boston.</location>
-                    <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="http://www.banksy.co.uk/out.asp">Banksy's Personal Instagram</ref>
                     <ref target="http://sugoihcontemprhetoric.blogspot.com/2013/10/analysis-of-visual-banksy-street-art.html"></ref>

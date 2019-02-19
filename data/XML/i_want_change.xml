@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-<!-- Just remove the comment tag to associate to schema -->
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
             <titleStmt>
-                <title>I want change</title>
+                <title>I Want Change</title>
                 <creator>Banksy</creator>
                 <editor>James Farley</editor>
             </titleStmt>
@@ -20,7 +19,6 @@
                     <date when="2015"/>
                     <medium type="spray_paint"/>
                     <location lat="37.8142" long="144.96299999999997"/>
-                    <size>N/A</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://sites.psu.edu/calliefreenock/2015/10/08/keep-your-coins/">Article That Supplied Information for Markup</ref>

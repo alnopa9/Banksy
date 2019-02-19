@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-<!-- Just remove the comment tag to associate to schema -->
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -18,9 +17,8 @@
                 <bibl>
                     <title>Cash Machine Girl</title>
                     <date when="2007"/>
-                    <medium type="Stencil"/>
-                    <location lat="51.654827," long="-0.083599,"> In front of Exmouth Market, on a wall in North London. </location>
-                    <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
+                    <medium type="spray_paint"/>
+                    <location lat="51.654827" long="-0.083599"> In front of Exmouth Market, on a wall in North London. </location>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="http://www.banksy.co.uk/out.asp">Banksy's Personal Instagram</ref>
                     <ref target="https://map.pop-nonsense.com/listing/cash-machine-girl/"></ref>

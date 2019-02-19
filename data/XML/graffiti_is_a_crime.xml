@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
-<!-- Just remove the comment tag to associate to schema -->
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
 <root>
     <header>
         <fileDesc>
             <titleStmt>
-                <title>Graffiti is a crime</title>
+                <title>Graffiti Is A Crime</title>
                 <creator>Banksy</creator>
                 <editor>James Farley</editor>
             </titleStmt>
@@ -16,11 +15,10 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Graffiti is a crime</title>
+                    <title>Graffiti Is A Crime</title>
                     <date when="2013"/>
                     <medium type="spray_paint"/>
                     <location lat="40.7151989" long="-73.9921624"/>
-                    <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://steemit.com/anarchy/@krytonika/graffiti-is-a-crime-by-banksy-chinatown-new-york-city-2013">Article That Supplied Information for Markup</ref>

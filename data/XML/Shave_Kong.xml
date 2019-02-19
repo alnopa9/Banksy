@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -19,8 +18,8 @@
                     <title>Gorilla Artist</title>
                     <alternate>Shave Kong</alternate>
                     <date when="2008"/>
-                    <type>Graffiti</type>
-                    <location lat="51.30702" long="0.065652">On Leake Street at the Cans Festival in London.</location>                    
+                    <medium type="spray_paint"/>
+                    <location lat="51.30702" long="0.065652">On Leake Street at the Cans Festival in London.</location>
                     <ref target="http://www.banksy.co.uk/"></ref>
                     <ref target="http://www.banksy.co.uk/out.asp"></ref>
                     <ref target="https://www.timeout.com/hong-kong/art/banksy-whos-laughing-now"></ref>

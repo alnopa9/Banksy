@@ -17,9 +17,9 @@
                 <bibl>
                     <title>Season's Greetings</title>
                     <date when="2018-12-19"/>
+                    <medium type="spray_paint"/>
                     <location lat="51.59055" long="-3.79859">Garage in the Welsh Industrial Town of
                         Port Talbot</location>
-                    <size/>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/p/BrkqwhnlNjR/">Banksy's Personal
                         Instagram</ref>
@@ -33,7 +33,7 @@
             sides of a garage; one depicting a child enjoying snow falling while the other side reveals
             the "snow" is actually ash from a dumpster fire</desc>
         <p>
-            <img src="seasons_greetings.jpg"/>
+            <img src="seasons_greetings.jpg" alt="Banksy's Season's Greetings"/>
             <title>Season's Greetings</title>
             <credit>https://cdn.shopify.com/s/files/1/1003/7610/files/Banksy_Seasons_Greetings.jpg?v=1545252714</credit>
         </p>

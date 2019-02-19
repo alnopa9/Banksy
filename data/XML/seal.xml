@@ -15,10 +15,10 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title></title>
+                    <title>Seal Mural</title>
                     <date when="2018-05-20"/>
+                    <medium type="spray_paint"/>
                     <location lat="40.627400" long="-73.965400"/>
-                    <size/>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://hyperallergic.com/437308/banksy-seal-mural-brooklyn-demolition-or-preservation/">News Article </ref>
@@ -30,7 +30,7 @@
     <body>
         <desc>The image is that of a seal juggling a ball on its nose. It was painted by Banksy on the side of a rundown building on 1249 Coney Avenue and was uploaded to instagram on March 20, 2018</desc>
         <p>
-            <img src="Seal_Mural.jpg"/>
+            <img src="Seal_Mural.jpg" alt="Banksy's Seal Mural"/>
             <title>Seal Mural </title>
             <credit>By Benjamin Sutton -Seal Mural, Brooklyn , New York, https://hyperallergic.com/437308/banksy-seal-mural-brooklyn-demolition-or-preservation/ </credit>
         </p>

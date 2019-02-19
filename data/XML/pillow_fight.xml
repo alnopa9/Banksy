@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
-<!-- Just remove the comment tag to associate to schema -->
-
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
 <root>
     <header>
         <fileDesc>
@@ -21,7 +19,6 @@
                     <date when="2017"/>
                     <medium type="canvas"/>
                     <location lat="31.7193016" long="35.2031564"/>
-                    <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://www.thenational.ae/opinion/protest-politics-in-palestine-1.11689">Article That Supplied Information for Markup</ref>

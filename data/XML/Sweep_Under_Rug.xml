@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -19,8 +18,8 @@
                     <title>Sweep it Under the Carpet</title>
                     <alternate>Sweep it Under</alternate>
                     <date when="2006"/>
-                    <type>Graffiti</type>
-                    <location lat="51.654815" long="-0.083699">On Chalk Fun Road in North London.</location>                    
+                    <medium type="spray_paint"/>
+                    <location lat="51.654815" long="-0.083699">On Chalk Fun Road in North London.</location>
                     <ref target="http://www.banksy.co.uk/"></ref>
                     <ref target="http://www.banksy.co.uk/out.asp"></ref>
                     <ref target="https://www.independent.co.uk/news/uk/this-britain/banksy-takes-to-streets-to-highlight-aids-crisis-478417.html"></ref>
