@@ -58,19 +58,21 @@ svg text{fill: black}
     .content-container-a{flex-direction: column}
     .gallery-b{overflow: scroll}
     .front-container, .middle-container, .last-container{flex-direction:column}
-    }
+}
+@media screen and (min-width: 1001px) {
+    .logo-container{width: 35%; justify-content: flex-start;}
+    .menu-buttons{width: 65%;}
+}
 .logo-container{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
     height: 100%;
 }
 .menu-buttons{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 100%;
     height: 100%;
 }
 .left-side, .right-side{ position: fixed; height: 100%;}
