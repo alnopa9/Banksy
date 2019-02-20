@@ -2,10 +2,11 @@ html {
     background-image: url(pages/img/background/SSI/background.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100vH 100vH;
 }
 body{
     font-family: 'Arial', sans-serif;
+    font-size: 26px;
     color: black ;
 }
 a{text-decoration: none; color: black;}
@@ -15,8 +16,8 @@ svg text{fill: black}
 .body-container{
     position: fixed;
     top: 10%;
-    left: 10%;
-    width: 80%;
+    left: 0%;
+    width: 100%;
     height: 85%;
     margin: auto;
     text-align: center;
@@ -27,48 +28,42 @@ svg text{fill: black}
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 20%;
-    font-size: 3vh;
+    height: 15%;
     width: 98%;
 }
 .menu-container{
     position: fixed;
     top: 0%;
     width: 80%;
-    font-size: 3vh;
+    font-size: 100%;
     left: 10%;
     height: 10%;
+
 }
 .menu{
     display: flex;
     justify-content: space-around;
-    flex-direction: row;
     align-items: center;
+    flex-direction: column;
     flex-wrap: nowrap;
     width: 100%;
     height: 100%;
 }
 .logo-container{
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     height: 100%;
-    width: 35%
+    width: 100%
 }
 .menu-buttons{
     display: flex;
     justify-content: space-around;
     align-items: center;
     height: 100%;
-    width: 65%;
+    width: 100%;
 }
-.left-side, .right-side{ position: fixed; height: 100%;}
-.left-side, .right-side{
-    position: fixed;
-    top: 10%;
-    width: 10%;
-    height: 85%;
-}
+.left-side, .right-side{ position: fixed; height: 10%; top: 0%; width: 10%}
 .left-side{left: 0%}
 .right-side{right: 0%}
 .left-side-flex, .right-side-flex{
@@ -77,9 +72,8 @@ svg text{fill: black}
     width: 100%;
     justify-content: center;
 }
-.left-side-flex{align-items: flex-start;}
-.right-side-flex{align-items: flex-end;}
-.left-side img, .right-side img{width: 100%;}
+.left-side-flex, .right-side-flex{align-items: center;}
+.left-side img, .right-side img{width: 90%;}
 .license-container{
     position: fixed;
     top: 95%;
@@ -93,7 +87,7 @@ svg text{fill: black}
     justify-content: center;
     height: 100%;
     width: 100%;
-    font-size: 3vh;
+    font-size: 2vw;
 }
 .content-container-a, .content-container-b{
     display: flex;
@@ -101,6 +95,7 @@ svg text{fill: black}
     height: 100%;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .content-container-b{flex-direction: column;}
 .left-content, .right-content{
@@ -129,7 +124,6 @@ svg text{fill: black}
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    font-size: 3vh;
     color: black;
 }
 .works-column-graffiti{left: 0%}
@@ -168,7 +162,7 @@ svg text{fill: black}
     align-items: center;
 }
 .gallery-a{flex-wrap: nowrap;}
-.gallery-b{flex-wrap: wrap; overflow-y: scroll;}
+.gallery-b{flex-wrap: wrap; overflow: scroll;}
 .map{
     display: flex;
     flex-direction: column;
@@ -177,4 +171,4 @@ svg text{fill: black}
     height: 100%;
     width: 100%;
 }
-iframe{height: 70%; width: 95%}
+iframe{height: 80%; width: 95%}
