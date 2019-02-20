@@ -3,35 +3,32 @@
     <Document>
         <Placemark>
             <name>Girl with Balloon</name>
-            <description>Stairs for the Waterloo Bridge on the
-        South Bank side</description>
+            <description>Stairs for the Waterloo Bridge on the South Bank side</description>
             <TimeStamp>
                 <when>2002</when>
             </TimeStamp>
             <Point>
-                <coordinates>-0.116944,51.508611</coordinates>
+                <coordinates>-0.116944, 51.508611</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Sweep it Under the Carpet</name>
-            <description>Women in black clothes sweeping dust 
-                under the carpet on a brick wall.</description>
+            <description>Women in black clothes sweeping dust under the carpet on a brick wall.</description>
             <TimeStamp>
                 <when>2006</when>
             </TimeStamp>
             <Point>
-                <coordinates>-0.083699,51.654815</coordinates>
+                <coordinates>-0.083699, 51.654815</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Snorting Copper</name>
-            <description>Police Officer in uniform 
-                snorting a line of coke.</description>
+            <description>Police Officer in uniform snorting a line of coke.</description>
             <TimeStamp>
                 <when>2005</when>
             </TimeStamp>
             <Point>
-                <coordinates>-0.133869,51.51001</coordinates>
+                <coordinates>-0.133869, 51.51001</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -41,7 +38,7 @@
                 <when>2008</when>
             </TimeStamp>
             <Point>
-                <coordinates>0.065652,51.30702</coordinates>
+                <coordinates>0.065652, 51.30702</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -51,73 +48,67 @@
                 <when>2006</when>
             </TimeStamp>
             <Point>
-                <coordinates>-2.6011,51.4534</coordinates>
+                <coordinates>-2.6011, 51.4534</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Graffiti is a Crime</name>
-            <description>Two guys standing on top of each other 
-                macking the anti graffiti sign in New York City.</description>
+            <description>Two guys standing on top of each other macking the anti graffiti sign in New York City.</description>
             <TimeStamp>
                 <when>2013</when>
             </TimeStamp>
             <Point>
-                <coordinates>40.43639,73.592674</coordinates>
+                <coordinates>73.592674, 40.43639</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Bomb Hugger</name>
-            <description>A picture of a young girl hugging a bomb
-                as showing her love for the milatary war going during that time.</description>
+            <description>A picture of a young girl hugging a bomb as showing her love for the milatary war going during that time.</description>
             <TimeStamp>
                 <when>2003</when>
             </TimeStamp>
             <Point>
-                <coordinates>33.01529, 27.8546</coordinates>
+                <coordinates>27.8546, 33.01529</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Cash Machine Girl</name>
-            <description>A Painting of young girl being grabbed by 
-                a robotic arm out of a cash machine.</description>
+            <description>A Painting of young girl being grabbed by a robotic arm out of a cash machine.</description>
             <TimeStamp>
                 <when>2007</when>
             </TimeStamp>
             <Point>
-                <coordinates>51.654827,-0.083599</coordinates>
+                <coordinates>-0.083599, 51.654827</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Child Soldier</name>
-            <description>A Painting of a child holding a haeavy machine gun 
-                dressed as a Soldier.</description>
+            <description>A Painting of a child holding a haeavy machine gun dressed as a Soldier.</description>
             <TimeStamp>
                 <when>2011</when>
             </TimeStamp>
             <Point>
-                <coordinates>34.052235,-118.243683</coordinates>
+                <coordinates>-118.243683, 34.052235</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Follow your Dreams - Canceled</name>
-            <description>A painter painting follow your dreams with a 
-                big sign on it saying Canceled as the man being depressed.</description>
+            <description>A painter painting follow your dreams with a big sign on it saying Canceled as the man being depressed.</description>
             <TimeStamp>
                 <when>2011</when>
             </TimeStamp>
             <Point>
-                <coordinates>42.3501,71.0624</coordinates>
+                <coordinates>71.0624, 42.3501</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Gangsta Rat</name>
-            <description>A Painting of a rat dressed in a baseball hat and a chain with 
-                a boombox.</description>
+            <description>A Painting of a rat dressed in a baseball hat and a chain with a boombox.</description>
             <TimeStamp>
                 <when>2006</when>
             </TimeStamp>
             <Point>
-                <coordinates>51.5276,0.0898 </coordinates>
+                <coordinates>0.0898, 51.5276 </coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -127,7 +118,7 @@
                 <when>2015</when>
             </TimeStamp>
             <Point>
-                <coordinates>144.96299999999997,37.8142</coordinates>
+                <coordinates>37.8142, 144.96299999999997</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -137,7 +128,7 @@
                 <when>2018-05-20</when>
             </TimeStamp>
             <Point>
-                <coordinates>40.627400, -73.965400</coordinates>
+                <coordinates>-73.965400, 40.627400</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -147,7 +138,7 @@
                 <when>2018</when>
             </TimeStamp>
             <Point>
-                <coordinates>48.8566101, 2.3514992</coordinates>
+                <coordinates>2.3514992, 48.8566101</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -157,7 +148,7 @@
                 <when>2018</when>
             </TimeStamp>
             <Point>
-                <coordinates>48.8566101, 2.3514992</coordinates>
+                <coordinates>2.3514992, 48.8566101</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -167,7 +158,7 @@
                 <when>2013</when>
             </TimeStamp>
             <Point>
-                <coordinates>40.8295828, -73.9265212</coordinates>
+                <coordinates>-73.9265212, 40.8295828</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -177,7 +168,7 @@
                 <when>2018</when>
             </TimeStamp>
             <Point>
-                <coordinates>48.8566101, 2.3514992</coordinates>
+                <coordinates>2.3514992, 48.8566101</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -192,14 +183,12 @@
         </Placemark>
         <Placemark>
             <name>Mild Mild West</name>
-            <description>The Mild Mild West depicts a teddy bear tossing a moatov cocktail at policemen in riot
-                gear. Banksy created this in response to police armed in riot gear attacking partygoers
-                at an event at Winterstroke Road.</description>
+            <description>The Mild Mild West depicts a teddy bear tossing a moatov cocktail at policemen in riot gear. Banksy created this in response to police armed in riot gear attacking partygoers at an event at Winterstroke Road.</description>
             <TimeStamp>
                 <when>1999</when>
             </TimeStamp>
             <Point>
-                <coordinates>51.462783, -2.589352</coordinates>
+                <coordinates>-2.589352, 51.462783</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -209,19 +198,47 @@
                 <when>2017</when>
             </TimeStamp>
             <Point>
-                <coordinates>31.7193016, 35.2031564</coordinates>
+                <coordinates>35.2031564, 31.7193016</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>Season's Greetings</name>
-            <description>Season's Greetings was how Banksy finished off the 2018 year. The image appears on two
-                sides of a garage; one depicting a child enjoying snow falling while the other side reveals
-                the "snow" is actually ash from a dumpster fire.</description>
+            <description>Season's Greetings was how Banksy finished off the 2018 year. The image appears on two sides of a garage; one depicting a child enjoying snow falling while the other side reveals the "snow" is actually ash from a dumpster fire.</description>
             <TimeStamp>
                 <when>2018-12-19</when>
             </TimeStamp>
             <Point>
-                <coordinates>51.59055, -3.79859</coordinates>
+                <coordinates>-3.79859, 51.59055</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Security Gurad With Pink Balloon</name>
+            <description>This piece, showing a security guard officer with a dog on a leash consisting of a pink balloon, was discovered at the rear of a police headquarters in the province of Ontario, Canada. Sadly, it was vandalised just a few days later. It showed that the police was soft on the criminals recently being released from jail.</description>
+            <TimeStamp>
+                <when>2010-03</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>-79.384293, 43.653908</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Hammer Boy</name>
+            <description>Hammer Boy was the piece created on Day 20 of Banksy’s New York Residency in 2013.Banksy makes use of existing features/items and adds his different stencil style to bring them to life. Several attempts have been made to deface but the painting is still there today.</description>
+            <TimeStamp>
+                <when>2013-10</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>-73.585303, 40.47393</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Injured Buddha</name>
+            <description>This picture showed up at the festival as a reminder to the society that other people can join the festivals as well. The work shows Buddha with a bandaged hand and facial wounds to symbolize the triumph of the mind over emotion. By this happeneing, it will get better from here on out.</description>
+            <TimeStamp>
+                <when>2008-05</when>
+            </TimeStamp>
+            <Point>
+                <coordinates>7.017369, 43.552849</coordinates>
             </Point>
         </Placemark>
         <Placemark>
