@@ -7,6 +7,7 @@ html {
 body{
     font-family: 'Arial', sans-serif;
     color: black ;
+    
 }
 a{text-decoration: none; color: black;}
 a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease;}
@@ -19,14 +20,12 @@ svg text{fill: black}
     width: 80%;
     height: 85%;
     margin: auto;
-    text-align: center;
     background-color: white;
     border: 2px dashed;
 }
 .text-container{
     display: flex;
     align-items: center;
-    justify-content: center;
     height: 20%;
     font-size: 3vh;
     width: 98%;
@@ -122,6 +121,14 @@ svg text{fill: black}
 .front-container:hover{background-color: #66ff66;}
 .middle-container:hover{background-color: #ff6600;}
 .last-container:hover{background-color: #33ccff;}
+.works-text-container{
+    display: flex;
+    align-items: center;
+    height: 20%;
+    font-size: 3vh;
+    width: 98%;
+    
+}
 .works-column-graffiti, .works-column-paintings, .works-column-sculptures, .works-column-installations{
     display: flex;
     width: 100%;
@@ -138,8 +145,8 @@ svg text{fill: black}
 .works-column-installations{left: 75%}
 .graffiti img, .paintings img, .sculptures img, .installations img{
     position: absolute;
-    top: 14%;
-    height: 85%;
+    top: 20%;
+    height: 79%;
     width: 24%;
     opacity: 0;
     transition: .5s ease;
@@ -164,8 +171,9 @@ svg text{fill: black}
     display: flex;
     width: 100%;
     height: 100%;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    
 }
 .gallery-a{flex-wrap: nowrap;}
 .gallery-b{flex-wrap: wrap; overflow-y: scroll;}

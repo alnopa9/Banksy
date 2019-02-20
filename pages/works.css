@@ -1,0 +1,66 @@
+html {
+    background-image: url(img/background/SSI/background.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    font-family: 'Arial', sans-serif;
+    color: black ;
+}
+.body-container{
+    position: fixed;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    height: 85%;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border: 2px dashed;
+}
+.text-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20%;
+    font-size: 3vh;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid;
+}
+a{text-decoration: none; color: black;}
+a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease;}
+.body-flexbox{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.works-text{display:flex; height: 100%; width: 100%; flex-direction: column; justify-content: center; align-items: center; line-height: 10%; border: 1px solid;}
+.works-container{display: flex; height: 100%; width: 100%; flex-direction: row; border: 1px solid;}
+.works-column-graffiti, .works-column-paintings, .works-column-sculptures, .works-column-installations{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 3vh;
+    color: black;
+}
+.works-column-graffiti, .works-column-paintings, .works-column-sculptures, .works-column-installations{
+    background-size: cover;
+    opacity: 1;
+    border: 1px solid;
+}
+.works-text p{z-index: 1; opacity: 1}
+.works-column-graffiti{background-image: url(img/background/SSI/graffiti_hover.png);}
+.works-column-paintings{background-image: url(img/background/SSI/paintings_hover.png);}
+.works-column-sculptures{background-image: url(img/background/SSI/sculptures_hover.png);}
+.works-column-installations{background-image: url(img/background/SSI/installations_hover.png);}
+.works-column-graffiti:hover .graffiti img, .works-column-paintings:hover .paintings img, .works-column-sculptures:hover .sculptures img, .works-column-installations:hover .installations img{opacity:.5}
+.works-column-graffiti:hover, .works-column-paintings:hover, .works-column-sculptures:hover, .works-column-installations:hover{color: red; text-shadow: 2px 2px black; transition: .5s ease}
+.works-column-graffiti:hover a, .works-column-paintings:hover a, .works-column-sculptures:hover a, .works-column-installations:hover a{color: red; text-shadow: 2px 2px black;}
