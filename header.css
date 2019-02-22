@@ -1,0 +1,61 @@
+html {
+    background-image: url(pages/img/background/SSI/background.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Arial', sans-serif;
+    color: black ;
+}
+.header, .main, .license{
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+}
+.header{
+    height: 10vh;
+    width: 100%;
+    align-items: center;
+    order: 1;
+}
+.main{
+    width: 100%;
+    height: 81vh;
+    order: 2;
+}
+.license{
+    height: 5vh;
+    order: 3;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid;
+    width: 80%;
+    align-items: center;
+    font-size: 1.25vw;
+    flex-wrap: nowrap;
+    height: 100%;
+}
+.menu img{width: 100%; max-width: 300px; height: auto;}
+.menu li{list-style-type: none; display: inline-block; padding-left: .5em; padding-right: .5em}
+.left-side, .right-side{
+    display: flex;
+    width: 10%;
+    border: 1px solid;
+}
+.left-side img, .right-side img{width: 100%;}
+.left-side{align-items:flex-start; order: 1;}
+.right-side{align-items:flex-end; order: 3;}
+.body-container{
+    display: flex;
+    justify-content: flex-end;
+    width:80%;
+    order: 2;
+    border: 1px solid;
+}
