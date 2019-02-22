@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.opengis.net/kml/2.2"
     exclude-result-prefixes="xs"
     version="2.0">
     
@@ -15,9 +15,10 @@
             </Document>
         </kml>
     </xsl:template>
+    
     <xsl:template match="bibl">
         <Placemark>
-            <name><xsl:apply-templates select="title"/></name>
+            <name><xsl:apply-templates select="title/text()"/></name>
             <description><xsl:apply-templates select="//bibl/ancestor::header/following-sibling::body/desc"/></description>
             <TimeStamp>
                 <when><xsl:apply-templates select="//bibl/date/@when"/></when>
