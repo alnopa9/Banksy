@@ -7,10 +7,14 @@ html {
 body{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 99%;
+    width: 99%;
     font-family: 'Arial', sans-serif;
     color: black ;
 }
-.header, .main, .license{
+.header, .main, .license-container{
     display: flex;
     justify-content: center;
     border: 1px solid;
@@ -26,10 +30,20 @@ body{
     height: 81vh;
     order: 2;
 }
-.license{
+.license-container{
     height: 5vh;
     order: 3;
+    width: 100%;
+    justify-content: center;
+    font-size: 1.5vw;
+}
+.license{
+    display: flex;
+    width: 80%;
+    height: 100%;
     align-items: center;
+    justify-content: center;
+    border: 1px solid;
 }
 .menu{
     display: flex;
@@ -49,7 +63,7 @@ body{
     width: 10%;
     border: 1px solid;
 }
-.left-side img, .right-side img{width: 100%;}
+.left-side img, .right-side img{width: 100%; max-width: 150px; height: auto;}
 .left-side{align-items:flex-start; order: 1;}
 .right-side{align-items:flex-end; order: 3;}
 .body-container{
