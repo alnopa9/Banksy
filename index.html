@@ -2,8 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <link rel="stylesheet" media="screen and (max-width: 1000px)" href="mobile.css"/>
-        <link rel="stylesheet" media="screen and (min-width: 1001px)" href="banksy.css"/>
+        <link rel="stylesheet" href="header.css"/>
         <link rel="icon" href="pages/img/background/icon.png" />
         <script src="index.js">/**/</script>
         <title>Banksy | Home</title>
@@ -11,8 +10,9 @@
     <body>
         <!-- SSI line below-->
         <!--#include virtual="topIndex.html" -->
-        <div class="body-container">
-            <div class="content-container-a">
+        <!-- SSI line below -->
+        <!--#include virtual="side.html" -->
+            <div class="body-container">
                 <div class="left-content">
                     <img src="pages/img/background/slideshow/panda.png" id="rotator" alt="Array of Banksy's works in black and white" class="main"/>
                 </div>
@@ -28,5 +28,7 @@
                 </div>
             </div>
         </div>
+        <!-- SSI line below-->
+        <!--#include virtual="license.html" -->
     </body>
 </html>
