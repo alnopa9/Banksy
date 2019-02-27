@@ -1,9 +1,4 @@
-html {
-    background-image: url(pages/img/background/SSI/background.png);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+html { background-image: url(pages/img/background/SSI/background.png); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;}
 body{
     display: flex;
     flex-direction: column;
@@ -17,48 +12,17 @@ body{
     font-family: 'Arial', sans-serif;
     color: black ;
 }
-.header, .main, .license-container{
-    display: flex;
-    justify-content: center;
-    width: 100%;
-}
-.header{
-    height: 10vh;
-    align-items: center;
-    order: 1;
-}
-.main{
-    height: 81vh;
-    order: 2;
-}
-.license-container{
-    height: 5vh;
-    order: 3;
-    font-size: 1.5vw;
-}
-.license{
-    display: flex;
-    width: 80%;
-    height: 100%;
-    align-items: center;
-    justify-content: center;
-}
-.menu{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 80%;
-    align-items: center;
-    font-size: 1.55vw;
-    flex-wrap: nowrap;
-    height: 100%;
-}
+a{text-decoration: none; color: black;}
+a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease;}
+.header, .main, .license-container{ display: flex; justify-content: center; width: 100%;}
+.header{ height: 10vh; align-items: center; order: 1;}
+.main{ height: 81vh; order: 2;}
+.license-container{ height: 5vh; order: 3; font-size: 1.5vw;}
+.license{display: flex; width: 80%; height: 100%; align-items: center; justify-content: center;}
+.menu{display: flex; flex-direction: row; justify-content: space-between; width: 80%; align-items: center; font-size: 1.55vw; flex-wrap: nowrap; height: 100%;}
 .menu img{width: 100%; max-width: 300px; height: auto;}
 .menu li{list-style-type: none; display: inline-block; padding-left: .5em; padding-right: .5em}
-.left-side, .right-side{
-    display: flex;
-    width: 10%;
-}
+.left-side, .right-side{display: flex; width: 10%;}
 .left-side img, .right-side img{width: 100%; max-width: 150px; height: auto;}
 .left-side{align-items:flex-start; order: 1;}
 .right-side{align-items:flex-end; order: 3;}
@@ -71,12 +35,32 @@ body{
     background-color: white;
     border: 2px dashed;
     border-radius: 15px;
-    overflow-y: scroll;
+    flex-direction: row;
+    font-size: 1.25vw;
 }
-.vertical-flow{
-    display: flex;
-    flex-direction: column;
-}
+.container{display: flex; flex-direction: column; justify-content: flex-start; align-items: center; width: 32%; height: 100%; flex-wrap: wrap;text-align: left;}
+.bio {width: 85%;}
+.container img{width: 100%; max-width: 50px; height: auto;}
+.container:hover{transition: .5s ease; color: white;}
+.container#front:hover{background-color:#66ff66;}
+.container#middle:hover{background-color:#ff6600;}
+.container#last:hover{background-color:#33ccff;}
+.vertical-flow{display: flex; flex-direction: column; height: 100%; justify-content: center; align-items: center; width: 100%;}
+.vertical-flow-scroll{display: flex; flex-direction: column; height: 100%; justify-content: center; align-items: center; width: 100%; overflow-y: scroll;}
+.works-ssi{display: flex; align-items: center; justify-content: space-between; flex-direction: row; width: 99%; height: 5%;}
+.text-container{display: flex; align-items: center; justify-content: center; flex-direction: column; height: 100%; width: 100%;}
+.text-container-works{display: flex; align-items: center; justify-content: center; flex-direction: column; width: 99%; height: 15%; text-align: left;}
+.works{display: flex; flex-direction: row; width: 100%; height: 85%;}
+.graffiti-img img, .paintings-img img, .sculptures-img img, .exhibits-img img{position: absolute; top: 24.75%; height: 66%; width: 19%; opacity: 0; transition: .5s ease;}
+.graffiti-column:hover .graffiti-img img, .paintings-column:hover .paintings-img img, .sculptures-column:hover .sculptures-img img, .exhibits-column:hover .exhibits-img img{opacity:.5}
+.graffiti-img img{left:11%;}
+.paintings-img img{left:30.75%}
+.sculptures-img img{left:50.5%}
+.exhibits-img img{left:70.25%;}
+.graffiti-column:hover, .paintings-column:hover, .sculptures-column:hover, .exhibits-column:hover{color: red; text-shadow: 2px 2px black; transition: .5s ease}
+.works-text{ display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%; width: 100%; font-size: 3vh; line-height: 20%}
+.graffiti-column, .paintings-column, .sculptures-column, .exhibits-column{display: flex; width: 100%; height: 100%; justify-content: center; align-items: center;}
+.graffiti-column:hover a, .paintings-column:hover a, .sculptures-column:hover a, .exhibits-column:hover a{color: red; text-shadow: 2px 2px black; z-index: 1}
 ::-webkit-scrollbar {width: 10px;}
 ::-webkit-scrollbar-track {border-radius: 20px; background: #f1f1f1;}
 ::-webkit-scrollbar-thumb {background: #888; border-radius: 50px;}
