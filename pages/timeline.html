@@ -8,15 +8,36 @@
     </head>
     <body>
         <!-- SSI line below-->
+        <div class="header">
+            <div class="menu">
+                <a href="../index.html"><img src="img/background/SSI/logo.png" alt="Banksy Logo"/></a>
+                <ul>
+                    <li><a href="about.html">ABOUT</a></li>
+                    <li><a href="works.html">WORKS</a></li>
+                    <li><a href="map.html">MAP</a></li>
+                    <li><a href="timeline.html">TIMELINE</a></li><li><a href="sources.html">SOURCES</a></li>
+                    <li><a href="team.html">TEAM</a></li>
+                    <li><a href="https://github.com/alnopa9/Banksy">GITHUB</a></li>
+                </ul>
+            </div>
+        </div>
         <!--#include virtual="top.html" -->
         <!-- SSI line below-->
+        <div class="main">
+            <div class="left-side">
+                <a href="http://www.banksy.co.uk/"><img src="img/background/SSI/heart.png" alt="Banksy's Girl with Balloon Red Balloon"/></a>
+            </div>
+            <div class="right-side">
+                <a href="https://www.instagram.com/banksy/?hl=en"><img src="img/background/SSI/girl.png" alt="Banksy's Girl with Balloon Girl"/></a>
+            </div>
         <!--#include virtual="side.html" -->
             <div class="body-container">
-                <div class="vertical-flow-scroll">
-                    <div class="text-container">
+                <div class="vertical-flow">
+                    <div class="text-container" id="timeline-text">
                         <p>Our main source of information for this timeline, until we add our own tag dates, is <a href="https://banksyunofficial.com/">Banksy Unofficial</a>: Some Sort Of Banksy Retrospective. Each spot on the timeline takes you to the corresponding article.</p>
                     </div>
-                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vH" height="3140px">
+                    <div class="svg">
+                    <svg id="timeline-container" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="5000">
                         <desc>Banksy Timeline</desc>
                         <g id="timeline" transform="translate(120)">
                             <line x1="0" y1="30" x2="0" y2="3055" stroke="gray" stroke-width="1"/>
@@ -415,10 +436,27 @@
                             </g>
                         </g>
                     </svg>
+                    </div>
                 </div>
             </div>
         </div>
     <!-- SSI line below-->
+        <div class="license-container">
+            <div class="license">
+                <span>
+                    <strong>Created by: </strong>
+                    <a href="https://github.com/alnopa9">Alyssa Argento</a>, 
+                    <a href="https://github.com/abdual1100">Abdual Nadeem</a>, 
+                    <a href="https://github.com/James-f117">James Farley</a>. 
+                    <a href="https://github.com/alnopa9/banksy">GitHub</a>. 
+                    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> 
+                        <img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png"/> 
+                    </a>
+                    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a> 
+                    <a href="http://newtfire.org/firebellies.html">Powered by firebellies</a>.
+                </span>
+            </div>
+        </div>
     <!--#include virtual="license.html" -->
     </body>
 </html>

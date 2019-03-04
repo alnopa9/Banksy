@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-<!-- Just remove the comment tag to associate to schema -->
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -17,10 +16,10 @@
             <sourceDesc>
                 <bibl>
                     <title>Looting Soldier</title>
-                    <date when="2007"/> September
-                    <medium type="Street Art"/>
-                    <location lat="29.9511" long="90.0715"/> In New Orleans, in front of a hospital.
-                    <size>Large</size>
+                    <date when="2007-09"/>
+                    <medium type="spray_paint"/>
+                    <location lat="29.9511" long="90.0715">In New Orleans, in front of a hospital.</location>
+                    <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.nola.com/arts/2014/01/blotted_graffiti_mural_by_bank.html">Article That Supplied Information for Markup</ref>

@@ -246,6 +246,21 @@
          </Point>
       </Placemark>
       <Placemark>
+         <name>Javelin Thrower</name>
+         <description>During the 2012 Olympics in London, Banksy created this piece known as ‘Welcome to
+            Hackney’ or ‘Javelin Thrower’ as it shows an athlete throwing a missile. This is in
+            protest of the decision to add surface to air missile launchers on top of some residential
+            
+            tower blocks in the city as part of the security measures during the games.
+         </description>
+         <TimeStamp>
+            <when>2012-07</when>
+         </TimeStamp>
+         <Point>
+            <coordinates>0.0166, 51.5433</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
          <name>Looting Soldier</name>
          <description>This piece in New Orleans is a comment on the alleged looting that took place all
             over the city in the wake of Hurricane Katrina. This piece has since been damaged
@@ -254,7 +269,7 @@
             to get acroos that this wrong.
          </description>
          <TimeStamp>
-            <when>2007</when>
+            <when>2007-09</when>
          </TimeStamp>
          <Point>
             <coordinates>90.0715, 29.9511</coordinates>
@@ -385,6 +400,21 @@
          </TimeStamp>
          <Point>
             <coordinates>-0.133869, 51.51001</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Stop and Search</name>
+         <description>Girl and a Soldier is one of the 2007 pieces that Banksy put up on a wall in Bethlehem.
+            The little girl is seen frisking an armed soldier in diffrent types of roles to get
+            what she wants. 
+            This along with other images on the wall were intended to promote the annual Santa’s
+            Ghetto exhibit. The piece is still visible although somewhat faded today.
+         </description>
+         <TimeStamp>
+            <when>2007-11</when>
+         </TimeStamp>
+         <Point>
+            <coordinates>35.200657, 31.705791</coordinates>
          </Point>
       </Placemark>
       <Placemark>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-<!-- Just remove the comment tag to associate to schema -->
+<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -18,10 +17,10 @@
                 <bibl>
                     <title>Bubble Slide Girl</title>
                     <alternate>Slide Girl</alternate>
-                    <date when="2008 February"/>
-                    <medium type="Street Art"/>
-                    <location lat="33.0292" long="27.8546"/> On the wall of a Youth Club in Hackney, East London.
-                    <size>Large</size>
+                    <date when="2008-02"/>
+                    <medium type="spray_paint"/>
+                    <location lat="33.0292" long="27.8546">On the wall of a Youth Club in Hackney, East London.</location>
+                    <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations">Article That Supplied Information for Markup</ref>

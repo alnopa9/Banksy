@@ -12,6 +12,8 @@ body{
     font-family: 'Arial', sans-serif;
     color: black ;
 }
+.map{display: flex; justify-content: center; align-items: center; height: 100%; width: 100%; flex: 3;}
+.map iframe{width: 95%; height: 95%; overflow: hidden;}
 a{text-decoration: none; color: black;}
 a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease;}
 .header, .main, .license-container{ display: flex; justify-content: center; width: 100%;}
@@ -38,6 +40,10 @@ a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5
     flex-direction: row;
     font-size: 1.25vw;
 }
+svg #timeline a:hover{fill: red}
+svg a{fill: black}
+svg{height: 100%}
+.svg{display: flex; height: 100%; flex: 5; width: 100%; justify-content: center; align-items: center; flex-wrap: wrap;}
 .container{display: flex; flex-direction: column; justify-content: flex-start; align-items: center; width: 32%; height: 100%; flex-wrap: wrap;text-align: left;}
 .bio {width: 85%;}
 .container img{width: 100%; max-width: 50px; height: auto;}
@@ -45,10 +51,11 @@ a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5
 .container#front:hover{background-color:#66ff66;}
 .container#middle:hover{background-color:#ff6600;}
 .container#last:hover{background-color:#33ccff;}
-.vertical-flow{display: flex; flex-direction: column; height: 100%; justify-content: center; align-items: center; width: 100%;}
-.vertical-flow-scroll{display: flex; flex-direction: column; height: 100%; justify-content: center; align-items: center; width: 100%; overflow-y: scroll;}
+.vertical-flow{display: flex; flex-direction: column; height: 100%; justify-content: center; align-items: center; width: 100%; overflow-y: auto;}
 .works-ssi{display: flex; align-items: center; justify-content: space-between; flex-direction: row; width: 99%; height: 5%;}
 .text-container{display: flex; align-items: center; justify-content: center; flex-direction: column; height: 100%; width: 100%;}
+.text-container#map{flex:1}
+.text-container#timeline-text{flex:1}
 .text-container-works{display: flex; align-items: center; justify-content: center; flex-direction: column; width: 99%; height: 15%; text-align: left;}
 .works{display: flex; flex-direction: row; width: 100%; height: 85%;}
 .graffiti-img img, .paintings-img img, .sculptures-img img, .exhibits-img img{position: absolute; top: 24.75%; height: 66%; width: 19%; opacity: 0; transition: .5s ease;}
