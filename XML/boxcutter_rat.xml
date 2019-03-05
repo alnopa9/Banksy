@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
+<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
 <root>
     <header>
         <fileDesc>
             <titleStmt>
-                <title>Box cutter_rat</title>
+                <title>Box Cutter Rat</title>
                 <creator>Banksy</creator>
                 <editor>James Farley</editor>
             </titleStmt>
@@ -15,7 +15,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Box cutter rat</title>
+                    <title>Box Cutter Rat</title>
                     <date when="2018"/>
                     <medium type="spray_paint"/>
                     <location lat="48.8566101" long="2.3514992"/>

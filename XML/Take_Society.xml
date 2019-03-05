@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -9,8 +9,8 @@
                 <editor>Abdual Nadeem</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
-                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -18,7 +18,7 @@
                     <title>Take this Society</title>
                     <date when="2011-04"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.5074" long="0.1278">At Holland Park Roundabout in the Shepherd’s Bush area of London. </location>
+                    <location lat="51.5074" long="0.1278">At Holland Park Roundabout in the Shepherd’s Bush area of London.</location>
                     <size>medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
+<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
 <root>
     <header>
         <fileDesc>

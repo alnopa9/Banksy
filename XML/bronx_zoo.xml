@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
+<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
 <root>
     <header>
         <fileDesc>
             <titleStmt>
-                <title>dBronx Zoo</title>
+                <title>Bronx Zoo</title>
                 <creator>Banksy</creator>
                 <editor>James Farley</editor>
             </titleStmt>
@@ -15,7 +15,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title></title>
+                    <title>Bronx Zoo</title>
                     <date when="2013"/>
                     <medium type="spray_paint"/>
                     <location lat="40.8295828" long="-73.9265212"/>

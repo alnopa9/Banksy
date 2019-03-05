@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="../banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
-<!-- Just remove the comment tag to associate to schema -->
+<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
@@ -10,17 +9,17 @@
                 <editor>Abdual Nadeem</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
-                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
                 </p>
             </publicationStmt>
             <sourceDesc>
                 <bibl>
                     <title>Tap Phoned</title>
                     <date when="2011-07"/>
-                    <medium type="Street Art"/>
+                    <medium type="spray_paint"/>
                     <location lat="51.5074" long="0.1278"/>
-                    <size>Large</size>
+                    <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.dailymail.co.uk/news/article-2023115/Oh--taps-phoned-Banksy-sprays-thoughts-phone-hacking-scandal.html">Article That Supplied Information for Markup</ref>
