@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <header>
         <fileDesc>
             <titleStmt>
-                <title>Title of the Work, If None Then Get Creative</title>
                 <creator>Banksy</creator>
                 <editor>Your Name Here</editor>
             </titleStmt>
@@ -23,6 +22,7 @@
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">Article That Supplied Information for Markup</ref>
+                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
