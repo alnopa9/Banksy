@@ -14,14 +14,14 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Civilian Drone Strike</title>
-                    <date when="2017"/>
+                    <title>Love Rat</title>
+                    <date when="2004"/>
                     <medium type="canvas"/>
-                    <size>medium</size>
+                    <size dimension="50 x 35">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
-                    <cause when="2017">Campaign Against Arms Trade</cause>
+                    <edition total="750" signed="150" unsigned="600"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -29,9 +29,9 @@
     <body>
         <desc></desc>
         <p>
-            <img src="../img/civilian_drone_strike.jpg" alt="Banksy's 'Christ with Shopping Bags'"/>
-            <title>Civilian Drone Strike</title>
-            <credit>https://dl.airtable.com/JvXTART0TyCDwcCt78ww_full_21480259_1636098666401027_1198122187106549760_n.jpg</credit>
+            <img src="../img/love_rat.jpg" alt="Banksy's 'Love Rat'"/>
+            <title>Love Rat</title>
+            <credit>https://dl.airtable.com/5FIdCYFT0uB1afu5DRYp_full_banksy-love-rat-better.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
         </p>
     </body>
 </root>

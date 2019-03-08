@@ -14,15 +14,14 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Festival</title>
-                    <alternate>Destroy Capitalism</alternate>
-                    <date when="2006"/>
+                    <title>Civilian Drone STrike</title>
+                    <date when="2017"/>
                     <medium type="canvas"/>
-                    <size dimension="76 x 56">medium</size>
+                    <size>medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
-                    <edition total="500" signed="150" unsigned="350"/>
+                    <cause when="2017">Campaign Against Arms Trade</cause>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -30,9 +29,9 @@
     <body>
         <desc></desc>
         <p>
-            <img src="../img/festival.jpg" alt="Banksy's 'Festival'"/>
-            <title>Festival</title>
-            <credit>https://dl.airtable.com/gPg2MoTWT0alwD1AJihz_full_Banksy-festival.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
+            <img src="../img/civilian_drone_strike.jpg" alt="Banksy's 'Civilian Drone Strike'"/>
+            <title>Civilian Drone Strike</title>
+            <credit>https://dl.airtable.com/JvXTART0TyCDwcCt78ww_full_21480259_1636098666401027_1198122187106549760_n.jpg</credit>
         </p>
     </body>
 </root>
