@@ -17,12 +17,11 @@
                     <title>Drunk Angel</title>
                     <date when="2014-02"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.5074" long="0.1278"/>
-                    <size>Large</size>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
+                    <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="http://fourartistsandoneblog.blogspot.com/2014/01/banksy-fallen-angel.html">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>

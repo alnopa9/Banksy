@@ -17,7 +17,7 @@
                     <title>I want change</title>
                     <date when="2015"/>
                     <medium type="spray_paint"/>
-                    <location lat="37.8142" long="144.96299999999997"/>
+                    <location lat="37.8142" long="144.96299999999997">Melbourne, AU</location>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://sites.psu.edu/calliefreenock/2015/10/08/keep-your-coins/">Article That Supplied Information for Markup</ref>

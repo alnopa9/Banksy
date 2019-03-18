@@ -18,7 +18,7 @@
                     <alternate>Haring Dog</alternate>
                     <date when="2002"/>
                     <medium type="spray_paint"/>
-                    <location lat="0" long="0"/>
+                    <location lat="0" long="0">London, UK</location>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">Article That Supplied Information for Markup</ref>
