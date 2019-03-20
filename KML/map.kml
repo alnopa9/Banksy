@@ -1,345 +1,445 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-   <Document>
-       <Placemark>
-           <name>Blinded Napoleon</name>
-           <description>This piece is a spray painted piece and an interpretation of the original painting of Napoleon by Jacques-Louis David.</description>
-           <TimeStamp>
-               <when>2018</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>2.3514992, 48.8566101</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Bomb Hugger</name>
-           <description>The picture of a young girl hugging a bomb to her chest is one of Banksy’s original creations back in 2003, where it was made on a wall in London’s East End. The piece symbolises the horror of warby being innocence and as young girl by having nothing to do with it as being good or evil.– .</description>
-           <TimeStamp>
-               <when>2003</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>27.8546, 33.01529</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Box Cutter Rat</name>
-           <description>This painting is a spray painting created by Banksy in 2018 in the city of Paris. The painting is of a masked rat holding a booxcutter.</description>
-           <TimeStamp>
-               <when>2018</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>2.3514992, 48.8566101</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Bronx Zoo</name>
-           <description>This painting is of a leopard yawning while lounging on a railing at Yankee Stadium</description>
-           <TimeStamp>
-               <when>2013</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-73.9265212, 40.8295828</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Bubble Slide Girl</name>
-           <description>It shows a little girl using a drain pipe as a slide while blowing bubbles. The image shows the girl adapting to her surroundings and finding a playground in an unlikely place, just as society continues to adapt to difficulties in the world around us. The piece has currently removed.</description>
-           <TimeStamp>
-               <when>2008-02</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>27.8546, 33.0292</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Cash Machine Girl</name>
-           <description>An eye-catching stencil by Banksy of a girl being grabbed by the robotic arm of a cash machine, appeared close to Exmouth Market in North London. The message appears to be anti-capitalist, with Banksy perhaps taking a shot at high street banks luring customers in versus local banks barely surviving.</description>
-           <TimeStamp>
-               <when>2007</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-0.083599, 51.654827</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Child Soldier</name>
-           <description>This was one of Banksy's big paintings in Hollywood. The theme of weapons and children is a recurring are in a lot of Banksy’s pieces.This child soldier having a machine gun appeared in Los Angeles on a wall of “Urban Outfitters” although it didn’t last long before it was vandalised with paint. The piece is an attempt to highlight the corrupted innocence of children and it is not uncommon to see children having guns and involved in conflicts in highly volatile parts of the world.</description>
-           <TimeStamp>
-               <when>2011</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-118.243683, 34.052235</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Choose Your Weapon</name>
-           <description>Short description about the work. Although the location and date are in the meta data, include it in the description as well. This will be displayed on the site.</description>
-           <TimeStamp>
-               <when>2002</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>0, 0</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Follow your Dreams - Canceled</name>
-           <description>A sad-looking working class painter has painted the words ‘follow your dreams’ before having the word ‘cancelled’ stamped over in a big rectangular box. This piece is shown Chinatown, Boston. It represents everyones dreams coming to stop because your in reality.</description>
-           <TimeStamp>
-               <when>2011</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>71.0624, 42.3501</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Gangsta Rat</name>
-           <description>Banksy’s ‘Gangsta Rat’ was first spotted w at Moorfields Eye Hospital in London in 2006. The rat, who is indeed looking rather ‘gangster’ with his chain and baseball cap symbolizes the society as it went from innocent looking to a "gangsta"type of looking by making the society worse.</description>
-           <TimeStamp>
-               <when>2006</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>0.0898, 51.5276</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Girl with Balloon</name>
-           <description>One of Banksy's most iconic pieces, the Girl with Balloon first appeared at the stairs for the Waterloo Bridge on the South Bank side in 2002.</description>
-           <TimeStamp>
-               <when>2002</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-0.116944, 51.508611</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Go FLock Yourself</name>
-           <description>This piece is a spray painting that was done by Banksy in retaliation to the movement in Paris to displace migrants from their makeshift camps. The painting is of a young African girl covering a swastika with the fleur-de-lis.</description>
-           <TimeStamp>
-               <when>2018</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>2.3514992, 48.8566101</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Gorilla Artist</name>
-           <description>One of Banksy's graffiti artwork showed up in London by the Cans Festival as a gorilla sitting on a tiny bucket in thinking form by representing the society and how we've became today as the result of not working togther as a team.</description>
-           <TimeStamp>
-               <when>2008</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>0.065652, 51.30702</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Graffiti Is A Crime</name>
-           <description>This is a spray painted piece that depicts two boys, one standing on the others back, reaching up to grab a can of spray paint, that is on a sign stating graffiti is a crime.</description>
-           <TimeStamp>
-               <when>2013</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-73.9921624, 40.7151989</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Graffiti is a Crime</name>
-           <description>Graffiti Is a Crime is the first of Banksy’s pieces in New York City in October 2013. The piece incorporates his distinctive technique and pokes fun at the law by incorporating an anti-graffiti sign. However, within hours of it being posted on Banksy’s Instagram profile, the sign had been stolen and by the next day city officials had painted over the work.</description>
-           <TimeStamp>
-               <when>2013</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>73.592674, 40.43639</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Hammer Boy</name>
-           <description>Hammer Boy was the piece created on Day 20 of Banksy’s New York Residency in 2013.Banksy makes use of existing features/items and adds his different stencil style to bring them to life. Several attempts have been made to deface but the painting is still there today.</description>
-           <TimeStamp>
-               <when>2013-10</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-73.585303, 40.47393</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>I want change</name>
-           <description>This piece depicts a homeless man holding a sign that says "keep your coins, I want change". It was painted in Melbourne Australia.</description>
-           <TimeStamp>
-               <when>2015</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>144.96299999999997, 37.8142</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Injured Buddha</name>
-           <description>This picture showed up at the festival as a reminder to the society that other people can join the festivals as well. The work shows Buddha with a bandaged hand and facial wounds to symbolize the triumph of the mind over emotion. By this happeneing, it will get better from here on out.</description>
-           <TimeStamp>
-               <when>2008-05</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>7.017369, 43.552849</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Interest in People</name>
-           <description>This Banksy art piece shows a salesman with an aim to attack the a capitalist society where respect for people can often be viewed as less important than commodities. The graffiti lasted only a couple of days before it was painted over by store staff. It shows that he wants people to underatnd other human beings as well.</description>
-           <TimeStamp>
-               <when>2010-05</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>79.3832, 43.6532</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Javelin Thrower</name>
-           <description>During the 2012 Olympics in London, Banksy created this piece known as ‘Welcome to Hackney’ or ‘Javelin Thrower’ as it shows an athlete throwing a missile. This is in protest of the decision to add surface to air missile launchers on top of some residential tower blocks in the city as part of the security measures during the games.</description>
-           <TimeStamp>
-               <when>2012-07</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>0.0166, 51.5433</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Keep your Coins, I want Change</name>
-           <description>This piece of Bnanksy became super popular as it spread everywhere.This piece was discovered in Melbourne. It shows a homeless man who appears to be asking for change but not in the physical change – as he says, he wants social change rather than coins/bills. Its a strong piece with a deep meaning as he wants society to change for the better.</description>
-           <TimeStamp>
-               <when>2004-10</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>144.9631, 37.8136</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Looting Soldier</name>
-           <description>This piece in New Orleans is a comment on the alleged looting that took place all over the city in the wake of Hurricane Katrina. This piece has since been damaged and painted over, but the buildings owner has had it removed and is looking to restore it to its former glory. This was a message to get acroos that this wrong.</description>
-           <TimeStamp>
-               <when>2007-09</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>90.0715, 29.9511</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Seal Mural</name>
-           <description>The image is that of a seal juggling a ball on its nose. It was painted by Banksy on the side of a rundown building on 1249 Coney Avenue and was uploaded to instagram on March 20, 2018</description>
-           <TimeStamp>
-               <when>2018-05-20</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-73.965400, 40.627400</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Season's Greetings</name>
-           <description>Season's Greetings was how Banksy finished off the 2018 year. The image appears on two sides of a garage; one depicting a child enjoying snow falling while the other side reveals the "snow" is actually ash from a dumpster fire</description>
-           <TimeStamp>
-               <when>2018-12-19</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-3.79859, 51.59055</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Security Guard with Pink Balloon</name>
-           <description>This piece, showing a security guard officer with a dog on a leash consisting of a pink balloon, was discovered at the rear of a police headquarters in the province of Ontario, Canada. Sadly, it was vandalised just a few days later. It showed that the police was soft on the criminals recently being released from jail.</description>
-           <TimeStamp>
-               <when>2010-03</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-79.384293, 43.653908</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Snorting Copper</name>
-           <description>This artwork shows the police officers in London snorting a line of coke.This artworks also included several miles of paint “dribble” which trailed through the city and led to the stencil representing a line of coke. This piece by Banksy is strongly taking shots at the cops by lacking immorality and corruption in the police force. This artwork was vandalized but hsa been brought back to restoration. .</description>
-           <TimeStamp>
-               <when>2005</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-0.133869, 51.51001</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Stop and Search</name>
-           <description>Girl and a Soldier is one of the 2007 pieces that Banksy put up on a wall in Bethlehem. The little girl is seen frisking an armed soldier in diffrent types of roles to get what she wants. This along with other images on the wall were intended to promote the annual Santa’s Ghetto exhibit. The piece is still visible although somewhat faded today.</description>
-           <TimeStamp>
-               <when>2007-11</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>35.200657, 31.705791</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Sweep it Under the Carpet</name>
-           <description>One of Banksy's recognisable pieces in 2006. It shows a woman dressed as a maid who is sweeping dirt under the cover of a brick wall. The piece is said to represent the western world to deal with global issues such as the AIDS epidemic as being the main issue in 2006.</description>
-           <TimeStamp>
-               <when>2006</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-0.083699, 51.654815</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Swing Girl</name>
-           <description>Swing Girl is another example of Banksy making use of what was already there. The ‘ing’ portion of the parking sign have been whitewashed out to form park and a girl on a swing added to the letter A. It seems clear on what he is trying to say as there is a lack of places for kids to play safely in what is a fairly rough area of LA.</description>
-           <TimeStamp>
-               <when>2010-04</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>118.2437, 34.0522</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Take this Society</name>
-           <description>This piece is diffrent from his others becasue of the location, its not seen at a busy place for people to take notice.It shows little boy in the act of painting the slogan, as an act to show society that everyone matters no matter what.This piece however has currently removed.</description>
-           <TimeStamp>
-               <when>2011-04</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>0.1278, 51.5074</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Tap Phoned</name>
-           <description>In July 2011, one story that dominated the British headlines was the phones and voicemails being hacked by journalists. This piece by banksy is a show to the population that an existing tap on the wall and proclaiming “Oh no.. my tap’s been phoned” ny having the sound also on it.</description>
-           <TimeStamp>
-               <when>2011-07</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>0.1278, 51.5074</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>The Mild Mild West</name>
-           <description>The Mild Mild West depicts a teddy bear tossing a moatov cocktail at policemen in riot gear. Banksy created this in response to police armed in riot gear attacking partygoers at an event at Winterstroke Road.</description>
-           <TimeStamp>
-               <when>1999</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-2.589352, 51.462783</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Thug for Life Bunny</name>
-           <description>Banksy’s Thug For Life Bunny was originally in London, but has since been painted over. In this piece, Banksy style the cute bunny seems at odds with the cigar and excessive bling more suited to hip hop artists. To me it is a comment on how the younger generations are being lured into this thug lifestyle that is being shown in the media today.</description>
-           <TimeStamp>
-               <when>2009-08</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>0.1278, 51.5074</coordinates>
-           </Point>
-       </Placemark>
-       <Placemark>
-           <name>Well, Hung Lover</name>
-           <description>One of Banksy's biggest piece he has done. The man hanging from the window naked with a man in a suit and a women looking outside the window to find him, appeared on Park St in Bristol in front of a health clinic in 2006 to represent the societys wrong doing as not everyone being treated right. .</description>
-           <TimeStamp>
-               <when>2006-04-09</when>
-           </TimeStamp>
-           <Point>
-               <coordinates>-2.6011, 51.4534</coordinates>
-           </Point>
-       </Placemark>
-   </Document>
+<Document>
+    <Placemark>
+        <name>Blinded Napoleon</name>
+        <description/>
+        <TimeStamp>
+            <when>2018</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>2.3514992, 48.8566101</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Bomb Hugger</name>
+        <description/>
+        <TimeStamp>
+            <when>2003</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>27.8546, 33.01529</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Box Cutter Rat</name>
+        <description/>
+        <TimeStamp>
+            <when>2018</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>2.3514992, 48.8566101</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Bronx Zoo</name>
+        <description/>
+        <TimeStamp>
+            <when>2013</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-73.9265212, 40.8295828</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Bubble Slide Girl</name>
+        <description/>
+        <TimeStamp>
+            <when>2008-02</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>27.8546, 33.0292</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Cameraman and Flower</name>
+        <description/>
+        <TimeStamp>
+            <when>2010-07</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>118.2437, 34.0522</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Cash Machine Girl</name>
+        <description/>
+        <TimeStamp>
+            <when>2007</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-0.083599, 51.654827</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Child Soldier</name>
+        <description/>
+        <TimeStamp>
+            <when>2011</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-118.243683, 34.052235</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Choose Your Weapon</name>
+        <description/>
+        <TimeStamp>
+            <when>2002</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0, 0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Don't Forget your Scraf</name>
+        <description/>
+        <TimeStamp>
+            <when>2009-05</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>2.5879, 51.4545</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Drunk Angel</name>
+        <description/>
+        <TimeStamp>
+            <when>2014-02</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.1278, 51.5074</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Follow your Dreams - Canceled</name>
+        <description/>
+        <TimeStamp>
+            <when>2011</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>71.0624, 42.3501</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Fridge Kite</name>
+        <description/>
+        <TimeStamp>
+            <when>2012-08</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>90.0715, 29.9511</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Gangsta Rat</name>
+        <description/>
+        <TimeStamp>
+            <when>2006</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.0898, 51.5276</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Girl with Balloon</name>
+        <description/>
+        <TimeStamp>
+            <when>2002</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-0.116944, 51.508611</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Girl with Skipping Rope</name>
+        <description/>
+        <TimeStamp>
+            <when>2007-01</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>73.9442, 40.6782</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Go Flock Yourself</name>
+        <description/>
+        <TimeStamp>
+            <when>2018</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>2.3514992, 48.8566101</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Gorilla Artist</name>
+        <description/>
+        <TimeStamp>
+            <when>2008</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.065652, 51.30702</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Graffiti Is A Crime</name>
+        <description/>
+        <TimeStamp>
+            <when>2013</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-73.9921624, 40.7151989</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Hammer Boy</name>
+        <description/>
+        <TimeStamp>
+            <when>2013-10</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-73.585303, 40.47393</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>I want change</name>
+        <description/>
+        <TimeStamp>
+            <when>2015</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>144.96299999999997, 37.8142</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Injured Buddha</name>
+        <description/>
+        <TimeStamp>
+            <when>2008-05</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>7.017369, 43.552849</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Interest in People</name>
+        <description/>
+        <TimeStamp>
+            <when>2010-05</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>79.3832, 43.6532</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Israeli-Palestinian Pillow Fight</name>
+        <description/>
+        <TimeStamp>
+            <when>2017</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>35.2031564, 31.7193016</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Javelin Thrower</name>
+        <description/>
+        <TimeStamp>
+            <when>2012-07</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.0166, 51.5433</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Keep your Coins, I want Change</name>
+        <description/>
+        <TimeStamp>
+            <when>2004-10</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>144.9631, 37.8136</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Looting Soldier</name>
+        <description/>
+        <TimeStamp>
+            <when>2007-09</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>90.0715, 29.9511</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Naplam Girl</name>
+        <description/>
+        <TimeStamp>
+            <when>2004-09</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.1278, 51.5074</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Old Woman</name>
+        <description/>
+        <TimeStamp>
+            <when>2006-08</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>118.2437, 34.0522</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Seal Mural</name>
+        <description/>
+        <TimeStamp>
+            <when>2018-05-20</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-73.965400, 40.627400</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Season's Greetings</name>
+        <description/>
+        <TimeStamp>
+            <when>2018-12-19</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-3.79859, 51.59055</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Security Guard with Pink Balloon</name>
+        <description/>
+        <TimeStamp>
+            <when>2010-03</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-79.384293, 43.653908</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Slave Labour</name>
+        <description/>
+        <TimeStamp>
+            <when>2012-03</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.1278, 51.5074</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Snorting Copper</name>
+        <description/>
+        <TimeStamp>
+            <when>2005</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-0.133869, 51.51001</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Soldiers Painting CND Sign</name>
+        <description/>
+        <TimeStamp>
+            <when>2005-06</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.1278, 51.5074</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Sorry, The Lifestyle you Ordered</name>
+        <description/>
+        <TimeStamp>
+            <when>2011-12</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.1278, 51.5074</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Stop and Search</name>
+        <description/>
+        <TimeStamp>
+            <when>2007-11</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>35.200657, 31.705791</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Sweep it Under the Carpet</name>
+        <description/>
+        <TimeStamp>
+            <when>2006</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-0.083699, 51.654815</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Swing Girl</name>
+        <description/>
+        <TimeStamp>
+            <when>2010-04</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>118.2437, 34.0522</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Take this Society</name>
+        <description/>
+        <TimeStamp>
+            <when>2011-04</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.1278, 51.5074</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Tap Phoned</name>
+        <description/>
+        <TimeStamp>
+            <when>2011-07</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.1278, 51.5074</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>The Mild Mild West</name>
+        <description/>
+        <TimeStamp>
+            <when>1999</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-2.589352, 51.462783</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Thug for Life Bunny</name>
+        <description/>
+        <TimeStamp>
+            <when>2009-08</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>0.1278, 51.5074</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Well, Hung Lover</name>
+        <description/>
+        <TimeStamp>
+            <when>2006-04-09</when>
+        </TimeStamp>
+        <Point>
+            <coordinates>-2.6011, 51.4534</coordinates>
+        </Point>
+    </Placemark>
+</Document>
 </kml>
