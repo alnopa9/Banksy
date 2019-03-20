@@ -28,8 +28,7 @@
     <body>
         <desc>This painting is a spray painting created by Banksy in 2018 in the city of Paris. The painting is of a masked rat holding a booxcutter.</desc>
         <p>
-            <img src="boxcutter_rat.jpg" alt="The Box Cutter Rat"/>
-            <title>Box cutter rat</title>
+            <img src="boxcutter_rat.jpg" alt="Banksy's 'Box Cutter Rat'"/>
             <credit>The original article was written by journalist Annalisa Quinn</credit>
         </p>
     </body>

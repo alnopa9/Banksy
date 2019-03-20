@@ -29,8 +29,7 @@
     <body>
         <desc>Short description about the work. Although the location and date are in the meta data, include it in the description as well. This will be displayed on the site.</desc>
         <p>
-            <img src="haring_dog.jpg" alt="Haring Dog"/>
-            <title>Haring Dog</title>
+            <img src="haring_dog.jpg" alt="Banksy's 'Haring Dog'"/>
             <credit>https://www.wikiart.org/en/banksy/haring-dog</credit>
         </p>
     </body>
