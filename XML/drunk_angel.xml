@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -31,7 +32,6 @@
             Banksy seems to be saying that despite his best efforts the angel has failed and ended up turning to substance abuse by not helping himself.</desc>
         <p>
             <img src="drunk_angel.jpg" alt="Banksy's 'Drunk Angel'"/>
-            <title>Drunk Angel Banksy</title>
             <credit>By: Jennifer Gillespie from London, https://www.pinterest.com/pin/212865519860038615/</credit>
         </p>
     </body>

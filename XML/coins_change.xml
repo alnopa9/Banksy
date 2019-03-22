@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -17,7 +18,7 @@
                     <title>Keep your Coins, I want Change</title>
                     <date when="2004-10"/>
                     <medium type="spray_paint"/>
-                    <location lat="37.8136" long="144.9631">Melbourne, AU</location>
+                    <location lat="-37.8136" long="144.9631">Melbourne, AU</location>
                     <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
@@ -27,7 +28,7 @@
         </fileDesc>
     </header>
     <body>
-        <desc> This piece of Bnanksy became super popular as it spread everywhere.This piece was discovered in Melbourne. It shows a homeless man who appears to be asking for change but not in the physical change – 
+        <desc> This piece of Banksy became super popular as it spread everywhere.This piece was discovered in Melbourne. It shows a homeless man who appears to be asking for change but not in the physical change – 
             as he says, he wants social change rather than coins/bills. Its a strong piece with a deep meaning as he wants society to change for the better. On a street outide of a building in Melbourne Australia.</desc>
         <p>
             <img src="Coins_Change.jpeg" alt="Banksy's 'Keep Your Coins, I want Change'"/>

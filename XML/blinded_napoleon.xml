@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?> 
+<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>

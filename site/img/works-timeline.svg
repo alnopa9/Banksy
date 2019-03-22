@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="timeline-container" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%">
+    <desc>Banksy Works Timeline</desc>
+    <g transform="translate(120)">
+        <line x1="0" y1="30" x2="0" y2="3055" stroke="gray" stroke-width="1"/>
+        <text x="-45" y="30" fill="black">1999</text>
+        <circle r="3" cx="0" cy="25" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'The Mild, Mild West'">
+                <text x="10" y="55">The Mild, Mild West</text>
+            </a>
+        </g>
+        <text x="-45" y="80" fill="black">2000</text>
+        <circle r="3" cx="0" cy="75" fill="red"/>
+        <g>
+        </g>
+        <text x="-45" y="105" fill="black">2001</text>
+        <circle r="3" cx="0" cy="100" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Love Is In The Air'">
+                <text x="10" y="130">Love Is In The Air (CCP)</text>
+            </a>
+        </g>
+        <text x="-45" y="155" fill="black">2002</text>
+        <circle r="3" cx="0" cy="150" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Choose Your Weapon'">
+                <text x="10" y="180">Choose Your Weapon</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Girl With Balloon'">
+                <text x="10" y="205">Girl With Balloon</text>
+            </a>
+        </g>
+        <text x="-45" y="230" fill="black">2003</text>
+        <circle r="3" cx="0" cy="225" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Bomb Hugger (Canvas)'">
+                <text x="10" y="255">Bomb Hugger (Canvas)</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Bomb Hugger (Graffiti)'">
+                <text x="10" y="280">Bomb Hugger (Graffiti)</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Bomb Middle England'">
+                <text x="10" y="305">Bomb Middle England</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Flying Copper'">
+                <text x="10" y="330">Flying Copper</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Golf Sale'">
+                <text x="10" y="355">Golf Sale</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'HMV'">
+                <text x="10" y="380">HMV</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Happy Choppers'">
+                <text x="10" y="405">Happy Choppers</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Laugh Now'">
+                <text x="10" y="430">Laugh Now</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Love Is In The Air'">
+                <text x="10" y="455">Love Is In The Air</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Monkey Queen'">
+                <text x="10" y="480">Monkey Queen</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Queen Victoria'">
+                <text x="10" y="505">Queen Victoria</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Turf War'">
+                <text x="10" y="530">Turf War</text>
+            </a>
+        </g>
+        <text x="-45" y="555" fill="black">2004</text>
+        <circle r="3" cx="0" cy="550" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Barcode'">
+                <text x="10" y="580">Barcode</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Because I'm Worthless'">
+                <text x="10" y="605">Because I'm Worthless</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Christ With Shopping Bags'">
+                <text x="10" y="630">Christ With Shopping Bags</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Di Faced Tenners'">
+                <text x="10" y="655">Di Faced Tenners</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Gangsta Rat'">
+                <text x="10" y="680">Gangsta Rat</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Get Out While You Can'">
+                <text x="10" y="705">Get Out While You Can</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Girl With Balloon'">
+                <text x="10" y="730">Girl With Balloon</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'I Fought The Law'">
+                <text x="10" y="755">I Fought The Law</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Keep Your Coins, I Want Change'">
+                <text x="10" y="780">Keep Your Coins, I want Change</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Love Rat'">
+                <text x="10" y="805">Love Rat</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Napalm'">
+                <text x="10" y="830">Napalm</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Naplam Girl'">
+                <text x="10" y="855">Napalm Girl</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Pulp Fiction'">
+                <text x="10" y="880">Pulp Fiction</text>
+            </a>
+        </g>
+        <text x="-45" y="905" fill="black">2005</text>
+        <circle r="3" cx="0" cy="900" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'CND Sign (Canvas)'">
+                <text x="10" y="930">CND Sign (Canvas)</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'CND Sign (Graffiti)'">
+                <text x="10" y="955">CND Sign (Graffiti)</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Grim Reaper'">
+                <text x="10" y="980">Grim Reaper</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Jack &amp; Jill'">
+                <text x="10" y="1005">Jack &amp; Jill</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Kate Moss'">
+                <text x="10" y="1030">Kate Moss</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Snorting Copper'">
+                <text x="10" y="1055">Snorting Copper</text>
+            </a>
+        </g>
+        <text x="-45" y="1080" fill="black">2006</text>
+        <circle r="3" cx="0" cy="1075" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Applause'">
+                <text x="10" y="1105">Applause</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Festival'">
+                <text x="10" y="1130">Festival</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Flags'">
+                <text x="10" y="1155">Flags</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Gangsta Rat'">
+                <text x="10" y="1180">Gangsta Rat</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Grannies'">
+                <text x="10" y="1205">Grannies</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Old Woman'">
+                <text x="10" y="1230">Old Woman</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Sweep It Under The Rug'">
+                <text x="10" y="1255">Sweep It Under The Carpet</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Well, Hung Lover'">
+                <text x="10" y="1280">Well, Hung Lover</text>
+            </a>
+        </g>
+        <text x="-45" y="1305" fill="black">2007</text>
+        <circle r="3" cx="0" cy="1300" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Cash Machine Girl'">
+                <text x="10" y="1330">Cash Machine Girl</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Girl With Skipping Rope'">
+                <text x="10" y="1355">Girl With Skipping Rope</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Looting Soldier'">
+                <text x="10" y="1380">Looting Soldier</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Stop And Search'">
+                <text x="10" y="1405">Stop And Search</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Trolleys'">
+                <text x="10" y="1430">Trolleys</text>
+            </a>
+        </g>
+        <text x="-45" y="1455" fill="black">2008</text>
+        <circle r="3" cx="0" cy="1450" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Bubble Slide Girl'">
+                <text x="10" y="1480">Bubble Slide Girl</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Gorilla Artist'">
+                <text x="10" y="1505">Gorilla Artist</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Injured Buddha'">
+                <text x="10" y="1530">Injured Buddha</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'NOLA'">
+                <text x="10" y="1555">NOLA</text>
+            </a>
+        </g>
+        <text x="-45" y="1580" fill="black">2009</text>
+        <circle r="3" cx="0" cy="1575" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Don't Forget Your Scraf'">
+                <text x="10" y="1605">Don't Forget Your Scraf</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Donuts'">
+                <text x="10" y="1630">Donuts</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'No Ball Games'">
+                <text x="10" y="1655">No Ball Games</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Thug For Life Bunny'">
+                <text x="10" y="1680">Thug For Life Bunny</text>
+            </a>
+        </g>
+        <text x="-45" y="1705" fill="black">2010</text>
+        <circle r="3" cx="0" cy="1700" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Cameraman And Flower'">
+                <text x="10" y="1730">Cameraman And Flower</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Choose Your Weapon'">
+                <text x="10" y="1755">Choose Your Weapon</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Interest In People'">
+                <text x="10" y="1780">Interest In People</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Security Guard With Pink Balloon'">
+                <text x="10" y="1805">Security Guard With Pink Balloon</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Swing Girl'">
+                <text x="10" y="1830">Swing Girl</text>
+            </a>
+        </g>
+        <text x="-45" y="1855" fill="black">2011</text>
+        <circle r="3" cx="0" cy="1850" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Child Soldier'">
+                <text x="10" y="1880">Child Soldier</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Follow Your Dream - Cancelled'">
+                <text x="10" y="1905">Follow Your Dream - Cancelled</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Sorry, The Lifestyle You Ordered'">
+                <text x="10" y="1930">Sorry, The Lifestyle You Ordered</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Take This Society'">
+                <text x="10" y="1955">Take This Society</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Tap Phoned'">
+                <text x="10" y="1980">Tap Phoned</text>
+            </a>
+        </g>
+        <text x="-45" y="2005" fill="black">2012</text>
+        <circle r="3" cx="0" cy="2000" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Fridge Kite'">
+                <text x="10" y="2030">Fridge Kite</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Javelin Thrower'">
+                <text x="10" y="2055">Javelin Thrower</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Love Hurts'">
+                <text x="10" y="2080">Love Hurts</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Slave Labour'">
+                <text x="10" y="2105">Slave Labour</text>
+            </a>
+        </g>
+        <text x="-45" y="2130" fill="black">2013</text>
+        <circle r="3" cx="0" cy="2125" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Bronx Zoo'">
+                <text x="10" y="2155">Bronx Zoo</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Graffiti Is A Crime'">
+                <text x="10" y="2180">Graffiti Is A Crime</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Hammer Boy'">
+                <text x="10" y="2205">Hammer Boy</text>
+            </a>
+        </g>
+        <text x="-45" y="2230" fill="black">2014</text>
+        <circle r="3" cx="0" cy="2225" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Drunk Angel'">
+                <text x="10" y="2255">Drunk Angel</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Dumbo'">
+                <text x="10" y="2280">Dumbo</text>
+            </a>
+        </g>
+        <text x="-45" y="2305" fill="black">2015</text>
+        <circle r="3" cx="0" cy="2300" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'I Want Change'">
+                <text x="10" y="2330">I Want Change</text>
+            </a>
+        </g>
+        <text x="-45" y="2355" fill="black">2016</text>
+        <circle r="3" cx="0" cy="2350" fill="red"/>
+        <g>
+        </g>
+        <text x="-45" y="2380" fill="black">2017</text>
+        <circle r="3" cx="0" cy="2375" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Civilian Drone Strike'">
+                <text x="10" y="2405">Civilian Drone Strike</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Israeli-Palestinian Pillow Fight'">
+                <text x="10" y="2430">Israeli-Palestinian Pillow Fight</text>
+            </a>
+        </g>
+        <text x="-45" y="2455" fill="black">2018</text>
+        <circle r="3" cx="0" cy="2450" fill="red"/>
+        <g>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Blinded Napoleon'">
+                <text x="10" y="2480">Blinded Napoleon</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Box Cutter Rat'">
+                <text x="10" y="2505">Box Cutter Rat</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Go Flock Yourself'">
+                <text x="10" y="2530">Go Flock Yourself</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Seal Mural'">
+                <text x="10" y="2555">Seal Mural</text>
+            </a>
+            <a xlink:href="http://banksy.newtfire.org/index.html" xlink:title="Banksy's 'Season's Greetings'">
+                <text x="10" y="2580">Season's Greetings</text>
+            </a>
+        </g>
+        <text x="-45" y="2605" fill="black">2019</text>
+        <circle r="3" cx="0" cy="2600" fill="red"/>
+        <g>
+        </g>
+    </g>
+</svg>

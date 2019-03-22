@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -17,7 +18,7 @@
                     <title>Cameraman and Flower</title>
                     <date when="2010-07"/>
                     <medium type="spray_paint"/>
-                    <location lat="34.0522" long="118.2437">Los Angeles, USA</location>
+                    <location lat="34.0522" long="-118.2437">Los Angeles, USA</location>
                     <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>

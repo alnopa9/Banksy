@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -17,7 +18,7 @@
                     <title>Graffiti is a Crime</title>
                     <date when="2013"/>
                     <medium type="spray_paint"/>
-                    <location lat="40.43639" long="73.592674">New York, USA</location>
+                    <location lat="40.43639" long="-73.592674">New York, USA</location>
                     <ref target="http://www.banksy.co.uk/"></ref>
                     <ref target="http://www.banksy.co.uk/out.asp"></ref>
                     <ref target="http://sneakhype.com/art/2013/10/banksy-graffiti-crime-piece-new-york-city.html"></ref>

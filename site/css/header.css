@@ -42,10 +42,13 @@ a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5
     flex-direction: row;
     font-size: 1.25vw;
 }
-svg #timeline a:hover{fill: red}
+svg a:hover{fill: red}
 svg a{fill: black}
-svg{overflow: visible;}
-.svg{display: flex; height: 100%; flex: 5; width: 100%; justify-content: center; align-items: center; flex-wrap: wrap;}
+svg{overflow: visible; font-size: 1em;}
+.left-svg, .right-svg{display: flex; overflow-y: auto; flex-direction: column; height: 100%;}
+.left-svg{width: 40%}
+.right-svg{width: 60%}
+.svg{display: flex; flex-direction: row; height: 100%; flex: 5; width: 100%; justify-content: center; align-items: flex-start; flex-wrap: wrap;}
 .svg img{position: absolute; width: 100%; max-width: 250px; height: auto; top: 25vh; left: 12vw;}
 .container{display: flex; flex-direction: column; justify-content: flex-start; align-items: center; width: 32%; height: 100%; flex-wrap: wrap;text-align: left;}
 .bio {width: 85%;}
@@ -54,7 +57,7 @@ svg{overflow: visible;}
 .container#front:hover{background-color:#66ff66;}
 .container#middle:hover{background-color:#ff6600;}
 .container#last:hover{background-color:#33ccff;}
-.vertical-flow{display: flex; flex-direction: column; height: 100%; justify-content: center; align-items: center; width: 100%; overflow-y: auto;}
+.vertical-flow{display: flex; flex-direction: column; height: 100%; justify-content: center; align-items: center; width: 100%;}
 .works-ssi{display: flex; align-items: center; justify-content: space-between; flex-direction: row; width: 99%; height: 5%;}
 .text-container{display: flex; align-items: center; justify-content: center; flex-direction: column; height: 100%; width: 100%;}
 .text-container#map{flex:1}
