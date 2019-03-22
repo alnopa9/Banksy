@@ -17,4 +17,11 @@
             <assert test="number(@long) lt 0">Longitude must be less than 0</assert>
         </rule>
     </pattern>
+    <pattern>
+        <rule context="bibl/edition">
+            <assert test="@total = @signed+@unsigned">wrong total</assert>
+        </rule>
+    </pattern>
+    
+    
 </schema>
