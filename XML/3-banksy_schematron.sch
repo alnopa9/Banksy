@@ -23,4 +23,11 @@
             <assert test="@total = @signed + @unsigned">Wrong Total</assert>
         </rule>
     </pattern>
+    <pattern>
+        <rule context="bibl/edition">
+            <assert test="@total = @signed+@unsigned">wrong total</assert>
+        </rule>
+    </pattern>
+    
+    
 </schema>
