@@ -8,11 +8,19 @@ let $description := $banksy[descendant::bibl/title[string() = $n]]//body/desc/st
 let $when := $banksy[descendant::bibl/title[string() = $n]]//bibl/date/@when/string()
 let $lat := $banksy[descendant::bibl/title[string() = $n]]//bibl/location/@lat/string()
 let $lon := $banksy[descendant::bibl/title[string() = $n]]//bibl/location/@long/string()
+let $img := $banksy[descendant::bibl/title[string() = $n]]//body//img/@src/string()
+let $credit := $banksy[descendant::bibl/title[string() = $n]]//bibl//ref/@target/string()
 order by $n 
 return
     <Placemark>
         <name>{$n}</name>
-        <description>{$description}</description>
+        <description>&#10;
+            {$description}&#10;
+            &lt;![CDATA[&lt;img src="
+            {$img}
+            /&gt;/&gt;]] &#10;
+            {$credit}&#10;
+        </description>
         <TimeStamp>
             <when>{$when}</when>
         </TimeStamp>
