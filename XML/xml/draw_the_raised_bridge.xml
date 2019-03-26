@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <creator>Banksy</creator>
-                <editor>James Farley</editor>
+                <editor>Alyssa Argento</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
@@ -15,22 +15,23 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Bronx Zoo</title>
-                    <date when="2013"/>
+                    <title>Draw The Raised Bridge</title>
+                    <date when="2018-01"/>
                     <medium type="spray_paint"/>
-                    <location lat="40.8295828" long="-73.9265212">New York, USA</location>
+                    <location lat="53.751033" long="-0.332889">Hull, UK</location>
+                    <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
-                    <ref target="https://www.businessinsider.com/banksy-yankee-stadium-leopard-2013-10">Article That Supplied Information for Markup</ref>
+                    <ref target="https://www.graffitistreet.com/banksys-latest-mural-draw-the-raised-bridge-questions-freedom-hull-2018/">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>This painting is of a leopard yawning while lounging on a railing at Yankee Stadium</desc>
+        <desc>The artwork is a stencilled design on the Scott street bridge and depicts a child holding a wooden sword with the words written “DRAW THE RAISED BRIDGE!”.</desc>
         <p>
-            <img src="bronx_zoo.jpeg" alt="Banksy's 'Bronx Zoo'"/>
-            <credit>Julie Zeveloff is the author for the article.</credit>
+            <img src="../site/img/graffiti/son_of_a_migrant_from_syria.jpg" alt="Banksy's 'Son Of A Migrant From Syria'"/>
+            <credit></credit>
         </p>
     </body>
 </root>

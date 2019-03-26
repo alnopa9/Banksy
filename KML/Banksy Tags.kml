@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Banksy Tags</name>
+    <description><![CDATA[Recordings of street artist Banksy's graffiti tags from around the world.]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>new_york.kml</name>
+      <Placemark>
+        <name>Coney Island</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/jtueEn7YKKwQ9Kxe9wpIRPCKPJi4M3kcdcU0T0ZhkP6Rwi3lGIfuVN42solRLlsIVGwKMSZUQ7JKvdX9CDGVZ1bdPBa0VbAoUavKoV8LPv9QO8aBZIo41gZKG7rUKBN9ynWPoI4B26us3UzQGszUiY6ahqliIrySDX8eZhzZwLnyl8qzMpkCE5lMXXtUUT-fS9hp5szgFjvIwrsmp_Qod7kJsEkCmGM2v3tiTVIxD7IuFCyNA3ac6Y0LJBObEtcrwzgfMTNay0JvQtIv2cYXDRg1eHRnYGBmGpUSjVOLeSl76-PO7h1daGs7r0ybmDzU4W-Oc0SwaJmtVcOtZPQv3Ts-UBOz9uJ48_AWyd-lFePh_3VMt28ShtePefEe4JEnPYKgOGHPFd7GcRzpuY1zsCiGY2OafuyRo_kc-LF4s0N2L4WPD86xEelEgUIZU5J2SZD0mcjwTx7rgQsiLvtAyLBCn_dMJZCwZlzxFL06KA" height="200" width="auto" /><br><br><br><br><img src="https://lh6.googleusercontent.com/proxy/V3DNI9EG4O3RNpmQA77_FJzkz21PRS-mOdT9Pi5U0B764Xm-HRHDlMJqt4qFfyu7wUx23RAgqvZnJSW4cKstZ1yZ5qpLKKda-BTM7qtg0F3Rsf6NUbkCXsSbgsQ_ECWMRONl9MR_p3ILRHXJE4gTsEOB0oaEHenD6j1uSdujGOjfC7JVVlMyIMvfoXaPdtLEyJ-tl9rcbyCT9UtsDMLHhF4cnl40Y1PGBTm_3p7C_9eOqYCdTDP7tdnyEMkvvtwxeKCex_DHs-c874NXx8fot5hd9z75ccc4lepwOPyr-_LAFVGvZVnhOinDfsjtHucpzZs_Up2QW2EkJwlC-u3xwvm1_rI1E5BmxmV62BC56sXu5hdO0zNyB0sXbJdhHBl9xOHzLiUpJ_9Egz9701C0KJQrcY3F-DyViivI2aoCRiOeaz4lc908LH5jL872xcm_FpjaHZ2yKsbNQ7OgKtkfedfcM1Y" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/jtueEn7YKKwQ9Kxe9wpIRPCKPJi4M3kcdcU0T0ZhkP6Rwi3lGIfuVN42solRLlsIVGwKMSZUQ7JKvdX9CDGVZ1bdPBa0VbAoUavKoV8LPv9QO8aBZIo41gZKG7rUKBN9ynWPoI4B26us3UzQGszUiY6ahqliIrySDX8eZhzZwLnyl8qzMpkCE5lMXXtUUT-fS9hp5szgFjvIwrsmp_Qod7kJsEkCmGM2v3tiTVIxD7IuFCyNA3ac6Y0LJBObEtcrwzgfMTNay0JvQtIv2cYXDRg1eHRnYGBmGpUSjVOLeSl76-PO7h1daGs7r0ybmDzU4W-Oc0SwaJmtVcOtZPQv3Ts-UBOz9uJ48_AWyd-lFePh_3VMt28ShtePefEe4JEnPYKgOGHPFd7GcRzpuY1zsCiGY2OafuyRo_kc-LF4s0N2L4WPD86xEelEgUIZU5J2SZD0mcjwTx7rgQsiLvtAyLBCn_dMJZCwZlzxFL06KA https://lh6.googleusercontent.com/proxy/V3DNI9EG4O3RNpmQA77_FJzkz21PRS-mOdT9Pi5U0B764Xm-HRHDlMJqt4qFfyu7wUx23RAgqvZnJSW4cKstZ1yZ5qpLKKda-BTM7qtg0F3Rsf6NUbkCXsSbgsQ_ECWMRONl9MR_p3ILRHXJE4gTsEOB0oaEHenD6j1uSdujGOjfC7JVVlMyIMvfoXaPdtLEyJ-tl9rcbyCT9UtsDMLHhF4cnl40Y1PGBTm_3p7C_9eOqYCdTDP7tdnyEMkvvtwxeKCex_DHs-c874NXx8fot5hd9z75ccc4lepwOPyr-_LAFVGvZVnhOinDfsjtHucpzZs_Up2QW2EkJwlC-u3xwvm1_rI1E5BmxmV62BC56sXu5hdO0zNyB0sXbJdhHBl9xOHzLiUpJ_9Egz9701C0KJQrcY3F-DyViivI2aoCRiOeaz4lc908LH5jL872xcm_FpjaHZ2yKsbNQ7OgKtkfedfcM1Y</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.982058,40.578957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenpoint</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/fhUeJnik36h6BQOCvaAByBG5U_r_xvmsIhCOtgkzdQp0uQRwHUWHbJF6MuEiEo23GpcEylrU07cYeVkyHeopzLolowcnMZSQadqnQ2wcspfsExBD8EJepGd2dR3eYzq1plyrBhLIFEnlDthMYGCHOtcXX2TU2-Gb3s2Y5hCNfxd0SLtpHnH2P2OrGtTUbSsu12MRxoQkT_XKxYC6TxzjGOseBaB_Im-RVDn8aUORt21EQPJm5deGkfUSNkVTSauUbU9NxwAr3e-pRJLJiDkQ-AqwCs5IAFgGl02Gq_fzgd1EKfkdFERAfKEZQRvkVIx4qQDKoFXSCboP7CN8L_nGz2Ypm3m-99WflH5B03H2bqtxG33AF_DuD9nheo7CF5MeNso4Foi40ps_LnpOnwB44LPos36f5XZVn6k1cmRB1-QuiJhkALn1Djl50wQ-O1NNl1FbvqTZo66PSgwum6Ogt3k" height="200" width="auto" /><br><br>Today’s piece was going to be an op-ed column in the New York Times.<br>But they declined to publish what I supplied. Which was this...<br><br><img src="https://lh6.googleusercontent.com/proxy/Z8WArs1kS8oLEqVPZBcAPFJPYeF5lGOOU4iDODS5nnxIttEKbJ5dQ2pz6NnDPeUvy7fz1B6LtLatGKQx6GmWtHsdxKUhKFbiA4Cs2WSSzsKiRMfQFvq0r8lJuso-scjy_UCztuT4sj45mlqHCXFMbSC-gSJzwTNA3BDsSZx-UADb9rBRruCTsVsoWAGjeaxLKvxweAjWOVYrhIDWcO37qm6ScDHuXmfPP6WaZTFebYh_bAiTDWd0mJ0NnN6XaSkTdveXypI3OMc9ubnl_vjn2JzWm7PnVUB7k0zZRd0E7mpZB7dhBOszUB9TgN8Ra2aYFh3if4B2OuXckDWczh_ejCsA01ancuU3ku4VUTFyECCn8u9Do4g7MZSD8Fm_diSZdaI79mt1zSFYRg1d4DWmOl1qY69tYS6VELfC18G7u_dV1vndQ0OKT6AunZzr" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/DhMzTG6buesHrEN5BU_V3MCj5j28lJH9DgaMOIfFxHNgDAYHqH4ut1DwbSbuTcTsxhGkLfBMG3mBD-J_ZGwmULsJLvTgMRXss1GKNUoqlApZzWmaejx13xesr7gyqw2R3FDURX8hcD90KX41RYxmmzWUJhgHTofElVU4Ol1Ln77TWnpK8moQv0yZwhdJsfOhTM_XbagrXEkHKmR0Sb_fGDD_zGBXMe3VPjewd7WX0-mzOtC-A5WKAO5EgpsGttizNQp2FXx-Ql3G6O3UynNhqI0NYsZynWWG35nyHiqHKPYUB2-soH9pENrI8aPvrN3yepqoVSErQfVMCtsViqZlHD2GS3pd1gxjDlIV3C6VFo-Q-fh6NTQMY6u9ynlGUdaSFExpGC7SV0wEfM7MP7XqbOIuvKUJJothkv9LOBPOlwBtgrNM10b9rHDHEAKbRkwT90dlmMFj9DMV_c2fuxX2UTPmSxE" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/fhUeJnik36h6BQOCvaAByBG5U_r_xvmsIhCOtgkzdQp0uQRwHUWHbJF6MuEiEo23GpcEylrU07cYeVkyHeopzLolowcnMZSQadqnQ2wcspfsExBD8EJepGd2dR3eYzq1plyrBhLIFEnlDthMYGCHOtcXX2TU2-Gb3s2Y5hCNfxd0SLtpHnH2P2OrGtTUbSsu12MRxoQkT_XKxYC6TxzjGOseBaB_Im-RVDn8aUORt21EQPJm5deGkfUSNkVTSauUbU9NxwAr3e-pRJLJiDkQ-AqwCs5IAFgGl02Gq_fzgd1EKfkdFERAfKEZQRvkVIx4qQDKoFXSCboP7CN8L_nGz2Ypm3m-99WflH5B03H2bqtxG33AF_DuD9nheo7CF5MeNso4Foi40ps_LnpOnwB44LPos36f5XZVn6k1cmRB1-QuiJhkALn1Djl50wQ-O1NNl1FbvqTZo66PSgwum6Ogt3k https://lh6.googleusercontent.com/proxy/Z8WArs1kS8oLEqVPZBcAPFJPYeF5lGOOU4iDODS5nnxIttEKbJ5dQ2pz6NnDPeUvy7fz1B6LtLatGKQx6GmWtHsdxKUhKFbiA4Cs2WSSzsKiRMfQFvq0r8lJuso-scjy_UCztuT4sj45mlqHCXFMbSC-gSJzwTNA3BDsSZx-UADb9rBRruCTsVsoWAGjeaxLKvxweAjWOVYrhIDWcO37qm6ScDHuXmfPP6WaZTFebYh_bAiTDWd0mJ0NnN6XaSkTdveXypI3OMc9ubnl_vjn2JzWm7PnVUB7k0zZRd0E7mpZB7dhBOszUB9TgN8Ra2aYFh3if4B2OuXckDWczh_ejCsA01ancuU3ku4VUTFyECCn8u9Do4g7MZSD8Fm_diSZdaI79mt1zSFYRg1d4DWmOl1qY69tYS6VELfC18G7u_dV1vndQ0OKT6AunZzr https://lh4.googleusercontent.com/proxy/DhMzTG6buesHrEN5BU_V3MCj5j28lJH9DgaMOIfFxHNgDAYHqH4ut1DwbSbuTcTsxhGkLfBMG3mBD-J_ZGwmULsJLvTgMRXss1GKNUoqlApZzWmaejx13xesr7gyqw2R3FDURX8hcD90KX41RYxmmzWUJhgHTofElVU4Ol1Ln77TWnpK8moQv0yZwhdJsfOhTM_XbagrXEkHKmR0Sb_fGDD_zGBXMe3VPjewd7WX0-mzOtC-A5WKAO5EgpsGttizNQp2FXx-Ql3G6O3UynNhqI0NYsZynWWG35nyHiqHKPYUB2-soH9pENrI8aPvrN3yepqoVSErQfVMCtsViqZlHD2GS3pd1gxjDlIV3C6VFo-Q-fh6NTQMY6u9ynlGUdaSFExpGC7SV0wEfM7MP7XqbOIuvKUJJothkv9LOBPOlwBtgrNM10b9rHDHEAKbRkwT90dlmMFj9DMV_c2fuxX2UTPmSxE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.959021,40.728295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/InWUr4T4tDlmJCPurHeEMFOnAWvAIdB5AIQpqSzTxBXYnbbJIAYe42NkT4YemxKugnU_QsQoem1t_F--HgAI4HhnItrH_Jppq7UfawqHADjUVfEQsrKNS2ktedykvj_IALWAWIqDVc1Cn_B1a6Rj2ERVQu6rihnzOXoWu5bUVSlpjBpNf3QTImx1XkUPmkJcL6I9P0G6bDXPJQNCuPXwx0AaAT1VR2_bSfFe7x6cz-mrbxTv86tI87O-LPQjyeb13sl0YNPtLvxgNmpckIJcsHsLx-AQuf5dCnK4TuwgyAhRY4lIJQSoorRTOnfW0xJRs2bmXWT3xl2FR-L8AbXk7aVwPae6nca2-vF6yM72d16zJ1fmR53XFCdqMvDwzjSKLYaWiunU2FAktt9iFlfviMcqohTq83yQsvex_1qQZIp15uvCJz4xMJFPhhCKqNt12AjfZVhLaT1EdlGOvrZmT1ZF7Dso0kahJoUVjmZ5KQ2_aWr0mzWXpopLMJZ3CdhLBRMOwW-pdeY" height="200" width="auto" /><br><br>Alternative New York bumper slogan]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/InWUr4T4tDlmJCPurHeEMFOnAWvAIdB5AIQpqSzTxBXYnbbJIAYe42NkT4YemxKugnU_QsQoem1t_F--HgAI4HhnItrH_Jppq7UfawqHADjUVfEQsrKNS2ktedykvj_IALWAWIqDVc1Cn_B1a6Rj2ERVQu6rihnzOXoWu5bUVSlpjBpNf3QTImx1XkUPmkJcL6I9P0G6bDXPJQNCuPXwx0AaAT1VR2_bSfFe7x6cz-mrbxTv86tI87O-LPQjyeb13sl0YNPtLvxgNmpckIJcsHsLx-AQuf5dCnK4TuwgyAhRY4lIJQSoorRTOnfW0xJRs2bmXWT3xl2FR-L8AbXk7aVwPae6nca2-vF6yM72d16zJ1fmR53XFCdqMvDwzjSKLYaWiunU2FAktt9iFlfviMcqohTq83yQsvex_1qQZIp15uvCJz4xMJFPhhCKqNt12AjfZVhLaT1EdlGOvrZmT1ZF7Dso0kahJoUVjmZ5KQ2_aWr0mzWXpopLMJZ3CdhLBRMOwW-pdeY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.016365,40.65173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bowery</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/m5WNS8mzLlwt2Is5VnMG_BlQEasU2BqvKRLhmGb_T792vzFGtqSFxoDSwDTFziYxMSHINf8XFYYCMC5-1vcA1brooebDZhzH_O8L5PAghtXIyL_6U7_enqJwKMyGDEHJZGZ6CD9C9umM5YhGGRB93RYGQOluVcirFppBMHE5y_ObzKrcyTH9WX7DMUzlqM_AhdQfdGMQktxIjhKzvo7FDAIw1HbTPfdh25L-ZPnPemiOOLZgiUOLUpu-vWwBAtNRn8g6miqEkyCPRZDLLBvdYBKDacu1r1jae8h8t5RQu-9T68FfLKZh4t5Z6dE2_jBtOdPqHvXc1IkZZ5JOV_IvAWFVakLbP3toV9jrj8sfGsPFHC_CkvkWcG7qAlUps14fmRDlZ8LPf7e9TwMFu1Hei0zcPFrhYvFoAC_qopZTT9_4zdDihBZQnLUGvYWWWmi3rd5kJM6tpKPM_-pYcSXrrqxEt-NmdRGZSRlnow" height="200" width="auto" /><br><br>Tonight through Sunday, dusk until midnight.<br><br><br>Video (http://vimeo.com/77827072)<br><br><br>Audio guide (http://d25mcs4ofr8rsq.cloudfront.net/reaper.mp3)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/m5WNS8mzLlwt2Is5VnMG_BlQEasU2BqvKRLhmGb_T792vzFGtqSFxoDSwDTFziYxMSHINf8XFYYCMC5-1vcA1brooebDZhzH_O8L5PAghtXIyL_6U7_enqJwKMyGDEHJZGZ6CD9C9umM5YhGGRB93RYGQOluVcirFppBMHE5y_ObzKrcyTH9WX7DMUzlqM_AhdQfdGMQktxIjhKzvo7FDAIw1HbTPfdh25L-ZPnPemiOOLZgiUOLUpu-vWwBAtNRn8g6miqEkyCPRZDLLBvdYBKDacu1r1jae8h8t5RQu-9T68FfLKZh4t5Z6dE2_jBtOdPqHvXc1IkZZ5JOV_IvAWFVakLbP3toV9jrj8sfGsPFHC_CkvkWcG7qAlUps14fmRDlZ8LPf7e9TwMFu1Hei0zcPFrhYvFoAC_qopZTT9_4zdDihBZQnLUGvYWWWmi3rd5kJM6tpKPM_-pYcSXrrqxEt-NmdRGZSRlnow</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.993283,40.724621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hell's Kitchen]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/mynF1EI4SQbfp8VvTuKgvORAY2To8sAkpD3llBqqxF-kc3ytK3QJyydTLIJrmpPZBW-77gG5t9HAQVWWS4mYK0OoRs6hZKS7HkUMQDyI9-FTSRPZ3Bpg8oklHrLP2W_5WiByeGb4aBNhCMLr72BVlsyrfHlSv18Q5OkA_z1LCKN7zO76x0EB0QYU_FIfsDypGtLtYUJMWi4TQTT9Hd5ugLGBtVWRfhGBCsp-LiAOOgFDgcEZW1d_LxW5bAfId2uAO1kLkHEauEmxQEI8JAf-rfcfl8Gc5eiwXvkO7nBi-r8-eSH9ULTKntqVSfx6GKUro9XAJkjAFCwbulqKnI3vKLjcHhGd_13E8pbtGOwlxNzWjE6zyTxrTPyFr29NTNBoCHZofKV9hxoIs-qE6WMFobBz__MdfaPLjjhHU_2XguSud5jAUx5tCbR3PvoZW2D4RgApUlqlY8ltH7UqhzSbcWvn2MoGMADnDdEsTrCzSmymz0-yUbAb20vqVSCgzRsNednKYv0s5nXU9_Jc" height="200" width="auto" /><br><br>Waiting in vain...<br><br><br><br><br> <br>at the door of the club<br><br><img src="https://lh5.googleusercontent.com/proxy/rFosuHxsNJux1SsEFVKmcMzICqS7Guo8_mBiMcJHWM50Umz36_0SWOaMVcxL3H2CKV3d6a6AITpB8N4r4hCgsK7CbPTHfrh5YK4g67eZmbEOFjNhJm8SegQ5panULG1RYR0jcd48Dxi2JPP6Wr8ale2op5DMsQiheB3c8oU584f0HEhzpNIljdy4sqHv4QM3lvBSqHRRQN96NOvBJETTLqJSR38KdLyilp_nEvsXFN22LOU7cLNfroqy2Xnba2ag9tFz1juK9MmdOUIL665eF7y0I69XvvZiIa37aCEBja8dk3et7gU_tsMNtzoijBa-sY1tpr0NLVJ_GCR_Mhs_mFRYD0ak2KyZ3JxVUR3nhpjYfHOtFN0pIJKZU_6SGpuF1wIVIYnYfM8EbmquJdIHqUxuwi-59lizVe_ynydaZsYsEYCJP7hLr7m4Wyip-8Vq8Djm_IoaAd2IyNYG-92g1GFgHOCN7cuxxpN9_wg7YapZsv2m8v8H" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/mynF1EI4SQbfp8VvTuKgvORAY2To8sAkpD3llBqqxF-kc3ytK3QJyydTLIJrmpPZBW-77gG5t9HAQVWWS4mYK0OoRs6hZKS7HkUMQDyI9-FTSRPZ3Bpg8oklHrLP2W_5WiByeGb4aBNhCMLr72BVlsyrfHlSv18Q5OkA_z1LCKN7zO76x0EB0QYU_FIfsDypGtLtYUJMWi4TQTT9Hd5ugLGBtVWRfhGBCsp-LiAOOgFDgcEZW1d_LxW5bAfId2uAO1kLkHEauEmxQEI8JAf-rfcfl8Gc5eiwXvkO7nBi-r8-eSH9ULTKntqVSfx6GKUro9XAJkjAFCwbulqKnI3vKLjcHhGd_13E8pbtGOwlxNzWjE6zyTxrTPyFr29NTNBoCHZofKV9hxoIs-qE6WMFobBz__MdfaPLjjhHU_2XguSud5jAUx5tCbR3PvoZW2D4RgApUlqlY8ltH7UqhzSbcWvn2MoGMADnDdEsTrCzSmymz0-yUbAb20vqVSCgzRsNednKYv0s5nXU9_Jc https://lh5.googleusercontent.com/proxy/rFosuHxsNJux1SsEFVKmcMzICqS7Guo8_mBiMcJHWM50Umz36_0SWOaMVcxL3H2CKV3d6a6AITpB8N4r4hCgsK7CbPTHfrh5YK4g67eZmbEOFjNhJm8SegQ5panULG1RYR0jcd48Dxi2JPP6Wr8ale2op5DMsQiheB3c8oU584f0HEhzpNIljdy4sqHv4QM3lvBSqHRRQN96NOvBJETTLqJSR38KdLyilp_nEvsXFN22LOU7cLNfroqy2Xnba2ag9tFz1juK9MmdOUIL665eF7y0I69XvvZiIa37aCEBja8dk3et7gU_tsMNtzoijBa-sY1tpr0NLVJ_GCR_Mhs_mFRYD0ak2KyZ3JxVUR3nhpjYfHOtFN0pIJKZU_6SGpuF1wIVIYnYfM8EbmquJdIHqUxuwi-59lizVe_ynydaZsYsEYCJP7hLr7m4Wyip-8Vq8Djm_IoaAd2IyNYG-92g1GFgHOCN7cuxxpN9_wg7YapZsv2m8v8H</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.995974,40.767362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queens</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/2dO1sCZhRckuECVlA5mm8wm8lolNUJzZLtgs7R9QqGvX9MCAnXZXMopuvUDN6Ixu8a8ij8KlMHZcVl56ejDUid2XJu9e1W6dUsePN0WvZ0NWRxMqaXx_njKQ19caqzYtlBIOy6P24nsF7Ho8mp5e0K40XqHjI6jJwJRyU1B7UXpYvk90jnaSmn_t5EnfnE2EsaxqC9N3bO20_7_NxJa8XCb8ufbQhnUMTceR3Gjm7mqo7WiAD4d-gd0JdxYcDQ3OiIicfnBTHR69Qjr-6Zs1y4-GTb_M7HqEeGl-HtiXB7nuA8ic2blPymmidiDGw3itXH_iW5TDffIDh5tmvx-t8x-1soZlgdpdTD8Lr8Igvuk2Spdgv4tY9JnfM8e1h-2j3mILpx248_uUGRCxpaYRTl1KNQk86amkO7QKqbnT1zR6hotwjAkd5Kt6QLWzXLxZ7eZT_wDIUtCNLvTQlqx0BKyqxLkuCG7y91c9209qUg" height="200" width="auto" /><br><br>Everything but the kitchen Sphinx. A 1/36 scale replica of the great Sphinx of Giza made from smashed cinderblocks.You're advised not to drink the replica Arab spring water.<br><br><img src="https://lh3.googleusercontent.com/proxy/RCFnLij5bqVy6hLG2YnV_Ep-BtUG8WbeWd774jeuHsYG9hjSPXw6-rMSngL07Be7uDIsZnXiaFOjlEgNXtKxm8LT0LbpLyuM9VLd3spTYVeto9PdVyr-4KzYw5eawnAovvVLCRdZRKwhpAs2dBdGAsSFM2IGGkHz2igyX504SuQOaiJSpbVoUJP4deNbuoKvEheQETxTBuoX05_vUhpvT42FVAA9zdzO5XjOwgBKkoKoCksEtySN_ZWbXamwPkTkbfmioSdlcNoIR4yoENGd3I-nFUmNC8TpKKuBKaFcXkXsizNrPu7LT6Jbec84qktvlXazpkgnjW83pGQzA2lyXd-yvM4T_IZsSLx62fJJb4Gvn9p7Gn1js1ekmZJDmuzE6b6sbIujfyUkIBpNzi3q-KWD81HkxmpwMG3Dq-BQoCiw3O1SbhZCfbqYLOg5ZyPYvAgqyqftNhCjM13E6vrOmpEuPlrGD7CwJnqL5TT-jJB9pX4wrQys" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/2dO1sCZhRckuECVlA5mm8wm8lolNUJzZLtgs7R9QqGvX9MCAnXZXMopuvUDN6Ixu8a8ij8KlMHZcVl56ejDUid2XJu9e1W6dUsePN0WvZ0NWRxMqaXx_njKQ19caqzYtlBIOy6P24nsF7Ho8mp5e0K40XqHjI6jJwJRyU1B7UXpYvk90jnaSmn_t5EnfnE2EsaxqC9N3bO20_7_NxJa8XCb8ufbQhnUMTceR3Gjm7mqo7WiAD4d-gd0JdxYcDQ3OiIicfnBTHR69Qjr-6Zs1y4-GTb_M7HqEeGl-HtiXB7nuA8ic2blPymmidiDGw3itXH_iW5TDffIDh5tmvx-t8x-1soZlgdpdTD8Lr8Igvuk2Spdgv4tY9JnfM8e1h-2j3mILpx248_uUGRCxpaYRTl1KNQk86amkO7QKqbnT1zR6hotwjAkd5Kt6QLWzXLxZ7eZT_wDIUtCNLvTQlqx0BKyqxLkuCG7y91c9209qUg https://lh3.googleusercontent.com/proxy/RCFnLij5bqVy6hLG2YnV_Ep-BtUG8WbeWd774jeuHsYG9hjSPXw6-rMSngL07Be7uDIsZnXiaFOjlEgNXtKxm8LT0LbpLyuM9VLd3spTYVeto9PdVyr-4KzYw5eawnAovvVLCRdZRKwhpAs2dBdGAsSFM2IGGkHz2igyX504SuQOaiJSpbVoUJP4deNbuoKvEheQETxTBuoX05_vUhpvT42FVAA9zdzO5XjOwgBKkoKoCksEtySN_ZWbXamwPkTkbfmioSdlcNoIR4yoENGd3I-nFUmNC8TpKKuBKaFcXkXsizNrPu7LT6Jbec84qktvlXazpkgnjW83pGQzA2lyXd-yvM4T_IZsSLx62fJJb4Gvn9p7Gn1js1ekmZJDmuzE6b6sbIujfyUkIBpNzi3q-KWD81HkxmpwMG3Dq-BQoCiw3O1SbhZCfbqYLOg5ZyPYvAgqyqftNhCjM13E6vrOmpEuPlrGD7CwJnqL5TT-jJB9pX4wrQys</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.842697,40.759785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>South Bronx</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/MJ-3_f12oIKSX8xH1II9g6Xr2OHMhOb2apuyUp9PmIlr39rCauwq8uOOnfh5rrSdlENbla5FSX5DqYzz2V5rpHarc77BHwsD86BT-9N3-EKuTpvynD_ibtJm18RzfdLKQz6iNJgo-JCTobW9cxLzTcqmBBTLhV03L8b8IGlakjflAdDE_wKL89Qnd64O0lWUoKNSKB5Ew5vlnoCvoUKaYmSB-xRTDR4qpJy2WXSd7WYNquNOvtnAWNcXq_etv_n1i8r0s_oUUgsWKV0_qiIIdp73DBufkNdimgNCSf-0J8qqqd5mb-PeAOInGkASXklAdzEdl93lDZdezOCEnR-RjHTvr89zFG-aVP5_QvspzqqbBnUqvhllTYdt9Q8qIdnaM0iz4ZdnA2umeatyrej2w9bNbMO8TlDFd_hvpli98axkrbrSL-VRBcahuu2n1QG6rxd3iWiQPevw9tCX2mMd9TWVXQfI82WLgxBtXlXMng" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/proxy/-DQ-LB4DV21f5fNDuJakbADdZxi-zZ-X9PgSIrwr7X0o2ZSbiCivPUImGUE_ugcicgAIpY84YtLpCGBCtZC1p1_H6BUlp0UWCPSrGmOPozLPdJadMt_8XokNXZj47NsvYblrGaVmuKX7UscbAcdfeNVmxMCpJBEguyoLfdUVdBU3Ec8f6mPsjCVuf4Nr0Fj5_WtUXlcaho_KlIzs4yoLvZVGV2vagk96O_YLsXBcYJF4JPDOZBNajmy6cZSmm1nB_qMJp4lZO-irmVTbWK2W54q2UNp6lkSuthoXzynf35rAcoWhRkwael7lsEuQklO7GG9lNUv0Ts-cWddv0362QQEO3MxVO7q9P5abXoziHUwjHQevSH5hjrBpFkwsL5zeHZ1V21LLOPWPks8WE6QyF5iK8-3dQliSDVKXqMcFK7iIzeKZTuuH6bPVjsL1kZd5i9FIA12xt9ugCicpa68KP0oNZ0JTtc4" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/MJ-3_f12oIKSX8xH1II9g6Xr2OHMhOb2apuyUp9PmIlr39rCauwq8uOOnfh5rrSdlENbla5FSX5DqYzz2V5rpHarc77BHwsD86BT-9N3-EKuTpvynD_ibtJm18RzfdLKQz6iNJgo-JCTobW9cxLzTcqmBBTLhV03L8b8IGlakjflAdDE_wKL89Qnd64O0lWUoKNSKB5Ew5vlnoCvoUKaYmSB-xRTDR4qpJy2WXSd7WYNquNOvtnAWNcXq_etv_n1i8r0s_oUUgsWKV0_qiIIdp73DBufkNdimgNCSf-0J8qqqd5mb-PeAOInGkASXklAdzEdl93lDZdezOCEnR-RjHTvr89zFG-aVP5_QvspzqqbBnUqvhllTYdt9Q8qIdnaM0iz4ZdnA2umeatyrej2w9bNbMO8TlDFd_hvpli98axkrbrSL-VRBcahuu2n1QG6rxd3iWiQPevw9tCX2mMd9TWVXQfI82WLgxBtXlXMng https://lh3.googleusercontent.com/proxy/-DQ-LB4DV21f5fNDuJakbADdZxi-zZ-X9PgSIrwr7X0o2ZSbiCivPUImGUE_ugcicgAIpY84YtLpCGBCtZC1p1_H6BUlp0UWCPSrGmOPozLPdJadMt_8XokNXZj47NsvYblrGaVmuKX7UscbAcdfeNVmxMCpJBEguyoLfdUVdBU3Ec8f6mPsjCVuf4Nr0Fj5_WtUXlcaho_KlIzs4yoLvZVGV2vagk96O_YLsXBcYJF4JPDOZBNajmy6cZSmm1nB_qMJp4lZO-irmVTbWK2W54q2UNp6lkSuthoXzynf35rAcoWhRkwael7lsEuQklO7GG9lNUv0Ts-cWddv0362QQEO3MxVO7q9P5abXoziHUwjHQevSH5hjrBpFkwsL5zeHZ1V21LLOPWPks8WE6QyF5iK8-3dQliSDVKXqMcFK7iIzeKZTuuH6bPVjsL1kZd5i9FIA12xt9ugCicpa68KP0oNZ0JTtc4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.915039,40.81846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Upper West Side</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/mMtOI7EbrqNVYN3N5fmyH65maHX7Hh6VCbWheCE2L5TBEIsDr5MfIdrZuGGcd0jeXFbSj0r7NqmmqE1HPHs-uVpmvrCf1hXCvSDUMHIB-rqYFJAIALI9B9P2mK8k2ou33Z5Zha6tQJ32nNWUtFPv_M14citxSorV5FvqmVusohG8TxSWSogPjkYodOa18598a7bpn_k7pdS0NRN2mQwOi6dgojHo8XgmlfFVlzuVNnl9FackeuOyZro7S4aMNq8s9gtlpr2t-UYYi9tregomOzilozBLIyWqq_vMeN-lCgQlb2KcsOHM0qVWzVjHJSPK4uQEX1Mh2JUOG559159wKrIOoRRE0YZArl8uU4VBhiuaAg0HnO7HaAGz_ay-QD0RKT5HdNl8zzIvJOs-m2qMES3a9ck8eJR-wQQIdp3cPzkFaTVoYhv51pw4bnVwjSf-_s6Ls74M7o1L3iaDCNjrqzkpsUuraU96" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/mMtOI7EbrqNVYN3N5fmyH65maHX7Hh6VCbWheCE2L5TBEIsDr5MfIdrZuGGcd0jeXFbSj0r7NqmmqE1HPHs-uVpmvrCf1hXCvSDUMHIB-rqYFJAIALI9B9P2mK8k2ou33Z5Zha6tQJ32nNWUtFPv_M14citxSorV5FvqmVusohG8TxSWSogPjkYodOa18598a7bpn_k7pdS0NRN2mQwOi6dgojHo8XgmlfFVlzuVNnl9FackeuOyZro7S4aMNq8s9gtlpr2t-UYYi9tregomOzilozBLIyWqq_vMeN-lCgQlb2KcsOHM0qVWzVjHJSPK4uQEX1Mh2JUOG559159wKrIOoRRE0YZArl8uU4VBhiuaAg0HnO7HaAGz_ay-QD0RKT5HdNl8zzIvJOs-m2qMES3a9ck8eJR-wQQIdp3cPzkFaTVoYhv51pw4bnVwjSf-_s6Ls74M7o1L3iaDCNjrqzkpsUuraU96</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.979423,40.783748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Staten Island—Location TBD</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/7IYf95lyijACXoEDdCSbfUQLocFtsD5Rpqnw6wdqq4-5tdJvxjTar0lKt3_LF7I8Pbny6-Ud4RahQZQ57WLYHFMBAWc5cHZD3XFTL1JJVIWK8GTacbgP3ZBLH2ScmVTDpGjBOIzNhARzPkh48mAcUwm9UVDQ3BAY59MpBAoT5LDHlfBNy1oIBBsWXvgdfpQWaWvBLtd8y2ohcaNt2b9vccrT1HmYWgfzqeqaGxKZDdnsHjmaHwoZo8cxLNlIBzH7sv-E0ToDMt8VuWQGjEfoik71XPdp9Fg8lCB-9iyGs2Jj4P8vbOnz4OQSVxMvUou-Nhx5vQ1EaBXGmRdvyUyvLgl8H8_Fy4-JOxRAtfkq8aoPnaMhjzqF0DEtqm1y7SuFlf2t5_XlhTL-bnIU_J_FkkD5kZz8Ruk3Yw5b-XiCvWvEYVZmqxS2lxN73JPOyfd4btb9RLgqzsEtuafD9wTN6sdR7Q" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/7IYf95lyijACXoEDdCSbfUQLocFtsD5Rpqnw6wdqq4-5tdJvxjTar0lKt3_LF7I8Pbny6-Ud4RahQZQ57WLYHFMBAWc5cHZD3XFTL1JJVIWK8GTacbgP3ZBLH2ScmVTDpGjBOIzNhARzPkh48mAcUwm9UVDQ3BAY59MpBAoT5LDHlfBNy1oIBBsWXvgdfpQWaWvBLtd8y2ohcaNt2b9vccrT1HmYWgfzqeqaGxKZDdnsHjmaHwoZo8cxLNlIBzH7sv-E0ToDMt8VuWQGjEfoik71XPdp9Fg8lCB-9iyGs2Jj4P8vbOnz4OQSVxMvUou-Nhx5vQ1EaBXGmRdvyUyvLgl8H8_Fy4-JOxRAtfkq8aoPnaMhjzqF0DEtqm1y7SuFlf2t5_XlhTL-bnIU_J_FkkD5kZz8Ruk3Yw5b-XiCvWvEYVZmqxS2lxN73JPOyfd4btb9RLgqzsEtuafD9wTN6sdR7Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.150201,40.579532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West 24th street</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/_klLBVqh8pDuwpsD_r5pEZmbLoJqroDgHTraZGWGS5OtGB13rLCs_Hx0wCPlA8Cy6uJWF2s-N2-cbafcXN4VaFVFtrUZ0Ikkp8ZJpc2HQ3yiLoTYDbzv18BkMacfmUuQrEuLTUthpPGA_W8YDEYsbf6C4z-Yu65oghMdyqqrHs9vlMYf8AFiuEbprYGZVi6L_4fzEO1ujtXvMVVg1fqxaCF6kufKKTlrNkrhJs4LAJIGfKM4YDfWNuHPoiY" height="200" width="auto" /><br><br>Audio guide (http://d25mcs4ofr8rsq.cloudfront.net/west-24th.mp3)<br><br><br>Are you the sort of person who enjoys going to art galleries, but wished they had more gravel in them? Then this temporary exhibition space is for you. Housing just two paintings but also featuring a bench, some carpet and complimentary refreshments. Opens today through Sunday 11am til midnight.<br><br><br><br>People ask why I want to have an exhibition in the streets, but have you been to an art gallery recently? They're full.<br><br><img src="https://lh4.googleusercontent.com/proxy/1l6MicRMO5FtxUZizDQIU9yphhvg-Z1xrTknqt0c1pOzeIEVzh_vGrhDniq3sTCR22PTpwn181QT3UCFXcyO-lWkXybq80BctKLR-8YA3CAkv6l4PP2qmB5RVZACQ0N-vCvN6IyaqjCd7_Rr6YTmg3sz1pn8di9nrKiaM7SDHGGUHVIwVaAmO6VVsDor5PumxskLZi-XCvI7AwYeoCXkvuKyKhN8YGVe76x4o0yyBKYQbVSJXJYBR4mvMLVIB1ffA24rq-a6csGkDo0gNomkmbmAz06df1-Vw0aCI8g4gGMM8rVM8RjmKtTNEM1z_R-ok6cWKqNVmKag-DblaR5rYUC-e0hJf2SPfnM1gXLdPANfgvn4uGaHri9cBdk7XKXdHfGsRtCG5Ts-1pXYgpZqCmyzeQ0KWKQYCAdq7Xn1FOuqw00aP7pDnc3b_hcUU8jeJW4ZeH1rLEFyAFWc3NTW" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/SaC0UdhRxgfTqYSe3CIDEpNkPV0bFbFUqdrTLLz3-p6d2Co06gFGNSDW6PbpE41A9CTK6D57LGMGshgFz2AvTxLNukW5QWCTvdaLnrrjnZxMBN87eWqPJsB0ZRZYZzuYAQ7f1ro5DmRQO937TaZLm7o0I64h8ekQMPILiSz1tSdVvint_PBUy8Lm5xTnZZNAt89p7NJw_-b1qXR9Ri_Hly-xLJsJFJXzfyaaKTnPe_Ctb9ztMVxkTgEnZ5qMJAjNmoabiJh7nfyqhXVtHAWSJo_N79-mH6R7irha9f6kb_nRC1WGf7eZYsk8PeVBeUl2XjCb5in-3IP0sSJFZj2fWPN-ROX7sUzP_DJbySqHL10OewebFqNK0YJjXr0NGceegiRJMn3UCqWt2IMpZKRl5jut2geTTcg1uBJIiQWuNz51-6Y2nqLkJBi5mE1qXn3yG3oTIRGLSSTE_dF6ZRM7iI6iZpOc6e2XeQ" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/proxy/_fxJnJlKReRIOU7LhBAq58uhsl5rB3ykgSCtgLgMblylHTC9WaLv-kOYB0oaRUdvjyDY0OuDWLak-oqG8PDNIUmmu6WKN-pjpNk4KNx8LX0K6VH99mBluDmUZ4bYs68kW4UN5zqSatZ2jzZbWA8stzqO1pcgCEM9vD8bjcwTa1S2yMaePhr9ktmde0AMtni7Bv03DTq8plY9FKte4__7VX96vvx0T1DMc8MJ8xXqGkNIxTs7vcAQsrexDTORhAX7NR48XL8CJhQlB_Nz0bMCE242whLZNNx7MZBGo2tWROloedFwQxpSbJg8gswxun1s3YUfxuT78u69iCqJVN5XPuDljZFxswFX68QVhje2JxMVleWtV5hzVlOJ2DC5JR5pYCjJhV677i-OlJsSq_dPzuFxD846qz6GFptfgXM6Uq0l2ll_XBSech7JHfD2aF5LjO7BTq_bX2Ai2Omd8adpsoEuxXqIQyGQdw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/_klLBVqh8pDuwpsD_r5pEZmbLoJqroDgHTraZGWGS5OtGB13rLCs_Hx0wCPlA8Cy6uJWF2s-N2-cbafcXN4VaFVFtrUZ0Ikkp8ZJpc2HQ3yiLoTYDbzv18BkMacfmUuQrEuLTUthpPGA_W8YDEYsbf6C4z-Yu65oghMdyqqrHs9vlMYf8AFiuEbprYGZVi6L_4fzEO1ujtXvMVVg1fqxaCF6kufKKTlrNkrhJs4LAJIGfKM4YDfWNuHPoiY https://lh4.googleusercontent.com/proxy/1l6MicRMO5FtxUZizDQIU9yphhvg-Z1xrTknqt0c1pOzeIEVzh_vGrhDniq3sTCR22PTpwn181QT3UCFXcyO-lWkXybq80BctKLR-8YA3CAkv6l4PP2qmB5RVZACQ0N-vCvN6IyaqjCd7_Rr6YTmg3sz1pn8di9nrKiaM7SDHGGUHVIwVaAmO6VVsDor5PumxskLZi-XCvI7AwYeoCXkvuKyKhN8YGVe76x4o0yyBKYQbVSJXJYBR4mvMLVIB1ffA24rq-a6csGkDo0gNomkmbmAz06df1-Vw0aCI8g4gGMM8rVM8RjmKtTNEM1z_R-ok6cWKqNVmKag-DblaR5rYUC-e0hJf2SPfnM1gXLdPANfgvn4uGaHri9cBdk7XKXdHfGsRtCG5Ts-1pXYgpZqCmyzeQ0KWKQYCAdq7Xn1FOuqw00aP7pDnc3b_hcUU8jeJW4ZeH1rLEFyAFWc3NTW https://lh4.googleusercontent.com/proxy/SaC0UdhRxgfTqYSe3CIDEpNkPV0bFbFUqdrTLLz3-p6d2Co06gFGNSDW6PbpE41A9CTK6D57LGMGshgFz2AvTxLNukW5QWCTvdaLnrrjnZxMBN87eWqPJsB0ZRZYZzuYAQ7f1ro5DmRQO937TaZLm7o0I64h8ekQMPILiSz1tSdVvint_PBUy8Lm5xTnZZNAt89p7NJw_-b1qXR9Ri_Hly-xLJsJFJXzfyaaKTnPe_Ctb9ztMVxkTgEnZ5qMJAjNmoabiJh7nfyqhXVtHAWSJo_N79-mH6R7irha9f6kb_nRC1WGf7eZYsk8PeVBeUl2XjCb5in-3IP0sSJFZj2fWPN-ROX7sUzP_DJbySqHL10OewebFqNK0YJjXr0NGceegiRJMn3UCqWt2IMpZKRl5jut2geTTcg1uBJIiQWuNz51-6Y2nqLkJBi5mE1qXn3yG3oTIRGLSSTE_dF6ZRM7iI6iZpOc6e2XeQ https://lh6.googleusercontent.com/proxy/_fxJnJlKReRIOU7LhBAq58uhsl5rB3ykgSCtgLgMblylHTC9WaLv-kOYB0oaRUdvjyDY0OuDWLak-oqG8PDNIUmmu6WKN-pjpNk4KNx8LX0K6VH99mBluDmUZ4bYs68kW4UN5zqSatZ2jzZbWA8stzqO1pcgCEM9vD8bjcwTa1S2yMaePhr9ktmde0AMtni7Bv03DTq8plY9FKte4__7VX96vvx0T1DMc8MJ8xXqGkNIxTs7vcAQsrexDTORhAX7NR48XL8CJhQlB_Nz0bMCE242whLZNNx7MZBGo2tWROloedFwQxpSbJg8gswxun1s3YUfxuT78u69iCqJVN5XPuDljZFxswFX68QVhje2JxMVleWtV5hzVlOJ2DC5JR5pYCjJhV677i-OlJsSq_dPzuFxD846qz6GFptfgXM6Uq0l2ll_XBSech7JHfD2aF5LjO7BTq_bX2Ai2Omd8adpsoEuxXqIQyGQdw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.004375,40.748559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bed Stuy</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/nWp7SAygnORn0PH_3kF1SPnCF9I2j-329T-qzHbxZ55CC3f0DJEuHA_imOEqOKJ2NP0XYuib9OpxzmeRkdIxaIcLSOz2KrfJkzDjSBFhBsa6DITt8NrT5OHkAVWTwQOK1eLKAUXytvM3q20_t-M37LlQyMCCANgbgMlUu234NEeiogxkIdIzjfJndupHja0YOx6c-dLXYj89q9b9SSJu1Db72sVmeIQ0rz1-GmLQSzhOO76LJoG5kA2h-z6Do6Y6ftvq230tKaikemisrXQNXY00wYfq8U8sCG2zuZ4cTYAd-kOEK5M8afyi3jNYq9cAG3cBP4wIV_MCN7XY9J14eDmk-m6yWamnfcBs5IJkmMWOPOb8Osyy66wYunWBjHO6OYr-9oOt04rQ_oDlQt4xCzk14cwoZwSUC9crXMxX-0kqlnrTm8NseRQAAsOljS9zvkZxELvEQnCvmjVIKsFtP7D9BsoW2_BfgvfUgohiMg" height="200" width="auto" /><br><br>I don't read what i believe in the papers<br><br><img src="https://lh6.googleusercontent.com/proxy/AFbKlFoJ6dV7URdhHWnw-AzHpOwr1UjHNO7jHqV8pnIRYUanb5S0E3RuwEKmT5yngMxJjMPvm1z7TPaRv1YLZB7jDjhS5SCohLBMKa7xujrGfVDIRxLjI0ZuYXVcrfVyWjoepYrE7f465c_LNGCVvZK2t75KGnAfcBZeKJaTHMHva10Cu75-7YIVPNIfqLQ3JsAXLBB3wEQbOaehKbxqYa1YVAi6XCdkx1TIku6hs55LFNpTvjXjIxhLKynrh_yRiJCRfE4Vqxljz_yE7SUBPU9iIvnL-KbHUyg8Pu9M6qe4kaBKb-uC_t0-433OJ82aIucjNziFss892egBzWSWGmDHc0AjdgVs1s5vxTAp3ZbB8gCzuWucelB3Fo3EJDdvLh8AGvmd4LwGs-DDjuo194yl6Ilt7jNogpKdU2QhadH1LChdYgPj5iIVGQq22VEOZOUKY_ERQV-lUEYCIL9grg_xZX8" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/proxy/7Dn8kd_2DAQvY0J6uot1nPXO0XxQLOPY9aCxV9R3EdTLsWv218D3JPhX-AAZjKhrPDNmhsp576kfhK6_5sGZ0NN9DETQ0mXzEz0QxQoEinQX-aD-z3XqOnYaGxsxAUKYQguDfJ-q94Dn0HNn2LHp71h6926y2j7jJAo7orL8eTDz1P1ROoLol8dlE84xe-zWF5xGISlrxzIDF22rgWJHT2u4l8bPEx8Lyn7CfqXXv_vKksWZ7rYRBttFhCT5mFUph3xxm8a8W2jpSO0iO0k1wmOM1S-8dkJf8onYM_sfBmZpz_hzeGmi8faan_hVaN9qWQQ2naVrtMyIgLVcHQ0IcJe3BSQ5X_IWYNremfKbJsSQTpHqzXU3wNn-sVRBLMcY8ItPe12id07YJsVS8K5SOaQmae_-rBDJyfnHnYHczzx-3gjuu1HjTlG2zH6ujBwX7VG3iu0vmaEdOmnwd0eV2kITJqVQmhgnmkTMilW8YaKgPNYFVZ1EpEb6LLNoaV8M6v55lA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/nWp7SAygnORn0PH_3kF1SPnCF9I2j-329T-qzHbxZ55CC3f0DJEuHA_imOEqOKJ2NP0XYuib9OpxzmeRkdIxaIcLSOz2KrfJkzDjSBFhBsa6DITt8NrT5OHkAVWTwQOK1eLKAUXytvM3q20_t-M37LlQyMCCANgbgMlUu234NEeiogxkIdIzjfJndupHja0YOx6c-dLXYj89q9b9SSJu1Db72sVmeIQ0rz1-GmLQSzhOO76LJoG5kA2h-z6Do6Y6ftvq230tKaikemisrXQNXY00wYfq8U8sCG2zuZ4cTYAd-kOEK5M8afyi3jNYq9cAG3cBP4wIV_MCN7XY9J14eDmk-m6yWamnfcBs5IJkmMWOPOb8Osyy66wYunWBjHO6OYr-9oOt04rQ_oDlQt4xCzk14cwoZwSUC9crXMxX-0kqlnrTm8NseRQAAsOljS9zvkZxELvEQnCvmjVIKsFtP7D9BsoW2_BfgvfUgohiMg https://lh6.googleusercontent.com/proxy/AFbKlFoJ6dV7URdhHWnw-AzHpOwr1UjHNO7jHqV8pnIRYUanb5S0E3RuwEKmT5yngMxJjMPvm1z7TPaRv1YLZB7jDjhS5SCohLBMKa7xujrGfVDIRxLjI0ZuYXVcrfVyWjoepYrE7f465c_LNGCVvZK2t75KGnAfcBZeKJaTHMHva10Cu75-7YIVPNIfqLQ3JsAXLBB3wEQbOaehKbxqYa1YVAi6XCdkx1TIku6hs55LFNpTvjXjIxhLKynrh_yRiJCRfE4Vqxljz_yE7SUBPU9iIvnL-KbHUyg8Pu9M6qe4kaBKb-uC_t0-433OJ82aIucjNziFss892egBzWSWGmDHc0AjdgVs1s5vxTAp3ZbB8gCzuWucelB3Fo3EJDdvLh8AGvmd4LwGs-DDjuo194yl6Ilt7jNogpKdU2QhadH1LChdYgPj5iIVGQq22VEOZOUKY_ERQV-lUEYCIL9grg_xZX8 https://lh5.googleusercontent.com/proxy/7Dn8kd_2DAQvY0J6uot1nPXO0XxQLOPY9aCxV9R3EdTLsWv218D3JPhX-AAZjKhrPDNmhsp576kfhK6_5sGZ0NN9DETQ0mXzEz0QxQoEinQX-aD-z3XqOnYaGxsxAUKYQguDfJ-q94Dn0HNn2LHp71h6926y2j7jJAo7orL8eTDz1P1ROoLol8dlE84xe-zWF5xGISlrxzIDF22rgWJHT2u4l8bPEx8Lyn7CfqXXv_vKksWZ7rYRBttFhCT5mFUph3xxm8a8W2jpSO0iO0k1wmOM1S-8dkJf8onYM_sfBmZpz_hzeGmi8faan_hVaN9qWQQ2naVrtMyIgLVcHQ0IcJe3BSQ5X_IWYNremfKbJsSQTpHqzXU3wNn-sVRBLMcY8ItPe12id07YJsVS8K5SOaQmae_-rBDJyfnHnYHczzx-3gjuu1HjTlG2zH6ujBwX7VG3iu0vmaEdOmnwd0eV2kITJqVQmhgnmkTMilW8YaKgPNYFVZ1EpEb6LLNoaV8M6v55lA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.942381,40.702346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>All city – McDonalds</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/6yY5ZqnTeh9TX37_2mM-LWjItas9hgrGPT2pxsm5To4TLqirmudbVvNjkr-tDDjhpZEuAYD0qZEw7JAApFKJLXbc-x8_1AeiqDRT-JRB5JBQsakhRSRrdg_6wl3931Y0eXJRdNZ6-a4Q1x9jEz0SVAsmNwTn26S6zwI67CeLVOL2eTMrtnQRdlE9nsE92U8iNLAODzzKfquJMrSUhFR4Is57nbYlIDBdmIIRkwKNwIAmSG5mg48FfbnuhzICnoURPSTUfepsrVhfP8BssjRnyI6Xyftk09jqYRjduM0ngVJOAoPkiIWr3xZAhDHZgPEvSlK4PsE84BNJAY-PPGcBxlW4SBUPDeLze0A8KBFALYFDMUqZz0xk8MBlvM8-udl_3apMV0MXnErzxNcFql0ky9O5V-SUWrrRWQbK9jRMStXECRuy36ndJi_PfqBlAA4v_7KAWDzXlfm0SkCaXDuPmI6iALpD57g2X6j3FsDPN6zyxsM" height="200" width="auto" /><br><br>A fibreglass replica of Ronald McDonald having his shoes shined by a real live boy. The sculpture will visit the sidewalk outside a different McDonalds every lunchtime for the next week.<br><br><br><br><br> <br>Audio guide (http://d25mcs4ofr8rsq.cloudfront.net/mcdonalds.mp3)<br><br><img src="https://lh3.googleusercontent.com/proxy/BQ-K_Tt7UbP6K08SXDXH98KBiNDe2PoRQqdb1DiRKiQtqfhq-V3PaTUmvvhzzt17_lVifisoLiuT8p3ugiYI81gBAuIIh6-WTWbWSi31ASrb5wJ-zXGiphdTsYkTN-ehk_NKeNcWpqqFTuq6b6P9e3HhAaLtIyqq6tFUzzXwH8tos2K7zldJqx-C5W7Yh51GWprYBoq8eRasiJoyODtp2MD7fNcKYBY8_7Bw-FVsVkSnNa0-1Qhm0es-6piqop9iuglCqYn8toDz0S9KYXLVPineXThQnLVChurg5Kra0zosh5UzoYKUZeHXVTh8S5YSx5VkSEHAQ12Qz6Ct5A_5AVIe6uGlYoD-XWq6mVnTntbcp6ZFT_8wZMcZLJ5itP3Q9G9veQa91mZd-au3tJNOn6nWJl_3rMEvv1cFm-4OBg7U-YKXPJ4QTnMdbUOLsaqeUa-krVcqSF3C09BpPn39R08" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/6yY5ZqnTeh9TX37_2mM-LWjItas9hgrGPT2pxsm5To4TLqirmudbVvNjkr-tDDjhpZEuAYD0qZEw7JAApFKJLXbc-x8_1AeiqDRT-JRB5JBQsakhRSRrdg_6wl3931Y0eXJRdNZ6-a4Q1x9jEz0SVAsmNwTn26S6zwI67CeLVOL2eTMrtnQRdlE9nsE92U8iNLAODzzKfquJMrSUhFR4Is57nbYlIDBdmIIRkwKNwIAmSG5mg48FfbnuhzICnoURPSTUfepsrVhfP8BssjRnyI6Xyftk09jqYRjduM0ngVJOAoPkiIWr3xZAhDHZgPEvSlK4PsE84BNJAY-PPGcBxlW4SBUPDeLze0A8KBFALYFDMUqZz0xk8MBlvM8-udl_3apMV0MXnErzxNcFql0ky9O5V-SUWrrRWQbK9jRMStXECRuy36ndJi_PfqBlAA4v_7KAWDzXlfm0SkCaXDuPmI6iALpD57g2X6j3FsDPN6zyxsM https://lh3.googleusercontent.com/proxy/BQ-K_Tt7UbP6K08SXDXH98KBiNDe2PoRQqdb1DiRKiQtqfhq-V3PaTUmvvhzzt17_lVifisoLiuT8p3ugiYI81gBAuIIh6-WTWbWSi31ASrb5wJ-zXGiphdTsYkTN-ehk_NKeNcWpqqFTuq6b6P9e3HhAaLtIyqq6tFUzzXwH8tos2K7zldJqx-C5W7Yh51GWprYBoq8eRasiJoyODtp2MD7fNcKYBY8_7Bw-FVsVkSnNa0-1Qhm0es-6piqop9iuglCqYn8toDz0S9KYXLVPineXThQnLVChurg5Kra0zosh5UzoYKUZeHXVTh8S5YSx5VkSEHAQ12Qz6Ct5A_5AVIe6uGlYoD-XWq6mVnTntbcp6ZFT_8wZMcZLJ5itP3Q9G9veQa91mZd-au3tJNOn6nWJl_3rMEvv1cFm-4OBg7U-YKXPJ4QTnMdbUOLsaqeUa-krVcqSF3C09BpPn39R08</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.890781,40.835859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tribeca</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ARr8RDPjgFhTq7HQNugerpejCmtKBqJOPtDYEgFyo2um_V52ASmKq6TizDAHYQnG0P9jZ8s9kRB7sdzNuo0q8nTJ3pkaG9MtCA6WOr8uoedY-IXED7WTmkf-GTGoVOqod9y6ck8V75Szo2FLfRYZLDJW0kEQudmAy92KIP2Fm7YV2oR1HW-N_rRzrVnkgoGNou8q9_-iuWEFesWAN1ZEB64mz2rS8f_qfd2QsLRe8YG2ABGlv0ftu4Bta_Jefv73-f4g6KRkGJE-CdUrGGeLgmLIWPlERjywiI_XVz3FjnV4i06Q3DrQt5h699heubJE_qe-RMqXvBUy63Tun0Zby5uksqJtEkiJz6XHdSuoRQ5BdmO18dhHtzTfNKxISdbbDtrUr51GVqFpvDCO-Jbhi0ccP86XRyGdI839XciQXADAOarDkS-TBifQp2evbuhV8R_CLOI6_jW2HM8n-dJUhLAOW-gzgX4Bi7flgAV_8A" height="200" width="auto" /><br><br><br><br><img src="https://lh6.googleusercontent.com/proxy/sufw0C9GSgMns-PvX73j_nKJCqxVQMrXM3__bIOBmc0MViyKeBm7ZNmQap1FGu9xHeq_BH7-YcpZ24Lxl5mg-YzgfXmIuSA19t6RQr-AnlkJgmC0MDFmJDs6vwmo8rU2he4rNern4DcTsApX2HXbo16gX1c6pVo1WJrSoMHA_Cm7zyKbjjXl46IIPcWlljulI2hBmJZcgV-5BwBOYa6doGfYZr359r10GKSD0I2Zopjj3q7jIfiluT9dSDFxlRBEq6tFy5wBuNjx04kdpvTxwiEzFhUSqF3Y1aFutsdoLvzY0pbAvABSPgOOZXuj77vMQh7lZ2gLuFZ986MZBigX9SdwQ_Qw2HhdA0pC1yA-Q9fQUHrjJzHu8SdrrSz8o65tD6ODjdQx2rxUKRjlgjg33a_IfGXEpCWR1Xb1W_X6NJaQ9MC2xJSF3A_UlzDp2eCszUBufkMnAnLZxoQPoKbwIWwVxQzBqePd" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/ARr8RDPjgFhTq7HQNugerpejCmtKBqJOPtDYEgFyo2um_V52ASmKq6TizDAHYQnG0P9jZ8s9kRB7sdzNuo0q8nTJ3pkaG9MtCA6WOr8uoedY-IXED7WTmkf-GTGoVOqod9y6ck8V75Szo2FLfRYZLDJW0kEQudmAy92KIP2Fm7YV2oR1HW-N_rRzrVnkgoGNou8q9_-iuWEFesWAN1ZEB64mz2rS8f_qfd2QsLRe8YG2ABGlv0ftu4Bta_Jefv73-f4g6KRkGJE-CdUrGGeLgmLIWPlERjywiI_XVz3FjnV4i06Q3DrQt5h699heubJE_qe-RMqXvBUy63Tun0Zby5uksqJtEkiJz6XHdSuoRQ5BdmO18dhHtzTfNKxISdbbDtrUr51GVqFpvDCO-Jbhi0ccP86XRyGdI839XciQXADAOarDkS-TBifQp2evbuhV8R_CLOI6_jW2HM8n-dJUhLAOW-gzgX4Bi7flgAV_8A https://lh6.googleusercontent.com/proxy/sufw0C9GSgMns-PvX73j_nKJCqxVQMrXM3__bIOBmc0MViyKeBm7ZNmQap1FGu9xHeq_BH7-YcpZ24Lxl5mg-YzgfXmIuSA19t6RQr-AnlkJgmC0MDFmJDs6vwmo8rU2he4rNern4DcTsApX2HXbo16gX1c6pVo1WJrSoMHA_Cm7zyKbjjXl46IIPcWlljulI2hBmJZcgV-5BwBOYa6doGfYZr359r10GKSD0I2Zopjj3q7jIfiluT9dSDFxlRBEq6tFy5wBuNjx04kdpvTxwiEzFhUSqF3Y1aFutsdoLvzY0pbAvABSPgOOZXuj77vMQh7lZ2gLuFZ986MZBigX9SdwQ_Qw2HhdA0pC1yA-Q9fQUHrjJzHu8SdrrSz8o65tD6ODjdQx2rxUKRjlgjg33a_IfGXEpCWR1Xb1W_X6NJaQ9MC2xJSF3A_UlzDp2eCszUBufkMnAnLZxoQPoKbwIWwVxQzBqePd</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.009453,40.71817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queens</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/s97rpFVtXcGL2mTGDyl7p46rO_e3iy1PeFV8qe5LyI9rkI4DnrrhMhCdzhVEg7Qywr7I0ryrLkhOPSSXcbHVWM8bwtVNBEreSr93wDpcWOBqNmrlhahuwR9yvOF4WHUyBpOKqiRBkZngiuB7QazG3YPGfq4xmpBezLk5hdqqS-iD7dVobjUDz_lFfKu8XftQmQ67sDBFmrCaU59jRkVVH7kGG6hzcR1GnDY4VXd4rpGFzgg_k3ZmHrwd0pNdhcsE0QLx-c88UFyj2ki0PVQhkYa3Vt1hWre86ffN5XTA7bbkuMwr2fBdytSNw3st41RJFXysix-yDiOTeBp20526q_iik6lj4IE1RWLW-JlY10lCcxvkvfoyfLd681mo0U_6i1GpB4_FLv2-rzTSyIj291uJA7AcRg7hkMQEpiw5L36tg0Nqik_1RGGuzx3g0Aq8kJt1CB2XDJm1rMG6fLjgEz6mKzU" height="200" width="auto" /><br><br>Some people criticize me for using sources that are a bit low brow (this quote is from 'Gladiator') but you know what? "I'm just going to use that hostility to make me stronger, not weaker" as Kelly Rowland said on the X Factor.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/s97rpFVtXcGL2mTGDyl7p46rO_e3iy1PeFV8qe5LyI9rkI4DnrrhMhCdzhVEg7Qywr7I0ryrLkhOPSSXcbHVWM8bwtVNBEreSr93wDpcWOBqNmrlhahuwR9yvOF4WHUyBpOKqiRBkZngiuB7QazG3YPGfq4xmpBezLk5hdqqS-iD7dVobjUDz_lFfKu8XftQmQ67sDBFmrCaU59jRkVVH7kGG6hzcR1GnDY4VXd4rpGFzgg_k3ZmHrwd0pNdhcsE0QLx-c88UFyj2ki0PVQhkYa3Vt1hWre86ffN5XTA7bbkuMwr2fBdytSNw3st41RJFXysix-yDiOTeBp20526q_iik6lj4IE1RWLW-JlY10lCcxvkvfoyfLd681mo0U_6i1GpB4_FLv2-rzTSyIj291uJA7AcRg7hkMQEpiw5L36tg0Nqik_1RGGuzx3g0Aq8kJt1CB2XDJm1rMG6fLjgEz6mKzU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.89625,40.746966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/If1LMcTbY5Huzi7IYmxBMTzpm_JZGAUnTSvlYmmniiaXwxYQSbOnBlBdgfiC3aQmsj95glURNQ0XI_5xupz6P9PohFH42r0cyKVq5NUf7KMAgvoYCCfT5OU3dmyj2wnggklexXznxIzrigj-NDEvgfF8pM0VkXo47ldhxlziK3DePwL9Fw2jUOdx7cQA5Q1KJUlyJiG5sn6Q4qYhFmZ5VfXMOmFEWwywn4505Fzl_Jvs7Jl4zcFF9Fi_rCmL7bAQN_zipH7ngYahjoc6Od8Ey4iu36pjfzPDpmHHlRa1ZuDmjb1NQvNpQ2kCAcGGjYH_8TBp7qAI75RHHzt55JKKFbFve4DL8CVbgAvcmgRvUc3_eyOPH_C3wM9qXS_W5xQZcjvBEAVCckcTqlstbr7vQce-ch2W5pMlwoTnY1nhQjjWIXREH63XlEnwG1Di5rgu6k16YserLGFS1nwfXyyqHW_HaUQ" height="200" width="auto" /><br><br>Yesterday I set up a stall in the park selling 100% authentic original signed Banksy canvases.<br>For $60 each.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/If1LMcTbY5Huzi7IYmxBMTzpm_JZGAUnTSvlYmmniiaXwxYQSbOnBlBdgfiC3aQmsj95glURNQ0XI_5xupz6P9PohFH42r0cyKVq5NUf7KMAgvoYCCfT5OU3dmyj2wnggklexXznxIzrigj-NDEvgfF8pM0VkXo47ldhxlziK3DePwL9Fw2jUOdx7cQA5Q1KJUlyJiG5sn6Q4qYhFmZ5VfXMOmFEWwywn4505Fzl_Jvs7Jl4zcFF9Fi_rCmL7bAQN_zipH7ngYahjoc6Od8Ey4iu36pjfzPDpmHHlRa1ZuDmjb1NQvNpQ2kCAcGGjYH_8TBp7qAI75RHHzt55JKKFbFve4DL8CVbgAvcmgRvUc3_eyOPH_C3wM9qXS_W5xQZcjvBEAVCckcTqlstbr7vQce-ch2W5pMlwoTnY1nhQjjWIXREH63XlEnwG1Di5rgu6k16YserLGFS1nwfXyyqHW_HaUQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.973178,40.765377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manhattan</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/mRcB4kNN38bqCbkwNYEHWgmCUZkKvIAl5_yKFR90iogFuyhtT10l1-94nKo24R92SyLz_XqlLsYOBbelnC2lDpo9wnetasBNuKtD-__3gygaDjBfvRphPScaKq1nvUS2FTuibSWa2_VMGoVNAtXnR4Ywt8yWgfgyYBsoeSuIQ8uXO70TSOqobW0IUo_uwKATn8AYOsTsGmBkvTgndfR9YxCi-LniVgCRN-ZFZmwjK9aFZZSJZopBMUeQZ9OyE0uaJzt89S9myC_doNZ1WRXsk2g9YGOmPf-afOjnOwz7zc4ieV2yxAW1QYdFDW78uDyrtiiqvH707zN4Oy0HXtujCOExQryZwNqkCKJaEreyVJ6KvweG-WGBuMiUi41P4WPRRJpDQN4R8gjcoTVCPo2COEUCDDNDXOtMXbbMjuaez0BHOsHIdqnPdeJNolGrK4Jl9R6WNdjE-2mCgDMfLRSRqAc9Wv8zaDXGHCDmeOg6EQ" height="200" width="auto" /><br><br>Concrete confessional<br><br><img src="https://lh6.googleusercontent.com/proxy/uEq9iH26j5ErPb522qJTihdBh5WTmMNIZyUHo-vKBmFa-Iia3JPXrOsza7STU9uemfeyLgXleQJvQqlxpewqO5LldC4EWuVElD9bRPutvsYX74SqxcamNKMANHVBxfF6QepBJULCr-UpIqcuBlMBrN-qnnozqxAwUL9tk-sYvBJ-Z9prtWgQfRzmUP4bpZDh8eQFi_kfn7n67JPywPIZa20gm9unEcp3zhIh_pWGNOpcRvkiOaHUP8GOrZoXQP1T7PCQvAbatcKhW4cKrZT0kEWpZi0Op-jCh4mgBHQqTm-cO-l1Pi88P2-N6GVMcMNXppQx8sTqfCU8BNPgfuGody2mEJx6kzQeknmQeCO9ZtyScGZP1X9adScDtx_Kx62IPXw6abPxh7rEl-nLBSq4E2nZXsy4H9H5X1CgWurYO6l5KuX13H3ylI4w_9mYsTmyj0G9hh7PowzMG2yuh82bqrIvFTtd-MStMsACZGSb7w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/mRcB4kNN38bqCbkwNYEHWgmCUZkKvIAl5_yKFR90iogFuyhtT10l1-94nKo24R92SyLz_XqlLsYOBbelnC2lDpo9wnetasBNuKtD-__3gygaDjBfvRphPScaKq1nvUS2FTuibSWa2_VMGoVNAtXnR4Ywt8yWgfgyYBsoeSuIQ8uXO70TSOqobW0IUo_uwKATn8AYOsTsGmBkvTgndfR9YxCi-LniVgCRN-ZFZmwjK9aFZZSJZopBMUeQZ9OyE0uaJzt89S9myC_doNZ1WRXsk2g9YGOmPf-afOjnOwz7zc4ieV2yxAW1QYdFDW78uDyrtiiqvH707zN4Oy0HXtujCOExQryZwNqkCKJaEreyVJ6KvweG-WGBuMiUi41P4WPRRJpDQN4R8gjcoTVCPo2COEUCDDNDXOtMXbbMjuaez0BHOsHIdqnPdeJNolGrK4Jl9R6WNdjE-2mCgDMfLRSRqAc9Wv8zaDXGHCDmeOg6EQ https://lh6.googleusercontent.com/proxy/uEq9iH26j5ErPb522qJTihdBh5WTmMNIZyUHo-vKBmFa-Iia3JPXrOsza7STU9uemfeyLgXleQJvQqlxpewqO5LldC4EWuVElD9bRPutvsYX74SqxcamNKMANHVBxfF6QepBJULCr-UpIqcuBlMBrN-qnnozqxAwUL9tk-sYvBJ-Z9prtWgQfRzmUP4bpZDh8eQFi_kfn7n67JPywPIZa20gm9unEcp3zhIh_pWGNOpcRvkiOaHUP8GOrZoXQP1T7PCQvAbatcKhW4cKrZT0kEWpZi0Op-jCh4mgBHQqTm-cO-l1Pi88P2-N6GVMcMNXppQx8sTqfCU8BNPgfuGody2mEJx6kzQeknmQeCO9ZtyScGZP1X9adScDtx_Kx62IPXw6abPxh7rEl-nLBSq4E2nZXsy4H9H5X1CgWurYO6l5KuX13H3ylI4w_9mYsTmyj0G9hh7PowzMG2yuh82bqrIvFTtd-MStMsACZGSb7w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.990141,40.728779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East New york</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/KAt0_rLSRb20lkYbbkSJJgYXn_cWuPQqI3F9i7qXZD9ge_EibthbnzzRSEDHDiAVhfMBrVyr0OdzmtAAQ9TMNQQHnBjZ4yImWh3GWpk7YNGwxduNeYH3s2OFHvqAMLISHLp_XuGVaq3Bwaro3q2sGqSmX_oC0fKZgOkDfqvc61C9a7oLT8CP31ejPVkHhSjrgz0ZRlUkXYUbVX1zA0jeiVH798b286gJh9Jn9PjB6lk76LaJJXivG_Fa5c9bQchv23Rs2P6NhQHqXbpCOzSYtn8b76nmQ-kiuoV2KCLJnTZtfSrdqioy2unFPert7wqpzxIkgxX9Q8GmZi23WAIfBRaBETBunSzKIABGdYDwq1YvStbBcBFRinsfU59IiPvY-OClff_tP8FhIdTrn2gpByGV1Y0DQb6aHEbzMv4vJdDUIKRPlKQbR2189Rk" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/proxy/GLgnOZoU4TPC0byKmJi9VoXjNLpqN6AvSEhov3mBYiLpJK2Nx3UPpLrXWYdFhjE8rTJm80aQ9mBIVpbSdvq1xWGsRsLQSlX4xXFU-8-Et0tBLAGqvOBzeAzfOflrZR9fxgYLCuNrGe4Drnh_mXwq1E1JP95t3oSt0qHKKW_c5WPJuBgaG3c4GCLWQcRxnwdV4rnCZ0z7r5l_yQhbGcy1dpUQc7auxZpWfCHAgkUbw53fWmoXWfH8OdoqdMo9oS_AFduAEcgm3Uc9Eghd1yhBvBwRVDooOSFYR5KW8ZAFe3MprDzMlPBfq30zmn-t-kb-OvmUnvVyUHI_q5r40Yp3s5BbbctsK3P7EdqJk8QncCQaYDV5o8Jesg9HRtueaiCBsDoc9eoc7MaNAYaV1I-95vUoXDB1BUXCN-ImK597iQh_620mtJj5eyjsTTZp9ub_rSfxTipC_RC55XjeLYlBKcJEycQdY6pg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/KAt0_rLSRb20lkYbbkSJJgYXn_cWuPQqI3F9i7qXZD9ge_EibthbnzzRSEDHDiAVhfMBrVyr0OdzmtAAQ9TMNQQHnBjZ4yImWh3GWpk7YNGwxduNeYH3s2OFHvqAMLISHLp_XuGVaq3Bwaro3q2sGqSmX_oC0fKZgOkDfqvc61C9a7oLT8CP31ejPVkHhSjrgz0ZRlUkXYUbVX1zA0jeiVH798b286gJh9Jn9PjB6lk76LaJJXivG_Fa5c9bQchv23Rs2P6NhQHqXbpCOzSYtn8b76nmQ-kiuoV2KCLJnTZtfSrdqioy2unFPert7wqpzxIkgxX9Q8GmZi23WAIfBRaBETBunSzKIABGdYDwq1YvStbBcBFRinsfU59IiPvY-OClff_tP8FhIdTrn2gpByGV1Y0DQb6aHEbzMv4vJdDUIKRPlKQbR2189Rk https://lh3.googleusercontent.com/proxy/GLgnOZoU4TPC0byKmJi9VoXjNLpqN6AvSEhov3mBYiLpJK2Nx3UPpLrXWYdFhjE8rTJm80aQ9mBIVpbSdvq1xWGsRsLQSlX4xXFU-8-Et0tBLAGqvOBzeAzfOflrZR9fxgYLCuNrGe4Drnh_mXwq1E1JP95t3oSt0qHKKW_c5WPJuBgaG3c4GCLWQcRxnwdV4rnCZ0z7r5l_yQhbGcy1dpUQc7auxZpWfCHAgkUbw53fWmoXWfH8OdoqdMo9oS_AFduAEcgm3Uc9Eghd1yhBvBwRVDooOSFYR5KW8ZAFe3MprDzMlPBfq30zmn-t-kb-OvmUnvVyUHI_q5r40Yp3s5BbbctsK3P7EdqJk8QncCQaYDV5o8Jesg9HRtueaiCBsDoc9eoc7MaNAYaV1I-95vUoXDB1BUXCN-ImK597iQh_620mtJj5eyjsTTZp9ub_rSfxTipC_RC55XjeLYlBKcJEycQdY6pg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.892023,40.672245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lower East Side</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/iBklYXD_cxEI1VOUG97UhAT_PDKHuFYlbKfr2TlrAvytNBxJS-a1W5U6uveCqD7cRyTTLhzbvn8UntID8nMiVEP_yZvx2Pp0bkNL2iBm8CejFKySCuoKQ8yK7WiS3ciJyEjus6DEpcjAaIqsTOqLF6F0QuTu18A5nydfYok9-Bq1I27k0d9kyFRSC75ckOgtahUgBVdKq_WEZh9vwEW2Hizy3FTYpxFs9fzCH76NjAUEP0tg2kzsX-lVaeVYjXejYiCWj91EOa5JfBz8GA2KH1_ykzGPy05F0v5kegcIhF0v6TL3R0RykDnuxJwcPR044w6-fe72C6ixC6FGjzZNm_8OIBz3wanmedsqNizUmR5F11eYeTSzjb9iR0eL64wk5NLwdUxekxAPL0KVl7g_l0mcI9a8ePCLPIy5PKCu8nLxVX6zqy3v2tU" height="200" width="auto" /><br><br>Audio guide (http://d25mcs4ofr8rsq.cloudfront.net/5.mp3)<br><br><img src="https://lh5.googleusercontent.com/proxy/j5z6BQRwx0cDYA5TVwAz0TqTu6f1jrO79NAi2YyFmQOY3e6R3VhHMaaQYSZ0Q3EgFC0s0o3NWPyNm4cS4_mNN18oque7-KQ9Q9BpkY-I5R1a3JE6AxU3Cs6NP7LWr5M5xFKZ8aQJnyICYUZbV6Ttm5exvTlXaSDnA6gOX_qSGCfdJ9J3QQFe50gcIUPkFrk6lSiLNVxlUQJG4MfKzPOibCZJSnSrqwEp0FsVyFFt-d90-mubyGbaiHGTRAFlgIz3Qi1J961mIEIP8q8RnUAuUqbRYh4NDxxB7thg2QKLQqvueVm2s67ezx0AEcjqE4ie_Ax9b3_EQDCiCWHewVYWKjERgywkxXgcJ5dtozHotVaXGd-CRxkOfn1DaHakUxe-M7XTbuvJx6hfOyWYY2OesRevxBe_G4iAOYudr3j5AK37C_-YtHzw6QvTF7E2" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/iBklYXD_cxEI1VOUG97UhAT_PDKHuFYlbKfr2TlrAvytNBxJS-a1W5U6uveCqD7cRyTTLhzbvn8UntID8nMiVEP_yZvx2Pp0bkNL2iBm8CejFKySCuoKQ8yK7WiS3ciJyEjus6DEpcjAaIqsTOqLF6F0QuTu18A5nydfYok9-Bq1I27k0d9kyFRSC75ckOgtahUgBVdKq_WEZh9vwEW2Hizy3FTYpxFs9fzCH76NjAUEP0tg2kzsX-lVaeVYjXejYiCWj91EOa5JfBz8GA2KH1_ykzGPy05F0v5kegcIhF0v6TL3R0RykDnuxJwcPR044w6-fe72C6ixC6FGjzZNm_8OIBz3wanmedsqNizUmR5F11eYeTSzjb9iR0eL64wk5NLwdUxekxAPL0KVl7g_l0mcI9a8ePCLPIy5PKCu8nLxVX6zqy3v2tU https://lh5.googleusercontent.com/proxy/j5z6BQRwx0cDYA5TVwAz0TqTu6f1jrO79NAi2YyFmQOY3e6R3VhHMaaQYSZ0Q3EgFC0s0o3NWPyNm4cS4_mNN18oque7-KQ9Q9BpkY-I5R1a3JE6AxU3Cs6NP7LWr5M5xFKZ8aQJnyICYUZbV6Ttm5exvTlXaSDnA6gOX_qSGCfdJ9J3QQFe50gcIUPkFrk6lSiLNVxlUQJG4MfKzPOibCZJSnSrqwEp0FsVyFFt-d90-mubyGbaiHGTRAFlgIz3Qi1J961mIEIP8q8RnUAuUqbRYh4NDxxB7thg2QKLQqvueVm2s67ezx0AEcjqE4ie_Ax9b3_EQDCiCWHewVYWKjERgywkxXgcJ5dtozHotVaXGd-CRxkOfn1DaHakUxe-M7XTbuvJx6hfOyWYY2OesRevxBe_G4iAOYudr3j5AK37C_-YtHzw6QvTF7E2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.987948,40.721037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenpoint</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/lrdA-RFVufOLvQPpkrwmNgbRBAUMWVnHEI9wd_4teqdMMRChbI6FOlXv23418uYSMV6ECT2LdUlBWxlNfJ9uFxa05nCrWlPxP_dl-QThGZQbWLCRsy8NEFKOKVCCs3y6XCaPPkMGlT9eU16l8ZBITkFGJ2zpFASN2eUwU32zdxpN3-L4gD16fIaBANRzJ_epJzM_n-eXX0Ac2x8P_G3OMwTQAYSKBloYTYked_PwhEmYoRze3H2eokvfvo_9ieipnS068vtZjs2qQ-WGcnGuCpy1SkMGvSvJY2Tv8TzO3JIMV5gxhIt6jEShJQytMS8UDuM5p8K-8p5crjfUShJKmqQAYhlIsQetxKvaB2yEPY505xhCdVYZcgCLhq6CPSNqfzSM2-BUptL-P6CqoiwjWqRljSBln88TRJWQGiSawQ3slaGAJ0rA7Qo" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/lrdA-RFVufOLvQPpkrwmNgbRBAUMWVnHEI9wd_4teqdMMRChbI6FOlXv23418uYSMV6ECT2LdUlBWxlNfJ9uFxa05nCrWlPxP_dl-QThGZQbWLCRsy8NEFKOKVCCs3y6XCaPPkMGlT9eU16l8ZBITkFGJ2zpFASN2eUwU32zdxpN3-L4gD16fIaBANRzJ_epJzM_n-eXX0Ac2x8P_G3OMwTQAYSKBloYTYked_PwhEmYoRze3H2eokvfvo_9ieipnS068vtZjs2qQ-WGcnGuCpy1SkMGvSvJY2Tv8TzO3JIMV5gxhIt6jEShJQytMS8UDuM5p8K-8p5crjfUShJKmqQAYhlIsQetxKvaB2yEPY505xhCdVYZcgCLhq6CPSNqfzSM2-BUptL-P6CqoiwjWqRljSBln88TRJWQGiSawQ3slaGAJ0rA7Qo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.950467,40.734892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brooklyn</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Y6c6LvEST9a2OX8Gcw5lgG6JaNCKbMDNCEyseB0I8cGh2Sqta34ORH4zuuj02s3kIUunU-OzAe1rtNCAxVsOwnN7qWeFEv2kO7tnPqb3AtPE1AHAYR1V7f5O63H4GiF6fMbdzOp53_FgqwfQqYS9yMDAY2gOiMtvtQFHV_IJJr5imcCTkE8OR7WdhzO7oGUk9mJg9G89HB3pVrYYsQLhIRXFYicNt1vxOkQIK6zX453IikE_ZAvZKnkRV1eDTknOUn10DpmzrK0UyAvQB00SHl-y79jAeuHjjjVTqVhuFW3UgewWogzEIuSt__OSahZf_ViZbINAhswMjbYo1d3Ep7cm8lrwQeMVSyaiGa841uOdY14FG1L1zloHW6aZsKokl1xnF1r1K5MrxQUJsm_Eg8gsGK97jB5mZrhuVmjTpjCK1ieoliTOG9k" height="200" width="auto" /><br><br>Audio guide (http://d25mcs4ofr8rsq.cloudfront.net/3.mp3)<br><br><img src="https://lh4.googleusercontent.com/proxy/pcE3up9M334jTvpmqNnBc6GpPByf_c_5sAe_zdAmriB33d1m8AvsL9t0EB-_y1YN59vksW06T0VFFQM7lh2cWIw1YoHdLdtg7pzKSEhSEwruDIWh1PnlEdbeeN3xIzfE1wnQ7_IjQpG4HVX1jGPJW97JPtwLf2mF6SqWUXQLMI5RahKvi9gXRVsz8w5oHbNoAQEmEhDffonvjUnxVfHKrzaKiYorKcDqXUaRzQ1DQ2H1teAx62zxt_DimyuzQgC10aYW509qSNLZ7mEQkyaAL8JM_NMk_NMiea3itQul99PYzZGnGl9kzkwtBqCb2Hy6g1OdjC28LWAMM9saHX7fNt9PzXToN6Q2UcpZ6BHpz5e9fXrCt8yuOUstuRf2P8kI0xhFHKuc8dxsnjO1t-xtshbCQCrtB5DTkWMWx_uJ-KD-CRg_6dzE4vpd5nZHswJfqJrjs2XjugUXD80NWQ" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/je2S3VU14i1HQ2AUZeJ4jckH04DxDJkPQvwFVZBzeTJ6zP5Bt4joIpOWrUIpJSegtdP23e6geWXMBqbnNG1_ns2BBYZXQAS6dGoXgMyAnq-jRlT2K6EmeFbf7rede097uwmDBuA0Lj2dKplQz-yGFKDd9z8e566QX4xdpSiCwyZqZ9bsi-veUX8cmPYRSUXFZ65wYEZrkJgqltYS1vakvs3hEozO4u4-oBFG0zPanXMTkpng9QokidUTnnElGb_NazMkL6CHPDwssv_9iSoHbzA9FP-JQdoH6RkiSlCsXFSjV8GyKbaKhMOOA4tEPWIN9NLqUEBwaS01PUgMDehyNyxI4EXXnYy6Z7HBqZbEpn3GB-BacAwg-VhMpdJ_zFZTf7SDy3KMi7dSy04atcyrjASOXNjPi139y6Ghi3LJbWTxNFg5EKUthOy1UaiEASBFGryBCQw5993sJlyb9w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/Y6c6LvEST9a2OX8Gcw5lgG6JaNCKbMDNCEyseB0I8cGh2Sqta34ORH4zuuj02s3kIUunU-OzAe1rtNCAxVsOwnN7qWeFEv2kO7tnPqb3AtPE1AHAYR1V7f5O63H4GiF6fMbdzOp53_FgqwfQqYS9yMDAY2gOiMtvtQFHV_IJJr5imcCTkE8OR7WdhzO7oGUk9mJg9G89HB3pVrYYsQLhIRXFYicNt1vxOkQIK6zX453IikE_ZAvZKnkRV1eDTknOUn10DpmzrK0UyAvQB00SHl-y79jAeuHjjjVTqVhuFW3UgewWogzEIuSt__OSahZf_ViZbINAhswMjbYo1d3Ep7cm8lrwQeMVSyaiGa841uOdY14FG1L1zloHW6aZsKokl1xnF1r1K5MrxQUJsm_Eg8gsGK97jB5mZrhuVmjTpjCK1ieoliTOG9k https://lh4.googleusercontent.com/proxy/pcE3up9M334jTvpmqNnBc6GpPByf_c_5sAe_zdAmriB33d1m8AvsL9t0EB-_y1YN59vksW06T0VFFQM7lh2cWIw1YoHdLdtg7pzKSEhSEwruDIWh1PnlEdbeeN3xIzfE1wnQ7_IjQpG4HVX1jGPJW97JPtwLf2mF6SqWUXQLMI5RahKvi9gXRVsz8w5oHbNoAQEmEhDffonvjUnxVfHKrzaKiYorKcDqXUaRzQ1DQ2H1teAx62zxt_DimyuzQgC10aYW509qSNLZ7mEQkyaAL8JM_NMk_NMiea3itQul99PYzZGnGl9kzkwtBqCb2Hy6g1OdjC28LWAMM9saHX7fNt9PzXToN6Q2UcpZ6BHpz5e9fXrCt8yuOUstuRf2P8kI0xhFHKuc8dxsnjO1t-xtshbCQCrtB5DTkWMWx_uJ-KD-CRg_6dzE4vpd5nZHswJfqJrjs2XjugUXD80NWQ https://lh4.googleusercontent.com/proxy/je2S3VU14i1HQ2AUZeJ4jckH04DxDJkPQvwFVZBzeTJ6zP5Bt4joIpOWrUIpJSegtdP23e6geWXMBqbnNG1_ns2BBYZXQAS6dGoXgMyAnq-jRlT2K6EmeFbf7rede097uwmDBuA0Lj2dKplQz-yGFKDd9z8e566QX4xdpSiCwyZqZ9bsi-veUX8cmPYRSUXFZ65wYEZrkJgqltYS1vakvs3hEozO4u4-oBFG0zPanXMTkpng9QokidUTnnElGb_NazMkL6CHPDwssv_9iSoHbzA9FP-JQdoH6RkiSlCsXFSjV8GyKbaKhMOOA4tEPWIN9NLqUEBwaS01PUgMDehyNyxI4EXXnYy6Z7HBqZbEpn3GB-BacAwg-VhMpdJ_zFZTf7SDy3KMi7dSy04atcyrjASOXNjPi139y6Ghi3LJbWTxNFg5EKUthOy1UaiEASBFGryBCQw5993sJlyb9w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.011763,40.678585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Williamsburg</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Lvhv3iIZkN7XrhMyM9wPYTaWBa3qsB6awUuKno2Lb5H5LvZYVfZaJv7iD2ZBMFyMze__OLCIQJK85f2I65JpAlbFgZRmoHMXNC-qZgHQ9wq-YnwcFGuyiNdkhINHn9N0pPA03QL0lkTdYDNauYJfaiLjCW_P-zFld3PAc4A9R51IQQBMK4zTsJFd4J6ApjNMTF6YvoE6IpERiptBvowrxpK2WeuPnbbDL1hnrPHsEg9cz52j_9isctLsk2rtYiSVpdOl9YPuirDLzbwWgnd7KP0mEQRcP35kYdsmA8db2Wbrssz5pvdriChAOxNPy_uO3F_MZtETtKlk31z84T9lZA1BHwIFO8W4raZu0TEePxOj080b4A9d2SsmYTcot2GLzN5KeNe6pGeWWlBQezSXzpSqjESsgBnWzRxEYFv0v7UiZH7TIhVvemDGG1HG3l7cvizuHIbUQA" height="200" width="auto" /><br><br>Random graffiti given a Broadway makeover (an ongoing series).]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/Lvhv3iIZkN7XrhMyM9wPYTaWBa3qsB6awUuKno2Lb5H5LvZYVfZaJv7iD2ZBMFyMze__OLCIQJK85f2I65JpAlbFgZRmoHMXNC-qZgHQ9wq-YnwcFGuyiNdkhINHn9N0pPA03QL0lkTdYDNauYJfaiLjCW_P-zFld3PAc4A9R51IQQBMK4zTsJFd4J6ApjNMTF6YvoE6IpERiptBvowrxpK2WeuPnbbDL1hnrPHsEg9cz52j_9isctLsk2rtYiSVpdOl9YPuirDLzbwWgnd7KP0mEQRcP35kYdsmA8db2Wbrssz5pvdriChAOxNPy_uO3F_MZtETtKlk31z84T9lZA1BHwIFO8W4raZu0TEePxOj080b4A9d2SsmYTcot2GLzN5KeNe6pGeWWlBQezSXzpSqjESsgBnWzRxEYFv0v7UiZH7TIhVvemDGG1HG3l7cvizuHIbUQA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.952896,40.706678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Delancey</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/MN4KGI8xSmpo713ADLXF9mfAEBA8642jetYZwFjjKYXIEsRAdUmo3oMKoJjhQNjI3Jbv7x4CIpFWx9RoAtjOqs_SaAuz3PWces-ftGdMV-D7WSoIk0bbiXNcSj38DzoX8JUtOWFG-HIJMFrKEgLiZUZpuaE_XbBiNQitrbRyKR0ZoZd5chX30j4T8MoHtpmpL7L3REnPdLXG_XugR68CSeuhxyXNK_q7h6JReYWny4Lyb_zDDsPSyjMGzfhRTZEzeeQyiEyO1z9mvblH-Z4b2hDEQQkJxu7YuXihAl2aV9ib9jlzq1qjdVlVdqf7q6Drpy7WrDyD63wwNx-t4fyprP8HQD94ktxnE4fh6hJMIc2uFiPhKDeNixujiw_UJkE_h0i3YsGKRMla5rE-nJoh_4nWp2SlFGgGEuw-hlTUBg" height="200" width="auto" /><br><br>Random graffiti given a Broadway makeover (an ongoing series).]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/MN4KGI8xSmpo713ADLXF9mfAEBA8642jetYZwFjjKYXIEsRAdUmo3oMKoJjhQNjI3Jbv7x4CIpFWx9RoAtjOqs_SaAuz3PWces-ftGdMV-D7WSoIk0bbiXNcSj38DzoX8JUtOWFG-HIJMFrKEgLiZUZpuaE_XbBiNQitrbRyKR0ZoZd5chX30j4T8MoHtpmpL7L3REnPdLXG_XugR68CSeuhxyXNK_q7h6JReYWny4Lyb_zDDsPSyjMGzfhRTZEzeeQyiEyO1z9mvblH-Z4b2hDEQQkJxu7YuXihAl2aV9ib9jlzq1qjdVlVdqf7q6Drpy7WrDyD63wwNx-t4fyprP8HQD94ktxnE4fh6hJMIc2uFiPhKDeNixujiw_UJkE_h0i3YsGKRMla5rE-nJoh_4nWp2SlFGgGEuw-hlTUBg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.993432,40.719988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bushwick</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/g-O1ofsQ8RYN0kpBNsuFfFU8sl9_0yhdEQJT9GLXlhQMgJNSJVO4BMJiAiJNGdIWbGuuc6oYy53-wJaKBvcwW5s6esO1jy3MCq3F9XlGXNihnKbfmt8xHZwVE5LLS54ZnxOfxIdcI3GenCv5tC6X6QNsbwAsu_69AbSnzzE-RxoglzqD6OuC3oXIz0m5CtWaoZAtJQWmuVIY9uqMrInoQZYcAfcMl8J4nzT7KVNxZLHV-RWbpOYifHOtkP-he6w8U7exWQmBW4YkcPRLUQj_vBuLOmromblJkSwswltCogSCv5fpUUuyu2ipCFOUexSAxxAPODlbaO2CuqZRr-vJfLC76psX7M0VzHA5tCFj0QLTYkgLGKNHFQs-Em8QPw8ocaF0TiTmJmXxEMp4CytujoM10kI--Om6X2fY2_1AxUpWIx8hJFR_xvSSCKS0vi-VzQ" height="200" width="auto" /><br><br>Random graffiti given a Broadway makeover (an ongoing series).]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/g-O1ofsQ8RYN0kpBNsuFfFU8sl9_0yhdEQJT9GLXlhQMgJNSJVO4BMJiAiJNGdIWbGuuc6oYy53-wJaKBvcwW5s6esO1jy3MCq3F9XlGXNihnKbfmt8xHZwVE5LLS54ZnxOfxIdcI3GenCv5tC6X6QNsbwAsu_69AbSnzzE-RxoglzqD6OuC3oXIz0m5CtWaoZAtJQWmuVIY9uqMrInoQZYcAfcMl8J4nzT7KVNxZLHV-RWbpOYifHOtkP-he6w8U7exWQmBW4YkcPRLUQj_vBuLOmromblJkSwswltCogSCv5fpUUuyu2ipCFOUexSAxxAPODlbaO2CuqZRr-vJfLC76psX7M0VzHA5tCFj0QLTYkgLGKNHFQs-Em8QPw8ocaF0TiTmJmXxEMp4CytujoM10kI--Om6X2fY2_1AxUpWIx8hJFR_xvSSCKS0vi-VzQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.939769,40.709129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Midtown</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/ZMj2WcmyUI433zxEUcVi9Gc_rge6X6YgQeMnoXdXpTTnGK3l5k7cN58P5IQcFY_1JfXA4ZhwrA1e66CrWnlFNNP_NaT0F83CGskNiqhDe1X2Ul7eyMZPR-sAbGBV3hZ5HZECcrF5vQGtECNZKBIfUk_8-tIRtOjBDYHPyd3dQ0CGwzZ4TnQ5yRsDBDVo2X_VYf9AC0o9Yy0wyJWCPgbcmKS8jjZ8lgqFd_rzw6sEbsFAQ-TK4AVENEuAHEUfKjtponLpGl-xvDkVE7oes6k9XfgWHZvpkOni5a6CVLuXlIht4jR2lPkD21jCvejv2iSwhSd3E9MM7hZ5vghqe2aRp0VbE-1kDAePpycz-_mKsSB3bx19NXivB4FAm_SsynM0Epzu5fX9OwzBUVxzFHoh06-PTUW_BieoL714JGjZ4w" height="200" width="auto" /><br><br>Audio guide (http://d25mcs4ofr8rsq.cloudfront.net/2.mp3)<br><br><img src="https://lh3.googleusercontent.com/proxy/g8IlJszH9k7hYcWeXyDMn3FV08NI7tJjPB_XIy3535G7mnMJagKQZ3fc-DwoPWrsyQiEaht9hOrRvhcqJzJ4WihJFlfSx_ecMe-LCZ09PbtoCvutOMgOlQvFPCzxQuw0Qfs16qTXoNYqX6GoXG_y-m2aUzkL6jXNa5hSg8nLgidjqpV2SMkTMVRbTtK8Yxn41rGncbK_JxQlh_KsBc2BTJY3X9kGDLS-OfZpK-UJbqddYOu1vNsXF_VbKA5vsSkFGdWdV3ztirTHsaG3fRYZzCAHzpxS49uX1Z_NUvwAx40nSwPrEqfm1oXogbysMIQtmkvkM88IsQ7GKvgoXTAtTCvaslsbmRN8XfAs52xu8mK4dW8KN167sWqEYKFrVxHcbZ2-lIdLFZ4WHr03aMdcY-2bjEyqTuqphMa-3tDEz4nqEi_ygA3VQgk0e_I9AG3usMFnKCAk3Q" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/ZMj2WcmyUI433zxEUcVi9Gc_rge6X6YgQeMnoXdXpTTnGK3l5k7cN58P5IQcFY_1JfXA4ZhwrA1e66CrWnlFNNP_NaT0F83CGskNiqhDe1X2Ul7eyMZPR-sAbGBV3hZ5HZECcrF5vQGtECNZKBIfUk_8-tIRtOjBDYHPyd3dQ0CGwzZ4TnQ5yRsDBDVo2X_VYf9AC0o9Yy0wyJWCPgbcmKS8jjZ8lgqFd_rzw6sEbsFAQ-TK4AVENEuAHEUfKjtponLpGl-xvDkVE7oes6k9XfgWHZvpkOni5a6CVLuXlIht4jR2lPkD21jCvejv2iSwhSd3E9MM7hZ5vghqe2aRp0VbE-1kDAePpycz-_mKsSB3bx19NXivB4FAm_SsynM0Epzu5fX9OwzBUVxzFHoh06-PTUW_BieoL714JGjZ4w https://lh3.googleusercontent.com/proxy/g8IlJszH9k7hYcWeXyDMn3FV08NI7tJjPB_XIy3535G7mnMJagKQZ3fc-DwoPWrsyQiEaht9hOrRvhcqJzJ4WihJFlfSx_ecMe-LCZ09PbtoCvutOMgOlQvFPCzxQuw0Qfs16qTXoNYqX6GoXG_y-m2aUzkL6jXNa5hSg8nLgidjqpV2SMkTMVRbTtK8Yxn41rGncbK_JxQlh_KsBc2BTJY3X9kGDLS-OfZpK-UJbqddYOu1vNsXF_VbKA5vsSkFGdWdV3ztirTHsaG3fRYZzCAHzpxS49uX1Z_NUvwAx40nSwPrEqfm1oXogbysMIQtmkvkM88IsQ7GKvgoXTAtTCvaslsbmRN8XfAs52xu8mK4dW8KN167sWqEYKFrVxHcbZ2-lIdLFZ4WHr03aMdcY-2bjEyqTuqphMa-3tDEz4nqEi_ygA3VQgk0e_I9AG3usMFnKCAk3Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.992577,40.743672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westside</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/fycVhSbLM7lvJ2-0yIlxns5bKkb7aDq1Nr2iPlEk56V0agft5-E4RFL0ZY4Su8cGvLah5ooKG2KbEWu6fbN-BXX72p8_agd0hYbvPje2SIrk0JigN6zwn4QodBEjqm-3PV3CssiR1p9v2qzLnTwC-gCJh1ObEuV-5uasOiZLcb9atKSDQI6sP33lMVgTQktu7W8UM5sj2CMrXdxu1O4IdLnVbFKntYcKjf_DFlfiymqmYCk1He-PtQT6kUDD-yc4Q5Nsg6xenRaCFTAQPAJ4a5mqt1qqQmInozeGCWGgNQutgkJwXEGU7tFCeZ3FsBCUgsStH-p0NdOt0cbAgqVZvBVbUbpuvBbFpsyrFj0pB9gv_lwdVMfpFaPjMAGDYrK-yHTDn1Jt4N96B1UENwtq8uT4g3i_vR5zevl_KKFyug" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/fycVhSbLM7lvJ2-0yIlxns5bKkb7aDq1Nr2iPlEk56V0agft5-E4RFL0ZY4Su8cGvLah5ooKG2KbEWu6fbN-BXX72p8_agd0hYbvPje2SIrk0JigN6zwn4QodBEjqm-3PV3CssiR1p9v2qzLnTwC-gCJh1ObEuV-5uasOiZLcb9atKSDQI6sP33lMVgTQktu7W8UM5sj2CMrXdxu1O4IdLnVbFKntYcKjf_DFlfiymqmYCk1He-PtQT6kUDD-yc4Q5Nsg6xenRaCFTAQPAJ4a5mqt1qqQmInozeGCWGgNQutgkJwXEGU7tFCeZ3FsBCUgsStH-p0NdOt0cbAgqVZvBVbUbpuvBbFpsyrFj0pB9gv_lwdVMfpFaPjMAGDYrK-yHTDn1Jt4N96B1UENwtq8uT4g3i_vR5zevl_KKFyug</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.003807,40.74922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manhattan</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/nuOM1DzRn9clGpr0S9e5_GHfPUCt-5A1PgidY_zEZ8AGcGpAceZe4JY8G2ve5JDf0a-R6YitzedvZ6HvSWnrJoNG-XKmVx0rezLBJisasyVbWnUx2eWi8Fp9tLJe6jUeG_p017FD9nHP8YKFjD8c7PC2xcRavOqf5efrt-QVkGpDI_a6aTmNZtw50nK2FSP0o_l_JP1sA7BKV3T8vkQYNxezflXYsvI8b8fVvA0nFZq8whyN_yxc2dmzPngX51JXArB3m25b7nLmEXP7aW9B1_kkfFZYaU3tZzCy4uiCdYAvymtA9d_Md1B9xh1XSjHr2sbUTJFG1Mb0HTClZFw07As97E4dtJQsKS7r8DildjFU5Rka4T-LGPuYOprJKpINObIf272kdqURtWqtfvBeXdUW-_cEDo5sYIs8CrbFrg" height="200" width="auto" /><br><br>The street is in play (http://banksy.co.uk/2013/10/01/the-street-is-in-play)<br><br> <br><br><br> <br><br><br> <br>Audio guide (http://d25mcs4ofr8rsq.cloudfront.net/1.mp3)<br><br><img src="https://lh3.googleusercontent.com/proxy/C03FyaNxY3fYdCOar2SXKc-MduDnhLMi2HZz5NGVyt1sdIpc1-hxZX7ZswK1-ls_Z82lYpgLAUxJOj4TXHn66PT02xOJwV8vwvfS6ZAedImsp0AHv-ZyOUQ92PGRmwsUB3WUu60IkBtSDnDobXsNUvW8-WyRgh80RDcNvNe1jlQhiXhft5jPjtiA0aGHgee6hIkT9csj1nPJ-ufyaL1JM1wiPCo0rPx1Z8OT3sHIEKk_866iso91dEBRAWTTEnKuonYj_WewbkmVcW23y1-Wd5WVI4gOyDhhiKC32hfkMZY2f4eSOGC2bkp6M_HMTOpRuIdojAZ1WVifvDnA0VOm1UY6SI1opfIh5PZzc3Wtx1E3hq7biHdH28lgBOcoBFMjbM1BMLWawwNzM2JyxoglI3rnbU9WsZ_F1CrdCyzTcZOvblIuSPFxNv72oJa5aoUB6Q" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/6MXtKKix81rb8OsS4u3LMm9jv-l62rafIxvSMCDuaeEypJ4NZpt_kQilOqUbD3tZgUfkruXL52zH-KrNm7uOjvq14Qv7qXnPLAgN-VIJlO5lsTasisuCgjhd0X29XAAdg790EsmMMIvbYNlSe_S8sIPxXlW8SFuwRb-oiCC_3IdScLP-nFhYtqfjDdHIb1-iEGKo8jKirn0flN3jg1ti7cBS4D6qyTVHdXSRio5pFBcyymANx95Pd-7mAC-F689q64VpX7O-C0PeQCfRmHrvHisPueFg0joDLjrihQU5pQWMlDUrMuXHsTrTP12i5L481Orid7iM6stpp3vaXlqU0R07Ye3ztxyLkE0H9ujYog_ARMCq7Oy2A6nkxMdidAn_yW9M3uym49iTQrAJvecKI0wYszeMzhrP2eXTJfWUp0vUJGn_XTEgzAJQeyaPgW8" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/nuOM1DzRn9clGpr0S9e5_GHfPUCt-5A1PgidY_zEZ8AGcGpAceZe4JY8G2ve5JDf0a-R6YitzedvZ6HvSWnrJoNG-XKmVx0rezLBJisasyVbWnUx2eWi8Fp9tLJe6jUeG_p017FD9nHP8YKFjD8c7PC2xcRavOqf5efrt-QVkGpDI_a6aTmNZtw50nK2FSP0o_l_JP1sA7BKV3T8vkQYNxezflXYsvI8b8fVvA0nFZq8whyN_yxc2dmzPngX51JXArB3m25b7nLmEXP7aW9B1_kkfFZYaU3tZzCy4uiCdYAvymtA9d_Md1B9xh1XSjHr2sbUTJFG1Mb0HTClZFw07As97E4dtJQsKS7r8DildjFU5Rka4T-LGPuYOprJKpINObIf272kdqURtWqtfvBeXdUW-_cEDo5sYIs8CrbFrg https://lh3.googleusercontent.com/proxy/C03FyaNxY3fYdCOar2SXKc-MduDnhLMi2HZz5NGVyt1sdIpc1-hxZX7ZswK1-ls_Z82lYpgLAUxJOj4TXHn66PT02xOJwV8vwvfS6ZAedImsp0AHv-ZyOUQ92PGRmwsUB3WUu60IkBtSDnDobXsNUvW8-WyRgh80RDcNvNe1jlQhiXhft5jPjtiA0aGHgee6hIkT9csj1nPJ-ufyaL1JM1wiPCo0rPx1Z8OT3sHIEKk_866iso91dEBRAWTTEnKuonYj_WewbkmVcW23y1-Wd5WVI4gOyDhhiKC32hfkMZY2f4eSOGC2bkp6M_HMTOpRuIdojAZ1WVifvDnA0VOm1UY6SI1opfIh5PZzc3Wtx1E3hq7biHdH28lgBOcoBFMjbM1BMLWawwNzM2JyxoglI3rnbU9WsZ_F1CrdCyzTcZOvblIuSPFxNv72oJa5aoUB6Q https://lh4.googleusercontent.com/proxy/6MXtKKix81rb8OsS4u3LMm9jv-l62rafIxvSMCDuaeEypJ4NZpt_kQilOqUbD3tZgUfkruXL52zH-KrNm7uOjvq14Qv7qXnPLAgN-VIJlO5lsTasisuCgjhd0X29XAAdg790EsmMMIvbYNlSe_S8sIPxXlW8SFuwRb-oiCC_3IdScLP-nFhYtqfjDdHIb1-iEGKo8jKirn0flN3jg1ti7cBS4D6qyTVHdXSRio5pFBcyymANx95Pd-7mAC-F689q64VpX7O-C0PeQCfRmHrvHisPueFg0joDLjrihQU5pQWMlDUrMuXHsTrTP12i5L481Orid7iM6stpp3vaXlqU0R07Ye3ztxyLkE0H9ujYog_ARMCq7Oy2A6nkxMdidAn_yW9M3uym49iTQrAJvecKI0wYszeMzhrP2eXTJfWUp0vUJGn_XTEgzAJQeyaPgW8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.992632,40.715382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>united_kingdom.kml</name>
+      <Placemark>
+        <name>Yellow Lines Flower Painter</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/qDxpw7NDx5QOMle9yZGIl6ZJaONQj006RhAMGi2kNmG9RxT6jSonyDNZ4jA9n3O2-wvQ6zw6stO1dGgl5rspWffxetF18UMo_VisNh5lvAra5wdnsecGPbvD9uutLLF7TPjp-tahwU3jifLQ3cS66nI8bLLqFhOkSoKRauGA4ZZOu0hakeRFoI48Mkt6kDUiXDN927vxbnyWpQV0CIFkYPLNilmoJaqR6wx5hf2CRYvzDMod_6IZrolLjFCgSj4Rpazxb32Zl6hEQAFpj5be3Nxt1uHRd0XWSHg4GHP7k0MjnnKyoUdOn5EOv_hNBCPsyZvEWknCOr2Og3T7dRXoFKSLWbmSShtrBTqtDn53NimHGv0W2tum" height="200" width="auto" /><br><br>Located on the side of a working mans club at the corner of Pollard Row and Pollard Street. <br>01/07/2008 Some tagging added, face of painter obscured a bit. Yellow lines connecting road and wall removed.<br>04/05/2009 More tagging, including one directly over the face of the painter.<br>25/2/2010 Part of the wall removed where the arm was located. Lots of tagging and stencilling around the piece.<br>29/01/2013 Part of the wall now smashed and perspex heavily tagged<br>26/4/2014 painter barely visible thanks to the smashed perspex, flower still there (thanks Kirsten)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/qDxpw7NDx5QOMle9yZGIl6ZJaONQj006RhAMGi2kNmG9RxT6jSonyDNZ4jA9n3O2-wvQ6zw6stO1dGgl5rspWffxetF18UMo_VisNh5lvAra5wdnsecGPbvD9uutLLF7TPjp-tahwU3jifLQ3cS66nI8bLLqFhOkSoKRauGA4ZZOu0hakeRFoI48Mkt6kDUiXDN927vxbnyWpQV0CIFkYPLNilmoJaqR6wx5hf2CRYvzDMod_6IZrolLjFCgSj4Rpazxb32Zl6hEQAFpj5be3Nxt1uHRd0XWSHg4GHP7k0MjnnKyoUdOn5EOv_hNBCPsyZvEWknCOr2Og3T7dRXoFKSLWbmSShtrBTqtDn53NimHGv0W2tum</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.063794,51.528037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cash Machine Grab</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Vif9pPAtzV9-z3TmjN7_LVnbd0ICIB_cGaQeLPWZWjqPfMvdxGgjhRFgUwUNgby5Fw0yOHlDu3y70UkAFuRS2YBQUPzOfxV3A8yVn-BZNGiiRxGVKUBEwObV-DPWcfFfS87aUullYB9tzEVklsAo-C2xHrbyixWvXf6Zk_D3_mDcKY2YeF-ygGxTy5TRy4cOV39BjUvLkqs4ShNs1uhMLkNSJXAeRqCJu6zv4PmIKiAu2S5BdipN1dgEa-cjZI48PywsozzATJ9EJhFvvsmJCIie1VwkDOv2-QVzuLt45z8kjDi3pe4TeCRW3OtwzYMjG16Tg_4iTcbPw8NAHUfRY6KeP9Iezkv6n-MTKXAKPt2t7eTGcmduwWhQbKQivPlCWRQrRp56ut6APbxEzQbpSRw" height="200" width="auto" /><br><br>Located near the junction of Farringdon Road and Rosebery Avenue. Originally this machine was dispensing tenners with Diana's face instead of the Queens<br>Update Feb '08 - Now defaced in part.<br>14/02/2008 Reported as boarded over<br>16/04/2008 Reported as removed<br>11/01/2009 Now visible again but with two large white stripes obscuring much of the detail.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/Vif9pPAtzV9-z3TmjN7_LVnbd0ICIB_cGaQeLPWZWjqPfMvdxGgjhRFgUwUNgby5Fw0yOHlDu3y70UkAFuRS2YBQUPzOfxV3A8yVn-BZNGiiRxGVKUBEwObV-DPWcfFfS87aUullYB9tzEVklsAo-C2xHrbyixWvXf6Zk_D3_mDcKY2YeF-ygGxTy5TRy4cOV39BjUvLkqs4ShNs1uhMLkNSJXAeRqCJu6zv4PmIKiAu2S5BdipN1dgEa-cjZI48PywsozzATJ9EJhFvvsmJCIie1VwkDOv2-QVzuLt45z8kjDi3pe4TeCRW3OtwzYMjG16Tg_4iTcbPw8NAHUfRY6KeP9Iezkv6n-MTKXAKPt2t7eTGcmduwWhQbKQivPlCWRQrRp56ut6APbxEzQbpSRw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.110593,51.525513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gallery Attendant</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/BtWGEDRehDjeQrrMN0JoyUPPZhKVucjp4xgTvn3o8lkPNmu_KAIf0pF9DPNfCbvp8EbYyDcKTEVKYPhRy1JibFMLi6jmCbkSZPhfGuWtGDQ1bLgnG6PTMvY7whcTt-h9CnxjbrmrMn22r0LmTGDmYcIloGZ4EkB2GyBIXwi_qeWb0ep8gQSTlB6YhNR1_15CEsVyqqM2pUqRfHNgh6ST1uy-sIcmcsxpoVK8g32bcAFuOHaxlNHNcuwqvF67o0smpNTXshffX3ai3ieuhlT3_WyqcWIK_sY5C32ztawX_DhuNHWwydBF3vuVzdcCAJYWNMWR5fNgBhBl1Ly0KOLivqEHL1ASmGXtaQLoSvVWeMw9Z5Ua5ew7ydjLjixwqZ6ELbPfiPac1aI98HFhDdbFxEQ" height="200" width="auto" /><br><br>Located in Martineau Road opposite a pub - Islington Council have even been caught touching up this piece after it was vandalised.<br>Unlikely to say 'Arse' in the frame when you visit.<br>14/02/2008 Reported as painted over<br>27/04/2008 Reported as having a thick white stripe through the attendant but "still may be worth snapping"<br>01/02/2010 Unsure if anything is left...<br>02/06/2010 Confirmed nothing is left]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/BtWGEDRehDjeQrrMN0JoyUPPZhKVucjp4xgTvn3o8lkPNmu_KAIf0pF9DPNfCbvp8EbYyDcKTEVKYPhRy1JibFMLi6jmCbkSZPhfGuWtGDQ1bLgnG6PTMvY7whcTt-h9CnxjbrmrMn22r0LmTGDmYcIloGZ4EkB2GyBIXwi_qeWb0ep8gQSTlB6YhNR1_15CEsVyqqM2pUqRfHNgh6ST1uy-sIcmcsxpoVK8g32bcAFuOHaxlNHNcuwqvF67o0smpNTXshffX3ai3ieuhlT3_WyqcWIK_sY5C32ztawX_DhuNHWwydBF3vuVzdcCAJYWNMWR5fNgBhBl1Ly0KOLivqEHL1ASmGXtaQLoSvVWeMw9Z5Ua5ew7ydjLjixwqZ6ELbPfiPac1aI98HFhDdbFxEQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.104713,51.553647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thug For Life</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/vNIC5uZzbBK46QlevWmAI0QJl-fXGI0I5Fjz5g-fL_eVCw9W2irynpIv_YWuAOUQw4Ggr20hfgpozuO9LtT6Yd-rns4b78qU9Y7LM3jBC8lFR1Bsz4292ByiF0Vq72Q48VPsTvqhaLtPMRdyJKbu-4r-DgK-gfGXLMEjPCqK6755JJfpMo2hC5F36o6lwfrFeX1F55RKlBqJuvEX-K-x_OBI5zWwohiDDYl3biKUcrEByoajqjbc_eX1z1wzpGbgu8elXhEmsGgOxhiQ06T0G-4L4GJ5gnLzqK7fQGc2yveW3s7uT-fXEPrfDT6oG0XjoDeEqbi5eRnVTARrIv3qOLauk8ajZqS5lMbkPrXgXakF5H0zdfAHYxWgG6ibYfPR74_gW0sIDaPJAL4Fdo6lxXSRdYlqoEYW" height="200" width="auto" /><br><br>In a car park on the Clerkenwell Road between Saffron Hill and Onslow Street. Caption now reads 'Old Skool'<br>21/01/2008 - Now covered over with hoardings by someone keen to protect their soon to be on Ebay piece of wall.<br>29/02/2008 Completely removed]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/vNIC5uZzbBK46QlevWmAI0QJl-fXGI0I5Fjz5g-fL_eVCw9W2irynpIv_YWuAOUQw4Ggr20hfgpozuO9LtT6Yd-rns4b78qU9Y7LM3jBC8lFR1Bsz4292ByiF0Vq72Q48VPsTvqhaLtPMRdyJKbu-4r-DgK-gfGXLMEjPCqK6755JJfpMo2hC5F36o6lwfrFeX1F55RKlBqJuvEX-K-x_OBI5zWwohiDDYl3biKUcrEByoajqjbc_eX1z1wzpGbgu8elXhEmsGgOxhiQ06T0G-4L4GJ5gnLzqK7fQGc2yveW3s7uT-fXEPrfDT6oG0XjoDeEqbi5eRnVTARrIv3qOLauk8ajZqS5lMbkPrXgXakF5H0zdfAHYxWgG6ibYfPR74_gW0sIDaPJAL4Fdo6lxXSRdYlqoEYW</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.107782,51.521975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cherub With A Bullet Proof Vest</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/3yZDDfb2Mjn45EqrRrLxvB6fyA4Ip0GF0o5DIy0THh6ylJh5DuaILnfaQ2Vb1UIBJY5R61Ps2qC7mXboryrZ28r671TyeTWwGvbry-XvmKtaoJrOrkkeJroaM0-roz8KjRlxgVy5BnMuZtQPt1bIqK5kDWObsidR7agwyMwdyVyviIRGsHBfq8LEotYzmrX3jQL7zg82c56lqTO52sdQ5wYNUhvIEiU9qQMQkBddZW1V6pZajm9V_h-hG78VHzdhqf34MWKjzER8716yldYd16JBDfTyEudnbugQBGYFTgv27IcGj7jMjuCVniA5vD4qqNVMUvfLoS_3POmGjENsoxeqs6RTc7cGbnEYhuv1L9QIVq8sP4KIqaBFyzddJAgYAw" height="200" width="auto" /><br><br>Located above a row of shops stand in the central reservation near Old Street station generator plant (North East side of roundabout)<br>08/03/2009 Its been tagged over now but still very visible. <br>04/05/2009 completely removed]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/3yZDDfb2Mjn45EqrRrLxvB6fyA4Ip0GF0o5DIy0THh6ylJh5DuaILnfaQ2Vb1UIBJY5R61Ps2qC7mXboryrZ28r671TyeTWwGvbry-XvmKtaoJrOrkkeJroaM0-roz8KjRlxgVy5BnMuZtQPt1bIqK5kDWObsidR7agwyMwdyVyviIRGsHBfq8LEotYzmrX3jQL7zg82c56lqTO52sdQ5wYNUhvIEiU9qQMQkBddZW1V6pZajm9V_h-hG78VHzdhqf34MWKjzER8716yldYd16JBDfTyEudnbugQBGYFTgv27IcGj7jMjuCVniA5vD4qqNVMUvfLoS_3POmGjENsoxeqs6RTc7cGbnEYhuv1L9QIVq8sP4KIqaBFyzddJAgYAw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.086732,51.526101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Graffiti Painter</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/V4j3KFzZI3GZSQzGTQbmu_QWGJcYRjxBuPsMQyR7R_oHEpQvE2m7xoTi6wjuIUdoQMoBaFYcu9XUlJ3z25rjHS1vZdsllFLQ6U317_6pEKmszu4jgimMA-opu4axG7zC7ysxVY0Hu1XnRgG2sPfiAVXkdXAs3EYx2QO2tZSc2GvTL69iaFO3c5PbRSqBeACwtaDI8Z0nvtFNV84SdjX3N0P74fNZZcJODGLt1yVSLt4YHN-wag8moVdgdYTZ_S7pELrKy-7-uGP8ZaQpsxcTLMuW0DaT9XObO4XLRPWf3zTKbMRBN4fb3crjQwO-5SjX24ZdVA5Up3qPGfZZI_LnpcdnZCBhQEIhs_HHCyigryi0EZWF3byymDPk6Vu7QCJMiZ1bmtqrcnUHHLEQ_pQb7YhTYh0-NTP2" height="200" width="auto" /><br><br>Located on the side of a restaurant at the entrance to Shafton Road. <br>The large blue member has since been altered by the council!<br>The piece is still there though.<br>02/06/10 Piece now gone over by Team Robbo<br>01/08/2010 Very little left now<br>27/06/2011 Some tags over the painter but still visible<br>29/01/2013 Completely gone, now painted over with a Vietnamese themed mural.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/V4j3KFzZI3GZSQzGTQbmu_QWGJcYRjxBuPsMQyR7R_oHEpQvE2m7xoTi6wjuIUdoQMoBaFYcu9XUlJ3z25rjHS1vZdsllFLQ6U317_6pEKmszu4jgimMA-opu4axG7zC7ysxVY0Hu1XnRgG2sPfiAVXkdXAs3EYx2QO2tZSc2GvTL69iaFO3c5PbRSqBeACwtaDI8Z0nvtFNV84SdjX3N0P74fNZZcJODGLt1yVSLt4YHN-wag8moVdgdYTZ_S7pELrKy-7-uGP8ZaQpsxcTLMuW0DaT9XObO4XLRPWf3zTKbMRBN4fb3crjQwO-5SjX24ZdVA5Up3qPGfZZI_LnpcdnZCBhQEIhs_HHCyigryi0EZWF3byymDPk6Vu7QCJMiZ1bmtqrcnUHHLEQ_pQb7YhTYh0-NTP2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.043817,51.538254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>What Are You Looking At?</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/fI8h6NjvcHPznEZBhmHBZLtYmdIfMu69YidpuYB9ywGQ8FRjjSvo1Js_Lz7w2EWz7u_6ykkSEl3uEpBu_l4mbUZj8gdyWj3lRXRNyXPlIinY0TJZ5FX_UyXCBWuxoSCtwSxjiDJKGeBu_uHgrH2EgI2KYQ2Wot-DHYOyK4TOfStC9C5PmC8HrF8YdCdl55L58OKAS82jgLGZW82-sigYXlgVoWF4OtmnPSrsbTD0Nj3uGiPKMznNqEaz3WP8WKPGfUINxM-pF_7B0YWJgOo4OAbRY0kfw_w_HTle7RfD9Ca0lOmGWH8DG6Z98ZECe5z7vemU7xqyT_rQGnU8smW4YGsFGvNPUp8pFYRJAEupJgm7YySIey3XWY1qbbk8r7OUKgaB8ro9tTrpyvw7gQ" height="200" width="auto" /><br><br>Located in a courtyard near the toilets in the Marble Arch underpass system. CCTV camera is now broken (possibly removed?) but the graffiti is still there.<br>15/02/2010 Graffiti text reported as being covered in white paint so now there's nothing to see except the broken camera!]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/fI8h6NjvcHPznEZBhmHBZLtYmdIfMu69YidpuYB9ywGQ8FRjjSvo1Js_Lz7w2EWz7u_6ykkSEl3uEpBu_l4mbUZj8gdyWj3lRXRNyXPlIinY0TJZ5FX_UyXCBWuxoSCtwSxjiDJKGeBu_uHgrH2EgI2KYQ2Wot-DHYOyK4TOfStC9C5PmC8HrF8YdCdl55L58OKAS82jgLGZW82-sigYXlgVoWF4OtmnPSrsbTD0Nj3uGiPKMznNqEaz3WP8WKPGfUINxM-pF_7B0YWJgOo4OAbRY0kfw_w_HTle7RfD9Ca0lOmGWH8DG6Z98ZECe5z7vemU7xqyT_rQGnU8smW4YGsFGvNPUp8pFYRJAEupJgm7YySIey3XWY1qbbk8r7OUKgaB8ro9tTrpyvw7gQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.160396,51.512789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giant Rat</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/viDgyacba_c1iCSoj3PImgDGdYH986LUXOLxr8j5K0JXMeaADS7FeF5T2N1sAUY9zmw44JidlKAUB8Gw0b06B9BWT-ewHOB4vGOx_PKY7xtZxBI1OyVp5lIyPvNCyAcTbLsBvmNdjPmUJrgWo2krUQn6wn7Qty_aiTL9E54_zYSMtnmf1XTnS0kki-bdTtoT-SW2n5E1D3jQ0-dx80c6xXJR9zpkdF_YFKSZYHvJ6I-uBZq7R5EqT2hYaMTUPr99ZXn3_5DwVkMfXpav36hlQcbgIwT1zZmMwFMuh07Fg0J24GwSN-PjS4qQ2QaLzfLRsu9_hfPW6oa2GVnrs6KsyfYsghikPdRN-X0zWvNSngErUVgaeq6A3_fD4qDFDwYdY1EEkoRFdln2Mljjkw80AUc8KDM" height="200" width="auto" /><br><br>Located on a wall in a car park between Old Street and Rivingon Street<br>Currently obscured by hoardings<br>04/02/2010 Building scheduled for demolition / rebuilding as a hotel possibly with the incorporated.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/viDgyacba_c1iCSoj3PImgDGdYH986LUXOLxr8j5K0JXMeaADS7FeF5T2N1sAUY9zmw44JidlKAUB8Gw0b06B9BWT-ewHOB4vGOx_PKY7xtZxBI1OyVp5lIyPvNCyAcTbLsBvmNdjPmUJrgWo2krUQn6wn7Qty_aiTL9E54_zYSMtnmf1XTnS0kki-bdTtoT-SW2n5E1D3jQ0-dx80c6xXJR9zpkdF_YFKSZYHvJ6I-uBZq7R5EqT2hYaMTUPr99ZXn3_5DwVkMfXpav36hlQcbgIwT1zZmMwFMuh07Fg0J24GwSN-PjS4qQ2QaLzfLRsu9_hfPW6oa2GVnrs6KsyfYsghikPdRN-X0zWvNSngErUVgaeq6A3_fD4qDFDwYdY1EEkoRFdln2Mljjkw80AUc8KDM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.083181,51.526388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TV through Window</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/vUcLermZjsMmpDnitF5Fjsd1FE4eZTUlMNnGEGxuuDyaEUxB9UeBIOZCNIKhuAa_fL2sV1GMofJBVnp77t0mUgcgCaMH7MtZMkLVzkyQvGBN5vlkqtISlpYDJXbCJWPZtsglbFvX93myXpqhV1CZ7PN3jmNu4ZCLs9MbIMGos4c1i6fZBswMm6ZVW7dO2MHPFlhBHXF-C9XjScN4uq7JeuYVR_4jL_vCu7pVqkVwqId2Hef-Ildxbq_aXoUu26iLwEZqvVCzZy2LEmJwfMnOYl0G7oUkAdh5ICpM9_D9H_JPvlEfHH74H8Rz3ZzBJzTmvrBLI4vL1MFUkJe9feJWquUShgq47KZdn_ZUxXYCoaOmTNKzbw-J2faUb9pwSALXg2mz" height="200" width="auto" /><br><br>Located on a wall in a car park between Old Street and Rivingon Street<br> <br>Currently obscured by hoardings<br>04/02/2010 Building scheduled for demolition /redevelopment<br>26/4/2014 Building reported as gone (thanks Kirsten)!]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/vUcLermZjsMmpDnitF5Fjsd1FE4eZTUlMNnGEGxuuDyaEUxB9UeBIOZCNIKhuAa_fL2sV1GMofJBVnp77t0mUgcgCaMH7MtZMkLVzkyQvGBN5vlkqtISlpYDJXbCJWPZtsglbFvX93myXpqhV1CZ7PN3jmNu4ZCLs9MbIMGos4c1i6fZBswMm6ZVW7dO2MHPFlhBHXF-C9XjScN4uq7JeuYVR_4jL_vCu7pVqkVwqId2Hef-Ildxbq_aXoUu26iLwEZqvVCzZy2LEmJwfMnOYl0G7oUkAdh5ICpM9_D9H_JPvlEfHH74H8Rz3ZzBJzTmvrBLI4vL1MFUkJe9feJWquUShgq47KZdn_ZUxXYCoaOmTNKzbw-J2faUb9pwSALXg2mz</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.083084,51.526154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>assorted rats</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/0fLLKAoC72aDMpbeuom6OpIIq-cb3aw7iSGHokPya7KBJ07fjjktH10f1d5CmCc1Ss4GPDxpMoMw3Wfk0PUu-0fEhJSN4NEyaA2oWQhlyhbetAXeaI1FM7MVfMM9OHC3OqTT23qibIP35pZsOmjLbPE89YFzGOseF_n8z6fQcpZ7UwKcgXtBEOARnwcqeD-5juKuyjloR8MEokuMSNViIR2iGe_onQ59SL_K9Wtt2ICOFUuEtI-bhFRazUFlJ5eS6hXrf2oBgAqa64JEZU_KUufaVJTvCPVgYEW0J8ftUDurbSYqC3MysGRD1rQ7Wyiuq6OZMxof8uerNwcdblVZLSDPbvjp7ERfgYsbr1Hdxpyvhv0SWmFZ8MkrQHWNJtLF16TUNonkZxFYJgQ0YABg" height="200" width="auto" /><br><br>Located in and just by Hayne Street are several different rats.<br>Update Jan '08. A couple of the rats have now been removed.<br>Update 27/01/2008 - all have gone.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/0fLLKAoC72aDMpbeuom6OpIIq-cb3aw7iSGHokPya7KBJ07fjjktH10f1d5CmCc1Ss4GPDxpMoMw3Wfk0PUu-0fEhJSN4NEyaA2oWQhlyhbetAXeaI1FM7MVfMM9OHC3OqTT23qibIP35pZsOmjLbPE89YFzGOseF_n8z6fQcpZ7UwKcgXtBEOARnwcqeD-5juKuyjloR8MEokuMSNViIR2iGe_onQ59SL_K9Wtt2ICOFUuEtI-bhFRazUFlJ5eS6hXrf2oBgAqa64JEZU_KUufaVJTvCPVgYEW0J8ftUDurbSYqC3MysGRD1rQ7Wyiuq6OZMxof8uerNwcdblVZLSDPbvjp7ERfgYsbr1Hdxpyvhv0SWmFZ8MkrQHWNJtLF16TUNonkZxFYJgQ0YABg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.099392,51.520186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chalk Farm Maid</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/Dv3SgXXy77msXsa06g9Tzwc6-KYWDfz4-y3-chtYyFZZ0m3pEhsyk-qeIFgqOEdBRmo7614T1AISzw2eHLXhm3lsglKwT7PE1ktOyNHE2nSo6cArqwXshmNDA4zgmC-GNQKANqaaXKQEXjx4BmPs2uMrmTHzSWtVVBD5FQNvD3z_ldsD-ODQRd7Z04p_rIXQIZoTD3d0gMgM_1yYb653hAHTtCzoy3M0szmiBR3VpXJ0DVKp67kSCEQV2pl1VLMWHq1VP9pj8hWmvNhEhuxNtcZqu6lrXowahesu93BDmKysS6N63WOFDshaRUs_r4Uhp2YPD46TgEvyf33qA8U7rj9l8bfXyru06njxrAA6DvFfhBrhTfgQoDc_CaD2trVDLFGx-YXQfo_-XfuuVw" height="200" width="auto" /><br><br>Completely removed circa 2008]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/Dv3SgXXy77msXsa06g9Tzwc6-KYWDfz4-y3-chtYyFZZ0m3pEhsyk-qeIFgqOEdBRmo7614T1AISzw2eHLXhm3lsglKwT7PE1ktOyNHE2nSo6cArqwXshmNDA4zgmC-GNQKANqaaXKQEXjx4BmPs2uMrmTHzSWtVVBD5FQNvD3z_ldsD-ODQRd7Z04p_rIXQIZoTD3d0gMgM_1yYb653hAHTtCzoy3M0szmiBR3VpXJ0DVKp67kSCEQV2pl1VLMWHq1VP9pj8hWmvNhEhuxNtcZqu6lrXowahesu93BDmKysS6N63WOFDshaRUs_r4Uhp2YPD46TgEvyf33qA8U7rj9l8bfXyru06njxrAA6DvFfhBrhTfgQoDc_CaD2trVDLFGx-YXQfo_-XfuuVw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.153133,51.543866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Take This - Society!</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/jdmnCrtPsoLInVQfmMzYvOzcIIxwZDfd5fLSszviXtXHwgXVxwuLocRxONXh4BLXse7KlA2dP3ipD2YxfbOxSRLx6sY0YrSLlomg1XavWDsG6yy6wlVPeq4JGArh2Q-_uevjIQvSQWL8gI-JMoFDgOJFFi9BYI2XV7P_6BevmJoLlbeny6U3eu_siD58XgI2sOo-8pDDk27hTkp6Cie9H-E-VusRqmqm0UzOSCRX84OTqQ0qm5boWyycZrz0hJj28_NyAKko_xuPnt8tdC_pRRAoTTPs6GUXr2Xy7adVIgKJu8iY5ph-QVSlkes23sNlyjBsBrFkejGy5v7DSz4tk_AEeoIb548rbmN-uPO7uVastLJGcOazx1n2BamdVj7cBEBzDeHFMehC9bLcxOkFQRQ" height="200" width="auto" /><br><br>Take This - Society! On the Holland Park roundabout, visible when approaching the roundabout from Holland Park Avenue. Update 08/03/08 - Painted over white.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/jdmnCrtPsoLInVQfmMzYvOzcIIxwZDfd5fLSszviXtXHwgXVxwuLocRxONXh4BLXse7KlA2dP3ipD2YxfbOxSRLx6sY0YrSLlomg1XavWDsG6yy6wlVPeq4JGArh2Q-_uevjIQvSQWL8gI-JMoFDgOJFFi9BYI2XV7P_6BevmJoLlbeny6U3eu_siD58XgI2sOo-8pDDk27hTkp6Cie9H-E-VusRqmqm0UzOSCRX84OTqQ0qm5boWyycZrz0hJj28_NyAKko_xuPnt8tdC_pRRAoTTPs6GUXr2Xy7adVIgKJu8iY5ph-QVSlkes23sNlyjBsBrFkejGy5v7DSz4tk_AEeoIb548rbmN-uPO7uVastLJGcOazx1n2BamdVj7cBEBzDeHFMehC9bLcxOkFQRQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.216336,51.504549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Very Little Helps</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/hdo0qI34zw8Z76_S4YN9bDLaHQG5921XzUjJLN0SD9_6ko1CM7smxatx4N7lVgN6rU4x7DkRjJ732dWeMscH5uHt9eaXP20u0Fr9dT-uTW2wkGfHpUh-sFXxqa3qArd0ZxVeTNaX3GeKNuCuT18ZIzG2cRIAA8ZWxAuGe4SMxEGDSfCcuQ-eedkUHfqX9iLGu8R8oBu-ZDHINs643sMbaClLhtOS6CY-Q6i1eA_UNiCbuzVtKCDUvDEqzvuZMta5b-l_APwblARFNMZ-xwtZOs69ifR0AYWnkZFzdKKCXeESxQ7q4hFDfjboNWIqxRBqQkKU8DofMDNN2hzeTSnTMXlT9M5Y8Q43DcQkgvdnyej46TBJe0YmPbuCnUo5R_t5-RK66i1vVlcXxU_cTz3diSmMZ_0gxylG1QP80R8J1QMS-vtf" height="200" width="auto" /><br><br>Located on the side of a Pharmacy in Essex Road opposite an old art deco cinema. <br>Update 07/03/08 Now covered with perspex sheeting.<br>Update 01/07/2008 Tesco flag painted over with white paint<br>Update 26/08/2008 Tesco flag repainted<br>Update 31/08/2008 Advised that the Tesco flag was repainted by an 'elderly gentleman'!<br>Update 01/02/2009 Now has a speech bubble saying 'God Save the Baracksy'<br>Update 01/07/2010 Large 'Slayer' tags on the perspex now pretty much obscure the work<br>12/12/2011 Childrens heads no longer visible due to paint on the perspex. Not much left to see....<br>Update 26/06/2011 Slayer tags removed, tesco bag (real one) reinstated. Kids visible again.<br>Update 01/06/2012 Kids faces obscured by spray paint over the perspex<br>Update 24/4/2014 Tesco bag reported as having Robbo painted over it (thanks Kirsten).]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/hdo0qI34zw8Z76_S4YN9bDLaHQG5921XzUjJLN0SD9_6ko1CM7smxatx4N7lVgN6rU4x7DkRjJ732dWeMscH5uHt9eaXP20u0Fr9dT-uTW2wkGfHpUh-sFXxqa3qArd0ZxVeTNaX3GeKNuCuT18ZIzG2cRIAA8ZWxAuGe4SMxEGDSfCcuQ-eedkUHfqX9iLGu8R8oBu-ZDHINs643sMbaClLhtOS6CY-Q6i1eA_UNiCbuzVtKCDUvDEqzvuZMta5b-l_APwblARFNMZ-xwtZOs69ifR0AYWnkZFzdKKCXeESxQ7q4hFDfjboNWIqxRBqQkKU8DofMDNN2hzeTSnTMXlT9M5Y8Q43DcQkgvdnyej46TBJe0YmPbuCnUo5R_t5-RK66i1vVlcXxU_cTz3diSmMZ_0gxylG1QP80R8J1QMS-vtf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.096629,51.540046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>One Nation Under CCTV</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/j1kQnMBddzE7Hh-3C0Vi7SBUySklwpQfARV79i6JNFRlBxrGRdPpCkRknt4_Bgu5xDeiBK29G_W2Lcw5HsDoz6p-B52X3y1wFBoqEy6zxDhfR02FhCWoKBfGx0swg8F80LOH8z0cMVrJKMmA8_UCaD1PEKCZ5P0rb-QqQD-A6FW-V8oa77OOtFbKUvcIZqI6aQ9XQBaN7dO2W36fVbyRjnKpwdR8SGeMK7QKpdHO51rHr-njJrB97OhUCassTfloNPwTJ0auX5E1U4au6N6LWhwkuapGL3bndowyYpSRMK04RE6LUHIGFxuMXR4lGieQwD7Hc58prwvSvVzEgAS6cLIoUxaEg_s7pH3tDjTYP2P299nGo0j5QFvi7a8eOgGc6Q" height="200" width="auto" /><br><br>Located on the side of 15-16 Newman Street London. PLEASE SCROLL DOWN TO THE END FOR THE LATEST STATUS.<br><br>Update 31/08/2008 The bins obscuring the piece have been removed for the last few days.<br>Update 15/03/2009 Painted over, completely gone. Someone on Westminster Council (Robert Davis?) decreed that it had to go. Just who do these people represent? How many people asked for it to be removed? It would seem that this removal seems to be more about one mans ego than making Westminster beautiful (I mean, do they look at the rest of the area and pat themselves on the back)?]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/j1kQnMBddzE7Hh-3C0Vi7SBUySklwpQfARV79i6JNFRlBxrGRdPpCkRknt4_Bgu5xDeiBK29G_W2Lcw5HsDoz6p-B52X3y1wFBoqEy6zxDhfR02FhCWoKBfGx0swg8F80LOH8z0cMVrJKMmA8_UCaD1PEKCZ5P0rb-QqQD-A6FW-V8oa77OOtFbKUvcIZqI6aQ9XQBaN7dO2W36fVbyRjnKpwdR8SGeMK7QKpdHO51rHr-njJrB97OhUCassTfloNPwTJ0auX5E1U4au6N6LWhwkuapGL3bndowyYpSRMK04RE6LUHIGFxuMXR4lGieQwD7Hc58prwvSvVzEgAS6cLIoUxaEg_s7pH3tDjTYP2P299nGo0j5QFvi7a8eOgGc6Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.135334,51.517115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoodie</name>
+        <description><![CDATA[Located on the canal path - i.e. inaccessible by road (South side) where Eagle Wharf Road meets Shepherdess Walk.<br><br>June 2010 - completely painted over]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.093813,51.53363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cans Festival Work</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/VmTjTUouiQJ7mB1Y03i_C2LPmQ8xL2a6AGcXrI2JLUM7BD6sxG9vfnf5JDWq0_N4E4b4Yh-1L8Fl99Jx4sE3vs7Vv2CclWPIa5dwXafrDQpQcV0dtuPI9xPJ1shSjzp8d8kX1hpyqtnge_5nA5OEpzlRXIoiq5ydfj2gCsFqv4n-1Pp8ftuP0VLcHuKrCcknOwxeyQh9Cw_nd9x_BLgdcbi6Ui9yOFtlD3MDPKjw63p6FrSGhWXKI0D7-5ppsViqo2g9wKQf9uCA1bJyyxDO6u0qquuDfAAblwMDWUKGQ-znseAhsRR3FPH2ouiFmyHot9YR0NWNPgGkZAIWLtpRtD031qrGQySqk9WiRooI8tcJVoBDeDlTkFdbMCecaUPx8us-0ouNepTcFHOg93baX1B-eSBqzH83wg" height="200" width="auto" /><br><br>Various pieces including Cave Painting, Unknown Hoodie, Roller painter and Tagger Leopard. <br>18/07/2008 Hoodie has been tagged over in parts<br>25/08/2008 Only the roller painter remains<br>25/09/2008 Roller painter has now been painted over. Still pleny of other graffiti work to be seen in the tunnel but no Banksy.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/VmTjTUouiQJ7mB1Y03i_C2LPmQ8xL2a6AGcXrI2JLUM7BD6sxG9vfnf5JDWq0_N4E4b4Yh-1L8Fl99Jx4sE3vs7Vv2CclWPIa5dwXafrDQpQcV0dtuPI9xPJ1shSjzp8d8kX1hpyqtnge_5nA5OEpzlRXIoiq5ydfj2gCsFqv4n-1Pp8ftuP0VLcHuKrCcknOwxeyQh9Cw_nd9x_BLgdcbi6Ui9yOFtlD3MDPKjw63p6FrSGhWXKI0D7-5ppsViqo2g9wKQf9uCA1bJyyxDO6u0qquuDfAAblwMDWUKGQ-znseAhsRR3FPH2ouiFmyHot9YR0NWNPgGkZAIWLtpRtD031qrGQySqk9WiRooI8tcJVoBDeDlTkFdbMCecaUPx8us-0ouNepTcFHOg93baX1B-eSBqzH83wg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.115743,51.501971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blur Crazy Beat Art Work</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/0J8jkO-2Xz51B8acPoHu_-K2ULll6wCugr6gBw10wPZo11LcNGgvmiT754yf6knUjZFQgpIUoqml2uwYP9ctTWRCAIBgY9SFql7nuqVu6rrj8C4ZhupxKLyHUj2YUEHY8TDct7pYOChaFidb4SXVPbrgsydfL6TfybhNGm7OE-6z-CjffiQGoJs44DequTGAKe-tkrV4rtUntvYPmOMiLGAPlpqTmfAJ4jLW5KEg6CsRN3aftj1ckHpCxL3EL_vTun5DCE5gWrUd6lLmjEJI5SAF9pxlaNWvzExUYrkNwJ9gbGqGe92XG6jjXZIqisL_6UKoM5ZjWgzGeAsCPgB1bw92S0XP-gQOibphPqvOAPhWRCaILtv7ke0FhF0Hxmg4u69w" height="200" width="auto" /><br><br>Banksy's art used for Blur's Crazy Beat single. Located on a side of a building in Stoke Newington Church Street. <br>20/05/2009 Now in part painted over in black by the local council. Royal Family still visible.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/0J8jkO-2Xz51B8acPoHu_-K2ULll6wCugr6gBw10wPZo11LcNGgvmiT754yf6knUjZFQgpIUoqml2uwYP9ctTWRCAIBgY9SFql7nuqVu6rrj8C4ZhupxKLyHUj2YUEHY8TDct7pYOChaFidb4SXVPbrgsydfL6TfybhNGm7OE-6z-CjffiQGoJs44DequTGAKe-tkrV4rtUntvYPmOMiLGAPlpqTmfAJ4jLW5KEg6CsRN3aftj1ckHpCxL3EL_vTun5DCE5gWrUd6lLmjEJI5SAF9pxlaNWvzExUYrkNwJ9gbGqGe92XG6jjXZIqisL_6UKoM5ZjWgzGeAsCPgB1bw92S0XP-gQOibphPqvOAPhWRCaILtv7ke0FhF0Hxmg4u69w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.079463,51.562038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Last Graffiti Before Motorway</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/yCfHs4TY3Z9rTeOotLqQMA394KUxpaE1IxeffagGoVMsGN67I7nRZ1YMc2I-SlmTPHgajfa5ux9StqK8ceKGnkA0KTGwRcgMGwXvpckzUoK_htDEO0xiIQ44UjKTf4ierU8AqVnpjbADMftAM8Hvg60YBZmdBZ4dXap7j4cnCrfqlkJrwWqX9OOt3FBVmYFn_O0qun2Dq4XhlmSGx2JXxWUqgY3L3xRwTvq_uelL8VICk4ssFoBhC4p-y_nGrqqMN9AotkZgIQhrnCw0W_cQtnuHWR4qLc8_mo38OwKU9itEjKrsazRImZKMB5qibkbAMZmpcXQy6w60NJBJANqJwrKI1I3u_XBQ_Ze_XA-WckZhepBdYA7WLirP2q_SW0gu6F5l9Bznnxdx0yeUEn2cfa7oKfRZVA-w7iKVpb4BN3JItLbo4Gdllis" height="200" width="auto" /><br><br>Located on a Transport For London hut on the traffic island between the North Circular Road (A406) and the Great North Way (A1)<br>22/03/09 Someone has written 'priceless' over the piece and then sold this picture to the Daily Mail.<br>2205/2009 completely removed]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/yCfHs4TY3Z9rTeOotLqQMA394KUxpaE1IxeffagGoVMsGN67I7nRZ1YMc2I-SlmTPHgajfa5ux9StqK8ceKGnkA0KTGwRcgMGwXvpckzUoK_htDEO0xiIQ44UjKTf4ierU8AqVnpjbADMftAM8Hvg60YBZmdBZ4dXap7j4cnCrfqlkJrwWqX9OOt3FBVmYFn_O0qun2Dq4XhlmSGx2JXxWUqgY3L3xRwTvq_uelL8VICk4ssFoBhC4p-y_nGrqqMN9AotkZgIQhrnCw0W_cQtnuHWR4qLc8_mo38OwKU9itEjKrsazRImZKMB5qibkbAMZmpcXQy6w60NJBJANqJwrKI1I3u_XBQ_Ze_XA-WckZhepBdYA7WLirP2q_SW0gu6F5l9Bznnxdx0yeUEn2cfa7oKfRZVA-w7iKVpb4BN3JItLbo4Gdllis</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.206594,51.588616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>No Ball Games</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/10wPX3dXEuyjnJnOWN1-TIqVTijOurBp9pIqeKKAl9WVP5Zpd0JockGOe00zLHn_ZayeMgN-xiwwkan3Xtydi1b-9tCoxSrI0yQWoARfxjlvZtjHmx8iU_3ENocJHJgojXVLabYQLonHe-pXNIduJvqQBo5o7E9wYOmWofFJR6UXiHKTe5onWGXH1J8pfW72WQ9d-uEIbz0AR3TmA5kY3CuM3rKx2UL7gaqLa3gW5vKuPpm3LABWLpuLyxrB-UO3O_YvZ2V0DmXrPJb1fUjb4BKk8hXn6DDevuuEKPLqHiEyZATtW9Vn-JH9ydzRKT75mM_IIPl2oIey42vnBMqiRcEixp3ObryYFBGRjxblDZM3UR2bsWNQar8-Qt4GneqekEz25AomeA" height="200" width="auto" /><br><br>Behind Perspex. On the side of an Estate Agents in the High Road.<br>19/07/2009 Small tag on the perspex.<br>2010 - sign amended by Robbo <br>27th July 2013 - Reported as removed by the Sincura group]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/10wPX3dXEuyjnJnOWN1-TIqVTijOurBp9pIqeKKAl9WVP5Zpd0JockGOe00zLHn_ZayeMgN-xiwwkan3Xtydi1b-9tCoxSrI0yQWoARfxjlvZtjHmx8iU_3ENocJHJgojXVLabYQLonHe-pXNIduJvqQBo5o7E9wYOmWofFJR6UXiHKTe5onWGXH1J8pfW72WQ9d-uEIbz0AR3TmA5kY3CuM3rKx2UL7gaqLa3gW5vKuPpm3LABWLpuLyxrB-UO3O_YvZ2V0DmXrPJb1fUjb4BKk8hXn6DDevuuEKPLqHiEyZATtW9Vn-JH9ydzRKT75mM_IIPl2oIey42vnBMqiRcEixp3ObryYFBGRjxblDZM3UR2bsWNQar8-Qt4GneqekEz25AomeA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.070432,51.588456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Guard Dog & His Masters Voice]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/GjdZUeVBvFcO5IccNsKWIp8LokYdC0kz0qG1Mmyd9c80wcqRwXs_kh46SmdStaSAPwEK-7_rFn4f3yZB8an661Za76roOL_BO1FKxZDOeyYJr-V8UlpfyLcPJxD5saMGD9R9rY240N2KyJhQXA5lsyz4kmtKRe1MGDKA_3y4tHFOv7FOb3MlEJBcn-ieEiiRoubmq7nWl08zBmGYMXs0J9eF6FNFj2xFieu6SEgMphSZgmSuI-sVtNyepq0RamCetD9R6GRsfRwmfH83aypg21Ek4tifmYv1tErLHKn8xIOqq8UeMyJhvXgAy-kLDmgCzA8-W23Cads-5fJ-Ybtk1JfVI7DajbKedrBRKo7KzU8oaoikY1dFJLZxBHJusE0yCiH7WVIcR0pcGIsvd0ZWAgs" height="200" width="auto" /><br><br>Behind Perspex in the beer garden of Cargo, Rivington Street.<br>19/01/2017 Guard Dog still visible and protected by perspex (thanks to Julia for the update)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/GjdZUeVBvFcO5IccNsKWIp8LokYdC0kz0qG1Mmyd9c80wcqRwXs_kh46SmdStaSAPwEK-7_rFn4f3yZB8an661Za76roOL_BO1FKxZDOeyYJr-V8UlpfyLcPJxD5saMGD9R9rY240N2KyJhQXA5lsyz4kmtKRe1MGDKA_3y4tHFOv7FOb3MlEJBcn-ieEiiRoubmq7nWl08zBmGYMXs0J9eF6FNFj2xFieu6SEgMphSZgmSuI-sVtNyepq0RamCetD9R6GRsfRwmfH83aypg21Ek4tifmYv1tErLHKn8xIOqq8UeMyJhvXgAy-kLDmgCzA8-W23Cads-5fJ-Ybtk1JfVI7DajbKedrBRKo7KzU8oaoikY1dFJLZxBHJusE0yCiH7WVIcR0pcGIsvd0ZWAgs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.079039,51.526304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[I Don't Believe In Global Warming]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/fFPnJUj1lB4kyVf-dUYQ0s_6zIpO0gkIiNxxnw-hjZY7oDXG90XcB72sdzO1xF1OaNer5bEFnsRzJrgpkcGGNG8A_4x9C8aQiHUAJHRoSTN9eFDkpo1LlpcqkolrbJitgCwRGQpYJTNDl6XyxEvKPGJ50m1YgvIA9VcBwCA-PPAl0R8CqEbsjt1hhAeMoO54--GFHNc0LQ6_k2zNi6DckaxENpQ4ibfMc95HqBw3F9wyuXZRuifhKhLWKpHcMSVt19t09Vv-bAG5RCo4My_xWUycZ3Muzc94-qyO8cYCa9_9txkSomriK-V_31HOZBJWS8_Xo_FuOUCPme7ldI1yiaa9gzgn9HrM6XooCQjA_PPU_bqbdqX6C3ODQncsL-pRlPXMD-2ii8QLJOrPUc8Eh4sAtwo" height="200" width="auto" /><br><br>On the canal on the opposite side to the path<br>Now amended to read 'I don't believe in war. To (sic) late for that Sonny. Team Robbo'<br>01/04/10 Text now replaced by an image of a bird (stork/heron) with a paint roller for a head. Not claimed as being by to date and since been gone over by Team Robbo again<br><br>10/08/2010 Piece no longer visible - reported as covered with white paint.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/fFPnJUj1lB4kyVf-dUYQ0s_6zIpO0gkIiNxxnw-hjZY7oDXG90XcB72sdzO1xF1OaNer5bEFnsRzJrgpkcGGNG8A_4x9C8aQiHUAJHRoSTN9eFDkpo1LlpcqkolrbJitgCwRGQpYJTNDl6XyxEvKPGJ50m1YgvIA9VcBwCA-PPAl0R8CqEbsjt1hhAeMoO54--GFHNc0LQ6_k2zNi6DckaxENpQ4ibfMc95HqBw3F9wyuXZRuifhKhLWKpHcMSVt19t09Vv-bAG5RCo4My_xWUycZ3Muzc94-qyO8cYCa9_9txkSomriK-V_31HOZBJWS8_Xo_FuOUCPme7ldI1yiaa9gzgn9HrM6XooCQjA_PPU_bqbdqX6C3ODQncsL-pRlPXMD-2ii8QLJOrPUc8Eh4sAtwo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.147988,51.54046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aristoc - rat</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/NYnCJO8XSEw03-2jR9YcoWHOJh0gamKnP6t82drVovQgxIoM5cZeq4zjSZhYaxe8Ra7bx8D-3c8-7B064nbrA-Pde_D_Mk8tnQoxg3kWNnsILj5lRhKeFPJJyRMeEGrc_3AcOs6C-E1ypCRptfU2L04LZCGfVZDuUbIY2_jjUHaak1QMyEUJRjducbBe3eZdbngy4SzqioIii8eFomzLNmn-aRG3u24UdpzCJDwf_c1tCs_3hZ1wdKQlms2VR-3-Ft2G5MLXPB5G8eJvDfz7YXtv7727myPS75o49XaG_ctCBAI9P44x9IoAs7kG-yFApPeVQJyf9XSEm65eQgKtrVst0dJu5ZJdLgBFuMWLS2m5nSHWoLWc018lwadKWgSnSfLi" height="200" width="auto" /><br><br>On the canal on the opposite side to the path<br>Text added by Team Robbo 'La Rat'<br>01/04/10 Team Robbo Text removed. Rat still in place.<br>01/06/2010 Team Robbo text back<br><br>10/08/2010 Piece no longer visible - reported as covered with white paint.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/NYnCJO8XSEw03-2jR9YcoWHOJh0gamKnP6t82drVovQgxIoM5cZeq4zjSZhYaxe8Ra7bx8D-3c8-7B064nbrA-Pde_D_Mk8tnQoxg3kWNnsILj5lRhKeFPJJyRMeEGrc_3AcOs6C-E1ypCRptfU2L04LZCGfVZDuUbIY2_jjUHaak1QMyEUJRjducbBe3eZdbngy4SzqioIii8eFomzLNmn-aRG3u24UdpzCJDwf_c1tCs_3hZ1wdKQlms2VR-3-Ft2G5MLXPB5G8eJvDfz7YXtv7727myPS75o49XaG_ctCBAI9P44x9IoAs7kG-yFApPeVQJyf9XSEm65eQgKtrVst0dJu5ZJdLgBFuMWLS2m5nSHWoLWc018lwadKWgSnSfLi</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.150172,51.539723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fisher Boy</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-BKZu4BF7EQNtQERV6h2EEVxzsD1hh4JO2BHsWTHN-AF7h4DVUIioyaz1zYJcsbD0YPLFeHQfvqdRFZsFkKd7vNXuMsgbEvtbIwYXc-BqFgSeeJeJjPhHvVLtVj2KuKS8JJPZ_St0pdVQqIcFFjG3RzWSdNrrlTSOTDZjAjXn1Hfwep2-4PeaR8E28L7WlqO_VsaFa6xws9-8PF71Wq1QCtmELIAfRqxoYu3jXHYEH9LrdBqeUeK4xDk2O4CT2ijYIa2nM2SQgGidqzMM2RVtIFsiJIhtdPOe0UreV8hvy1hhNJ2uNCFt5VLCc9ax5FBAYB-NlQqbFTDIwwGvR0nCV-q3dRvNOEKgqOUNA24V-WDwUnjZTKrbKzOmpuFbcjQ68GMn9qKYA" height="200" width="auto" /><br><br>On the canal on the opposite side to the path (underneath Oval Road bridge)<br>Sign  saying 'Street Cred' and taunting text now added by 'Team Robbo' <br>01/04/10 Team Robbo text removed. New 'No Fishing' sign added. Alterations not claimed as being by to date.<br>01/06/2010 Team Robbo text back<br><br>10/08/2010 Piece no longer visible - reported as covered with white paint.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/-BKZu4BF7EQNtQERV6h2EEVxzsD1hh4JO2BHsWTHN-AF7h4DVUIioyaz1zYJcsbD0YPLFeHQfvqdRFZsFkKd7vNXuMsgbEvtbIwYXc-BqFgSeeJeJjPhHvVLtVj2KuKS8JJPZ_St0pdVQqIcFFjG3RzWSdNrrlTSOTDZjAjXn1Hfwep2-4PeaR8E28L7WlqO_VsaFa6xws9-8PF71Wq1QCtmELIAfRqxoYu3jXHYEH9LrdBqeUeK4xDk2O4CT2ijYIa2nM2SQgGidqzMM2RVtIFsiJIhtdPOe0UreV8hvy1hhNJ2uNCFt5VLCc9ax5FBAYB-NlQqbFTDIwwGvR0nCV-q3dRvNOEKgqOUNA24V-WDwUnjZTKrbKzOmpuFbcjQ68GMn9qKYA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.148332,51.540433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Graffiti Wallpaper hanging</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ISgMS-mM3KZIcB0VzsYWmrUxirfjOW5VoEzdlVG9gbyPm_ywawSpMsygRmdrnqM4_xNEyIrfiNFbIQ3jxsSkBogQDX3QliieOV4G8nZoMtfbLKDqHJZFKfQacap7Qby3xLv9tPqyZgEPzTbZhN2DK__cmOT3W3ADzdHBDYgslJ3PA5hFl1u15jhDJBGdB7p4YnVMD-5MTcqFoCXiNq310wCkNzulnX16ywIyd4qx_AU_fWYGH9a2Mv9hKWR_NVRd0CYztNmXuR4YF3V3IzZaRGE1HwoGym-rKRRWshNdPHbVy7vGqbEyb-2sNSYW6FjD_1OyaupZyJMSVzGwwC_nDOH7na40eVF7w1O0-l9gpKF69o-n3rJtSUbqwUQkynTcof283vbEm1GVC7EfFA3BqnQ" height="200" width="auto" /><br><br>On the canal on the opposite side to the path<br>The original graffiti wallpaper has been removed to be replaced by 'King Robbo' but the figure is still there.<br>01/04/10 Amended again to read 'Fucking Robbo'. Amendments not claimed as being by to date.<br>01/06/2010 Team Robbo Text back<br>10/08/2010 Piece no longer visible - reported as covered with white paint.<br>2011 has repainted the location as room set with a goldfish leaping from the bowl trying to reach an idyllic setting in a picture frame<br>12/12/2011 Wall now displays a candle and an outline sketch of Robbo's original piece - assumed to have been added by in respect of his current condition.<br>25/12/2011 Wall now displays a pasted up version of Robbo's orginal piece changed to read Think instead of Inc and shown as being painted over Banksy's wallpapering piece.<br>29/01/2013 Paste up gone leaving once again a candle and an outline sketch of Robbo's original piece - assumed to have been added by in respect of his current condition. 21/11/2014 Now completely gone with a tribute to Robbo in its place.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/ISgMS-mM3KZIcB0VzsYWmrUxirfjOW5VoEzdlVG9gbyPm_ywawSpMsygRmdrnqM4_xNEyIrfiNFbIQ3jxsSkBogQDX3QliieOV4G8nZoMtfbLKDqHJZFKfQacap7Qby3xLv9tPqyZgEPzTbZhN2DK__cmOT3W3ADzdHBDYgslJ3PA5hFl1u15jhDJBGdB7p4YnVMD-5MTcqFoCXiNq310wCkNzulnX16ywIyd4qx_AU_fWYGH9a2Mv9hKWR_NVRd0CYztNmXuR4YF3V3IzZaRGE1HwoGym-rKRRWshNdPHbVy7vGqbEyb-2sNSYW6FjD_1OyaupZyJMSVzGwwC_nDOH7na40eVF7w1O0-l9gpKF69o-n3rJtSUbqwUQkynTcof283vbEm1GVC7EfFA3BqnQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.140027,51.54106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Graffiti Painter</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/sg3OLrxZ_U-UIWOcuqeSSbOWsST0_VuOLEgKkfbeUczGi7oC9Mw5jLXHhttb5_lZnvK22cAqnf7JDP1fNk21Z31XdwxRpqabH2WJyVvRssyAkL7PRCGog_j07mZ27JpDFlnREbepD7K7-gJePqVg8HNSKyLNDiIdX60J7NilTvyW-10lxIU6oS8aErNBV3k1gPWYyaev1Zp_oFKJAnwaXyTtY4KjZZAXhLDY8mwIiPuilAxoWPdOHa9ZquKWARcWPvDK1fcw2We5c1-OeLcPPD_CXodP27nRPfpmCFOi8kwGgbST3ZoeynwIBPz3pTwd8ITlbtSVSxQ6jEOvIISfEb-TddwP-xer2ZK9PpZlhWnH_0BiynfveCujlB9TNIMztl6dGtMoR4UGospi42Az_kcF_ZPu9eB--w" height="200" width="auto" /><br><br>Reportedly sold for 200,000 pounds the graffiti painter in Acklam Road is still visible behind perspex (some tags present).<br>March 2014 - checked and still there. <br><br>April 2015, covered by scaffolding and a tarpaulin - please note this piece is often not visible if the market is in action.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/sg3OLrxZ_U-UIWOcuqeSSbOWsST0_VuOLEgKkfbeUczGi7oC9Mw5jLXHhttb5_lZnvK22cAqnf7JDP1fNk21Z31XdwxRpqabH2WJyVvRssyAkL7PRCGog_j07mZ27JpDFlnREbepD7K7-gJePqVg8HNSKyLNDiIdX60J7NilTvyW-10lxIU6oS8aErNBV3k1gPWYyaev1Zp_oFKJAnwaXyTtY4KjZZAXhLDY8mwIiPuilAxoWPdOHa9ZquKWARcWPvDK1fcw2We5c1-OeLcPPD_CXodP27nRPfpmCFOi8kwGgbST3ZoeynwIBPz3pTwd8ITlbtSVSxQ6jEOvIISfEb-TddwP-xer2ZK9PpZlhWnH_0BiynfveCujlB9TNIMztl6dGtMoR4UGospi42Az_kcF_ZPu9eB--w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.207249,51.519031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manson hitchiker</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/p1HKJctlRMrCNkpgwqJB3A8LTiLcMMA7cv70-gfmo--MPBJz-Gd9Wkp59tUsjt5FJkt6rzZTD8DDHkQHHATp0POVevaiajwhzn3QshZ-ogzGS4IaNxekq0VBVZ4FYmfHee5d6AD6ND080LtpQgc0drRNAlMVMHjOBb3nHX3taly7DWpRzoGlKUzI95YUM3fdi2-0ZySMCe4vrxGDsrf90gxzUlJPll0Eap4yKVnNwX89semXQmofKkNVkL_KQti9Kz7H28cady8C18aQNWLUSi-S8A_sAe_wpse_LpCzTxjIr-EkUsBKM6sh6mBHSKp2cHc_oaitlnJfS409hqjU1urn3H4BLKkZJRFLbYnKUIJqQm4-PARnrTZzG01c0Bq7xA" height="200" width="auto" /><br><br>Located at the bottom of Highgate Hill.<br><br>10/03/2010 Wording amended on sign by Robbo<br>16/04/2011 Wall reported as demolished.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/p1HKJctlRMrCNkpgwqJB3A8LTiLcMMA7cv70-gfmo--MPBJz-Gd9Wkp59tUsjt5FJkt6rzZTD8DDHkQHHATp0POVevaiajwhzn3QshZ-ogzGS4IaNxekq0VBVZ4FYmfHee5d6AD6ND080LtpQgc0drRNAlMVMHjOBb3nHX3taly7DWpRzoGlKUzI95YUM3fdi2-0ZySMCe4vrxGDsrf90gxzUlJPll0Eap4yKVnNwX89semXQmofKkNVkL_KQti9Kz7H28cady8C18aQNWLUSi-S8A_sAe_wpse_LpCzTxjIr-EkUsBKM6sh6mBHSKp2cHc_oaitlnJfS409hqjU1urn3H4BLKkZJRFLbYnKUIJqQm4-PARnrTZzG01c0Bq7xA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.135633,51.566112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tox Bubble Writer</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/LP2E_vmqYnYgSZvjIHzRmy9_bdElw-6rZAxIuASRHuUemDSYzQmEeeYSSi00K-gy9Pvsbyugpzx9O5OZ5okEYE_61sN4Wc5OLlLRS_8dd855H_SegZkemZjb966VGXQeiEmTar4UBvYw1FzwPQubrMPHO3KK0TzqE0RXCzn5Dup7_VnkgEJrCgr5T2iHNveTWtDRO-78uAJLzp4MlcRaUISeg6-RkjasQtiurZjwz6X7xTfMNs9sP8JiJi8cyij1J4DRusWHraPWnCDqdhCMYyTLL8eTQbwyPSDXKs7yJQBuULM3POQXOU4UydV_ZJnELdvVLt8LbXBD22cRmp2uoQkZn0HbEd-AsVEHGncbcdlzONsKFWggAw" height="200" width="auto" /><br><br>Located in Jeffrey's Street, near Camden road station.<br>June 2011 appeared and rapidly covered in perspex.<br>October 2011 - paint poured through the perspex, tagged over the top, little left to see clearly.<br>28th June 2012, Perspex removed, whaitewashed over]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/LP2E_vmqYnYgSZvjIHzRmy9_bdElw-6rZAxIuASRHuUemDSYzQmEeeYSSi00K-gy9Pvsbyugpzx9O5OZ5okEYE_61sN4Wc5OLlLRS_8dd855H_SegZkemZjb966VGXQeiEmTar4UBvYw1FzwPQubrMPHO3KK0TzqE0RXCzn5Dup7_VnkgEJrCgr5T2iHNveTWtDRO-78uAJLzp4MlcRaUISeg6-RkjasQtiurZjwz6X7xTfMNs9sP8JiJi8cyij1J4DRusWHraPWnCDqdhCMYyTLL8eTQbwyPSDXKs7yJQBuULM3POQXOU4UydV_ZJnELdvVLt8LbXBD22cRmp2uoQkZn0HbEd-AsVEHGncbcdlzONsKFWggAw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.141696,51.542759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>If Graffiti Changed Anything</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/xbQTpOSe6I41vp5-ZCa4k6E3fu2ES7kC4G85I5iIHqCIEr1ARlgyFz1JOIVmPM9yjMRcmQYhYOY3V4xGqj3Ejcw0ppjbj3qsas0Vue_NFWLzEBlipK3d7gtfx-jTik5e4vEPYj0au2lgl74PwVxAFp5NVhcdJR4kx5Bzdi1S5w9DWE3QEpcoA8p-NWJCxXuqGvc9ec5kjt42aUeIR6lxLdrTvzGQxiSSsb4TrzQBUgySbXypdziPQwiDqCWo8A0trAczBVPFz5SLghnBeh2z8hjCmFk9hifoOHDtXDMiRZh4iqV-IUAN0GrNnzJloix3Vr-9XpKnqWN6RRIzk1q1azo-YRRVTAQ9XgpPos6Z5n308XvWvj-TjCog8m5fA-9cLSRF" height="200" width="auto" /><br><br>Located by the garage at the BT Tower end of Clipstone Street. PLEASE SCROLL DOWN TO THE END FOR THE LATEST STATUS<br><br>10/06/2011 Covered in perspex<br>25/4/2014 Still behind perspex, paint reported as starting to flake off (thanks Kirsten). The paint on this wall was always pretty flaky. <br><br>12/04/2015 rat is still visible but most of the perspex has been covered in tagging (thanks to Reilly for the update). <br><br>10/06/2016 Building fully enclosed by construction work - either demolition or renovation. The work is currently not visible (thanks to Andrew for the update).   <br><br>19/01/2017 Still behind hoardings, if you can use something to peer over it may still be visible (thanks to Julia for the update)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/xbQTpOSe6I41vp5-ZCa4k6E3fu2ES7kC4G85I5iIHqCIEr1ARlgyFz1JOIVmPM9yjMRcmQYhYOY3V4xGqj3Ejcw0ppjbj3qsas0Vue_NFWLzEBlipK3d7gtfx-jTik5e4vEPYj0au2lgl74PwVxAFp5NVhcdJR4kx5Bzdi1S5w9DWE3QEpcoA8p-NWJCxXuqGvc9ec5kjt42aUeIR6lxLdrTvzGQxiSSsb4TrzQBUgySbXypdziPQwiDqCWo8A0trAczBVPFz5SLghnBeh2z8hjCmFk9hifoOHDtXDMiRZh4iqV-IUAN0GrNnzJloix3Vr-9XpKnqWN6RRIzk1q1azo-YRRVTAQ9XgpPos6Z5n308XvWvj-TjCog8m5fA-9cLSRF</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.140247,51.521775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Choose Your Weapon</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/xC6UN0HKygqqfR5uLIZqUjEbSktA2TTaiOED7M1vUBbvAt1w7mjSluvtbn6iS4KRQy2rBXRKmI_Qg1VDMC9QdrFPN4jBnxTp57ABU8ZmcnKF4NZc_6SpAaXHD9wluxGRwDdPrzTv-hwUCSdH93HZHFxldp5N0B7u-sHWP19QiBmjY1scxYBaNglmftbebKEvf6SJB-ZkVDf0RTqW6LliCQ64GiZDNCMNU9ihuyFIjtUfbN2xAk1zWRAr_jIgXFA6sOVVhW96_iMJ8StkpytO-BoQgeWzds2hup2S-8vULzMNzV7eOww_9wM1YcBRAifx63sHBOb_ifIBk6BkLXyuaZO_UTiy-K82jLkhkzc2A5xy5wvTlUQe9bbblBI4P4d7fA" height="200" width="auto" /><br><br>Located in The Grange, Camberwell Southwark.<br>Shortly after it appeared it was boarded over then reappeared covered in perspex. On the 1st August 2016 it was reported that the perspex itself was covered in posters and flyers to the point it could no longer be seen - so neither gone but also not visible..]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/xC6UN0HKygqqfR5uLIZqUjEbSktA2TTaiOED7M1vUBbvAt1w7mjSluvtbn6iS4KRQy2rBXRKmI_Qg1VDMC9QdrFPN4jBnxTp57ABU8ZmcnKF4NZc_6SpAaXHD9wluxGRwDdPrzTv-hwUCSdH93HZHFxldp5N0B7u-sHWP19QiBmjY1scxYBaNglmftbebKEvf6SJB-ZkVDf0RTqW6LliCQ64GiZDNCMNU9ihuyFIjtUfbN2xAk1zWRAr_jIgXFA6sOVVhW96_iMJ8StkpytO-BoQgeWzds2hup2S-8vULzMNzV7eOww_9wM1YcBRAifx63sHBOb_ifIBk6BkLXyuaZO_UTiy-K82jLkhkzc2A5xy5wvTlUQe9bbblBI4P4d7fA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.076958,51.495242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falling Shopper</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Wx4Aou_m-NhJ8RGNhSqmqiymdyxeWCXJtTHNw_wa9Z0-wj_38talkt0Zd4Gp5UvnsTHhwokR3k8K8aZKj4tJfL9Pq9YM9i_7pYShuLvSVi7v44iZU8NpYMp9uN4L-4Wxp1gYrIb9SEvMEuSulQShaCxVVVOCm1U6CQ1piz9lWrcacLXGL9085F4ZRjc7VgXkNuEnW9i5zs0kn3MmOq1aU3IWKdremX743YSz66sw29q9BewdnHTZgFT7BLdkJO0AtWnv_TymU_Mm_HwLuRo45CNNtiSoeLb8DyS2DyjZ_gRPuffyCm3YQo-siAUWXXYoQ6bkap-zEJH2mqgSOrZu2d2vwsGKDpuojuD8UKZnbz3DeulrJtkmnQ" height="200" width="auto" /><br><br>Falling Shopper - located above street level in Bruton Lane on the side of a large, disused office building. PLEASE SCROLL DOWN TO THE END FOR THE LATEST STATUS.<br><br>12/04/2015 Still looking great but some construction going on around the building (thanks to Reilly for the update)<br><br>19/01/2017 Confirmed as still visible and undamaged (thanks to Julia for the update)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/Wx4Aou_m-NhJ8RGNhSqmqiymdyxeWCXJtTHNw_wa9Z0-wj_38talkt0Zd4Gp5UvnsTHhwokR3k8K8aZKj4tJfL9Pq9YM9i_7pYShuLvSVi7v44iZU8NpYMp9uN4L-4Wxp1gYrIb9SEvMEuSulQShaCxVVVOCm1U6CQ1piz9lWrcacLXGL9085F4ZRjc7VgXkNuEnW9i5zs0kn3MmOq1aU3IWKdremX743YSz66sw29q9BewdnHTZgFT7BLdkJO0AtWnv_TymU_Mm_HwLuRo45CNNtiSoeLb8DyS2DyjZ_gRPuffyCm3YQo-siAUWXXYoQ6bkap-zEJH2mqgSOrZu2d2vwsGKDpuojuD8UKZnbz3DeulrJtkmnQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.143788,51.510492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sorry! The lifestyle....</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/YrXKaPh9QvYOhN8HSMujQW0axqcxLhi6wFLJm5s1hB3nW4RuSUkJjjHBtJgUr1YkMxw4NVj6IA8b63qEQmeNpiJ5xVI6weAPUs7uXzvTJqsbWdElCbdRnuNDhCmMA4K_FW2_YlbiYG9RaSrvcVRX3wJDf1fqkFaS2rj8VMgImzLssYED8DRm-os5pR9VGKrjn05hXCEmWyGFiPwPiVxYMFXQZIyX8lKIQONcpWiMbvtFInA6MM-2MTCTp37oRrJyASbMqOnLM8p1qUz514bVimVhPC_n6vaNrJwEMxjI6DVh3qhaBijtHVguakiNX19z68oOvmO3MnSxbQQtMusSqT_APJnKCwhL5lIRyIl459ENHhdS" height="200" width="auto" /><br><br>Large text based piece on the side of an unfinished development in Poplar, East London near the Blackwall Tunnel Northern Entrance<br>Still there but with a thin  black line running through the middle.<br>9th March 2014, now obscured by a billboard, no longe visible (thanks for the info Sofia)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/YrXKaPh9QvYOhN8HSMujQW0axqcxLhi6wFLJm5s1hB3nW4RuSUkJjjHBtJgUr1YkMxw4NVj6IA8b63qEQmeNpiJ5xVI6weAPUs7uXzvTJqsbWdElCbdRnuNDhCmMA4K_FW2_YlbiYG9RaSrvcVRX3wJDf1fqkFaS2rj8VMgImzLssYED8DRm-os5pR9VGKrjn05hXCEmWyGFiPwPiVxYMFXQZIyX8lKIQONcpWiMbvtFInA6MM-2MTCTp37oRrJyASbMqOnLM8p1qUz514bVimVhPC_n6vaNrJwEMxjI6DVh3qhaBijtHVguakiNX19z68oOvmO3MnSxbQQtMusSqT_APJnKCwhL5lIRyIl459ENHhdS</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.009007,51.511587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Child with Bunting</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/6wm9kK04P2nHq5XpsQgEgzHWw2ngaJguVzGc1JokThiChYCVd1bOLcpA_eCEUR1bm_gEhxVRvpBqBwGOuWiivkNRQLmqHuy-ixMOftHuIcDHFUYU9MBq0yYP2b1BbS9PLvxEgJ73dtu6nK81dT8souSKYX20OY_i_w0J5MTra7x5zwG9xSPtnVvNcGIj7PDUuc0hBqRfo4lGBk7wHUfrAjgGoceR0txnTc-THH_o2W4aiq_fnIIBmLAQun1s_UpmPZyH6WySwvjG84BLOoPfgbH0OwQvJBkwHTaAxNIU3GCDEShzxuPq_yKrVpYVjVMM5ml7D8y4hvIwHiJ3wRWIzAYqYt6XZqq5_dnFs-3NnOEI6329qr5q2QFfbJjj8kE" height="200" width="auto" /><br><br>Behind Perspex. On the side of Poundland in Whymark Avenue.<br>First reported on 14/05/2012.<br><br> <br>Reported as removed on 17th Feb 2013. Nothing left.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/6wm9kK04P2nHq5XpsQgEgzHWw2ngaJguVzGc1JokThiChYCVd1bOLcpA_eCEUR1bm_gEhxVRvpBqBwGOuWiivkNRQLmqHuy-ixMOftHuIcDHFUYU9MBq0yYP2b1BbS9PLvxEgJ73dtu6nK81dT8souSKYX20OY_i_w0J5MTra7x5zwG9xSPtnVvNcGIj7PDUuc0hBqRfo4lGBk7wHUfrAjgGoceR0txnTc-THH_o2W4aiq_fnIIBmLAQun1s_UpmPZyH6WySwvjG84BLOoPfgbH0OwQvJBkwHTaAxNIU3GCDEShzxuPq_yKrVpYVjVMM5ml7D8y4hvIwHiJ3wRWIzAYqYt6XZqq5_dnFs-3NnOEI6329qr5q2QFfbJjj8kE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.103834,51.591039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phone Tap</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/YardAqLRWKn6upNQhaHz2MNWgKd49k_LYqMo7vSdgy6wBRd3gUvpii6r-vv9wliBgST91C7C7Iph1cuQtnQydG6J0J2pzBZrnetx5l4ZBpBhrcuI1wRIoYcmJod3DgBv8cgXYBJ1639EusxO2KMc-kvTZLu0gWWX5ujowZXk5JjxzxhRtKSyzy4MeZ_o6yFhJQCyswC0gDYiqAvb6872sLbsuZo81PIe_G0dHLk9GMDd7gCqXP5FhcVEfE19ZiobSVwEvNAdKeOd2H_5TDTekrvLdPJzNu6_ViEHssNNghwQl4mqT_DVLTl7GULqLGjUuo2XlqpfYUsVARPA0tH5PVPnVd0U0vBC6O9fRTCCXVlXIAgL7_924AaUtpD1G84bu1FD9w" height="200" width="auto" /><br><br>Banksy 'My Tap's Been Phoned in Chrisp Street<br>Still there but with some multi coloured paint splatters around it.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/YardAqLRWKn6upNQhaHz2MNWgKd49k_LYqMo7vSdgy6wBRd3gUvpii6r-vv9wliBgST91C7C7Iph1cuQtnQydG6J0J2pzBZrnetx5l4ZBpBhrcuI1wRIoYcmJod3DgBv8cgXYBJ1639EusxO2KMc-kvTZLu0gWWX5ujowZXk5JjxzxhRtKSyzy4MeZ_o6yFhJQCyswC0gDYiqAvb6872sLbsuZo81PIe_G0dHLk9GMDd7gCqXP5FhcVEfE19ZiobSVwEvNAdKeOd2H_5TDTekrvLdPJzNu6_ViEHssNNghwQl4mqT_DVLTl7GULqLGjUuo2XlqpfYUsVARPA0tH5PVPnVd0U0vBC6O9fRTCCXVlXIAgL7_924AaUtpD1G84bu1FD9w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.013776,51.511614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>map.kml</name>
+      <Placemark>
+        <name><![CDATA[Because I'm Worthless]]></name>
+        <description><![CDATA[This piece appeared in London by Banksy to showcase his painting by the rats having a sign next to it stating "I'm worthless" stating it to the people that don't mean much to there life in exicstence.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blinded Napoleon</name>
+        <description>This piece is a spray painted piece and an interpretation of the original painting of Napoleon by Jacques-Louis David.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            2.351499,48.85661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bomb Hugger</name>
+        <description>The picture of a young girl hugging a bomb to her chest is one of Banksy’s original creations back in 2003, where it was made on a wall in London’s East End. The piece symbolises the horror of warby being innocence and as young girl by having nothing to do with it as being good or evil. On a mural, In East London</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.8546,33.01529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Box Cutter Rat</name>
+        <description>This painting is a spray painting created by Banksy in 2018 in the city of Paris. The painting is of a masked rat holding a booxcutter.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            2.351499,48.85661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bronx Zoo</name>
+        <description>This painting is of a leopard yawning while lounging on a railing at Yankee Stadium</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -73.926521,40.829583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bubble Slide Girl</name>
+        <description>It shows a little girl using a drain pipe as a slide while blowing bubbles. The image shows the girl adapting to her surroundings and finding a playground in an unlikely place, just as society continues to adapt to difficulties in the world around us. The piece has currently removed. On the wall of a Youth Club in Hackney, East London.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.8546,33.0292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cameraman and Flower</name>
+        <description>This piece by Banksy, Cameraman and Flower appeared on the wall of a Park City coffee shop in the lead up to the premier of Banksy’s film at Sundance in 2010. It represents the lengths people go to in order to preserve beauty, but often lead to it’s destruction as in this case where the cameraman has uprooted the flower in order to film it.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2437,34.0522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cash Machine Girl</name>
+        <description>An eye-catching stencil by Banksy of a girl being grabbed by the robotic arm of a cash machine, appeared close to Exmouth Market in North London. The message appears to be anti-capitalist, with Banksy perhaps taking a shot at high street banks luring customers in versus local banks barely surviving. In front of Exmouth Market, on a wall in North London.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.083599,51.654827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Child Soldier</name>
+        <description><![CDATA[This was one of Banksy's big paintings in Hollywood. The theme of weapons and children is a recurring are in a lot of Banksy’s pieces.This child soldier having a machine gun appeared in Los Angeles on a wall of “Urban Outfitters” although it didn’t last long before it was vandalised with paint. The piece is an attempt to highlight the corrupted innocence of children and it is not uncommon to see children having guns and involved in conflicts in highly volatile parts of the world. In front of Urban Outfitters, on a wall in Westend Street in Los Angles, California.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -118.243683,34.052235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Choose Your Weapon</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/cZC_aDQm1tebyAOz1FOtf32mnBXmGCzLp2F2f7Lx3aEeCn6rNEgiC18xJl-1qejMLcdup2G03pb6ZXkjl7diZMcidM3bH9TbWd2ga8wZl68jNibits5Xk02LagnPruYRDI2Z7g" height="200" width="auto" /><br><br>Short description about the work. Although the location and date are in the meta data, include it in the description as well. This will be displayed on the site.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/cZC_aDQm1tebyAOz1FOtf32mnBXmGCzLp2F2f7Lx3aEeCn6rNEgiC18xJl-1qejMLcdup2G03pb6ZXkjl7diZMcidM3bH9TbWd2ga8wZl68jNibits5Xk02LagnPruYRDI2Z7g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0,0,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Don't Forget your Scraf]]></name>
+        <description>This piece of Banksy artwork first appeared as part of an exhibit in Bristol titled ‘Banksy Versus Bristol Museum’. Critics state that while this is not one of Banksy’s more subversive artworks it expresses a simple ideal : that a child should be loved and accepted for what he or she is not because the fit with society’e expectations</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            2.5879,51.4545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drunk Angel</name>
+        <description>This piece by Banksy Drunk Angel, was first spotted on London Bridge although it has since been painted over. It shows a fallen angel, tied and weary. The bottle suggests alcohol and the angel is also smoking. Banksy seems to be saying that despite his best efforts the angel has failed and ended up turning to substance abuse by not helping himself.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Follow your Dreams - Canceled</name>
+        <description>A sad-looking working class painter has painted the words ‘follow your dreams’ before having the word ‘cancelled’ stamped over in a big rectangular box. This piece is shown Chinatown, Boston. It represents everyones dreams coming to stop because your in reality. In Chinatown, behind Shadi Restrauant in Boston.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -71.0624,42.3501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fridge Kite</name>
+        <description>This piece by Banksy shows a Fridge Kite by a child flying a kite, but it is actually a fridge. It has been suggested that this represents hunger and poverty. However, the child is still finding a way to be a child despite this. It shows the power of limitation that a child can have. This work has since been destroyed.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0715,29.9511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gangsta Rat</name>
+        <description><![CDATA[Banksy’s ‘Gangsta Rat’ was first spotted w at Moorfields Eye Hospital in London in 2006. The rat, who is indeed looking rather ‘gangster’ with his chain and baseball cap symbolizes the society as it went from innocent looking to a "gangsta"type of looking by making the society worse. In front of Morefields Eye Hospital in on City Road in London.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.0898,51.5276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Girl with Balloon</name>
+        <description><![CDATA[One of Banksy's most iconic pieces, the Girl with Balloon first appeared at the stairs for the Waterloo Bridge on the South Bank side in 2002. Stairs for the Waterloo Bridge on the South Bank side.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.116944,51.508611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Girl with Skipping Rope</name>
+        <description>This piece by Banksy makes up half of a two part piece of art, with the green ‘skipping rope’ snaking across the ground and connecting to the electric box in another Banksy painting. It was originally found in Brooklyn but was painted over after falling victim to ‘The Splasher’ and individual who goes around splashing paint on street art.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9442,40.6782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Go Flock Yourself</name>
+        <description>This piece is a spray painting that was done by Banksy in retaliation to the movement in Paris to displace migrants from their makeshift camps. The painting is of a young African girl covering a swastika with the fleur-de-lis.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            2.351499,48.85661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gorilla Artist</name>
+        <description><![CDATA[One of Banksy's graffiti artwork showed up in London by the Cans Festival as a gorilla sitting on a tiny bucket in thinking form by representing the society and how we've became today as the result of not working togther as a team. On Leake Street at the Cans Festival in London.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.065652,51.30702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Graffiti Is A Crime</name>
+        <description>This is a spray painted piece that depicts two boys, one standing on the others back, reaching up to grab a can of spray paint, that is on a sign stating graffiti is a crime.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -73.992162,40.715199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Graffiti is a Crime</name>
+        <description>Graffiti Is a Crime is the first of Banksy’s pieces in New York City in October 2013. The piece incorporates his distinctive technique and pokes fun at the law by incorporating an anti-graffiti sign. However, within hours of it being posted on Banksy’s Instagram profile, the sign had been stolen and by the next day city officials had painted over the work. On Allen Street in New York City.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -73.592674,40.43639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hammer Boy</name>
+        <description>Hammer Boy was the piece created on Day 20 of Banksy’s New York Residency in 2013.Banksy makes use of existing features/items and adds his different stencil style to bring them to life. Several attempts have been made to deface but the painting is still there today. On 79th street, in front of Building in New York City.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -73.585303,40.47393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>I want change</name>
+        <description><![CDATA[This piece depicts a homeless man holding a sign that says "keep your coins, I want change". It was painted in Melbourne Australia.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            144.963,-37.8142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Injured Buddha</name>
+        <description>This picture showed up at the festival as a reminder to the society that other people can join the festivals as well. The work shows Buddha with a bandaged hand and facial wounds to symbolize the triumph of the mind over emotion. By this happeneing, it will get better from here on out. In front of Cannes Festival in London.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            7.017369,43.552849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Interest in People</name>
+        <description>This Banksy art piece shows a salesman with an aim to attack the a capitalist society where respect for people can often be viewed as less important than commodities. The graffiti lasted only a couple of days before it was painted over by store staff. It shows that he wants people to underatnd other human beings as well.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            79.3832,43.6532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Israeli-Palestinian Pillow Fight</name>
+        <description>This is a hand painted piece that can be found in one of the hotel rooms at the walled off hotel. It depicts a palestian fighter and an israeli soldier having a pillow fight. It was painted sometime in 2017.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.203156,31.719302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Javelin Thrower</name>
+        <description>During the 2012 Olympics in London, Banksy created this piece known as ‘Welcome to Hackney’ or ‘Javelin Thrower’ as it shows an athlete throwing a missile. This is in protest of the decision to add surface to air missile launchers on top of some residential tower blocks in the city as part of the security measures during the games.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.0166,51.5433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keep your Coins, I want Change</name>
+        <description>This piece of Banksy became super popular as it spread everywhere.This piece was discovered in Melbourne. It shows a homeless man who appears to be asking for change but not in the physical change – as he says, he wants social change rather than coins/bills. Its a strong piece with a deep meaning as he wants society to change for the better. On a street outide of a building in Melbourne Australia.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            144.9631,-37.8136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Looting Soldier</name>
+        <description>This piece in New Orleans is a comment on the alleged looting that took place all over the city in the wake of Hurricane Katrina. This piece has since been damaged and painted over, but the buildings owner has had it removed and is looking to restore it to its former glory. This was a message to get acroos that this wrong. In New Orleans, in front of a hospital.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0715,29.9511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naplam Girl</name>
+        <description>Banksy created Napalm Girl in 2004. It features a reproduction of an iconic photograph of a young girl during a napalm bombing in Vietnam in the seventies. In Banksy’s version the terrified naked girl is caught between Ronald McDonald and Mickey Mouse. The piece was created on cartridge paper and has been exhibited internationally in many different galleries.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Woman</name>
+        <description>This piece by Banksy appeared in Los Angeles in 2006 and clearly pokes fun at the large numbers of girls on MySpace who used flattering angles and photo editing to make themselves appear more attractive. It shows it from the old lady with the comment ‘You Looked Better on Myspace’.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2437,34.0522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seal Mural</name>
+        <description>The image is that of a seal juggling a ball on its nose. It was painted by Banksy on the side of a rundown building on 1249 Coney Avenue and was uploaded to instagram on March 20, 2018</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9654,40.6274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Season's Greetings]]></name>
+        <description><![CDATA[Season's Greetings was how Banksy finished off the 2018 year. The image appears on two sides of a garage; one depicting a child enjoying snow falling while the other side reveals the "snow" is actually ash from a dumpster fire. Garage in the Welsh Industrial Town of Port Talbot.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -3.79859,51.59055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Security Guard with Pink Balloon</name>
+        <description>This piece, showing a security guard officer with a dog on a leash consisting of a pink balloon, was discovered at the rear of a police headquarters in the province of Ontario, Canada. Sadly, it was vandalised just a few days later. It showed that the police was soft on the criminals recently being released from jail. In front of OPP Headquarters in Toronto Ontario.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.384293,43.653908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slave Labour</name>
+        <description>This graffiti piece was produced by Banksy to mark the Queen’s Diamond Jubilee in 2012 and shows a child labourer working to produce some kind of object while having the UK flag on him in celebration of the event. The work did not last long and was removed in early February 2013.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snorting Copper</name>
+        <description>This artwork shows the police officers in London snorting a line of coke.This artworks also included several miles of paint “dribble” which trailed through the city and led to the stencil representing a line of coke. This piece by Banksy is strongly taking shots at the cops by lacking immorality and corruption in the police force. This artwork was vandalized but hsa been brought back to restoration. On Curtain Road at the Waterloo Station in London.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.133869,51.51001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soldiers Painting CND Sign</name>
+        <description>This piece by Banksy of Soldiers Painting the CND sign was confiscated for allegedly breaking laws regarding protests in this area. It has been suggested that it represents the repression of free speech as well as acting as an anti-war protest.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sorry, The Lifestyle you Ordered</name>
+        <description>This piece by Banksy was discovered towards the end of 2011, Sorry! The lifestyle you ordered is currently out of stock appears on the side of an empty building believed to be a failed housing project stalled by the recession. It is still visible today although it has some streaks of black paint over it. It shows that no one can live a perfect life or have one just like yours.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stop and Search</name>
+        <description>Girl and a Soldier is one of the 2007 pieces that Banksy put up on a wall in Bethlehem. The little girl is seen frisking an armed soldier in diffrent types of roles to get what she wants. This along with other images on the wall were intended to promote the annual Santa’s Ghetto exhibit. The piece is still visible although somewhat faded today.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.200657,31.705791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sweep it Under the Carpet</name>
+        <description><![CDATA[One of Banksy's recognisable pieces in 2006. It shows a woman dressed as a maid who is sweeping dirt under the cover of a brick wall. The piece is said to represent the western world to deal with global issues such as the AIDS epidemic as being the main issue in 2006. On Chalk Fun Road in North London.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.083699,51.654815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swing Girl</name>
+        <description>Swing Girl is another example of Banksy making use of what was already there. The ‘ing’ portion of the parking sign have been whitewashed out to form park and a girl on a swing added to the letter A. It seems clear on what he is trying to say as there is a lack of places for kids to play safely in what is a fairly rough area of LA. Located in a car park on Broadway, Downtown LA.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2437,34.0522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Take this Society</name>
+        <description>This piece is diffrent from his others becasue of the location, its not seen at a busy place for people to take notice.It shows little boy in the act of painting the slogan, as an act to show society that everyone matters no matter what.This piece however has currently removed. At Holland Park Roundabout in the Shepherd’s Bush area of London.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tap Phoned</name>
+        <description>In July 2011, one story that dominated the British headlines was the phones and voicemails being hacked by journalists. This piece by banksy is a show to the population that an existing tap on the wall and proclaiming “Oh no.. my tap’s been phoned” by having the sound also on it.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Mild Mild West</name>
+        <description>The Mild Mild West depicts a teddy bear tossing a moatov cocktail at policemen in riot gear. Banksy created this in response to police armed in riot gear attacking partygoers at an event at Winterstroke Road.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.589352,51.462783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thug for Life Bunny</name>
+        <description>Banksy’s Thug For Life Bunny was originally in London, but has since been painted over. In this piece, Banksy style the cute bunny seems at odds with the cigar and excessive bling more suited to hip hop artists. To me it is a comment on how the younger generations are being lured into this thug lifestyle that is being shown in the media today.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.1278,51.5074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Well, Hung Lover</name>
+        <description><![CDATA[One of Banksy's biggest piece he has done. The man hanging from the window naked with a man in a suit and a women looking outside the window to find him, appeared on Park St in Bristol in front of a health clinic in 2006 to represent the societys wrong doing as not everyone being treated right. In Bristol, England from a window on Park Street.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6011,51.4534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

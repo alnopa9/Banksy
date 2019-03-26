@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -32,7 +32,6 @@
         <desc>Short description about the work. Although the location and date are in the meta data, include it in the description as well. This will be displayed on the site.</desc>
         <p>
             <img src="" alt=""/>
-            <title></title>
             <credit></credit>
         </p>
     </body>

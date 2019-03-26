@@ -14,12 +14,10 @@ order by $n
 return
     <Placemark>
         <name>{$n}</name>
-        <description>&#10;
-            {$description}&#10;
-            &lt;![CDATA[&lt;img src="
-            {$img}
-            /&gt;/&gt;]] &#10;
-            {$credit}&#10;
+        <description>
+            {$description}
+            <br/>
+            <a href='{$credit}'>CREDIT</a>
         </description>
         <TimeStamp>
             <when>{$when}</when>
