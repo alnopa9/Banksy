@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -23,7 +23,6 @@
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">https://arrestedmotion.com/?s=banksy</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -31,8 +30,7 @@
     <body>
         <desc>This spray painting is of a mouse couple starring up and admiring the eiffel tower in downtown paris.</desc>
         <p>
-            <img src="" alt=""/>
-            <title>Rat Couple</title>
+            <img src="../../site/img/graffiti/rat_couple" alt="Banksy's 'Rat Couple'"/>
             <credit>This article was written by someone with the screen name "sleepboy" and photo credit was given to multiple people on the website.</credit>
         </p>
     </body>

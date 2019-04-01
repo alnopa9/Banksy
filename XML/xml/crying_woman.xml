@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -31,8 +31,7 @@
     <body>
         <desc>This painting is a medium sized spray painting located in Gaza on a lone standing door, it depicts a woman hunched over presumably crying. </desc>
         <p>
-            <img src="crying_woman.jpg" alt="woman crying"/>
-            <title>Crying Woman</title>
+            <img src="crying_woman.jpg" alt="Banksy's 'Woman Crying'"/>
             <credit>Article was written by someone under the screen name of SAL and multiple people were given photo credit.</credit>
         </p>
     </body>

@@ -18,12 +18,11 @@
                     <title>Tox</title>
                     <date when="2011-06"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.5074" long="0.1278"/>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
                     <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
-                    <ref target="">Article That Supplied Information for Markup</ref>
-                    <edition total="https://londonist.com/2011/06/new-banksy-street-art-mentions-tox" signed="" unsigned="">
+                    <ref target="https://londonist.com/2011/06/new-banksy-street-art-mentions-tox">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -32,7 +31,7 @@
         <desc> In June 2011, graffiti lover Daniel Halpin, aka Tox was convicted of tagging multiple locations over a three year period. The prosecution mocked him as ‘no Banksy’ due to a lack of artistry in his tagging. 
             In response Banksy put up the piece which shows a little boy writing ‘Tox’ in bubbles. People are not sure whether this is a show of solidarity or being used to poke fun at Halpin.</desc>
         <p>
-            <img src="tox.jpg" alt="Tox Banksy"/>
+            <img src="tox.jpg" alt="Banksy's 'Tox'"/>
             <credit>By: George Hinkelmann from London, https://londonist.com/2011/06/new-banksy-street-art-mentions-tox</credit>
         </p>
     </body>

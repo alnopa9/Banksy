@@ -15,15 +15,15 @@
             </head>
             <body>
                 <xsl:comment> SSI line below </xsl:comment>
-                <xsl:comment>#include virtual="../../ssi/top.html" </xsl:comment>
+                <xsl:comment>#include virtual="../../ssi/topGallery.html" </xsl:comment>
                 <xsl:comment> SSI line below </xsl:comment>
-                <xsl:comment>#include virtual="../../ssi/side.html" </xsl:comment>
+                <xsl:comment>#include virtual="../../ssi/sideGallery.html" </xsl:comment>
                 <div class="body-container">
                     <div class="vertical-flow">
                         <xsl:comment> SSI line below </xsl:comment>
-                        <xsl:comment>#include virtual="../../works_ssi_gallery.html" </xsl:comment>
+                        <xsl:comment>#include virtual="../../ssi/works_ssi_gallery.html" </xsl:comment>
                         <div class="single-work">
-                            <div class="gallery-page-img" id="">
+                            <div class="gallery-page-img" id="portrait">
                                 <xsl:text>&#10;</xsl:text>
                                 <xsl:if test="descendant::sourceDesc//medium[@type='spray_paint']">
                                     <img src="../../img/graffiti/{descendant::body//img[1]/@src/string() ! tokenize(., '/')[last()]}" alt="{descendant::body//img/@alt/string()}"/>
@@ -58,7 +58,7 @@
                     </div>
                 </div>
                 <xsl:comment> SSI line below </xsl:comment>
-                <xsl:comment>#include virtual="../ssi/license.html" </xsl:comment>
+                <xsl:comment>#include virtual="../../ssi/license.html" </xsl:comment>
             </body>
         </html>
     </xsl:template>

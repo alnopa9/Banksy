@@ -18,12 +18,11 @@
                     <title>Think Tank</title>
                     <date when="2005-09"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.5074" long="0.1278"/>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
                     <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>

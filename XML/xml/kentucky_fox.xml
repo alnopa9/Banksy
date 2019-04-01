@@ -18,12 +18,11 @@
                     <title>Kentucky Fox</title>
                     <date when="2009-04"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.5074" long="0.1278">London</location>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
                     <size>medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="http://peacegraffiti.blogspot.com/2010/12/banksy-graffiti-kentucky-fox-street-art.html">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -31,7 +30,7 @@
     <body>
         <desc>This piece by Banksy is called the Kentucky Fox by showing the fox dragging away the colonel’s head (of KFC fame). It shows that the KFC are not welcomed in London.</desc>
         <p>
-            <img src="kentucky_fox.jpg" alt="Kentucky Fox Banksy"/>
+            <img src="kentucky_fox.jpg" alt="Banksy's 'Kentucky Fox'"/>
             <credit>By: Mark Bohman from London, https://www.pinterest.co.uk/pin/777996904352483986/</credit>
         </p>
     </body>

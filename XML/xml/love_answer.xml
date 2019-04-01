@@ -18,12 +18,11 @@
                     <title>Love is the Answer</title>
                     <date when="2014-05"/>
                     <medium type="spray_paint"/>
-                    <location lat="40.6782" long="73.9442">Brooklyn, New York</location>
+                    <location lat="40.6782" long="-73.9442">Brooklyn, USA</location>
                     <size>medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="http://religiousartifactsnewyork4.blogspot.com/2015/04/love-is-answer.html">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -31,7 +30,7 @@
     <body>
         <desc>This piece by Banksy is called Love Is The Answer. It shows the representation of Einstein holding a placard bearing the words “love is the answer’.</desc>
         <p>
-            <img src="love_answer.jpg" alt="Love is the Answer Banksy"/>
+            <img src="love_answer.jpg" alt="Banksy's 'Love is the Answer'"/>
             <credit>By: Sophie Bissel from London, https://www.etsy.com/listing/529476825/banksy-street-art-love-is-the-answer</credit>
         </p>
     </body>

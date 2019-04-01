@@ -18,12 +18,11 @@
                     <title>Ice Cream Bomb</title>
                     <date when="2003-05"/>
                     <medium type="spray_paint"/>
-                    <location lat="50.8225" long="0.1372">Brighton, England</location>
+                    <location lat="50.8225" long="0.1372">Brighton, UK</location>
                     <size>medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://www.myartbroker.com/artist/banksy/ice-cream-hugger-love/">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -32,7 +31,7 @@
         <desc>This piece by banksy shows a girl holding an ice cream on a little house at a beach in Brighton with a bomb in the ice cream. Banksy wants to show 
         that kids should not get there hopes up in the future.</desc>
         <p>
-            <img src="ice_cream.jpg" alt="Ice Cream Bomb Banksy"/>
+            <img src="ice_cream.jpg" alt="Banksy's 'Ice Cream Bomb'"/>
             <credit>By: Pedro Pabrala from Brighton, https://www.pinterest.com/pin/513199320024085457/</credit>
         </p>
     </body>

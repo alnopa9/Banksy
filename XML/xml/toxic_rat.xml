@@ -18,12 +18,11 @@
                     <title>Toxic Rat</title>
                     <date when="2011-09"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.5074 long="0.1278">London, UK</location>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
                     <size>medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.lataco.com/toxic-banksy-rat-hollywood/">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -32,7 +31,7 @@
         <desc>This piece by Banksy shows another rat with a barrel of toxic waste spilling across the pavement in London by having the people show thats 
             theres a lot of toxic being wasted everywhere.</desc>
         <p>
-            <img src="toxic_rat.jpg" alt="Toxic Rat Banksy"/>
+            <img src="toxic_rat.jpg" alt="Banksy's 'Toxic Rat'"/>
             <credit>By: Rachel Johnston from London, https://bauhausmag.wordpress.com/2013/01/05/banksy/banksy-graffiti-street-art-rat-toxic/</credit>
         </p>
     </body>
