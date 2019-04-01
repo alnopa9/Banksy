@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Crying Woman</title>
+                    <date when="2015"/>
+                    <medium type="spray_paint"/>
+                    <location lat="31.300" long="34.28001">Gaza, PS</location>
+                    <size>medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="">https://arrestedmotion.com/2015/02/streets-banksy-gaza/</ref>
+                    <edition total="1" signed="0" unsigned="1"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This painting is a medium sized spray painting located in Gaza on a lone standing door, it depicts a woman hunched over presumably crying. </desc>
+        <p>
+            <img src="crying_woman.jpg" alt="woman crying"/>
+            <title>Crying Woman</title>
+            <credit>Article was written by someone under the screen name of SAL and multiple people were given photo credit.</credit>
+        </p>
+    </body>
+</root>
