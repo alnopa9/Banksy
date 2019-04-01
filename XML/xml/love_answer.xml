@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Love is the Answer</title>
+                    <date when="2014-05"/>
+                    <medium type="spray_paint"/>
+                    <location lat="40.6782" long="73.9442">Brooklyn, New York</location>
+                    <size>medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
+                    <ref target="http://religiousartifactsnewyork4.blogspot.com/2015/04/love-is-answer.html">Article That Supplied Information for Markup</ref>
+                    <edition total="" signed="" unsigned="">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This piece by Banksy is called Love Is The Answer. It shows the representation of Einstein holding a placard bearing the words “love is the answer’.</desc>
+        <p>
+            <img src="love_answer.jpg" alt="Love is the Answer Banksy"/>
+            <credit>By: Sophie Bissel from London, https://www.etsy.com/listing/529476825/banksy-street-art-love-is-the-answer</credit>
+        </p>
+    </body>
+</root>
