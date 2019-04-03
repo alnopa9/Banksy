@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="timeline-container" width="100%" height="100%">
+<desc>Banksy Works Timeline</desc>
+<g transform="translate(120)">
+	<line x1="0" y1="30" x2="0" y2="3055" stroke="gray" stroke-width="1"/>
+	<g class="year">
+		<text x="-45" y="30" fill="black">1999</text>
+		<circle r="3" cx="0" cy="25" fill="red"/>
+		<g class="works">
+			<text x="10" y="55">The Mild Mild West</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="80" fill="black">2001</text>
+		<circle r="3" cx="0" cy="75" fill="red"/>
+		<g class="works">
+			<text x="10" y="105">Love Is In The Air (CCCP)</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="130" fill="black">2002</text>
+		<circle r="3" cx="0" cy="125" fill="red"/>
+		<g class="works">
+			<text x="10" y="155">Choose Your Weapon</text>
+			<text x="10" y="180">Girl with Balloon</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="205" fill="black">2003</text>
+		<circle r="3" cx="0" cy="200" fill="red"/>
+		<g class="works">
+			<text x="10" y="230">Bomb Hugger</text>
+			<text x="10" y="255">Bomb Hugger</text>
+			<text x="10" y="280">Bomb Middle England</text>
+			<text x="10" y="305">Flying Copper</text>
+			<text x="10" y="330">Golf Sale</text>
+			<text x="10" y="355">HMV</text>
+			<text x="10" y="380">Happy Choppers</text>
+			<text x="10" y="405">Ice Cream Bomb</text>
+			<text x="10" y="430">Laugh Now</text>
+			<text x="10" y="455">Love Is In The Air</text>
+			<text x="10" y="480">Monkey Queen</text>
+			<text x="10" y="505">Queen Victoria</text>
+			<text x="10" y="530">Turf War</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="555" fill="black">2004</text>
+		<circle r="3" cx="0" cy="550" fill="red"/>
+		<g class="works">
+			<text x="10" y="580">Barcode</text>
+			<text x="10" y="605">Because I'm Worthless</text>
+			<text x="10" y="630">Christ with Shopping Bags</text>
+			<text x="10" y="655">Di Faced Tenners</text>
+			<text x="10" y="680">Gangsta Rat</text>
+			<text x="10" y="705">Get Out While You Can</text>
+			<text x="10" y="730">Girl With Balloon</text>
+			<text x="10" y="755">I Fought The Law</text>
+			<text x="10" y="780">Keep your Coins, I want Change</text>
+			<text x="10" y="805">Love Rat</text>
+			<text x="10" y="830">Napalm</text>
+			<text x="10" y="855">Naplam Girl</text>
+			<text x="10" y="880">Pulp Fiction</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="905" fill="black">2005</text>
+		<circle r="3" cx="0" cy="900" fill="red"/>
+		<g class="works">
+			<text x="10" y="930">CND Soldiers</text>
+			<text x="10" y="955">Grim Reaper</text>
+			<text x="10" y="980">Jack &amp; Jill</text>
+			<text x="10" y="1005">Kate Moss</text>
+			<text x="10" y="1030">Snorting Copper</text>
+			<text x="10" y="1055">Soldiers Painting CND Sign</text>
+			<text x="10" y="1080">Think Tank</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1105" fill="black">2006</text>
+		<circle r="3" cx="0" cy="1100" fill="red"/>
+		<g class="works">
+			<text x="10" y="1130">Applause</text>
+			<text x="10" y="1155">Festival</text>
+			<text x="10" y="1180">Flags</text>
+			<text x="10" y="1205">Gangsta Rat</text>
+			<text x="10" y="1230">Grannies</text>
+			<text x="10" y="1255">Old Skool</text>
+			<text x="10" y="1280">Old Woman</text>
+			<text x="10" y="1305">Sweep it Under the Carpet</text>
+			<text x="10" y="1330">Well, Hung Lover</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1355" fill="black">2007</text>
+		<circle r="3" cx="0" cy="1350" fill="red"/>
+		<g class="works">
+			<text x="10" y="1380">Cash Machine Girl</text>
+			<text x="10" y="1405">Fallen Angel</text>
+			<text x="10" y="1430">Girl with Skipping Rope</text>
+			<text x="10" y="1455">Looting Soldier</text>
+			<text x="10" y="1480">Space Girl with Bird</text>
+			<text x="10" y="1505">Stop and Search</text>
+			<text x="10" y="1530">Trolleys</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1555" fill="black">2008</text>
+		<circle r="3" cx="0" cy="1550" fill="red"/>
+		<g class="works">
+			<text x="10" y="1580">Bubble Slide Girl</text>
+			<text x="10" y="1605">Gorilla Artist</text>
+			<text x="10" y="1630">I Love You</text>
+			<text x="10" y="1655">Injured Buddha</text>
+			<text x="10" y="1680">NOLA</text>
+			<text x="10" y="1705">One Nation Under CCTV</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1730" fill="black">2009</text>
+		<circle r="3" cx="0" cy="1725" fill="red"/>
+		<g class="works">
+			<text x="10" y="1755">Don't Forget your Scarf</text>
+			<text x="10" y="1780">Donuts</text>
+			<text x="10" y="1805">Kentucky Fox</text>
+			<text x="10" y="1830">No Ball Games</text>
+			<text x="10" y="1855">Thug for Life Bunny</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1880" fill="black">2010</text>
+		<circle r="3" cx="0" cy="1875" fill="red"/>
+		<g class="works">
+			<text x="10" y="1905">Cameraman and Flower</text>
+			<text x="10" y="1930">Choose Your Weapon</text>
+			<text x="10" y="1955">Interest in People</text>
+			<text x="10" y="1980">No Future</text>
+			<text x="10" y="2005">No Trespassing</text>
+			<text x="10" y="2030">Security Guard with Pink Balloon</text>
+			<text x="10" y="2055">Swing Girl</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2080" fill="black">2011</text>
+		<circle r="3" cx="0" cy="2075" fill="red"/>
+		<g class="works">
+			<text x="10" y="2105">Baby Carriage</text>
+			<text x="10" y="2130">Child Soldier</text>
+			<text x="10" y="2155">Follow your Dreams - Canceled</text>
+			<text x="10" y="2180">Sorry, The Lifestyle you Ordered</text>
+			<text x="10" y="2205">Take this Society</text>
+			<text x="10" y="2230">Tap Phoned</text>
+			<text x="10" y="2255">Tox</text>
+			<text x="10" y="2280">Toxic Rat</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2305" fill="black">2012</text>
+		<circle r="3" cx="0" cy="2300" fill="red"/>
+		<g class="works">
+			<text x="10" y="2330">Fridge Kite</text>
+			<text x="10" y="2355">Javelin Thrower</text>
+			<text x="10" y="2380">Love Hurts</text>
+			<text x="10" y="2405">Slave Labour</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2430" fill="black">2013</text>
+		<circle r="3" cx="0" cy="2425" fill="red"/>
+		<g class="works">
+			<text x="10" y="2455">Bronx Zoo</text>
+			<text x="10" y="2480">Graffiti is a Crime</text>
+			<text x="10" y="2505">Hammer Boy</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2530" fill="black">2014</text>
+		<circle r="3" cx="0" cy="2525" fill="red"/>
+		<g class="works">
+			<text x="10" y="2555">Drunk Angel</text>
+			<text x="10" y="2580">Dumbo</text>
+			<text x="10" y="2605">Love is the Answer</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2630" fill="black">2015</text>
+		<circle r="3" cx="0" cy="2625" fill="red"/>
+		<g class="works">
+			<text x="10" y="2655">Crying Woman</text>
+			<text x="10" y="2680">Gaza Kitty</text>
+			<text x="10" y="2705">The Son Of A Migrant From Syria</text>
+			<text x="10" y="2730">Watchtower Swing</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2755" fill="black">2016</text>
+		<circle r="3" cx="0" cy="2750" fill="red"/>
+		<g class="works">
+			<text x="10" y="2780">Burning Tyre</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2805" fill="black">2017</text>
+		<circle r="3" cx="0" cy="2800" fill="red"/>
+		<g class="works">
+			<text x="10" y="2830">Civilian Drone STrike</text>
+			<text x="10" y="2855">Israeli-Palestinian Pillow Fight</text>
+			</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2880" fill="black">2018</text>
+		<circle r="3" cx="0" cy="2875" fill="red"/>
+		<g class="works">
+			<text x="10" y="2905">Blinded Napoleon</text>
+			<text x="10" y="2930">Box Cutter Rat</text>
+			<text x="10" y="2955">Chisel the Flag</text>
+			<text x="10" y="2980">Draw The Raised Bridge</text>
+			<text x="10" y="3005">Go Flock Yourself</text>
+			<text x="10" y="3030">Rat Couple</text>
+			<text x="10" y="3055">Seal Mural</text>
+			<text x="10" y="3080">Season's Greetings</text>
+			</g>
+	</g>
+</g>
+</svg>
