@@ -1,0 +1,35 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Crying Woman</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/crying_woman.jpg" alt="Banksy's 'Woman Crying'"/>
+                  <a href="">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">This painting is a medium sized spray painting located in Gaza on a lone standing door, it depicts a woman hunched over presumably crying. </span>
+                  <span class="date">2015</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">Gaza, PS</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

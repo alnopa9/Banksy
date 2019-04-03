@@ -1,0 +1,37 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | No Trespassing </title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/no_trespassing.jpg"
+                       alt="Banksy's 'No Trespassing'"/>
+                  <a href="http://dontcallmeanartist.com/banksy-graffiti-street-art-no-trespassing">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">In this piece by Banksy, No Trespassing features an Native American Indian sitting on the ground, lamenting the intrusion of the white man and the troubles they brought with them. 
+            It appears on a wall in the Mission District of San Francisco in 2010 but was soon marred by other graffiti tags and has now been completely painted over.</span>
+                  <span class="date">2010-07</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">San Francisco, USA</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

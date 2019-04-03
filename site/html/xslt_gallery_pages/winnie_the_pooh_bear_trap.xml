@@ -1,0 +1,36 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Winnie the Pooh Bear Trap</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/winnie_the_pooh_bear_trap.jpg"
+                       alt="Banksy's 'Winnie the Pooh Bear Trap'"/>
+                  <a href="https://banksyunofficial.com/2017/04/16/early-stencils-in-bristol-1995-2000/1999-bristol-winnie-the-pooh-bear-trap/">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">One of the works that has appeared in Banksy’s home town of Bristol is his rendition of beloved character Winnie the Pooh depicted caught in a bear trap with a pot of money on the ground rather than his usual honey.</span>
+                  <span class="date">2012-03</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">Bristol, UK</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

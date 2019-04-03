@@ -1,0 +1,38 @@
+
+<!DOCTYPE root
+  SYSTEM "about:legacy-compat">
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cash Machine Girl</title>
+                    <date when="2007"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.654827" long="-0.083599">London, UK</location>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="http://www.banksy.co.uk/out.asp">Banksy's Personal Instagram</ref>
+                    <ref target="https://map.pop-nonsense.com/listing/cash-machine-girl/"/>
+                    <cause when="2007"> Theartening Big Banks</cause>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>An eye-catching stencil by Banksy of a girl being grabbed by the robotic arm of a cash machine, appeared close to Exmouth Market in North London. 
+            The message appears to be anti-capitalist, with Banksy perhaps taking a shot at high street banks luring customers in versus local banks barely surviving. In front of Exmouth Market, on a wall in North London.</desc>
+        <p>
+            <img src="cash_machine_girl" alt="Banksy's 'Cash Machine Girl'"/>
+            <credit>By Robert Novak from North London, https://map.pop-nonsense.com/listing/cash-machine-girl//</credit>
+        </p>
+    </body>
+</root>

@@ -1,0 +1,36 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Bomb Hugger</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/Bomb_Hugger.jpg" alt="Banksy's 'Bomb Hugger'"/>
+                  <a href="https://www.myartbroker.com/artist/banksy/bomb-hugger-bomb-love/">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">The picture of a young girl hugging a bomb to her chest is one of Banksy’s original creations back in 2003, where it was made on a wall in London’s East End. 
+            The piece symbolises the horror of warby being innocence and as young girl by having nothing to do with it as being good or evil. On a mural, In East London</span>
+                  <span class="date">2003</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">London, UK</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

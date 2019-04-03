@@ -1,0 +1,38 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Child Soldier</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/Child-Soldier.jpg"
+                       alt="Banksy's 'Child Soldier'"/>
+                  <a href="https://www.independent.co.uk/news/world/americas/banksy-goes-to-hollywood-2217158.html">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">This was one of Banksy's big paintings in Hollywood. The theme of weapons and children is a recurring are in a lot of Banksy’s pieces.This child soldier having a machine 
+            gun appeared in Los Angeles on a wall of “Urban Outfitters” although it didn’t last long before it was vandalised with paint. 
+            The piece is an attempt to highlight the corrupted innocence of children and it is not uncommon to see children having guns and involved in conflicts in highly volatile parts of the world. In front of Urban Outfitters, on a wall in Westend Street in Los Angles, California.</span>
+                  <span class="date">2011</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">Los Angeles, USA</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

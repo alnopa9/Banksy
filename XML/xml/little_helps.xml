@@ -18,12 +18,11 @@
                     <title>Very Little Helps</title>
                     <date when="2008-09"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.5074" long="0.1278"/>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
                     <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.myartbroker.com/artist/banksy/very-little-helps/">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -32,7 +31,7 @@
         <desc> This piece by Banksy called Very Little Helps, appeared on London’s Essex Road in 2008 and features children saluting as another child runs a Tesco branded carrier bag up a flagpole. 
             From time to time, pranksters would also add a real Tesco bag to the mural</desc>
         <p>
-            <img src="little_helps.jpg" alt="Very Little Helps Banksy"/>
+            <img src="little_helps.jpg" alt="Banksy's 'Very Little Helps'"/>
             <credit>By Matt Randal from London, https://www.widewalls.ch/10-banksy-street-artworks-in-london/</credit>
         </p>
     </body>

@@ -40,7 +40,7 @@
     </xsl:template>
     <xsl:template match="works//title">
         <xsl:text>&#10;&#9;&#9;&#9;</xsl:text> 
-        <a xlink:href='gallery_pages/{lower-case(current()/translate(., "&#39;", "") ! tokenize(., " ") => string-join("_"))}' xlink:title="Banksy's '{current()}'" target="_blank">
+        <a xlink:href='gallery_pages/{lower-case(current()/replace(., "[&#39;]|[&#44;]", "") ! translate(., "-", "_") ! tokenize(., " ") => string-join("_"))}.html' xlink:title="Banksy's '{current()}'" target="_blank">
             <xsl:text>&#10;&#9;&#9;&#9;&#9;</xsl:text>
         <text x="10" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}">
             <xsl:apply-templates select="current()/string()"/>

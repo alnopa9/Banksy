@@ -1,0 +1,37 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Mobile Phone Lovers</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/mobile_phone_lover.jpeg"
+                       alt="Banksy's 'Mobile Phone Lover'"/>
+                  <a href="https://www.independent.co.uk/arts-entertainment/art/news/banksy-mobile-lovers-sold-owner-of-youth-club-where-artwork-appeared-in-bristol-received-death-9695327.html">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">This piece by Banksy called Mobile Phone Lovers caused a stir when it appeared close to a boys club in Banksy’s home town of Bristol. The owner of the club removed the door with the intention of using it to raise funds for his club, but it was taken from him by the local council who claimed ownership. 
+            However the issue was resolved when Banksy himself sent a letter to the club seeming to condone his choice to use it as a fundraiser. This piece represents this generation. </span>
+                  <span class="date">2014-08</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">Bristol, UK</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

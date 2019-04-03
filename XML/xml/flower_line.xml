@@ -15,7 +15,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title> Yellow Lines Flower Painter</title>
+                    <title>Yellow Lines Flower Painter</title>
                     <date when="2007-05"/>
                     <medium type="spray_paint"/>
                     <location lat="51.5074" long="0.1278">London, UK</location>
@@ -23,7 +23,6 @@
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.widewalls.ch/murals/banksy-yellow-lines-flower-painter/">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -32,7 +31,7 @@
         <desc>This piece by Banksy shows the double yellow lines of the road are extended across the pavement and up the wall where they bloom into a flower. 
             The pavement lines have been removed and the painter’s face is mostly obscured with newer graffiti, but the flower is still clear.</desc>
         <p>
-            <img src="flower_line.jpg" alt="Yellow Flower Lines Banksy"/>
+            <img src="flower_line.jpg" alt="Banksy's 'Yellow Flower Lines'"/>
             <credit>By: Ronald Taylor from London, https://www.pinterest.com/pin/457256168402272579/</credit>
         </p>
     </body>

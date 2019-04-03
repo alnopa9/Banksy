@@ -18,12 +18,11 @@
                     <title>London Calling</title>
                     <date when="2012-09"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.5074" long="0.1278"/>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
                     <size>large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="http://www.unurth.com/Banksy-London-Calling">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -31,7 +30,7 @@
     <body>
         <desc>This piece by Banksy called London Calling was a take on the album cover of the same name by The Clash. It shows a figure smashing an office chair on the floor in place of the usual guitar. </desc>
         <p>
-            <img src="london_calling.jpg" alt="London Calling Banksy"/>
+            <img src="london_calling.jpg" alt="Banksy's 'London Calling'"/>
             <credit>By: Jared Katesh from London, http://www.unurth.com/Banksy-London-Calling</credit>
         </p>
     </body>

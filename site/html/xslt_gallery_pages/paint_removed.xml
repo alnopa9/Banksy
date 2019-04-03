@@ -1,0 +1,37 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Cave Painting Removal</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/paint_removed.jpg"
+                       alt="Banksy's 'Cave Paint Removal'"/>
+                  <a href="http://www.bradshawfoundation.com/banksy/">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">This piece by Banksy only 4 months from May 2008 to August 2008. It was created in Leake Street Tunnel (also known as Banksy Tunnel) a designated graffiti area. It was soon covered with other works, such is the ever changing nature of the tunnel. 
+            It is an ironic piece that showed ancient cave paintings being cleaned by a council worker, highlighting how art is often destroyed by those who don’t understand it.</span>
+                  <span class="date">2008-05</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">London, UK</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

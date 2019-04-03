@@ -1,0 +1,37 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Abraham Lincoln</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/abraham_lincoln"
+                       alt="Banksy's 'Abraham Lincoln'"/>
+                  <a href="https://www.nytimes.com/2008/08/29/arts/29arts-BANKSYHITSNE_BRF.html">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">This piece by Banksy called Abraham Lincoln is another of the works that appeared in the city around the 3rd anniversary of Hurricane Katrina and all of them seemed to comment on the slow reconstruction of the city. 
+            Banksy represented Lincoln as a homeless man, but the dilapidated building that it was once painted on is long gone.</span>
+                  <span class="date">2008-07</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">New Orleans, USA</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

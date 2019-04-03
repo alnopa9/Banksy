@@ -1,0 +1,35 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Kentucky Fox</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/kentucky_fox.jpg" alt="Banksy's 'Kentucky Fox'"/>
+                  <a href="http://peacegraffiti.blogspot.com/2010/12/banksy-graffiti-kentucky-fox-street-art.html">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">This piece by Banksy is called the Kentucky Fox by showing the fox dragging away the colonel’s head (of KFC fame). It shows that the KFC are not welcomed in London.</span>
+                  <span class="date">2009-04</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">London, UK</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

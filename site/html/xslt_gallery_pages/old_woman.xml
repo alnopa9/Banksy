@@ -1,0 +1,37 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Old Woman</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/old_woman.jpg"
+                       alt="Banksy's 'Old Woman, Better On MySpace'"/>
+                  <a href="https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">This piece by Banksy appeared in Los Angeles in 2006 and clearly pokes fun at the large numbers of girls on MySpace who used flattering angles and photo editing to make themselves appear more attractive. 
+            It shows it from the old lady with the comment ‘You Looked Better on Myspace’.</span>
+                  <span class="date">2006-08</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">Los Angeles, USA</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

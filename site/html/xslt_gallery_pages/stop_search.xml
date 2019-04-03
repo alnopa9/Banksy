@@ -1,0 +1,37 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Stop and Search</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/Girl_Soldier.jpg"
+                       alt="Banksy's 'Stop and Search'"/>
+                  <a href="https://irishstudies.sunygeneseoenglish.org/bansky-girl-frisking-soldier/">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">Girl and a Soldier is one of the 2007 pieces that Banksy put up on a wall in Bethlehem. The little girl is seen frisking an armed soldier in diffrent types of roles to get what she wants. 
+            This along with other images on the wall were intended to promote the annual Santa’s Ghetto exhibit. The piece is still visible although somewhat faded today.</span>
+                  <span class="date">2007-11</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">Bethlehem, IS</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

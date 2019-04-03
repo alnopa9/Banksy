@@ -1,0 +1,37 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Sweep it Under the Carpet</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/graffiti/Sweep_It_Under_Carpet.jpg"
+                       alt="Banksy's 'Sweep it Under the Rug'"/>
+                  <a href="https://www.independent.co.uk/news/uk/this-britain/banksy-takes-to-streets-to-highlight-aids-crisis-478417.html">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">One of Banksy's recognisable pieces in 2006. It shows a woman dressed as a maid who is sweeping dirt under the cover of a brick wall. The piece is 
+            said to represent the   western world to deal with global issues such as the AIDS epidemic as being the main issue in 2006. On Chalk Fun Road in North London.</span>
+                  <span class="date">2006</span>
+                  <span class="medium">spray_paint</span>
+                  <span class="location">London, UK</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>

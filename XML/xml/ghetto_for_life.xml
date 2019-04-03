@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -15,15 +15,14 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Ghetto for Life </title>
+                    <title>Ghetto for Life</title>
                     <date when="2013"/>
                     <medium type="spray_paint"/>
-                    <location lat="40.7128" long="74.0060">New York, USA</location>
+                    <location lat="40.7128" long="-74.0060">New York, USA</location>
                     <size>medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">https://arrestedmotion.com/2013/10/streets-banksy-better-out-than-in-new-york-day-19-20-21/</ref>
-                    <edition total="1" signed="0" unsigned="1"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -31,8 +30,7 @@
     <body>
         <desc>This painting depicts a young boy spray painting the words 'ghetto for life' on a wall as his butler hands him a silver tray with cans of spray paint on it. </desc>
         <p>
-            <img src="ghetto_for_life.jpg" alt="ghetto for life"/>
-            <title>Copyright</title>
+            <img src="ghetto_for_life.jpg" alt="Banksy's 'Ghetto For Life'"/>
             <credit>The article was taken from the site 'https://arrestedmotion.com/2013/10/streets-banksy-better-out-than-in-new-york-day-19-20-21/' and was written by sleepboy. No photo credits were given.</credit>
         </p>
     </body>

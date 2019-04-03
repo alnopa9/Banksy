@@ -1,0 +1,38 @@
+
+<!DOCTYPE root
+  SYSTEM "about:legacy-compat">
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cave Painting Removal</title>
+                    <date when="2008-05"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
+                    <size>large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
+                    <ref target="http://www.bradshawfoundation.com/banksy/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This piece by Banksy only 4 months from May 2008 to August 2008. It was created in Leake Street Tunnel (also known as Banksy Tunnel) a designated graffiti area. It was soon covered with other works, such is the ever changing nature of the tunnel. 
+            It is an ironic piece that showed ancient cave paintings being cleaned by a council worker, highlighting how art is often destroyed by those who don’t understand it.</desc>
+        <p>
+            <img src="cave_painting_removal" alt="Banksy's 'Cave Painting Removal'"/>
+            <credit>By: John Fletherson from London, http://www.bradshawfoundation.com/banksy/</credit>
+        </p>
+    </body>
+</root>

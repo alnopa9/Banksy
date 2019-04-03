@@ -18,12 +18,11 @@
                     <title>Twin Towers</title>
                     <date when="2001-11"/>
                     <medium type="spray_paint"/>
-                    <location lat="40.6782" long="73.9442">Brooklyn, USA</location>
+                    <location lat="40.6782" long="-73.9442">Brooklyn, USA</location>
                     <size>small</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://www.thevillager.com/2013/10/banksys-twin-tower-tribute-draws-crowds-to-tribeca-alley/">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -32,7 +31,7 @@
         <desc>This piece by Banksy showed up on day 15 of the Better Out Than In tour, Banksy’s posted a controversial tribute to the September 11 attacks. 
             He painted a silhouette of the twin towers and added an orange flower to represent the explosion</desc>
         <p>
-            <img src="twin_towers.jpg" alt="Twin Towers Banksy"/>
+            <img src="twin_towers.jpg" alt="Banksy's 'Twin Towers'"/>
             <credit>By: Errol Louis from New York, https://www.cnn.com/2013/10/29/opinion/louis-banksy-world-trade-center/index.html</credit>
         </p>
     </body>

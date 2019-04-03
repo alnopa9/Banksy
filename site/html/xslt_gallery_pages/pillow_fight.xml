@@ -1,0 +1,36 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" href="../../css/header.css"/>
+      <link rel="icon" href="../../img/background/SSI/icon.png"/>
+      <title>Banksy | Israeli-Palestinian Pillow Fight</title>
+   </head>
+   <body>
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/topGallery.html" -->
+		<!-- SSI line below -->
+		<!--#include virtual="../../ssi/sideGallery.html" -->    <div class="body-container">
+         <div class="vertical-flow">
+				<!-- SSI line below -->
+				<!--#include virtual="../../ssi/works_ssi_gallery.html" -->        <div class="single-work">
+               <div class="gallery-page-img" id="portrait">
+                  <img src="../../img/paintings/pillow_fight.jpeg"
+                       alt="Banksy's 'Israeli-Palestinian Pillow Fight'"/>
+                  <a href="https://www.thenational.ae/opinion/protest-politics-in-palestine-1.11689">Credit</a>
+               </div>
+               <div class="gallery-page-desc">
+                  <span class="desc">This is a hand painted piece that can be found in one of the hotel rooms at the walled off hotel. It depicts a palestian fighter and an israeli soldier having a pillow fight. It was painted sometime in 2017.</span>
+                  <span class="date">2017</span>
+                  <span class="medium">canvas</span>
+                  <span class="location">Jerusalem, PS</span>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../ssi/license.html" -->
+   </body>
+</html>
