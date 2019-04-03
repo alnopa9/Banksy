@@ -48,7 +48,7 @@ svg{overflow: visible; font-size: 1em;}
 .left-svg, .right-svg{display: flex; overflow-y: scroll; flex-direction: column; height: 100%;}
 .left-svg{width: 40%; order: 1}
 .right-svg{width: 60%; order: 2}
-.svg{display: flex; flex-direction: row; height: 100%; flex: 5; width: 100%; justify-content: center; align-items: flex-start; flex-wrap: wrap;}
+.svg{display: flex; flex-direction: row; height: 100%; flex: 5; width: 100%; justify-content: center; align-items: flex-start; flex-wrap: wrap; overflow: hidden;}
 .container{display: flex; flex-direction: column; justify-content: flex-start; align-items: center; width: 32%; height: 100%; flex-wrap: wrap;text-align: left;}
 .bio {width: 85%;}
 .container img{width: 100%; max-width: 50px; height: auto;}
