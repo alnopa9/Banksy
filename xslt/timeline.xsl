@@ -14,7 +14,7 @@
             <xsl:text>&#10;</xsl:text>
             <g transform="translate(120)">
                 <xsl:text>&#10;&#9;</xsl:text>
-                <line x1="0" y1="30" x2="0" y2="3055" stroke="gray" stroke-width="1"/>
+                <line x1="0" y1="30" x2="0" y2="{(descendant::year => count() + descendant::title => count()) * 25 + 5}" stroke="gray" stroke-width="1"/>
                 <xsl:apply-templates select="descendant::group/child::year"/>
                 <xsl:text>&#10;</xsl:text>
             </g>

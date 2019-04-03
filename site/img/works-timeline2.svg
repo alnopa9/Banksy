@@ -1,225 +1,433 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="timeline-container" width="100%" height="100%">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="timeline-container" width="100%" height="100%">
 <desc>Banksy Works Timeline</desc>
 <g transform="translate(120)">
-	<line x1="0" y1="30" x2="0" y2="3055" stroke="gray" stroke-width="1"/>
+	<line x1="0" y1="30" x2="0" y2="3080" stroke="gray" stroke-width="1"/>
 	<g class="year">
 		<text x="-45" y="30" fill="black">1999</text>
 		<circle r="3" cx="0" cy="25" fill="red"/>
 		<g class="works">
-			<text x="10" y="55">The Mild Mild West</text>
-			</g>
+			<a xlink:href="gallery_pages/the_mild_mild_west" xlink:title="Banksy's 'The Mild Mild West'" target="_blank">
+				<text x="10" y="55">The Mild Mild West</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="80" fill="black">2001</text>
 		<circle r="3" cx="0" cy="75" fill="red"/>
 		<g class="works">
-			<text x="10" y="105">Love Is In The Air (CCCP)</text>
-			</g>
+			<a xlink:href="gallery_pages/love_is_in_the_air_(cccp)" xlink:title="Banksy's 'Love Is In The Air (CCCP)'" target="_blank">
+				<text x="10" y="105">Love Is In The Air (CCCP)</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="130" fill="black">2002</text>
 		<circle r="3" cx="0" cy="125" fill="red"/>
 		<g class="works">
-			<text x="10" y="155">Choose Your Weapon</text>
-			<text x="10" y="180">Girl with Balloon</text>
-			</g>
+			<a xlink:href="gallery_pages/choose_your_weapon" xlink:title="Banksy's 'Choose Your Weapon'" target="_blank">
+				<text x="10" y="155">Choose Your Weapon</text>
+			</a>
+			<a xlink:href="gallery_pages/girl_with_balloon" xlink:title="Banksy's 'Girl with Balloon'" target="_blank">
+				<text x="10" y="180">Girl with Balloon</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="205" fill="black">2003</text>
 		<circle r="3" cx="0" cy="200" fill="red"/>
 		<g class="works">
-			<text x="10" y="230">Bomb Hugger</text>
-			<text x="10" y="255">Bomb Hugger</text>
-			<text x="10" y="280">Bomb Middle England</text>
-			<text x="10" y="305">Flying Copper</text>
-			<text x="10" y="330">Golf Sale</text>
-			<text x="10" y="355">HMV</text>
-			<text x="10" y="380">Happy Choppers</text>
-			<text x="10" y="405">Ice Cream Bomb</text>
-			<text x="10" y="430">Laugh Now</text>
-			<text x="10" y="455">Love Is In The Air</text>
-			<text x="10" y="480">Monkey Queen</text>
-			<text x="10" y="505">Queen Victoria</text>
-			<text x="10" y="530">Turf War</text>
-			</g>
+			<a xlink:href="gallery_pages/bomb_hugger" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
+				<text x="10" y="230">Bomb Hugger</text>
+			</a>
+			<a xlink:href="gallery_pages/bomb_hugger" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
+				<text x="10" y="255">Bomb Hugger</text>
+			</a>
+			<a xlink:href="gallery_pages/bomb_middle_england" xlink:title="Banksy's 'Bomb Middle England'" target="_blank">
+				<text x="10" y="280">Bomb Middle England</text>
+			</a>
+			<a xlink:href="gallery_pages/flying_copper" xlink:title="Banksy's 'Flying Copper'" target="_blank">
+				<text x="10" y="305">Flying Copper</text>
+			</a>
+			<a xlink:href="gallery_pages/golf_sale" xlink:title="Banksy's 'Golf Sale'" target="_blank">
+				<text x="10" y="330">Golf Sale</text>
+			</a>
+			<a xlink:href="gallery_pages/hmv" xlink:title="Banksy's 'HMV'" target="_blank">
+				<text x="10" y="355">HMV</text>
+			</a>
+			<a xlink:href="gallery_pages/happy_choppers" xlink:title="Banksy's 'Happy Choppers'" target="_blank">
+				<text x="10" y="380">Happy Choppers</text>
+			</a>
+			<a xlink:href="gallery_pages/ice_cream_bomb" xlink:title="Banksy's 'Ice Cream Bomb'" target="_blank">
+				<text x="10" y="405">Ice Cream Bomb</text>
+			</a>
+			<a xlink:href="gallery_pages/laugh_now" xlink:title="Banksy's 'Laugh Now'" target="_blank">
+				<text x="10" y="430">Laugh Now</text>
+			</a>
+			<a xlink:href="gallery_pages/love_is_in_the_air" xlink:title="Banksy's 'Love Is In The Air'" target="_blank">
+				<text x="10" y="455">Love Is In The Air</text>
+			</a>
+			<a xlink:href="gallery_pages/monkey_queen" xlink:title="Banksy's 'Monkey Queen'" target="_blank">
+				<text x="10" y="480">Monkey Queen</text>
+			</a>
+			<a xlink:href="gallery_pages/queen_victoria" xlink:title="Banksy's 'Queen Victoria'" target="_blank">
+				<text x="10" y="505">Queen Victoria</text>
+			</a>
+			<a xlink:href="gallery_pages/turf_war" xlink:title="Banksy's 'Turf War'" target="_blank">
+				<text x="10" y="530">Turf War</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="555" fill="black">2004</text>
 		<circle r="3" cx="0" cy="550" fill="red"/>
 		<g class="works">
-			<text x="10" y="580">Barcode</text>
-			<text x="10" y="605">Because I'm Worthless</text>
-			<text x="10" y="630">Christ with Shopping Bags</text>
-			<text x="10" y="655">Di Faced Tenners</text>
-			<text x="10" y="680">Gangsta Rat</text>
-			<text x="10" y="705">Get Out While You Can</text>
-			<text x="10" y="730">Girl With Balloon</text>
-			<text x="10" y="755">I Fought The Law</text>
-			<text x="10" y="780">Keep your Coins, I want Change</text>
-			<text x="10" y="805">Love Rat</text>
-			<text x="10" y="830">Napalm</text>
-			<text x="10" y="855">Naplam Girl</text>
-			<text x="10" y="880">Pulp Fiction</text>
-			</g>
+			<a xlink:href="gallery_pages/barcode" xlink:title="Banksy's 'Barcode'" target="_blank">
+				<text x="10" y="580">Barcode</text>
+			</a>
+			<a xlink:href="gallery_pages/because_im_worthless" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
+				<text x="10" y="605">Because I'm Worthless</text>
+			</a>
+			<a xlink:href="gallery_pages/christ_with_shopping_bags" xlink:title="Banksy's 'Christ with Shopping Bags'" target="_blank">
+				<text x="10" y="630">Christ with Shopping Bags</text>
+			</a>
+			<a xlink:href="gallery_pages/di_faced_tenners" xlink:title="Banksy's 'Di Faced Tenners'" target="_blank">
+				<text x="10" y="655">Di Faced Tenners</text>
+			</a>
+			<a xlink:href="gallery_pages/gangsta_rat" xlink:title="Banksy's 'Gangsta Rat'" target="_blank">
+				<text x="10" y="680">Gangsta Rat</text>
+			</a>
+			<a xlink:href="gallery_pages/get_out_while_you_can" xlink:title="Banksy's 'Get Out While You Can'" target="_blank">
+				<text x="10" y="705">Get Out While You Can</text>
+			</a>
+			<a xlink:href="gallery_pages/girl_with_balloon" xlink:title="Banksy's 'Girl With Balloon'" target="_blank">
+				<text x="10" y="730">Girl With Balloon</text>
+			</a>
+			<a xlink:href="gallery_pages/i_fought_the_law" xlink:title="Banksy's 'I Fought The Law'" target="_blank">
+				<text x="10" y="755">I Fought The Law</text>
+			</a>
+			<a xlink:href="gallery_pages/keep_your_coins,_i_want_change" xlink:title="Banksy's 'Keep your Coins, I want Change'" target="_blank">
+				<text x="10" y="780">Keep your Coins, I want Change</text>
+			</a>
+			<a xlink:href="gallery_pages/love_rat" xlink:title="Banksy's 'Love Rat'" target="_blank">
+				<text x="10" y="805">Love Rat</text>
+			</a>
+			<a xlink:href="gallery_pages/napalm" xlink:title="Banksy's 'Napalm'" target="_blank">
+				<text x="10" y="830">Napalm</text>
+			</a>
+			<a xlink:href="gallery_pages/naplam_girl" xlink:title="Banksy's 'Naplam Girl'" target="_blank">
+				<text x="10" y="855">Naplam Girl</text>
+			</a>
+			<a xlink:href="gallery_pages/pulp_fiction" xlink:title="Banksy's 'Pulp Fiction'" target="_blank">
+				<text x="10" y="880">Pulp Fiction</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="905" fill="black">2005</text>
 		<circle r="3" cx="0" cy="900" fill="red"/>
 		<g class="works">
-			<text x="10" y="930">CND Soldiers</text>
-			<text x="10" y="955">Grim Reaper</text>
-			<text x="10" y="980">Jack &amp; Jill</text>
-			<text x="10" y="1005">Kate Moss</text>
-			<text x="10" y="1030">Snorting Copper</text>
-			<text x="10" y="1055">Soldiers Painting CND Sign</text>
-			<text x="10" y="1080">Think Tank</text>
-			</g>
+			<a xlink:href="gallery_pages/cnd_soldiers" xlink:title="Banksy's 'CND Soldiers'" target="_blank">
+				<text x="10" y="930">CND Soldiers</text>
+			</a>
+			<a xlink:href="gallery_pages/grim_reaper" xlink:title="Banksy's 'Grim Reaper'" target="_blank">
+				<text x="10" y="955">Grim Reaper</text>
+			</a>
+			<a xlink:href="gallery_pages/jack_&amp;_jill" xlink:title="Banksy's 'Jack &amp; Jill'" target="_blank">
+				<text x="10" y="980">Jack &amp; Jill</text>
+			</a>
+			<a xlink:href="gallery_pages/kate_moss" xlink:title="Banksy's 'Kate Moss'" target="_blank">
+				<text x="10" y="1005">Kate Moss</text>
+			</a>
+			<a xlink:href="gallery_pages/snorting_copper" xlink:title="Banksy's 'Snorting Copper'" target="_blank">
+				<text x="10" y="1030">Snorting Copper</text>
+			</a>
+			<a xlink:href="gallery_pages/soldiers_painting_cnd_sign" xlink:title="Banksy's 'Soldiers Painting CND Sign'" target="_blank">
+				<text x="10" y="1055">Soldiers Painting CND Sign</text>
+			</a>
+			<a xlink:href="gallery_pages/think_tank" xlink:title="Banksy's 'Think Tank'" target="_blank">
+				<text x="10" y="1080">Think Tank</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="1105" fill="black">2006</text>
 		<circle r="3" cx="0" cy="1100" fill="red"/>
 		<g class="works">
-			<text x="10" y="1130">Applause</text>
-			<text x="10" y="1155">Festival</text>
-			<text x="10" y="1180">Flags</text>
-			<text x="10" y="1205">Gangsta Rat</text>
-			<text x="10" y="1230">Grannies</text>
-			<text x="10" y="1255">Old Skool</text>
-			<text x="10" y="1280">Old Woman</text>
-			<text x="10" y="1305">Sweep it Under the Carpet</text>
-			<text x="10" y="1330">Well, Hung Lover</text>
-			</g>
+			<a xlink:href="gallery_pages/applause" xlink:title="Banksy's 'Applause'" target="_blank">
+				<text x="10" y="1130">Applause</text>
+			</a>
+			<a xlink:href="gallery_pages/festival" xlink:title="Banksy's 'Festival'" target="_blank">
+				<text x="10" y="1155">Festival</text>
+			</a>
+			<a xlink:href="gallery_pages/flags" xlink:title="Banksy's 'Flags'" target="_blank">
+				<text x="10" y="1180">Flags</text>
+			</a>
+			<a xlink:href="gallery_pages/gangsta_rat" xlink:title="Banksy's 'Gangsta Rat'" target="_blank">
+				<text x="10" y="1205">Gangsta Rat</text>
+			</a>
+			<a xlink:href="gallery_pages/grannies" xlink:title="Banksy's 'Grannies'" target="_blank">
+				<text x="10" y="1230">Grannies</text>
+			</a>
+			<a xlink:href="gallery_pages/old_skool" xlink:title="Banksy's 'Old Skool'" target="_blank">
+				<text x="10" y="1255">Old Skool</text>
+			</a>
+			<a xlink:href="gallery_pages/old_woman" xlink:title="Banksy's 'Old Woman'" target="_blank">
+				<text x="10" y="1280">Old Woman</text>
+			</a>
+			<a xlink:href="gallery_pages/sweep_it_under_the_carpet" xlink:title="Banksy's 'Sweep it Under the Carpet'" target="_blank">
+				<text x="10" y="1305">Sweep it Under the Carpet</text>
+			</a>
+			<a xlink:href="gallery_pages/well,_hung_lover" xlink:title="Banksy's 'Well, Hung Lover'" target="_blank">
+				<text x="10" y="1330">Well, Hung Lover</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="1355" fill="black">2007</text>
 		<circle r="3" cx="0" cy="1350" fill="red"/>
 		<g class="works">
-			<text x="10" y="1380">Cash Machine Girl</text>
-			<text x="10" y="1405">Fallen Angel</text>
-			<text x="10" y="1430">Girl with Skipping Rope</text>
-			<text x="10" y="1455">Looting Soldier</text>
-			<text x="10" y="1480">Space Girl with Bird</text>
-			<text x="10" y="1505">Stop and Search</text>
-			<text x="10" y="1530">Trolleys</text>
-			</g>
+			<a xlink:href="gallery_pages/cash_machine_girl" xlink:title="Banksy's 'Cash Machine Girl'" target="_blank">
+				<text x="10" y="1380">Cash Machine Girl</text>
+			</a>
+			<a xlink:href="gallery_pages/fallen_angel" xlink:title="Banksy's 'Fallen Angel'" target="_blank">
+				<text x="10" y="1405">Fallen Angel</text>
+			</a>
+			<a xlink:href="gallery_pages/girl_with_skipping_rope" xlink:title="Banksy's 'Girl with Skipping Rope'" target="_blank">
+				<text x="10" y="1430">Girl with Skipping Rope</text>
+			</a>
+			<a xlink:href="gallery_pages/looting_soldier" xlink:title="Banksy's 'Looting Soldier'" target="_blank">
+				<text x="10" y="1455">Looting Soldier</text>
+			</a>
+			<a xlink:href="gallery_pages/space_girl_with_bird" xlink:title="Banksy's 'Space Girl with Bird'" target="_blank">
+				<text x="10" y="1480">Space Girl with Bird</text>
+			</a>
+			<a xlink:href="gallery_pages/stop_and_search" xlink:title="Banksy's 'Stop and Search'" target="_blank">
+				<text x="10" y="1505">Stop and Search</text>
+			</a>
+			<a xlink:href="gallery_pages/trolleys" xlink:title="Banksy's 'Trolleys'" target="_blank">
+				<text x="10" y="1530">Trolleys</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="1555" fill="black">2008</text>
 		<circle r="3" cx="0" cy="1550" fill="red"/>
 		<g class="works">
-			<text x="10" y="1580">Bubble Slide Girl</text>
-			<text x="10" y="1605">Gorilla Artist</text>
-			<text x="10" y="1630">I Love You</text>
-			<text x="10" y="1655">Injured Buddha</text>
-			<text x="10" y="1680">NOLA</text>
-			<text x="10" y="1705">One Nation Under CCTV</text>
-			</g>
+			<a xlink:href="gallery_pages/bubble_slide_girl" xlink:title="Banksy's 'Bubble Slide Girl'" target="_blank">
+				<text x="10" y="1580">Bubble Slide Girl</text>
+			</a>
+			<a xlink:href="gallery_pages/gorilla_artist" xlink:title="Banksy's 'Gorilla Artist'" target="_blank">
+				<text x="10" y="1605">Gorilla Artist</text>
+			</a>
+			<a xlink:href="gallery_pages/i_love_you" xlink:title="Banksy's 'I Love You'" target="_blank">
+				<text x="10" y="1630">I Love You</text>
+			</a>
+			<a xlink:href="gallery_pages/injured_buddha" xlink:title="Banksy's 'Injured Buddha'" target="_blank">
+				<text x="10" y="1655">Injured Buddha</text>
+			</a>
+			<a xlink:href="gallery_pages/nola" xlink:title="Banksy's 'NOLA'" target="_blank">
+				<text x="10" y="1680">NOLA</text>
+			</a>
+			<a xlink:href="gallery_pages/one_nation_under_cctv" xlink:title="Banksy's 'One Nation Under CCTV'" target="_blank">
+				<text x="10" y="1705">One Nation Under CCTV</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="1730" fill="black">2009</text>
 		<circle r="3" cx="0" cy="1725" fill="red"/>
 		<g class="works">
-			<text x="10" y="1755">Don't Forget your Scarf</text>
-			<text x="10" y="1780">Donuts</text>
-			<text x="10" y="1805">Kentucky Fox</text>
-			<text x="10" y="1830">No Ball Games</text>
-			<text x="10" y="1855">Thug for Life Bunny</text>
-			</g>
+			<a xlink:href="gallery_pages/dont_forget_your_scarf" xlink:title="Banksy's 'Don't Forget your Scarf'" target="_blank">
+				<text x="10" y="1755">Don't Forget your Scarf</text>
+			</a>
+			<a xlink:href="gallery_pages/donuts" xlink:title="Banksy's 'Donuts'" target="_blank">
+				<text x="10" y="1780">Donuts</text>
+			</a>
+			<a xlink:href="gallery_pages/kentucky_fox" xlink:title="Banksy's 'Kentucky Fox'" target="_blank">
+				<text x="10" y="1805">Kentucky Fox</text>
+			</a>
+			<a xlink:href="gallery_pages/no_ball_games" xlink:title="Banksy's 'No Ball Games'" target="_blank">
+				<text x="10" y="1830">No Ball Games</text>
+			</a>
+			<a xlink:href="gallery_pages/thug_for_life_bunny" xlink:title="Banksy's 'Thug for Life Bunny'" target="_blank">
+				<text x="10" y="1855">Thug for Life Bunny</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="1880" fill="black">2010</text>
 		<circle r="3" cx="0" cy="1875" fill="red"/>
 		<g class="works">
-			<text x="10" y="1905">Cameraman and Flower</text>
-			<text x="10" y="1930">Choose Your Weapon</text>
-			<text x="10" y="1955">Interest in People</text>
-			<text x="10" y="1980">No Future</text>
-			<text x="10" y="2005">No Trespassing</text>
-			<text x="10" y="2030">Security Guard with Pink Balloon</text>
-			<text x="10" y="2055">Swing Girl</text>
-			</g>
+			<a xlink:href="gallery_pages/cameraman_and_flower" xlink:title="Banksy's 'Cameraman and Flower'" target="_blank">
+				<text x="10" y="1905">Cameraman and Flower</text>
+			</a>
+			<a xlink:href="gallery_pages/choose_your_weapon" xlink:title="Banksy's 'Choose Your Weapon'" target="_blank">
+				<text x="10" y="1930">Choose Your Weapon</text>
+			</a>
+			<a xlink:href="gallery_pages/interest_in_people" xlink:title="Banksy's 'Interest in People'" target="_blank">
+				<text x="10" y="1955">Interest in People</text>
+			</a>
+			<a xlink:href="gallery_pages/no_future" xlink:title="Banksy's 'No Future'" target="_blank">
+				<text x="10" y="1980">No Future</text>
+			</a>
+			<a xlink:href="gallery_pages/no_trespassing" xlink:title="Banksy's 'No Trespassing'" target="_blank">
+				<text x="10" y="2005">No Trespassing</text>
+			</a>
+			<a xlink:href="gallery_pages/security_guard_with_pink_balloon" xlink:title="Banksy's 'Security Guard with Pink Balloon'" target="_blank">
+				<text x="10" y="2030">Security Guard with Pink Balloon</text>
+			</a>
+			<a xlink:href="gallery_pages/swing_girl" xlink:title="Banksy's 'Swing Girl'" target="_blank">
+				<text x="10" y="2055">Swing Girl</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="2080" fill="black">2011</text>
 		<circle r="3" cx="0" cy="2075" fill="red"/>
 		<g class="works">
-			<text x="10" y="2105">Baby Carriage</text>
-			<text x="10" y="2130">Child Soldier</text>
-			<text x="10" y="2155">Follow your Dreams - Canceled</text>
-			<text x="10" y="2180">Sorry, The Lifestyle you Ordered</text>
-			<text x="10" y="2205">Take this Society</text>
-			<text x="10" y="2230">Tap Phoned</text>
-			<text x="10" y="2255">Tox</text>
-			<text x="10" y="2280">Toxic Rat</text>
-			</g>
+			<a xlink:href="gallery_pages/baby_carriage" xlink:title="Banksy's 'Baby Carriage'" target="_blank">
+				<text x="10" y="2105">Baby Carriage</text>
+			</a>
+			<a xlink:href="gallery_pages/child_soldier" xlink:title="Banksy's 'Child Soldier'" target="_blank">
+				<text x="10" y="2130">Child Soldier</text>
+			</a>
+			<a xlink:href="gallery_pages/follow_your_dreams_-_canceled" xlink:title="Banksy's 'Follow your Dreams - Canceled'" target="_blank">
+				<text x="10" y="2155">Follow your Dreams - Canceled</text>
+			</a>
+			<a xlink:href="gallery_pages/sorry,_the_lifestyle_you_ordered" xlink:title="Banksy's 'Sorry, The Lifestyle you Ordered'" target="_blank">
+				<text x="10" y="2180">Sorry, The Lifestyle you Ordered</text>
+			</a>
+			<a xlink:href="gallery_pages/take_this_society" xlink:title="Banksy's 'Take this Society'" target="_blank">
+				<text x="10" y="2205">Take this Society</text>
+			</a>
+			<a xlink:href="gallery_pages/tap_phoned" xlink:title="Banksy's 'Tap Phoned'" target="_blank">
+				<text x="10" y="2230">Tap Phoned</text>
+			</a>
+			<a xlink:href="gallery_pages/tox" xlink:title="Banksy's 'Tox'" target="_blank">
+				<text x="10" y="2255">Tox</text>
+			</a>
+			<a xlink:href="gallery_pages/toxic_rat" xlink:title="Banksy's 'Toxic Rat'" target="_blank">
+				<text x="10" y="2280">Toxic Rat</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="2305" fill="black">2012</text>
 		<circle r="3" cx="0" cy="2300" fill="red"/>
 		<g class="works">
-			<text x="10" y="2330">Fridge Kite</text>
-			<text x="10" y="2355">Javelin Thrower</text>
-			<text x="10" y="2380">Love Hurts</text>
-			<text x="10" y="2405">Slave Labour</text>
-			</g>
+			<a xlink:href="gallery_pages/fridge_kite" xlink:title="Banksy's 'Fridge Kite'" target="_blank">
+				<text x="10" y="2330">Fridge Kite</text>
+			</a>
+			<a xlink:href="gallery_pages/javelin_thrower" xlink:title="Banksy's 'Javelin Thrower'" target="_blank">
+				<text x="10" y="2355">Javelin Thrower</text>
+			</a>
+			<a xlink:href="gallery_pages/love_hurts" xlink:title="Banksy's 'Love Hurts'" target="_blank">
+				<text x="10" y="2380">Love Hurts</text>
+			</a>
+			<a xlink:href="gallery_pages/slave_labour" xlink:title="Banksy's 'Slave Labour'" target="_blank">
+				<text x="10" y="2405">Slave Labour</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="2430" fill="black">2013</text>
 		<circle r="3" cx="0" cy="2425" fill="red"/>
 		<g class="works">
-			<text x="10" y="2455">Bronx Zoo</text>
-			<text x="10" y="2480">Graffiti is a Crime</text>
-			<text x="10" y="2505">Hammer Boy</text>
-			</g>
+			<a xlink:href="gallery_pages/bronx_zoo" xlink:title="Banksy's 'Bronx Zoo'" target="_blank">
+				<text x="10" y="2455">Bronx Zoo</text>
+			</a>
+			<a xlink:href="gallery_pages/graffiti_is_a_crime" xlink:title="Banksy's 'Graffiti is a Crime'" target="_blank">
+				<text x="10" y="2480">Graffiti is a Crime</text>
+			</a>
+			<a xlink:href="gallery_pages/hammer_boy" xlink:title="Banksy's 'Hammer Boy'" target="_blank">
+				<text x="10" y="2505">Hammer Boy</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="2530" fill="black">2014</text>
 		<circle r="3" cx="0" cy="2525" fill="red"/>
 		<g class="works">
-			<text x="10" y="2555">Drunk Angel</text>
-			<text x="10" y="2580">Dumbo</text>
-			<text x="10" y="2605">Love is the Answer</text>
-			</g>
+			<a xlink:href="gallery_pages/drunk_angel" xlink:title="Banksy's 'Drunk Angel'" target="_blank">
+				<text x="10" y="2555">Drunk Angel</text>
+			</a>
+			<a xlink:href="gallery_pages/dumbo" xlink:title="Banksy's 'Dumbo'" target="_blank">
+				<text x="10" y="2580">Dumbo</text>
+			</a>
+			<a xlink:href="gallery_pages/love_is_the_answer" xlink:title="Banksy's 'Love is the Answer'" target="_blank">
+				<text x="10" y="2605">Love is the Answer</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="2630" fill="black">2015</text>
 		<circle r="3" cx="0" cy="2625" fill="red"/>
 		<g class="works">
-			<text x="10" y="2655">Crying Woman</text>
-			<text x="10" y="2680">Gaza Kitty</text>
-			<text x="10" y="2705">The Son Of A Migrant From Syria</text>
-			<text x="10" y="2730">Watchtower Swing</text>
-			</g>
+			<a xlink:href="gallery_pages/crying_woman" xlink:title="Banksy's 'Crying Woman'" target="_blank">
+				<text x="10" y="2655">Crying Woman</text>
+			</a>
+			<a xlink:href="gallery_pages/gaza_kitty" xlink:title="Banksy's 'Gaza Kitty'" target="_blank">
+				<text x="10" y="2680">Gaza Kitty</text>
+			</a>
+			<a xlink:href="gallery_pages/the_son_of_a_migrant_from_syria" xlink:title="Banksy's 'The Son Of A Migrant From Syria'" target="_blank">
+				<text x="10" y="2705">The Son Of A Migrant From Syria</text>
+			</a>
+			<a xlink:href="gallery_pages/watchtower_swing" xlink:title="Banksy's 'Watchtower Swing'" target="_blank">
+				<text x="10" y="2730">Watchtower Swing</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="2755" fill="black">2016</text>
 		<circle r="3" cx="0" cy="2750" fill="red"/>
 		<g class="works">
-			<text x="10" y="2780">Burning Tyre</text>
-			</g>
+			<a xlink:href="gallery_pages/burning_tyre" xlink:title="Banksy's 'Burning Tyre'" target="_blank">
+				<text x="10" y="2780">Burning Tyre</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="2805" fill="black">2017</text>
 		<circle r="3" cx="0" cy="2800" fill="red"/>
 		<g class="works">
-			<text x="10" y="2830">Civilian Drone STrike</text>
-			<text x="10" y="2855">Israeli-Palestinian Pillow Fight</text>
-			</g>
+			<a xlink:href="gallery_pages/civilian_drone_strike" xlink:title="Banksy's 'Civilian Drone STrike'" target="_blank">
+				<text x="10" y="2830">Civilian Drone STrike</text>
+			</a>
+			<a xlink:href="gallery_pages/israeli-palestinian_pillow_fight" xlink:title="Banksy's 'Israeli-Palestinian Pillow Fight'" target="_blank">
+				<text x="10" y="2855">Israeli-Palestinian Pillow Fight</text>
+			</a>
+		</g>
 	</g>
 	<g class="year">
 		<text x="-45" y="2880" fill="black">2018</text>
 		<circle r="3" cx="0" cy="2875" fill="red"/>
 		<g class="works">
-			<text x="10" y="2905">Blinded Napoleon</text>
-			<text x="10" y="2930">Box Cutter Rat</text>
-			<text x="10" y="2955">Chisel the Flag</text>
-			<text x="10" y="2980">Draw The Raised Bridge</text>
-			<text x="10" y="3005">Go Flock Yourself</text>
-			<text x="10" y="3030">Rat Couple</text>
-			<text x="10" y="3055">Seal Mural</text>
-			<text x="10" y="3080">Season's Greetings</text>
-			</g>
+			<a xlink:href="gallery_pages/blinded_napoleon" xlink:title="Banksy's 'Blinded Napoleon'" target="_blank">
+				<text x="10" y="2905">Blinded Napoleon</text>
+			</a>
+			<a xlink:href="gallery_pages/box_cutter_rat" xlink:title="Banksy's 'Box Cutter Rat'" target="_blank">
+				<text x="10" y="2930">Box Cutter Rat</text>
+			</a>
+			<a xlink:href="gallery_pages/chisel_the_flag" xlink:title="Banksy's 'Chisel the Flag'" target="_blank">
+				<text x="10" y="2955">Chisel the Flag</text>
+			</a>
+			<a xlink:href="gallery_pages/draw_the_raised_bridge" xlink:title="Banksy's 'Draw The Raised Bridge'" target="_blank">
+				<text x="10" y="2980">Draw The Raised Bridge</text>
+			</a>
+			<a xlink:href="gallery_pages/go_flock_yourself" xlink:title="Banksy's 'Go Flock Yourself'" target="_blank">
+				<text x="10" y="3005">Go Flock Yourself</text>
+			</a>
+			<a xlink:href="gallery_pages/rat_couple" xlink:title="Banksy's 'Rat Couple'" target="_blank">
+				<text x="10" y="3030">Rat Couple</text>
+			</a>
+			<a xlink:href="gallery_pages/seal_mural" xlink:title="Banksy's 'Seal Mural'" target="_blank">
+				<text x="10" y="3055">Seal Mural</text>
+			</a>
+			<a xlink:href="gallery_pages/seasons_greetings" xlink:title="Banksy's 'Season's Greetings'" target="_blank">
+				<text x="10" y="3080">Season's Greetings</text>
+			</a>
+		</g>
 	</g>
 </g>
 </svg>
