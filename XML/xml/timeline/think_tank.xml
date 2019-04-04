@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Think Tank</title>
+                    <date when="2005-09"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
+                    <size>large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
+                    <ref target="https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>In 2005, Banksy released this piece designed to the cover art for Blur’s seventh studio album ‘Think Tank’. This led many to accuse Banksy of selling out, but it showed an example of his work. 
+            Ironically, due to a ban on all graffiti related posters by London Transport, Blur had difficulty advertising the album thanks to Banksy’s cover art!</desc>
+        <p>
+            <img src="think_tank" alt="Banksy's 'Think Tank'"/>
+            <credit>by: Amanda Brinkmann from London, https://www.pinterest.com/pin/155303887159193818/</credit>
+        </p>
+    </body>
+</root>

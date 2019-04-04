@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Choose Your Weapon</title>
+                    <alternate>Haring Dog</alternate>
+                    <date when="2002"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.4986" long="-0.0757">London, UK</location>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>The dog in this piece pays tribute to Keith Haring’s iconic “Barking Dog,” appearing in an all white silhouette. The dog’s walker wears a hooded sweatshirt with a bandana disguise, possibly representing disgruntled youth which features prominently in British pop culture.</desc>
+        <p>
+            <img src="choose_your_weapon" alt="Banksy's 'Choose Your Weapon'"/>
+            <credit>https://www.wikiart.org/en/banksy/haring-dog</credit>
+        </p>
+    </body>
+</root>

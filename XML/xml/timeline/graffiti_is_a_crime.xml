@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Graffiti Is A Crime</title>
+                    <date when="2013"/>
+                    <medium type="spray_paint"/>
+                    <location lat="40.7151989" long="-73.9921624">New York, USA</location>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="https://steemit.com/anarchy/@krytonika/graffiti-is-a-crime-by-banksy-chinatown-new-york-city-2013">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This is a spray painted piece that depicts two boys, one standing on the others back, reaching up to grab a can of spray paint, that is on a sign stating graffiti is a crime.</desc>
+        <p>
+            <img src="graffiti_is_a_crime" alt="Banksy's 'Graffiti Is A Crime'"/>
+            <credit>Credit for this piece was given to someone going by the name Krytonika on the website steemit.com</credit>
+        </p>
+    </body>
+</root>

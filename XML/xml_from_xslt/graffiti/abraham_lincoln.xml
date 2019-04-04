@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abraham Lincoln</title>
+                    <date when="2008-07"/>
+                    <medium type="spray_paint"/>
+                    <location lat="29.9511" long="-90.0715">New Orleans, USA</location>
+                    <size>large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
+                    <ref target="https://www.nytimes.com/2008/08/29/arts/29arts-BANKSYHITSNE_BRF.html">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This piece by Banksy called Abraham Lincoln is another of the works that appeared in the city around the 3rd anniversary of Hurricane Katrina and all of them seemed to comment on the slow reconstruction of the city. 
+            Banksy represented Lincoln as a homeless man, but the dilapidated building that it was once painted on is long gone.</desc>
+        <p>
+            <img src="abraham_lincoln.jpg" alt="Banksy's 'Abraham Lincoln'"/>
+            <credit>By: Ronald Treskett from London, http://bawanaalit.blogspot.com/2010/11/banksy-graffiti-lincoln-street-art.html</credit>
+        </p>
+    </body>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>I Love You</title>
+                    <date when="2008-10"/>
+                    <medium type="spray_paint"/>
+                    <location lat="50.5976" long="-1.2084">Isle Of Wight, UK</location>
+                    <size>large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
+                    <ref target="https://onthewight.com/will-banksys-no-future-artwork-be-preserved/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This piece by banksy saying I Love You is one of his most simplistic pieces and yet it is one of his most striking. The words ‘I Love You’ are shown by an hour glass 
+            with a heart shaped pile of sand trickling out of the top part. The painting however has been painted over today.</desc>
+        <p>
+            <img src="i_love_you" alt="Banksy's 'I Love You'"/>
+            <credit>By: Ashley Graham from London, https://onthewight.com/will-banksys-no-future-artwork-be-preserved/</credit>
+        </p>
+    </body>
+</root>

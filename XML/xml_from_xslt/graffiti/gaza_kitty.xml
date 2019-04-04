@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Gaza Kitty</title>
+                    <date when="2015"/>
+                    <medium type="spray_paint"/>
+                    <location lat="31.300" long="34.28001">Gaza, PS</location>
+                    <size>medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="">https://arrestedmotion.com/2015/02/streets-banksy-gaza/</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This painting is a medium sized spray painting located in Gaza on the side of a ruined wall, it depicts a kitten playing with a ball that appears to be made of scrap metal. </desc>
+        <p>
+            <img src="gaza_kitty.jpg" alt="Banksy's 'Gaza Kitty'"/>
+            <credit>Article was written by someone under the screen name of SAL and multiple people were given photo credit.</credit>
+        </p>
+    </body>
+</root>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Modern Art</title>
+                    <date when="2010"/>
+                    <medium type="spray_paint"/>
+                    <location lat="43.3183" long="1.9812">Basque Country, ES</location>
+                    <size>medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="">https://arrestedmotion.com/2010/09/streets-banksy-in-basque/</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This painting depicts a man staring blankly at an empty picture frame and admiring it. </desc>
+        <p>
+            <img src="modern_art" alt="Banksy's 'Modern Art'"/>
+            <credit>Article was taken from 'https://arrestedmotion.com/2010/09/streets-banksy-in-basque/' no photo credits were given. </credit>
+        </p>
+    </body>
+</root>

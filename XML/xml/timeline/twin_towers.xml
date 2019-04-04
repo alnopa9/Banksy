@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Twin Towers</title>
+                    <date when="2001-11"/>
+                    <medium type="spray_paint"/>
+                    <location lat="40.6782" long="-73.9442">Brooklyn, USA</location>
+                    <size>small</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="https://www.thevillager.com/2013/10/banksys-twin-tower-tribute-draws-crowds-to-tribeca-alley/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This piece by Banksy showed up on day 15 of the Better Out Than In tour, Banksy’s posted a controversial tribute to the September 11 attacks. 
+            He painted a silhouette of the twin towers and added an orange flower to represent the explosion</desc>
+        <p>
+            <img src="twin_towers" alt="Banksy's 'Twin Towers'"/>
+            <credit>By: Errol Louis from New York, https://www.cnn.com/2013/10/29/opinion/louis-banksy-world-trade-center/index.html</credit>
+        </p>
+    </body>
+</root>

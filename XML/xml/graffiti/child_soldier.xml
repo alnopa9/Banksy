@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Child Soldier</title>
+                    <date when="2011"/>
+                    <medium type="spray_paint"/>
+                    <location lat="34.052235" long="-118.243683">Los Angeles, USA</location>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="http://www.banksy.co.uk/out.asp">Banksy's Personal Instagram</ref>
+                    <ref target="https://www.independent.co.uk/news/world/americas/banksy-goes-to-hollywood-2217158.html"/>
+                    <cause when="2011"> Urban Outfitters Racism Strike</cause>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This was one of Banksy's big paintings in Hollywood. The theme of weapons and children is a recurring are in a lot of Banksy’s pieces.This child soldier having a machine 
+            gun appeared in Los Angeles on a wall of “Urban Outfitters” although it didn’t last long before it was vandalised with paint. 
+            The piece is an attempt to highlight the corrupted innocence of children and it is not uncommon to see children having guns and involved in conflicts in highly volatile parts of the world. In front of Urban Outfitters, on a wall in Westend Street in Los Angles, California.</desc>
+        <p>
+            <img src="child_soldier.jpg" alt="Banksy's 'Child Soldier'"/>
+            <credit>By Nick Stephenson from Los Angeles, California, https://www.flickr.com/photos/antifolkhero/5454667534/</credit>
+        </p>
+    </body>
+</root>

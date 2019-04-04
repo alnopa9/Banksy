@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Chisel the Flag</title>
+                    <date when="2018"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.1279" long="1.3134">Dover, UK</location>
+                    <size>large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="">https://arrestedmotion.com/2017/05/streets-banksy-dover/</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This painting is a large mural located in Dover, UK. It is of a man chiseling away atone of the stars on the EU Flag</desc>
+        <p>
+            <img src="chisel_the_flag.jpg" alt="Banksy's 'Chisel the Flag'"/>
+            <credit/>
+        </p>
+    </body>
+</root>
