@@ -31,14 +31,22 @@
                                 <xsl:comment> SSI line below </xsl:comment>
                                 <xsl:comment>#include virtual="../../../ssi/works_ssi_gallery.html" </xsl:comment>
                                 <div class="single-work">
-                                    <div class="gallery-page-img" id="portrait">
-                                        <xsl:text>&#10;</xsl:text>
-                                        <xsl:if test="descendant::sourceDesc//medium[@type='spray_paint']">
+                                    <xsl:if test="descendant::sourceDesc//size[@orientation='portrait']">
+                                        <div class="gallery-page-img" id="portrait">
+                                            <xsl:text>&#10;</xsl:text>
                                             <img src="../../../img/graffiti/{descendant::body//img/@src/lower-case(string()) ! tokenize(., '/')[last()]}" alt="{descendant::body//img/@alt/string()}"/>
-                                        </xsl:if>
-                                        <xsl:text>&#10;</xsl:text>
-                                        <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
-                                    </div>
+                                            <xsl:text>&#10;</xsl:text>
+                                            <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
+                                        </div>
+                                    </xsl:if>
+                                    <xsl:if test="descendant::sourceDesc//size[@orientation='landscape']">
+                                        <div class="gallery-page-img" id="landscape">
+                                            <xsl:text>&#10;</xsl:text>
+                                            <img src="../../../img/graffiti/{descendant::body//img/@src/lower-case(string()) ! tokenize(., '/')[last()]}" alt="{descendant::body//img/@alt/string()}"/>
+                                            <xsl:text>&#10;</xsl:text>
+                                            <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
+                                        </div>
+                                    </xsl:if>
                                     <div class="gallery-page-desc">
                                         <xsl:if test="descendant::body/desc[text()]">
                                             <xsl:text>&#10;</xsl:text>

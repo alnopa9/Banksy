@@ -19,7 +19,7 @@
                     <date when="2010-05"/>
                     <medium type="spray_paint"/>
                     <location lat="43.6532" long="79.3832">Toronto, CA</location>
-                    <size>large</size>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="http://micaelamarie.weebly.com/art-bloginspiration-digital-design/0-interest-in-people">Article That Supplied Information for Markup</ref>

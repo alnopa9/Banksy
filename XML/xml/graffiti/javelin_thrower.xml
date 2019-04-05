@@ -20,7 +20,7 @@
                     <date when="2012-07"/>
                     <medium type="spray_paint"/>
                     <location lat="51.5433" long="0.0166">London, UK</location>
-                    <size>large</size>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.dezeen.com/2012/07/27/london-2012-street-art-by-banksy/">Article That Supplied Information for Markup</ref>

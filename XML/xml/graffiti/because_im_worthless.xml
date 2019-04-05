@@ -19,7 +19,7 @@
                     <date when="2004-06"/>
                     <medium type="spray_paint"/>
                     <location lat="51.5074" long="0.1278">London, UK</location>
-                    <size>medium</size>
+                    <size orientation="portrait">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.myartbroker.com/artist/banksy/because-im-worthless-placard-rat/">Article That Supplied Information for Markup</ref>

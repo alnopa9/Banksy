@@ -19,7 +19,7 @@
                     <date when="2018-01"/>
                     <medium type="spray_paint"/>
                     <location lat="53.751033" long="-0.332889">Hull, UK</location>
-                    <size>large</size>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://www.graffitistreet.com/banksys-latest-mural-draw-the-raised-bridge-questions-freedom-hull-2018/">Article That Supplied Information for Markup</ref>

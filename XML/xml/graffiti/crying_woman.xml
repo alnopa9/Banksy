@@ -19,7 +19,7 @@
                     <date when="2015"/>
                     <medium type="spray_paint"/>
                     <location lat="31.300" long="34.28001">Gaza, PS</location>
-                    <size>medium</size>
+                    <size orientation="portrait">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">https://arrestedmotion.com/2015/02/streets-banksy-gaza/</ref>

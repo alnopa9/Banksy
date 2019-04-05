@@ -19,6 +19,7 @@
                     <date when="2006"/>
                     <medium type="spray_paint"/>
                     <location lat="51.5276" long="0.0898">London, UK</location>
+                    <size orientation="landscape"></size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="http://www.banksy.co.uk/out.asp">Banksy's Personal Instagram</ref>
                     <ref target="https://www.telegraph.co.uk/culture/art/art-news/9635128/Banksys-Gangsta-Rat-goes-under-the-hammer.html"/>

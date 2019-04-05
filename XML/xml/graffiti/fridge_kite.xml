@@ -19,7 +19,7 @@
                     <date when="2012-08"/>
                     <medium type="spray_paint"/>
                     <location lat="29.9511" long="-90.0715">New Orleans, USA</location>
-                    <size>large</size>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations">Article That Supplied Information for Markup</ref>

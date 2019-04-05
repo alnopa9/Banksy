@@ -20,6 +20,7 @@
                     <date when="2003"/>
                     <medium type="spray_paint"/>
                     <location lat="33.01529" long="27.8546">London, UK</location>
+                    <size orientation="portrait">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="http://www.banksy.co.uk/out.asp">Banksy's Personal Instagram</ref>
                     <ref target="https://www.myartbroker.com/artist/banksy/bomb-hugger-bomb-love/"/>

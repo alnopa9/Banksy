@@ -19,7 +19,7 @@
                     <date when="2009-04"/>
                     <medium type="spray_paint"/>
                     <location lat="51.5074" long="0.1278">London, UK</location>
-                    <size>medium</size>
+                    <size orientation="landscape">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="http://peacegraffiti.blogspot.com/2010/12/banksy-graffiti-kentucky-fox-street-art.html">Article That Supplied Information for Markup</ref>

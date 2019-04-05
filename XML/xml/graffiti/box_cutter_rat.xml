@@ -19,6 +19,7 @@
                     <date when="2018"/>
                     <medium type="spray_paint"/>
                     <location lat="48.8566101" long="2.3514992">Paris, FR</location>
+                    <size orientation="landscape">small</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.nytimes.com/2018/06/26/arts/design/banksy-paris.html">Article That Supplied Information for Markup</ref>

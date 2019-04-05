@@ -19,7 +19,7 @@
                     <date when="2016-06"/>
                     <medium type="spray_paint"/>
                     <location lat="51.4058" long="2.5707">Bristol, UK</location>
-                    <size>large</size>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://news.artnet.com/art-world/banksy-burning-tire-mural-bristol-512156">Article That Supplied Information for Markup</ref>

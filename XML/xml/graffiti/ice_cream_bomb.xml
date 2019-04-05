@@ -19,7 +19,7 @@
                     <date when="2003-05"/>
                     <medium type="spray_paint"/>
                     <location lat="50.8225" long="0.1372">Brighton, UK</location>
-                    <size>medium</size>
+                    <size orientation="landscape">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://www.myartbroker.com/artist/banksy/ice-cream-hugger-love/">Article That Supplied Information for Markup</ref>

@@ -19,7 +19,7 @@
                     <date when="2004-10"/>
                     <medium type="spray_paint"/>
                     <location lat="-37.8136" long="144.9631">Melbourne, AU</location>
-                    <size>large</size>
+                    <size orientation="portrait">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://socialactive.wordpress.com/2011/02/28/homelessness-i-want-change/">Article That Supplied Information for Markup</ref>

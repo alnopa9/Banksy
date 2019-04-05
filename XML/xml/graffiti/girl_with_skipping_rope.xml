@@ -19,7 +19,7 @@
                     <date when="2007-01"/>
                     <medium type="spray_paint"/>
                     <location lat="40.6782" long="-73.9442">Brooklyn, USA</location>
-                    <size>large</size>
+                    <size orientation="portrait">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.nytimes.com/2007/01/28/nyregion/thecity/28graf.html">Article That Supplied Information for Markup</ref>

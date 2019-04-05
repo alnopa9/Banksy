@@ -19,7 +19,7 @@
                     <date when="2018"/>
                     <medium type="spray_paint"/>
                     <location lat="51.1279" long="1.3134">Dover, UK</location>
-                    <size>large</size>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">https://arrestedmotion.com/2017/05/streets-banksy-dover/</ref>

@@ -19,7 +19,7 @@
                     <date when="2008-10"/>
                     <medium type="spray_paint"/>
                     <location lat="50.5976" long="-1.2084">Isle Of Wight, UK</location>
-                    <size>large</size>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://onthewight.com/will-banksys-no-future-artwork-be-preserved/">Article That Supplied Information for Markup</ref>

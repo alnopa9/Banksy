@@ -19,7 +19,7 @@
                     <date when="2011-11"/>
                     <medium type="spray_paint"/>
                     <location lat="37.7749" long="-122.4194">San Francisco, USA</location>
-                    <size>large</size>
+                    <size orientation="landscape">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
                     <ref target="https://www.brooklynstreetart.com/2011/11/30/specter-sidebusts-banksy-in-chicago-with-a-mysterious-woman/">Article That Supplied Information for Markup</ref>

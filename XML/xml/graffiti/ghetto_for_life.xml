@@ -19,7 +19,7 @@
                     <date when="2013"/>
                     <medium type="spray_paint"/>
                     <location lat="40.7128" long="-74.0060">New York, USA</location>
-                    <size>medium</size>
+                    <size orientation="landscape">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">https://arrestedmotion.com/2013/10/streets-banksy-better-out-than-in-new-york-day-19-20-21/</ref>

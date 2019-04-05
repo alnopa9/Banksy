@@ -20,7 +20,7 @@
                     <date when="2007-01"/>
                     <medium type="spray_paint"/>
                     <location lat="51.500502" long="-0.081720">London, UK</location>
-                    <size>large</size>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations">Article That Supplied Information for Markup</ref>
