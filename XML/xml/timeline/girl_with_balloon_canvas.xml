@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -7,8 +9,8 @@
                 <editor>Alyssa Argento</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
-                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -26,9 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc/>
+        <desc></desc>
         <p>
-            <img src="girl_with_balloon" alt="Banksy's 'Girl With Balloon'"/>
+            <img src="../img/girl_with_balloon.jpg" alt="Banksy's 'Birl With Balloon'"/>
             <credit>https://dl.airtable.com/AOv58pvhT5ujOXlNPjwN_full_Banksy--1Girl-With-Balloon.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
         </p>
     </body>

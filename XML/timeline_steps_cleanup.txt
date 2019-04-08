@@ -1,0 +1,21 @@
+Timeline Step File
+
+1: Convert HTML special characters
+Find:&lt;title&gt;
+Replace with:<title>
+
+2: Convert HTML special characters
+Find:&lt;/title&gt;
+Replace with:</title>
+
+2: Remove empty tags
+Find:\n\s+<\w+>\n\s+<title> </title>\n\s+</\w+>
+Replace with:
+
+4: Remove extra white space in title tags
+Find:<title> 
+Replace with:<title>
+
+5: Remove extra white space in title tags
+Find: </title>
+Replace with:</title>

@@ -18,7 +18,8 @@
     </xsl:template>
     <xsl:template match="descendant::work/child::title">
         <g class="hashmarks">
-            <line class="" x1="" y1="{(following-sibling::medium => count() * 2) + 10}" x2="" y2="{(following-sibling::medium => count() * 2) - 10}"/>
+            <line class="x-axis" x1="{(current() => count() * 2) + 10}" y1="0" x2="{(current() => count() * 2) - 10}" y2="0"/>
+            <line class="y-axis" x1="0" y1="{(following-sibling::medium => count() * 2) + 10}" x2="0" y2="{(following-sibling::medium => count() * 2) - 10}"/>
         </g>
     </xsl:template>
     

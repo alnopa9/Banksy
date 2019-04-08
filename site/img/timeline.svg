@@ -1,401 +1,502 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%">
-    <desc>Banksy Timeline</desc>
-    <g transform="translate( 150, 50)">
-        <line x1="0" y1="0" x2="0" y2="5000" stroke="gray" stroke-width="1"/>
-        <text x="-90" y="5" fill="black">1995 - 1998</text>
-        <circle r="3" cx="0" cy="0" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/early-bristol-freehand-1995-1998/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="30" fill="black">Early Bristol Freehand</text>
-            </a>
-        </g>
-        <text x="-90" y="80" fill="black">1995 - 2000</text>
-        <circle r="3" cx="0" cy="75" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/early-stencils-in-bristol-1995-2000/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="105" fill="black">Early Stencils In Bristol</text>
-            </a>
-        </g>
-        <text x="-45" y="130" fill="black">1998</text>
-        <circle r="3" cx="0" cy="125" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/walls-on-fire-bristol-august-22-23-1998/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="155" fill="black">August 22nd &amp; 23rd: Walls On Fire in Bristol</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/early-exhibition-in-easton-1998/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="180" fill="black">Early Exhibition In Easton in Bristol</text>
-            </a>
-        </g>
-        <text x="-45" y="205" fill="black">2000</text>
-        <circle r="3" cx="0" cy="200" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/severnshed-bristol-february-2000/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="230" fill="black">February 2000: Severnshed in Bristol</text>
-            </a>
-        </g>
-        <text x="-90" y="255" fill="black">2000 - 2001</text>
-        <circle r="3" cx="0" cy="250" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/early-london-street-art-2000-2001/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="280" fill="black">Early London Street Art </text>
-            </a>
-        </g>
-        <text x="-45" y="305" fill="black">2001</text>
-        <circle r="3" cx="0" cy="300" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/chiapas-mexico-2001/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="330" fill="black">Chiapas, Mexico</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/rivington-street-london-2001/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="355" fill="black">May 31st: Rivington Street in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/banging-your-head-against-a-brick-wall-november-2001/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="380" fill="black">November: Banging Your Head Against A Brick Wall</text>
-            </a>
-        </g>
-        <text x="-90" y="405" fill="black">2000 - 2003</text>
-        <circle r="3" cx="0" cy="400" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/early-street-art-abroad-2000-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="430" fill="black">Early Street Art Abroad</text>
-            </a>
-        </g>
-        <text x="-45" y="455" fill="black">2002</text>
-        <circle r="3" cx="0" cy="450" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/peace-is-though-glasgow-march-2002/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="480" fill="black">March: Peace Is Tough in Glasgow</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/banksys-second-book-existencilism-may-2002/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="505" fill="black">May: Existencilism (book)</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/existencilism-los-angeles-june-19-2002/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="530" fill="black">July: Existencilism (exhibit)</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/santas-ghetto-02-london-2002/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="555" fill="black">December: Santa's Ghetto '02 in London</text>
-            </a>
-        </g>
-        <text x="-45" y="580" fill="black">2003</text>
-        <circle r="3" cx="0" cy="575" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/semipermanent-sidney-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="605" fill="black">Semipermanent in Sidney, Australia</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/16/early-banksy-originals-before-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="630" fill="black">Early Banksy Originals</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/anti-war-demonstration-london-may-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="655" fill="black">May: Anti-War Demonstration in London</text>
-            </a>
-        </g>
-        <text x="-90" y="680" fill="black">2002 - 2003</text>
-        <circle r="3" cx="0" cy="675" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-in-uk-2002-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="705" fill="black">Street Art In UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/paints-live-animals-somerset-july-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="730" fill="black">July: Paints Live Animals in Somerset</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/turf-war-london-july-18-21-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="755" fill="black">July: Turf War in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/prank-at-tate-britain-london-october-17-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="780" fill="black">October: Prank At Tate Britain in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/santas-ghetto-03-london-december-2003/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="805" fill="black">December: Santa's Ghetto '03 in London</text>
-            </a>
-        </g>
-        <text x="-45" y="830" fill="black">2004</text>
-        <circle r="3" cx="0" cy="825" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2004-focus-on-uk/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="855" fill="black">Street Art Focus On UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/prank-at-the-natural-history-museum-april-7-2004/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="880" fill="black">April: Prank At The Natural History Museum in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/prank-at-the-louvre-paris-2004/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="905" fill="black">October: Prank At The Louvre in Paris</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/the-third-book-cut-it-out-december-2004/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="930" fill="black">December: Cut It Out</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/santas-ghetto-04-london-december-2004/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="955" fill="black">December: Santa's Ghetto '04 in London</text>
-            </a>
-        </g>
-        <text x="-45" y="980" fill="black">2005</text>
-        <circle r="3" cx="0" cy="975" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/pranks-at-four-new-york-museums-march-13-2005/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1005" fill="black">March: Pranks At Four New York Museums in New York</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/prank-at-british-museum-may-2005/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1030" fill="black">May: Prank At British Museum in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/the-segregation-wall-palestine-august-2005/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1055" fill="black">August: The Segregation Wall in Palestine</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/crude-oils-london-october-2005/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1080" fill="black">October: Crude Oils in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2005/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1105" fill="black">Street Art</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/santas-ghetto-05-london-december-2005/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1130" fill="black">December: Santa's Ghetto '05 in London</text>
-            </a>
-        </g>
-        <text x="-45" y="1155" fill="black">2006</text>
-        <circle r="3" cx="0" cy="1150" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-uk-2006/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1180" fill="black">Street Art UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/prank-at-disneyland-september-2006/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1205" fill="black">September: Installation At Disneyland</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2006-abroad/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1230" fill="black">Street Art Abroad</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/barely-legal-the-first-big-us-show-september-2006/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1255" fill="black">September: Barely Legal in US</text>
-            </a>
-        </g>
-        <text x="-45" y="1280" fill="black">2007</text>
-        <circle r="3" cx="0" cy="1275" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/banksy-at-glastonbury-june-2007/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1305" fill="black">June: Glastonbury</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/banksy-at-sothebys-evening-sale-october-2007/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1330" fill="black">October: Sotheby's Evening Sale</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-in-uk-2007/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1355" fill="black">Street Art In UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/santas-ghetto-07-palestine-december-2007/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1380" fill="black">December: Santa's Ghetto '07 in Palestine</text>
-            </a>
-        </g>
-        <text x="-45" y="1405" fill="black">2008</text>
-        <circle r="3" cx="0" cy="1400" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/the-cans-festival-london-may-2008/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1430" fill="black">May: The Cans Festival in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/in-new-orleans-august-2008/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1455" fill="black">August: New Orleans</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2008-uk/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1480" fill="black">Street Art in UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2008-abroad/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1505" fill="black">Street Art Abroad</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/village-pet-store-and-charcoal-grill-new-york-october-2008/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1530" fill="black">October: Village Pet Store And Charcoal Grill in New York</text>
-            </a>
-        </g>
-        <text x="-45" y="1555" fill="black">2009</text>
-        <circle r="3" cx="0" cy="1550" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2009/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1580" fill="black">Street Art in UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2009/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1605" fill="black">Street Art Abroad</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/banksy-vs-bristol-museum-june-2009/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1630" fill="black">June: Banksy VS Bristol Museum</text>
-            </a>
-        </g>
-        <text x="-45" y="1655" fill="black">2010</text>
-        <circle r="3" cx="0" cy="1650" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/exit-through-the-gift-shop-at-sundance-film-festival-january-24-utah/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1680" fill="black">January: "Exit Through The Gift Shop" at Sundance Film Festival</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-tour-of-the-us-spring-2010/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1705" fill="black">Spring: Street Art Tour Of The US</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2010-uk/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1730" fill="black">Street Art in UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/the-simpsons-october-2010/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1755" fill="black">October: The Simpsons</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/marks-and-stencils-london-november-2010/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1780" fill="black">November: Marks And Stencils in London</text>
-            </a>
-        </g>
-        <text x="-90" y="1805" fill="black">2002 - 2010</text>
-        <circle r="3" cx="0" cy="1800" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/banksy-prints-2002-2010/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1830" fill="black">Banksy Prints</text>
-            </a>
-        </g>
-        <text x="-45" y="1855" fill="black">2011</text>
-        <circle r="3" cx="0" cy="1850" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-in-la-following-the-oscars-february-2011/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1880" fill="black">February: Street Art Following The Oscars in LA</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/moca-los-angeles-april-2011/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1905" fill="black">April: MOCA in LA</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2011-uk/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1930" fill="black">Street Art in UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/occupy-london-october-2011/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="1955" fill="black">October: Occupy London</text>
-            </a>
-        </g>
-        <text x="-45" y="1980" fill="black">2012</text>
-        <circle r="3" cx="0" cy="1975" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/london-olympics-july-2012/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2005" fill="black">July: London Olympics</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2012-uk/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2030" fill="black">Street Art in UK</text>
-            </a>
-        </g>
-        <text x="-45" y="2055" fill="black">2013</text>
-        <circle r="3" cx="0" cy="2050" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/better-out-than-in-new-york-october-2013-2/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2080" fill="black">October: Better Out Than In in New York</text>
-            </a>
-        </g>
-        <text x="-45" y="2105" fill="black">2014</text>
-        <circle r="3" cx="0" cy="2100" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2014-only-uk/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2130" fill="black">Only Street Art in UK</text>
-            </a>
-        </g>
-        <text x="-45" y="2155" fill="black">2015</text>
-        <circle r="3" cx="0" cy="2150" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/the-gaza-strip-february-2015/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2180" fill="black">February: The Gaza Strip</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/dismaland-august-september-2015/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2205" fill="black">August: Dismaland</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/calais-france-december-2015/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2230" fill="black">December: Calais in France</text>
-            </a>
-        </g>
-        <text x="-45" y="2255" fill="black">2016</text>
-        <circle r="3" cx="0" cy="2250" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/street-art-2016-uk/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2280" fill="black">Street Art in UK</text>
-            </a>
-        </g>
-        <text x="-45" y="2305" fill="black">2017</text>
-        <circle r="3" cx="0" cy="2300" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2017/04/17/the-walled-off-hotel-palestine-march-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2330" fill="black">March: The Walled Off Hotel in Palestine</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/05/07/new-banksy-originals-on-instagram-march-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2355" fill="black">March: New Banksy Originals on Instagram</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/06/04/brexit-mural-in-dover-uk/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2380" fill="black">May 7th: Brexit Mural in Dover, UK</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/06/04/donald-trump-almost-visits-the-walled-off-hotel/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2405" fill="black">May 23rd: Donald Trump (Almost) Visits The Walled Off Hotel</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/06/06/product-recall/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2430" fill="black">June 6th: Print Release Cancelled</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/06/10/new-post-election-oil-10-june-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2455" fill="black">June 10th: Post-Election Oil</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/09/07/gift-shop-opened-at-walled-off-hotel-7-september%E2%80%8B-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2480" fill="black">September 7th: Gift Shop Opened at The Walled Off Hotel</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/09/11/art-the-arms-fair-exhibition-11-september%E2%80%8B-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2505" fill="black">September 11th: Art The Arms Fair</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/09/18/two-new-basquiat-inspired-pieces-at-the-barbican-centre-17-september-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2530" fill="black">September 17th: Barbican Centre in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/11/04/banksy-commemorates%E2%80%8B-the-balfour-declaration-2-november-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2555" fill="black">November 2nd: The Balfour Declaration in Palestine</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/12/04/walled-off-hotel-presents-the-alternativity-a-play-directed-by-danny-boyle-3-december-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2580" fill="black">December 3rd: The Alternativity at The Walled Off Hotel</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/12/04/two-new-street-art-pieces-in-palestine-3-december-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2605" fill="black">December 3rd: Street Art in Palestine</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2017/12/16/rare-banksy-interview-in-financial-times-16-december-2017/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2630" fill="black">December 16th: Financial Times Interview</text>
-            </a>
-        </g>
-        <text x="-45" y="2655" fill="black">2018</text>
-        <circle r="3" cx="0" cy="2650" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2018/01/28/draw-the-raised-bridge-new-mural-in-hull-26-january-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2680" fill="black">January 26th: Draw The Raised Bridge in Hull, England</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/03/14/new-rat-in-new-york-14-march-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2705" fill="black">March 14th: Clock Rat in New York</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/03/16/banksy-mural-in-new-york-in-support-of-zehra-dogan-15-march-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2730" fill="black">March 15th: Zehra Dogan in New York</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/03/19/banksy-continues-in-nyc-with-a-piece-on-trump-capitalism%E2%80%8B-19-march-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2755" fill="black">March 19th: Capitalism in New York</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/03/22/brooklyn-seal-confirmed-by-banksys-instagram-21-march-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2780" fill="black">March 21st: Seal in Brooklyn, New York</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/04/04/you-loot-we-shoot-stencil-in-brooklyn-ny-22-march-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2805" fill="black">March 22nd: You Loot We Shoot in Brooklyn, New York</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/06/12/banksy-at-the-royal-academy-of-arts-11-june-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2830" fill="black">June 11th: Roayal Academy Of Arts</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/07/11/eight-new-stencils-in-paris-confirmed-by-bankys-instagram-28-june-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2855" fill="black">June: Stencils in Paris</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/07/11/banksy-honors-the-english-football-team-7-july-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2880" fill="black">July 7th: Fragile Flag</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/10/09/new-street-sign-in-clevendon-somerset-10-august-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2905" fill="black">August 10th: Street Sign in Clevendon, Somerset</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/10/09/shredding-at-sothebys-5-october-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2930" fill="black">October 5th: Shredding at Sotheby's</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/11/07/banksy-at-the-world-travel-fair-london-6-and-7-november-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2955" fill="black">November 6th &amp; 7th: The World Travel Fair in London</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/11/22/dick-pic-in-london-22-november-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="2980" fill="black">November 22nd: Dick Pic in Unknown Location</text>
-            </a>
-            <a xlink:href="https://banksyunofficial.com/2018/12/23/bittersweet-christmas-greeting-in-port-talbot-wales-19-december-2018/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="3005" fill="black">Decemeber 19th: Season's Greetings in Port Talbot, Wales</text>
-            </a>
-        </g>
-        <text x="-45" y="3030" fill="black">2019</text>
-        <circle r="3" cx="0" cy="2025" fill="red"/>
-        <g>
-            <a xlink:href="https://banksyunofficial.com/2019/02/12/new-piece-at-walled-off-hotel-1-february-2019/" xlink:title="Banksy Timeline Article">
-                <text x="10" y="3055" fill="black">New Piece at The Walled Off Hotel</text>
-            </a>
-        </g>
-    </g>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="timeline-container" width="100%" height="100%">
+<desc>Banksy Works Timeline</desc>
+<g transform="translate(120)">
+	<line x1="0" y1="30" x2="0" y2="3655" stroke="gray" stroke-width="1"/>
+	<g class="year">
+		<text x="-45" y="30" fill="black">1999</text>
+		<circle r="3" cx="0" cy="25" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/the_mild_mild_west.html" xlink:title="Banksy's 'The Mild Mild West'" target="_blank">
+				<text x="10" y="55" fill="red">The Mild Mild West</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="80" fill="black">2001</text>
+		<circle r="3" cx="0" cy="75" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/twin_towers.html" xlink:title="Banksy's 'Twin Towers'" target="_blank">
+				<text x="10" y="105" fill="red">Twin Towers</text>
+			</a>
+			<a xlink:href="gallery_pages/love_is_in_the_air_(cccp).html" xlink:title="Banksy's 'Love Is In The Air (CCCP)'" target="_blank">
+				<text x="10" y="130" fill="gray">Love Is In The Air (CCCP)</text>
+			</a>
+			<a xlink:href="gallery_pages/banging_your_head_against_a_brick_wall.html" xlink:title="Banksy's 'Banging Your Head Against A Brick Wall'" target="_blank">
+				<text x="10" y="155" fill="black">Banging Your Head Against A Brick Wall</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="180" fill="black">2002</text>
+		<circle r="3" cx="0" cy="175" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/choose_your_weapon.html" xlink:title="Banksy's 'Choose Your Weapon'" target="_blank">
+				<text x="10" y="205" fill="red">Choose Your Weapon</text>
+			</a>
+			<a xlink:href="gallery_pages/girl_with_balloon.html" xlink:title="Banksy's 'Girl with Balloon'" target="_blank">
+				<text x="10" y="230" fill="red">Girl with Balloon</text>
+			</a>
+			<a xlink:href="gallery_pages/laugh_now.html" xlink:title="Banksy's 'Laugh Now'" target="_blank">
+				<text x="10" y="255" fill="red">Laugh Now</text>
+			</a>
+			<a xlink:href="gallery_pages/existencilism.html" xlink:title="Banksy's 'Existencilism'" target="_blank">
+				<text x="10" y="280" fill="black">Existencilism</text>
+			</a>
+			<a xlink:href="gallery_pages/santas_ghetto_02.html" xlink:title="Banksy's 'Santa's Ghetto 02'" target="_blank">
+				<text x="10" y="305" fill="black">Santa's Ghetto 02</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="330" fill="black">2003</text>
+		<circle r="3" cx="0" cy="325" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/bomb_hugger.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
+				<text x="10" y="355" fill="red">Bomb Hugger</text>
+			</a>
+			<a xlink:href="gallery_pages/ice_cream_bomb.html" xlink:title="Banksy's 'Ice Cream Bomb'" target="_blank">
+				<text x="10" y="380" fill="red">Ice Cream Bomb</text>
+			</a>
+			<a xlink:href="gallery_pages/bomb_hugger.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
+				<text x="10" y="405" fill="gray">Bomb Hugger</text>
+			</a>
+			<a xlink:href="gallery_pages/bomb_middle_england.html" xlink:title="Banksy's 'Bomb Middle England'" target="_blank">
+				<text x="10" y="430" fill="gray">Bomb Middle England</text>
+			</a>
+			<a xlink:href="gallery_pages/flying_copper.html" xlink:title="Banksy's 'Flying Copper'" target="_blank">
+				<text x="10" y="455" fill="gray">Flying Copper</text>
+			</a>
+			<a xlink:href="gallery_pages/golf_sale.html" xlink:title="Banksy's 'Golf Sale'" target="_blank">
+				<text x="10" y="480" fill="gray">Golf Sale</text>
+			</a>
+			<a xlink:href="gallery_pages/hmv.html" xlink:title="Banksy's 'HMV'" target="_blank">
+				<text x="10" y="505" fill="gray">HMV</text>
+			</a>
+			<a xlink:href="gallery_pages/happy_choppers.html" xlink:title="Banksy's 'Happy Choppers'" target="_blank">
+				<text x="10" y="530" fill="gray">Happy Choppers</text>
+			</a>
+			<a xlink:href="gallery_pages/love_is_in_the_air.html" xlink:title="Banksy's 'Love Is In The Air'" target="_blank">
+				<text x="10" y="555" fill="gray">Love Is In The Air</text>
+			</a>
+			<a xlink:href="gallery_pages/monkey_queen.html" xlink:title="Banksy's 'Monkey Queen'" target="_blank">
+				<text x="10" y="580" fill="gray">Monkey Queen</text>
+			</a>
+			<a xlink:href="gallery_pages/queen_victoria.html" xlink:title="Banksy's 'Queen Victoria'" target="_blank">
+				<text x="10" y="605" fill="gray">Queen Victoria</text>
+			</a>
+			<a xlink:href="gallery_pages/turf_war.html" xlink:title="Banksy's 'Turf War'" target="_blank">
+				<text x="10" y="630" fill="gray">Turf War</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="655" fill="black">2004</text>
+		<circle r="3" cx="0" cy="650" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/because_im_worthless.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
+				<text x="10" y="680" fill="red">Because I'm Worthless</text>
+			</a>
+			<a xlink:href="gallery_pages/keep_your_coins_i_want_change.html" xlink:title="Banksy's 'Keep your Coins, I want Change'" target="_blank">
+				<text x="10" y="705" fill="red">Keep your Coins, I want Change</text>
+			</a>
+			<a xlink:href="gallery_pages/naplam_girl.html" xlink:title="Banksy's 'Naplam Girl'" target="_blank">
+				<text x="10" y="730" fill="red">Naplam Girl</text>
+			</a>
+			<a xlink:href="gallery_pages/barcode.html" xlink:title="Banksy's 'Barcode'" target="_blank">
+				<text x="10" y="755" fill="gray">Barcode</text>
+			</a>
+			<a xlink:href="gallery_pages/because_im_worthless.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
+				<text x="10" y="780" fill="gray">Because I'm Worthless</text>
+			</a>
+			<a xlink:href="gallery_pages/christ_with_shopping_bags.html" xlink:title="Banksy's 'Christ with Shopping Bags'" target="_blank">
+				<text x="10" y="805" fill="gray">Christ with Shopping Bags</text>
+			</a>
+			<a xlink:href="gallery_pages/di_faced_tenners.html" xlink:title="Banksy's 'Di Faced Tenners'" target="_blank">
+				<text x="10" y="830" fill="gray">Di Faced Tenners</text>
+			</a>
+			<a xlink:href="gallery_pages/get_out_while_you_can.html" xlink:title="Banksy's 'Get Out While You Can'" target="_blank">
+				<text x="10" y="855" fill="gray">Get Out While You Can</text>
+			</a>
+			<a xlink:href="gallery_pages/girl_with_balloon.html" xlink:title="Banksy's 'Girl With Balloon'" target="_blank">
+				<text x="10" y="880" fill="gray">Girl With Balloon</text>
+			</a>
+			<a xlink:href="gallery_pages/i_fought_the_law.html" xlink:title="Banksy's 'I Fought The Law'" target="_blank">
+				<text x="10" y="905" fill="gray">I Fought The Law</text>
+			</a>
+			<a xlink:href="gallery_pages/love_rat.html" xlink:title="Banksy's 'Love Rat'" target="_blank">
+				<text x="10" y="930" fill="gray">Love Rat</text>
+			</a>
+			<a xlink:href="gallery_pages/napalm.html" xlink:title="Banksy's 'Napalm'" target="_blank">
+				<text x="10" y="955" fill="gray">Napalm</text>
+			</a>
+			<a xlink:href="gallery_pages/pulp_fiction.html" xlink:title="Banksy's 'Pulp Fiction'" target="_blank">
+				<text x="10" y="980" fill="gray">Pulp Fiction</text>
+			</a>
+			<a xlink:href="gallery_pages/cut_it_out.html" xlink:title="Banksy's 'Cut It Out'" target="_blank">
+				<text x="10" y="1005" fill="black">Cut It Out</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1030" fill="black">2005</text>
+		<circle r="3" cx="0" cy="1025" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/dove_of_peace.html" xlink:title="Banksy's 'Dove of Peace'" target="_blank">
+				<text x="10" y="1055" fill="red">Dove of Peace</text>
+			</a>
+			<a xlink:href="gallery_pages/hitchhikers_anywhere.html" xlink:title="Banksy's 'Hitchhikers Anywhere'" target="_blank">
+				<text x="10" y="1080" fill="red">Hitchhikers Anywhere</text>
+			</a>
+			<a xlink:href="gallery_pages/snorting_copper.html" xlink:title="Banksy's 'Snorting Copper'" target="_blank">
+				<text x="10" y="1105" fill="red">Snorting Copper</text>
+			</a>
+			<a xlink:href="gallery_pages/soldiers_painting_cnd_sign.html" xlink:title="Banksy's 'Soldiers Painting CND Sign'" target="_blank">
+				<text x="10" y="1130" fill="red">Soldiers Painting CND Sign</text>
+			</a>
+			<a xlink:href="gallery_pages/think_tank.html" xlink:title="Banksy's 'Think Tank'" target="_blank">
+				<text x="10" y="1155" fill="red">Think Tank</text>
+			</a>
+			<a xlink:href="gallery_pages/cnd_soldiers.html" xlink:title="Banksy's 'CND Soldiers'" target="_blank">
+				<text x="10" y="1180" fill="gray">CND Soldiers</text>
+			</a>
+			<a xlink:href="gallery_pages/grim_reaper.html" xlink:title="Banksy's 'Grim Reaper'" target="_blank">
+				<text x="10" y="1205" fill="gray">Grim Reaper</text>
+			</a>
+			<a xlink:href="gallery_pages/jack_&amp;_jill.html" xlink:title="Banksy's 'Jack &amp; Jill'" target="_blank">
+				<text x="10" y="1230" fill="gray">Jack &amp; Jill</text>
+			</a>
+			<a xlink:href="gallery_pages/kate_moss.html" xlink:title="Banksy's 'Kate Moss'" target="_blank">
+				<text x="10" y="1255" fill="gray">Kate Moss</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1280" fill="black">2006</text>
+		<circle r="3" cx="0" cy="1275" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/gangsta_rat.html" xlink:title="Banksy's 'Gangsta Rat'" target="_blank">
+				<text x="10" y="1305" fill="red">Gangsta Rat</text>
+			</a>
+			<a xlink:href="gallery_pages/old_skool.html" xlink:title="Banksy's 'Old Skool'" target="_blank">
+				<text x="10" y="1330" fill="red">Old Skool</text>
+			</a>
+			<a xlink:href="gallery_pages/old_woman.html" xlink:title="Banksy's 'Old Woman'" target="_blank">
+				<text x="10" y="1355" fill="red">Old Woman</text>
+			</a>
+			<a xlink:href="gallery_pages/sweep_it_under_the_carpet.html" xlink:title="Banksy's 'Sweep it Under the Carpet'" target="_blank">
+				<text x="10" y="1380" fill="red">Sweep it Under the Carpet</text>
+			</a>
+			<a xlink:href="gallery_pages/well_hung_lover.html" xlink:title="Banksy's 'Well, Hung Lover'" target="_blank">
+				<text x="10" y="1405" fill="red">Well, Hung Lover</text>
+			</a>
+			<a xlink:href="gallery_pages/applause.html" xlink:title="Banksy's 'Applause'" target="_blank">
+				<text x="10" y="1430" fill="gray">Applause</text>
+			</a>
+			<a xlink:href="gallery_pages/festival.html" xlink:title="Banksy's 'Festival'" target="_blank">
+				<text x="10" y="1455" fill="gray">Festival</text>
+			</a>
+			<a xlink:href="gallery_pages/flags.html" xlink:title="Banksy's 'Flags'" target="_blank">
+				<text x="10" y="1480" fill="gray">Flags</text>
+			</a>
+			<a xlink:href="gallery_pages/grannies.html" xlink:title="Banksy's 'Grannies'" target="_blank">
+				<text x="10" y="1505" fill="gray">Grannies</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1530" fill="black">2007</text>
+		<circle r="3" cx="0" cy="1525" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/cash_machine_girl.html" xlink:title="Banksy's 'Cash Machine Girl'" target="_blank">
+				<text x="10" y="1555" fill="red">Cash Machine Girl</text>
+			</a>
+			<a xlink:href="gallery_pages/fallen_angel.html" xlink:title="Banksy's 'Fallen Angel'" target="_blank">
+				<text x="10" y="1580" fill="red">Fallen Angel</text>
+			</a>
+			<a xlink:href="gallery_pages/girl_with_skipping_rope.html" xlink:title="Banksy's 'Girl with Skipping Rope'" target="_blank">
+				<text x="10" y="1605" fill="red">Girl with Skipping Rope</text>
+			</a>
+			<a xlink:href="gallery_pages/looting_soldiers.html" xlink:title="Banksy's 'Looting Soldiers'" target="_blank">
+				<text x="10" y="1630" fill="red">Looting Soldiers</text>
+			</a>
+			<a xlink:href="gallery_pages/policeman_searching.html" xlink:title="Banksy's 'Policeman Searching'" target="_blank">
+				<text x="10" y="1655" fill="red">Policeman Searching</text>
+			</a>
+			<a xlink:href="gallery_pages/space_girl_with_bird.html" xlink:title="Banksy's 'Space Girl with Bird'" target="_blank">
+				<text x="10" y="1680" fill="red">Space Girl with Bird</text>
+			</a>
+			<a xlink:href="gallery_pages/stop_and_search.html" xlink:title="Banksy's 'Stop and Search'" target="_blank">
+				<text x="10" y="1705" fill="red">Stop and Search</text>
+			</a>
+			<a xlink:href="gallery_pages/yellow_lines_flower_painter.html" xlink:title="Banksy's 'Yellow Lines Flower Painter'" target="_blank">
+				<text x="10" y="1730" fill="red">Yellow Lines Flower Painter</text>
+			</a>
+			<a xlink:href="gallery_pages/trolleys.html" xlink:title="Banksy's 'Trolleys'" target="_blank">
+				<text x="10" y="1755" fill="gray">Trolleys</text>
+			</a>
+			<a xlink:href="gallery_pages/wall_and_piece.html" xlink:title="Banksy's 'Wall and Piece'" target="_blank">
+				<text x="10" y="1780" fill="black">Wall and Piece</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="1805" fill="black">2008</text>
+		<circle r="3" cx="0" cy="1800" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/abraham_lincoln.html" xlink:title="Banksy's 'Abraham Lincoln'" target="_blank">
+				<text x="10" y="1830" fill="red">Abraham Lincoln</text>
+			</a>
+			<a xlink:href="gallery_pages/bubble_slide_girl.html" xlink:title="Banksy's 'Bubble Slide Girl'" target="_blank">
+				<text x="10" y="1855" fill="red">Bubble Slide Girl</text>
+			</a>
+			<a xlink:href="gallery_pages/cave_painting_removal.html" xlink:title="Banksy's 'Cave Painting Removal'" target="_blank">
+				<text x="10" y="1880" fill="red">Cave Painting Removal</text>
+			</a>
+			<a xlink:href="gallery_pages/gorilla_artist.html" xlink:title="Banksy's 'Gorilla Artist'" target="_blank">
+				<text x="10" y="1905" fill="red">Gorilla Artist</text>
+			</a>
+			<a xlink:href="gallery_pages/i_love_you.html" xlink:title="Banksy's 'I Love You'" target="_blank">
+				<text x="10" y="1930" fill="red">I Love You</text>
+			</a>
+			<a xlink:href="gallery_pages/injured_buddha.html" xlink:title="Banksy's 'Injured Buddha'" target="_blank">
+				<text x="10" y="1955" fill="red">Injured Buddha</text>
+			</a>
+			<a xlink:href="gallery_pages/one_nation_under_cctv.html" xlink:title="Banksy's 'One Nation Under CCTV'" target="_blank">
+				<text x="10" y="1980" fill="red">One Nation Under CCTV</text>
+			</a>
+			<a xlink:href="gallery_pages/very_little_helps.html" xlink:title="Banksy's 'Very Little Helps'" target="_blank">
+				<text x="10" y="2005" fill="red">Very Little Helps</text>
+			</a>
+			<a xlink:href="gallery_pages/nola.html" xlink:title="Banksy's 'NOLA'" target="_blank">
+				<text x="10" y="2030" fill="gray">NOLA</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2055" fill="black">2009</text>
+		<circle r="3" cx="0" cy="2050" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/dont_forget_your_scarf.html" xlink:title="Banksy's 'Don't Forget your Scarf'" target="_blank">
+				<text x="10" y="2080" fill="red">Don't Forget your Scarf</text>
+			</a>
+			<a xlink:href="gallery_pages/kentucky_fox.html" xlink:title="Banksy's 'Kentucky Fox'" target="_blank">
+				<text x="10" y="2105" fill="red">Kentucky Fox</text>
+			</a>
+			<a xlink:href="gallery_pages/thug_for_life_bunny.html" xlink:title="Banksy's 'Thug for Life Bunny'" target="_blank">
+				<text x="10" y="2130" fill="red">Thug for Life Bunny</text>
+			</a>
+			<a xlink:href="gallery_pages/donuts.html" xlink:title="Banksy's 'Donuts'" target="_blank">
+				<text x="10" y="2155" fill="gray">Donuts</text>
+			</a>
+			<a xlink:href="gallery_pages/no_ball_games.html" xlink:title="Banksy's 'No Ball Games'" target="_blank">
+				<text x="10" y="2180" fill="gray">No Ball Games</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2205" fill="black">2010</text>
+		<circle r="3" cx="0" cy="2200" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/cameraman_and_flower.html" xlink:title="Banksy's 'Cameraman and Flower'" target="_blank">
+				<text x="10" y="2230" fill="red">Cameraman and Flower</text>
+			</a>
+			<a xlink:href="gallery_pages/gorilla_with_pink_mask.html" xlink:title="Banksy's 'Gorilla With Pink Mask'" target="_blank">
+				<text x="10" y="2255" fill="red">Gorilla With Pink Mask</text>
+			</a>
+			<a xlink:href="gallery_pages/interest_in_people.html" xlink:title="Banksy's 'Interest in People'" target="_blank">
+				<text x="10" y="2280" fill="red">Interest in People</text>
+			</a>
+			<a xlink:href="gallery_pages/modern_art.html" xlink:title="Banksy's 'Modern Art'" target="_blank">
+				<text x="10" y="2305" fill="red">Modern Art</text>
+			</a>
+			<a xlink:href="gallery_pages/no_future.html" xlink:title="Banksy's 'No Future'" target="_blank">
+				<text x="10" y="2330" fill="red">No Future</text>
+			</a>
+			<a xlink:href="gallery_pages/no_trespassing.html" xlink:title="Banksy's 'No Trespassing'" target="_blank">
+				<text x="10" y="2355" fill="red">No Trespassing</text>
+			</a>
+			<a xlink:href="gallery_pages/security_guard_with_pink_balloon.html" xlink:title="Banksy's 'Security Guard with Pink Balloon'" target="_blank">
+				<text x="10" y="2380" fill="red">Security Guard with Pink Balloon</text>
+			</a>
+			<a xlink:href="gallery_pages/swing_girl.html" xlink:title="Banksy's 'Swing Girl'" target="_blank">
+				<text x="10" y="2405" fill="red">Swing Girl</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2430" fill="black">2011</text>
+		<circle r="3" cx="0" cy="2425" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/baby_carriage.html" xlink:title="Banksy's 'Baby Carriage'" target="_blank">
+				<text x="10" y="2455" fill="red">Baby Carriage</text>
+			</a>
+			<a xlink:href="gallery_pages/child_soldier.html" xlink:title="Banksy's 'Child Soldier'" target="_blank">
+				<text x="10" y="2480" fill="red">Child Soldier</text>
+			</a>
+			<a xlink:href="gallery_pages/follow_your_dreams___canceled.html" xlink:title="Banksy's 'Follow your Dreams - Canceled'" target="_blank">
+				<text x="10" y="2505" fill="red">Follow your Dreams - Canceled</text>
+			</a>
+			<a xlink:href="gallery_pages/sorry_the_lifestyle_you_ordered.html" xlink:title="Banksy's 'Sorry, The Lifestyle you Ordered'" target="_blank">
+				<text x="10" y="2530" fill="red">Sorry, The Lifestyle you Ordered</text>
+			</a>
+			<a xlink:href="gallery_pages/stained_window.html" xlink:title="Banksy's 'Stained Window'" target="_blank">
+				<text x="10" y="2555" fill="red">Stained Window</text>
+			</a>
+			<a xlink:href="gallery_pages/take_this_society.html" xlink:title="Banksy's 'Take this Society'" target="_blank">
+				<text x="10" y="2580" fill="red">Take this Society</text>
+			</a>
+			<a xlink:href="gallery_pages/tap_phoned.html" xlink:title="Banksy's 'Tap Phoned'" target="_blank">
+				<text x="10" y="2605" fill="red">Tap Phoned</text>
+			</a>
+			<a xlink:href="gallery_pages/tox.html" xlink:title="Banksy's 'Tox'" target="_blank">
+				<text x="10" y="2630" fill="red">Tox</text>
+			</a>
+			<a xlink:href="gallery_pages/toxic_rat.html" xlink:title="Banksy's 'Toxic Rat'" target="_blank">
+				<text x="10" y="2655" fill="red">Toxic Rat</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2680" fill="black">2012</text>
+		<circle r="3" cx="0" cy="2675" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/fridge_kite.html" xlink:title="Banksy's 'Fridge Kite'" target="_blank">
+				<text x="10" y="2705" fill="red">Fridge Kite</text>
+			</a>
+			<a xlink:href="gallery_pages/javelin_thrower.html" xlink:title="Banksy's 'Javelin Thrower'" target="_blank">
+				<text x="10" y="2730" fill="red">Javelin Thrower</text>
+			</a>
+			<a xlink:href="gallery_pages/london_calling.html" xlink:title="Banksy's 'London Calling'" target="_blank">
+				<text x="10" y="2755" fill="red">London Calling</text>
+			</a>
+			<a xlink:href="gallery_pages/slave_labour.html" xlink:title="Banksy's 'Slave Labour'" target="_blank">
+				<text x="10" y="2780" fill="red">Slave Labour</text>
+			</a>
+			<a xlink:href="gallery_pages/winnie_the_pooh_bear_trap.html" xlink:title="Banksy's 'Winnie the Pooh Bear Trap'" target="_blank">
+				<text x="10" y="2805" fill="red">Winnie the Pooh Bear Trap</text>
+			</a>
+			<a xlink:href="gallery_pages/copyright.html" xlink:title="Banksy's 'Copyright'" target="_blank">
+				<text x="10" y="2830" fill="gray">Copyright</text>
+			</a>
+			<a xlink:href="gallery_pages/love_hurts.html" xlink:title="Banksy's 'Love Hurts'" target="_blank">
+				<text x="10" y="2855" fill="gray">Love Hurts</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="2880" fill="black">2013</text>
+		<circle r="3" cx="0" cy="2875" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/bronx_zoo.html" xlink:title="Banksy's 'Bronx Zoo'" target="_blank">
+				<text x="10" y="2905" fill="red">Bronx Zoo</text>
+			</a>
+			<a xlink:href="gallery_pages/ghetto_for_life.html" xlink:title="Banksy's 'Ghetto for Life'" target="_blank">
+				<text x="10" y="2930" fill="red">Ghetto for Life</text>
+			</a>
+			<a xlink:href="gallery_pages/graffiti_is_a_crime.html" xlink:title="Banksy's 'Graffiti Is A Crime'" target="_blank">
+				<text x="10" y="2955" fill="red">Graffiti Is A Crime</text>
+			</a>
+			<a xlink:href="gallery_pages/hammer_boy.html" xlink:title="Banksy's 'Hammer Boy'" target="_blank">
+				<text x="10" y="2980" fill="red">Hammer Boy</text>
+			</a>
+			<a xlink:href="gallery_pages/waiting_in_vain.html" xlink:title="Banksy's 'Waiting in Vain'" target="_blank">
+				<text x="10" y="3005" fill="red">Waiting in Vain</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="3030" fill="black">2014</text>
+		<circle r="3" cx="0" cy="3025" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/drunk_angel.html" xlink:title="Banksy's 'Drunk Angel'" target="_blank">
+				<text x="10" y="3055" fill="red">Drunk Angel</text>
+			</a>
+			<a xlink:href="gallery_pages/love_is_the_answer.html" xlink:title="Banksy's 'Love is the Answer'" target="_blank">
+				<text x="10" y="3080" fill="red">Love is the Answer</text>
+			</a>
+			<a xlink:href="gallery_pages/mobile_phone_lovers.html" xlink:title="Banksy's 'Mobile Phone Lovers'" target="_blank">
+				<text x="10" y="3105" fill="red">Mobile Phone Lovers</text>
+			</a>
+			<a xlink:href="gallery_pages/dumbo.html" xlink:title="Banksy's 'Dumbo'" target="_blank">
+				<text x="10" y="3130" fill="gray">Dumbo</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="3155" fill="black">2015</text>
+		<circle r="3" cx="0" cy="3150" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/crying_woman.html" xlink:title="Banksy's 'Crying Woman'" target="_blank">
+				<text x="10" y="3180" fill="red">Crying Woman</text>
+			</a>
+			<a xlink:href="gallery_pages/gaza_kitty.html" xlink:title="Banksy's 'Gaza Kitty'" target="_blank">
+				<text x="10" y="3205" fill="red">Gaza Kitty</text>
+			</a>
+			<a xlink:href="gallery_pages/the_son_of_a_migrant_from_syria.html" xlink:title="Banksy's 'The Son Of A Migrant From Syria'" target="_blank">
+				<text x="10" y="3230" fill="red">The Son Of A Migrant From Syria</text>
+			</a>
+			<a xlink:href="gallery_pages/watchtower_swing.html" xlink:title="Banksy's 'Watchtower Swing'" target="_blank">
+				<text x="10" y="3255" fill="red">Watchtower Swing</text>
+			</a>
+			<a xlink:href="gallery_pages/dismaland.html" xlink:title="Banksy's 'Dismaland'" target="_blank">
+				<text x="10" y="3280" fill="black">Dismaland</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="3305" fill="black">2016</text>
+		<circle r="3" cx="0" cy="3300" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/burning_tyre.html" xlink:title="Banksy's 'Burning Tyre'" target="_blank">
+				<text x="10" y="3330" fill="red">Burning Tyre</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="3355" fill="black">2017</text>
+		<circle r="3" cx="0" cy="3350" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/civilian_drone_strike.html" xlink:title="Banksy's 'Civilian Drone STrike'" target="_blank">
+				<text x="10" y="3380" fill="gray">Civilian Drone STrike</text>
+			</a>
+			<a xlink:href="gallery_pages/israeli_palestinian_pillow_fight.html" xlink:title="Banksy's 'Israeli-Palestinian Pillow Fight'" target="_blank">
+				<text x="10" y="3405" fill="gray">Israeli-Palestinian Pillow Fight</text>
+			</a>
+			<a xlink:href="gallery_pages/the_walled_off_hotel.html" xlink:title="Banksy's 'The Walled Off Hotel'" target="_blank">
+				<text x="10" y="3430" fill="black">The Walled Off Hotel</text>
+			</a>
+		</g>
+	</g>
+	<g class="year">
+		<text x="-45" y="3455" fill="black">2018</text>
+		<circle r="3" cx="0" cy="3450" fill="red"/>
+		<g class="works">
+			<a xlink:href="gallery_pages/blinded_napoleon.html" xlink:title="Banksy's 'Blinded Napoleon'" target="_blank">
+				<text x="10" y="3480" fill="red">Blinded Napoleon</text>
+			</a>
+			<a xlink:href="gallery_pages/box_cutter_rat.html" xlink:title="Banksy's 'Box Cutter Rat'" target="_blank">
+				<text x="10" y="3505" fill="red">Box Cutter Rat</text>
+			</a>
+			<a xlink:href="gallery_pages/chisel_the_flag.html" xlink:title="Banksy's 'Chisel the Flag'" target="_blank">
+				<text x="10" y="3530" fill="red">Chisel the Flag</text>
+			</a>
+			<a xlink:href="gallery_pages/draw_the_raised_bridge.html" xlink:title="Banksy's 'Draw The Raised Bridge'" target="_blank">
+				<text x="10" y="3555" fill="red">Draw The Raised Bridge</text>
+			</a>
+			<a xlink:href="gallery_pages/go_flock_yourself.html" xlink:title="Banksy's 'Go Flock Yourself'" target="_blank">
+				<text x="10" y="3580" fill="red">Go Flock Yourself</text>
+			</a>
+			<a xlink:href="gallery_pages/rat_couple.html" xlink:title="Banksy's 'Rat Couple'" target="_blank">
+				<text x="10" y="3605" fill="red">Rat Couple</text>
+			</a>
+			<a xlink:href="gallery_pages/seal_mural.html" xlink:title="Banksy's 'Seal Mural'" target="_blank">
+				<text x="10" y="3630" fill="red">Seal Mural</text>
+			</a>
+			<a xlink:href="gallery_pages/seasons_greetings.html" xlink:title="Banksy's 'Season's Greetings'" target="_blank">
+				<text x="10" y="3655" fill="red">Season's Greetings</text>
+			</a>
+		</g>
+	</g>
+</g>
 </svg>

@@ -32,19 +32,33 @@
             <circle r="3" cx="0" cy="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25}" fill="red"/>
             <xsl:text>&#10;&#9;&#9;</xsl:text>
             <g class="works">
-                <xsl:apply-templates select="following-sibling::works/child::title"/>
+                <xsl:apply-templates select="following-sibling::works/title"/>
                 <xsl:text>&#10;&#9;&#9;</xsl:text>
             </g>
             <xsl:text>&#10;&#9;</xsl:text>
         </g>
     </xsl:template>
-    <xsl:template match="works//title">
+    <xsl:template match="works/title">
         <xsl:text>&#10;&#9;&#9;&#9;</xsl:text> 
         <a xlink:href='gallery_pages/{lower-case(current()/replace(., "[&#39;]|[&#44;]", "") ! translate(., "-", "_") ! tokenize(., " ") => string-join("_"))}.html' xlink:title="Banksy's '{current()}'" target="_blank">
             <xsl:text>&#10;&#9;&#9;&#9;&#9;</xsl:text>
-        <text x="10" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}">
-            <xsl:apply-templates select="current()/string()"/>
-        </text>
+            <xsl:choose>
+                <xsl:when test="@class='graffiti'">
+                    <text x="10" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}" fill="red">
+                        <xsl:apply-templates select="current()/string()"/>
+                    </text>
+                </xsl:when>
+                <xsl:when test="@class='canvas'">
+                    <text x="10" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}" fill="gray">
+                        <xsl:apply-templates select="current()/string()"/>
+                    </text>
+                </xsl:when>
+                <xsl:when test="@class='misc'">
+                    <text x="10" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}" fill="black">
+                        <xsl:apply-templates select="current()/string()"/>
+                    </text>
+                </xsl:when>
+            </xsl:choose>
         <xsl:text>&#10;&#9;&#9;&#9;</xsl:text>
         </a>
     </xsl:template>
