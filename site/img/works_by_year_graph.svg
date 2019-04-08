@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>Works Bar Graph by Year</desc>
+    <g transform="translate(20, 20)">
+        <g class="x-axis" stroke="black" stroke-width="2">
+            <line x1="0" y1="500" x2="1200" y2="500"/>
+            <line x1="20" y1="510" x2="20" y2="490"/>
+            <line x1="40" y1="510" x2="40" y2="490"/>
+            <line x1="60" y1="510" x2="60" y2="490"/>
+            <line x1="80" y1="510" x2="80" y2="490"/>
+            <line x1="100" y1="510" x2="100" y2="490"/>
+            <line x1="120" y1="510" x2="120" y2="490"/>
+            <line x1="140" y1="510" x2="140" y2="490"/>
+            <line x1="160" y1="510" x2="160" y2="490"/>
+            <line x1="180" y1="510" x2="180" y2="490"/>
+            <line x1="200" y1="510" x2="200" y2="490"/>
+            <line x1="220" y1="510" x2="220" y2="490"/>
+            <line x1="240" y1="510" x2="240" y2="490"/>
+            <line x1="260" y1="510" x2="260" y2="490"/>
+            <line x1="280" y1="510" x2="280" y2="490"/>
+            <line x1="300" y1="510" x2="300" y2="490"/>
+            <line x1="320" y1="510" x2="320" y2="490"/>
+            <line x1="340" y1="510" x2="340" y2="490"/>
+            <line x1="360" y1="510" x2="360" y2="490"/>
+            <line x1="380" y1="510" x2="380" y2="490"/>
+            <line x1="400" y1="510" x2="400" y2="490"/>
+        </g>
+        <g class="y-axis" stroke="black" stroke-width="2">
+            <line x1="0" y1="0" x2="0" y2="500"/>
+        </g>
+        <g>
+            <text x="23" y="530">1999</text>
+            <text x="24" y="180">20</text>
+            <text x="44" y="280">20</text>
+            <line x1="30" y1="500" x2="30" y2="200" stroke-width="20" stroke="blue"></line>
+            <line x1="50" y1="500" x2="50" y2="300" stroke-width="20" stroke="purple"></line>
+        </g>
+        <g>
+            <text x="83" y="530">1999</text>
+            <text x="84" y="180">20</text>
+            <text x="104" y="280">20</text>
+            <line x1="90" y1="500" x2="90" y2="200" stroke-width="20" stroke="blue"></line>
+            <line x1="110" y1="500" x2="110" y2="300" stroke-width="20" stroke="purple"></line>
+        </g>
+    </g>
+</svg>

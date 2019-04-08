@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Waiting in Vain</title>
+                    <date when="2013-04"/>
+                    <medium type="spray_paint"/>
+                    <location lat="40.6782" long="-73.9442">Brooklyn, USA</location>
+                    <size orientation="landscape">medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="https://untappedcities.com/2013/10/24/banksy-in-nyc-day-24-waiting-in-vain-at-the-door-of-the-hustler-club-in-hells-kitchen/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This piece by Banksy called Waiting in Vain is another part of his New York residency ‘Better Our Than In’. It appeared on the roll down shutters of Larry Flint’s Hustler club and depicts a man with flowers who has apparently been stood up – perhaps by one of the dancers?. 
+            The shutter has been removed for display inside the club</desc>
+        <p>
+            <img src="waiting_in_vain.jpg" alt="Banksy's 'Waiting in Vain'"/>
+            <credit>By: Rom Levy from New York, https://streetartnews.net/2013/10/banksy-waiting-in-vain-new-street-art.html</credit>
+        </p>
+    </body>
+</root>

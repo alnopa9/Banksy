@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
             <titleStmt>
                 <creator>Banksy</creator>
-                <editor>Alyssa Argento</editor>
+                <editor>Abdual Nadeem</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
@@ -16,22 +16,23 @@
             <sourceDesc>
                 <bibl>
                     <title>Laugh Now</title>
-                    <date when="2003"/>
-                    <medium type="canvas"/>
-                    <size dimension="48.5 x 70">medium</size>
+                    <date when="2002-12"/>
+                    <medium type="spray_paint"/>
+                    <location lat="34.0522" long="-118.2437">Los Angeles, USA</location>
+                    <size orientation="portrait">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
-                    <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
-                    <edition total="600" signed="150" unsigned="450"/>
+                    <ref target="https://hexagongallery.com/catalog/artist/banksy/laugh-now/">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc></desc>
+        <desc>“Laugh Now” first appeared in 2002 and featured a Monkey wearing a sandwich board proclaiming ‘Laugh now, but one day we’ll be in charge’.
+        It came right after the election to  show that people did not like the person in charge. </desc>
         <p>
-            <img src="../img/laugh_now.jpg" alt="Banksy's 'Laugh Now'"/>
-            <credit>https://dl.airtable.com/vOWT3DBTpuBLmr3HGr25_full_banksy-laugh-now-better.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
+            <img src="laugh_now.jpg" alt="Laugh Now Banksy"/>
+            <credit>By: Barabara Miesh from Los Angeles, https://www.pinterest.com/pin/321233385906649507/</credit>
         </p>
     </body>
 </root>

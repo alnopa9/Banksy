@@ -1,77 +1,652 @@
-Applause	2006	canvas	
-Barcode	2004	canvas	
-Because I'm Worthless	2004	canvas	
-Blinded Napoleon	2018	spray_paint	
-Bomb Hugger	2003	canvas	
-Bomb Hugger	2003	spray_paint	
-Bomb Middle England	2003	canvas	
-Box Cutter Rat	2018	spray_paint	
-Bronx Zoo	2013	spray_paint	
-Bubble Slide Girl	2008	spray_paint	
-CND Soldiers	2005	canvas	
-Cash Machine Girl	2007	spray_paint	
-Child Soldier	2011	spray_paint	
-Choose Your Weapon	2002	spray_paint	
-Choose Your Weapon	2010	spray_paint	
-Choose Your Weapon	2002	canvas	
-Choose Your Weapon	2010	canvas	
-Christ with Shopping Bags	2004	canvas	
-Civilian Drone STrike	2017	canvas	
-Di Faced Tenners	2004	canvas	
-Donuts	2009	canvas	
-Dumbo	2014	canvas	
-Festival	2006	canvas	
-Flags	2006	canvas	
-Flying Copper	2003	canvas	
-Follow your Dreams - Canceled	2011	spray_paint	
-Gangsta Rat	2006	spray_paint	
-Gangsta Rat	2004	spray_paint	
-Gangsta Rat	2006	canvas	
-Gangsta Rat	2004	canvas	
-Get Out While You Can	2004	canvas	
-Girl With Balloon	2004	canvas	
-Girl with Balloon	2002	spray_paint	
-Go FLock Yourself	2018	spray_paint	
-Golf Sale	2003	canvas	
-Gorilla Artist	2008	spray_paint	
-Graffiti Is A Crime	2013	spray_paint	
-Graffiti is a Crime	2013	spray_paint	
-Grannies	2006	canvas	
-Grim Reaper	2005	canvas	
-HMV	2003	canvas	
-Hammer Boy	2013	spray_paint	
-Happy Choppers	2003	canvas	
-I Fought The Law	2004	canvas	
-I want change	2015	spray_paint	
-Injured Buddha	2008	spray_paint	
-Interest in People	2010	spray_paint	
-Israeli-Palestinian Pillow Fight	2017	canvas	
-Jack & Jill	2005	canvas	
-Javelin Thrower	2012	spray_paint	
-Kate Moss	2005	canvas	
-Keep your Coins, I want Change	2004	spray_paint	
-Laugh Now	2003	canvas	
-Looting Soldier	2007	spray_paint	
-Love Hurts	2012	canvas	
-Love Is In The Air	2003	canvas	
-Love Is In The Air (CCCP)	2001	canvas	
-Love Rat	2004	canvas	
-Monkey Queen	2003	canvas	
-NOLA	2008	canvas	
-Napalm	2004	canvas	
-Pulp Fiction	2004	canvas	
-Queen Victoria	2003	canvas	
-Seal Mural	2018	spray_paint	
-Season's Greetings	2018	spray_paint	
-Security Guard with Pink Balloon	2010	spray_paint	
-Snorting Copper	2005	spray_paint	
-Stop and Search	2007	spray_paint	
-Sweep it Under the Carpet	2006	spray_paint	
-Swing Girl	2010	spray_paint	
-Take this Society	2011	spray_paint	
-Tap Phoned	2011	spray_paint	
-The Mild Mild West	1999	spray_paint	
-Thug for Life Bunny	2009	spray_paint	
-Trolleys	2007	canvas	
-Turf War	2003	canvas	
-Well, Hung Lover	2006	spray_paint	
+<root>
+    <work>
+        <title>Abraham Lincoln</title>
+        <year>2008</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Applause</title>
+        <year>2006</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Baby Carriage</title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Banging Your Head Against A Brick Wall</title>
+        <year>2001</year>
+        <medium>book</medium>
+    </work>
+    <work>
+        <title>Barcode</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Because I'm Worthless</title>
+        <year>2004</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Because I'm Worthless</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Blinded Napoleon</title>
+        <year>2018</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Bomb Hugger</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Bomb Hugger</title>
+        <year>2003</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Bomb Middle England</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Box Cutter Rat</title>
+        <year>2018</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Bronx Zoo</title>
+        <year>2013</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Bubble Slide Girl</title>
+        <year>2008</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Burning Tyre</title>
+        <year>2016</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>CND Soldiers</title>
+        <year>2005</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Cameraman and Flower</title>
+        <year>2010</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Cash Machine Girl</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Cave Painting Removal</title>
+        <year>2008</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Child Soldier</title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Chisel the Flag</title>
+        <year>2018</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Choose Your Weapon</title>
+        <year>2002</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Christ with Shopping Bags</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Civilian Drone STrike</title>
+        <year>2017</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Copyright </title>
+        <year>2012</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Crying Woman</title>
+        <year>2015</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Cut It Out</title>
+        <year>2004</year>
+        <medium>book</medium>
+    </work>
+    <work>
+        <title>Di Faced Tenners</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Dismaland</title>
+        <year>2015</year>
+        <medium>installation</medium>
+    </work>
+    <work>
+        <title>Don't Forget your Scarf</title>
+        <year>2009</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Donuts</title>
+        <year>2009</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Dove of Peace</title>
+        <year>2005</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Draw The Raised Bridge</title>
+        <year>2018</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Drunk Angel</title>
+        <year>2014</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Dumbo</title>
+        <year>2014</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Existencilism</title>
+        <year>2002</year>
+        <medium>book</medium>
+    </work>
+    <work>
+        <title>Fallen Angel</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Festival</title>
+        <year>2006</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Flags</title>
+        <year>2006</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Flying Copper</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Follow your Dreams - Canceled</title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Fridge Kite</title>
+        <year>2012</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Gangsta Rat</title>
+        <year>2006</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Gaza Kitty</title>
+        <year>2015</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Get Out While You Can</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Ghetto for Life</title>
+        <year>2013</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Girl With Balloon</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Girl with Balloon</title>
+        <year>2002</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Girl with Skipping Rope</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Go Flock Yourself</title>
+        <year>2018</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Golf Sale</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Gorilla Artist</title>
+        <year>2008</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Gorilla With Pink Mask</title>
+        <year>2010</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Graffiti Is A Crime</title>
+        <year>2013</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Graffiti is a Crime</title>
+        <year>2013</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Grannies</title>
+        <year>2006</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Grim Reaper</title>
+        <year>2005</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>HMV</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Hammer Boy</title>
+        <year>2013</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Happy Choppers</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Hitchhikers Anywhere</title>
+        <year>2005</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>I Fought The Law</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>I Love You</title>
+        <year>2008</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>I want change</title>
+        <year>2015</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Ice Cream Bomb</title>
+        <year>2003</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Injured Buddha</title>
+        <year>2008</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Interest in People</title>
+        <year>2010</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Israeli-Palestinian Pillow Fight</title>
+        <year>2017</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Jack &amp; Jill</title>
+        <year>2005</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Javelin Thrower</title>
+        <year>2012</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Kate Moss</title>
+        <year>2005</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Keep your Coins, I want Change</title>
+        <year>2004</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Kentucky Fox</title>
+        <year>2009</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Laugh Now</title>
+        <year>2002</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>London Calling</title>
+        <year>2012</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Looting Soldier</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Looting Soldiers</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Love Hurts</title>
+        <year>2012</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Love Is In The Air</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Love Is In The Air (CCCP)</title>
+        <year>2001</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Love Rat</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Love is the Answer</title>
+        <year>2014</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Mobile Phone Lovers</title>
+        <year>2014</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Modern Art</title>
+        <year>2010</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Monkey Queen</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>NOLA</title>
+        <year>2008</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Napalm</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Naplam Girl</title>
+        <year>2004</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>No Ball Games</title>
+        <year>2009</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>No Future</title>
+        <year>2010</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>No Trespassing</title>
+        <year>2010</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Old Skool</title>
+        <year>2006</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Old Woman</title>
+        <year>2006</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>One Nation Under CCTV</title>
+        <year>2008</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Policeman Searching</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Pulp Fiction</title>
+        <year>2004</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Queen Victoria</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Rat Couple</title>
+        <year>2018</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Santa's Ghetto 02</title>
+        <year>2002</year>
+        <medium>installation</medium>
+    </work>
+    <work>
+        <title>Seal Mural</title>
+        <year>2018</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Season's Greetings</title>
+        <year>2018</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Security Guard with Pink Balloon</title>
+        <year>2010</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Slave Labour</title>
+        <year>2012</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Snorting Copper</title>
+        <year>2005</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Soldiers Painting CND Sign</title>
+        <year>2005</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Sorry, The Lifestyle you Ordered</title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Space Girl with Bird</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Stained Window </title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Stop and Search</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Sweep it Under the Carpet</title>
+        <year>2006</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Swing Girl</title>
+        <year>2010</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Take this Society</title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Tap Phoned</title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>The Mild Mild West</title>
+        <year>1999</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>The Son Of A Migrant From Syria</title>
+        <year>2015</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>The Walled Off Hotel</title>
+        <year>2017</year>
+        <medium>installation</medium>
+    </work>
+    <work>
+        <title>Think Tank</title>
+        <year>2005</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Thug for Life Bunny</title>
+        <year>2009</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Tox</title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Toxic Rat</title>
+        <year>2011</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Trolleys</title>
+        <year>2007</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Turf War</title>
+        <year>2003</year>
+        <medium>canvas</medium>
+    </work>
+    <work>
+        <title>Twin Towers</title>
+        <year>2001</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Very Little Helps</title>
+        <year>2008</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Waiting in Vain</title>
+        <year>2013</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Wall and Piece</title>
+        <year>2007</year>
+        <medium>book</medium>
+    </work>
+    <work>
+        <title>Watchtower Swing</title>
+        <year>2015</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Well, Hung Lover</title>
+        <year>2006</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Winnie the Pooh Bear Trap</title>
+        <year>2012</year>
+        <medium>spray_paint</medium>
+    </work>
+    <work>
+        <title>Yellow Lines Flower Painter</title>
+        <year>2007</year>
+        <medium>spray_paint</medium>
+    </work>
+</root>

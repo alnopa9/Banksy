@@ -21,52 +21,55 @@
                         <title>Banksy | <xsl:value-of select="descendant::sourceDesc//title"/></title>
                     </head>
                     <body>
+                        <xsl:text>&#10;      </xsl:text>
                         <xsl:comment> SSI line below </xsl:comment>
+                        <xsl:text>&#10;      </xsl:text>
                         <xsl:comment>#include virtual="../../../ssi/topGallery.html" </xsl:comment>
+                        <xsl:text>&#10;</xsl:text>
                         <div class="main">
+                        <xsl:text>&#10;         </xsl:text>
                         <xsl:comment> SSI line below </xsl:comment>
+                        <xsl:text>&#10;         </xsl:text>
                         <xsl:comment>#include virtual="../../../ssi/sideGallery.html" </xsl:comment>
-                        <div class="body-container">
-                            <div class="vertical-flow">
-                                <xsl:comment> SSI line below </xsl:comment>
-                                <xsl:comment>#include virtual="../../../ssi/works_ssi_gallery.html" </xsl:comment>
-                                <div class="single-work">
-                                    <xsl:if test="descendant::sourceDesc//size[@orientation='portrait']">
-                                        <div class="gallery-page-img" id="portrait">
-                                            <xsl:text>&#10;</xsl:text>
-                                            <img src="../../../img/graffiti/{descendant::body//img/@src/lower-case(string()) ! tokenize(., '/')[last()]}" alt="{descendant::body//img/@alt/string()}"/>
-                                            <xsl:text>&#10;</xsl:text>
-                                            <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
-                                        </div>
-                                    </xsl:if>
-                                    <xsl:if test="descendant::sourceDesc//size[@orientation='landscape']">
-                                        <div class="gallery-page-img" id="landscape">
-                                            <xsl:text>&#10;</xsl:text>
-                                            <img src="../../../img/graffiti/{descendant::body//img/@src/lower-case(string()) ! tokenize(., '/')[last()]}" alt="{descendant::body//img/@alt/string()}"/>
-                                            <xsl:text>&#10;</xsl:text>
-                                            <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
-                                        </div>
-                                    </xsl:if>
-                                    <div class="gallery-page-desc">
-                                        <xsl:if test="descendant::body/desc[text()]">
-                                            <xsl:text>&#10;</xsl:text>
-                                            <span class="desc">
-                                                <xsl:apply-templates select="descendant::body//desc/string()"/>
-                                            </span>
-                                        </xsl:if>
+                        <div class="body-container" id="vertical">
+                            <xsl:text>&#10;            </xsl:text>
+                            <xsl:comment> SSI line below </xsl:comment>
+                            <xsl:text>&#10;            </xsl:text>
+                            <xsl:comment>#include virtual="../../../ssi/works_ssi_gallery.html" </xsl:comment>
+                            <div class="single-work">
+                                <xsl:if test="descendant::sourceDesc//size[@orientation='portrait']">
+                                    <div class="gallery-page-img" id="portrait">
                                         <xsl:text>&#10;</xsl:text>
-                                        <span class="date">
-                                            <xsl:apply-templates select="descendant::sourceDesc//date/@when/string()"/>
-                                        </span>
+                                        <img src="../../../img/graffiti/{descendant::body//img/@src/lower-case(string()) ! tokenize(., '/')[last()]}" alt="{descendant::body//img/@alt/string()}"/>
                                         <xsl:text>&#10;</xsl:text>
-                                        <span class="medium"><xsl:apply-templates select="descendant::sourceDesc//medium/@type/string()"></xsl:apply-templates></span>
-                                        <xsl:if test="descendant::sourceDesc[descendant::location]">
-                                            <xsl:text>&#10;</xsl:text>
-                                            <span class="location">
-                                                <xsl:apply-templates select="descendant::sourceDesc//location/string()"/>
-                                            </span>
-                                        </xsl:if>
+                                        <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
                                     </div>
+                                </xsl:if>
+                                <xsl:if test="descendant::sourceDesc//size[@orientation='landscape']">
+                                    <div class="gallery-page-img" id="landscape">
+                                        <xsl:text>&#10;</xsl:text>
+                                        <img src="../../../img/graffiti/{descendant::body//img/@src/lower-case(string()) ! tokenize(., '/')[last()]}" alt="{descendant::body//img/@alt/string()}"/>
+                                        <xsl:text>&#10;</xsl:text>
+                                        <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
+                                    </div>
+                                </xsl:if>
+                                <div class="gallery-page-desc">
+                                    <xsl:if test="descendant::body/desc[text()]">
+                                        <xsl:text>&#10;</xsl:text>
+                                        <span class="desc">
+                                            <xsl:apply-templates select="descendant::body//desc/string()"/>
+                                        </span>
+                                    </xsl:if>
+                                    <xsl:text>&#10;</xsl:text>
+                                    <span class="date">
+                                        <xsl:apply-templates select="descendant::sourceDesc//date/@when/string()"/>
+                                    </span>
+                                    <xsl:text>&#10;</xsl:text>
+                                    <span class="medium">Spray Paint</span>
+                                    <xsl:text>&#10;</xsl:text>
+                                    <span class="location">
+                                        <xsl:apply-templates select="descendant::sourceDesc//location/string()"/>
+                                    </span>
                                 </div>
                             </div>
                         </div>
