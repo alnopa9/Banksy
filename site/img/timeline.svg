@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="timeline-container" width="100%" height="100%">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="timeline-container" height="3665">
 <desc>Banksy Works Timeline</desc>
 <g transform="translate(120)">
 	<line x1="0" y1="30" x2="0" y2="3655" stroke="gray" stroke-width="1"/>
@@ -7,7 +7,7 @@
 		<text x="-45" y="30" fill="black">1999</text>
 		<circle r="3" cx="0" cy="25" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/the_mild_mild_west.html" xlink:title="Banksy's 'The Mild Mild West'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/the_mild_mild_west.html" xlink:title="Banksy's 'The Mild Mild West'" target="_blank">
 				<text x="10" y="55" fill="red">The Mild Mild West</text>
 			</a>
 		</g>
@@ -16,13 +16,13 @@
 		<text x="-45" y="80" fill="black">2001</text>
 		<circle r="3" cx="0" cy="75" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/twin_towers.html" xlink:title="Banksy's 'Twin Towers'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/twin_towers.html" xlink:title="Banksy's 'Twin Towers'" target="_blank">
 				<text x="10" y="105" fill="red">Twin Towers</text>
 			</a>
-			<a xlink:href="gallery_pages/love_is_in_the_air_(cccp).html" xlink:title="Banksy's 'Love Is In The Air (CCCP)'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Love Is In The Air (CCCP)'" target="_blank">
 				<text x="10" y="130" fill="gray">Love Is In The Air (CCCP)</text>
 			</a>
-			<a xlink:href="gallery_pages/banging_your_head_against_a_brick_wall.html" xlink:title="Banksy's 'Banging Your Head Against A Brick Wall'" target="_blank">
+			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Banging Your Head Against A Brick Wall'" target="_blank">
 				<text x="10" y="155" fill="black">Banging Your Head Against A Brick Wall</text>
 			</a>
 		</g>
@@ -31,19 +31,19 @@
 		<text x="-45" y="180" fill="black">2002</text>
 		<circle r="3" cx="0" cy="175" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/choose_your_weapon.html" xlink:title="Banksy's 'Choose Your Weapon'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/choose_your_weapon.html" xlink:title="Banksy's 'Choose Your Weapon'" target="_blank">
 				<text x="10" y="205" fill="red">Choose Your Weapon</text>
 			</a>
-			<a xlink:href="gallery_pages/girl_with_balloon.html" xlink:title="Banksy's 'Girl with Balloon'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/girl_with_balloon.html" xlink:title="Banksy's 'Girl with Balloon'" target="_blank">
 				<text x="10" y="230" fill="red">Girl with Balloon</text>
 			</a>
-			<a xlink:href="gallery_pages/laugh_now.html" xlink:title="Banksy's 'Laugh Now'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/laugh_now.html" xlink:title="Banksy's 'Laugh Now'" target="_blank">
 				<text x="10" y="255" fill="red">Laugh Now</text>
 			</a>
-			<a xlink:href="gallery_pages/existencilism.html" xlink:title="Banksy's 'Existencilism'" target="_blank">
+			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Existencilism'" target="_blank">
 				<text x="10" y="280" fill="black">Existencilism</text>
 			</a>
-			<a xlink:href="gallery_pages/santas_ghetto_02.html" xlink:title="Banksy's 'Santa's Ghetto 02'" target="_blank">
+			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Santa's Ghetto 02'" target="_blank">
 				<text x="10" y="305" fill="black">Santa's Ghetto 02</text>
 			</a>
 		</g>
@@ -52,40 +52,40 @@
 		<text x="-45" y="330" fill="black">2003</text>
 		<circle r="3" cx="0" cy="325" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/bomb_hugger.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/bomb_hugger.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
 				<text x="10" y="355" fill="red">Bomb Hugger</text>
 			</a>
-			<a xlink:href="gallery_pages/ice_cream_bomb.html" xlink:title="Banksy's 'Ice Cream Bomb'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/ice_cream_bomb.html" xlink:title="Banksy's 'Ice Cream Bomb'" target="_blank">
 				<text x="10" y="380" fill="red">Ice Cream Bomb</text>
 			</a>
-			<a xlink:href="gallery_pages/bomb_hugger.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
 				<text x="10" y="405" fill="gray">Bomb Hugger</text>
 			</a>
-			<a xlink:href="gallery_pages/bomb_middle_england.html" xlink:title="Banksy's 'Bomb Middle England'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Bomb Middle England'" target="_blank">
 				<text x="10" y="430" fill="gray">Bomb Middle England</text>
 			</a>
-			<a xlink:href="gallery_pages/flying_copper.html" xlink:title="Banksy's 'Flying Copper'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Flying Copper'" target="_blank">
 				<text x="10" y="455" fill="gray">Flying Copper</text>
 			</a>
-			<a xlink:href="gallery_pages/golf_sale.html" xlink:title="Banksy's 'Golf Sale'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Golf Sale'" target="_blank">
 				<text x="10" y="480" fill="gray">Golf Sale</text>
 			</a>
-			<a xlink:href="gallery_pages/hmv.html" xlink:title="Banksy's 'HMV'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'HMV'" target="_blank">
 				<text x="10" y="505" fill="gray">HMV</text>
 			</a>
-			<a xlink:href="gallery_pages/happy_choppers.html" xlink:title="Banksy's 'Happy Choppers'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Happy Choppers'" target="_blank">
 				<text x="10" y="530" fill="gray">Happy Choppers</text>
 			</a>
-			<a xlink:href="gallery_pages/love_is_in_the_air.html" xlink:title="Banksy's 'Love Is In The Air'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Love Is In The Air'" target="_blank">
 				<text x="10" y="555" fill="gray">Love Is In The Air</text>
 			</a>
-			<a xlink:href="gallery_pages/monkey_queen.html" xlink:title="Banksy's 'Monkey Queen'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Monkey Queen'" target="_blank">
 				<text x="10" y="580" fill="gray">Monkey Queen</text>
 			</a>
-			<a xlink:href="gallery_pages/queen_victoria.html" xlink:title="Banksy's 'Queen Victoria'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Queen Victoria'" target="_blank">
 				<text x="10" y="605" fill="gray">Queen Victoria</text>
 			</a>
-			<a xlink:href="gallery_pages/turf_war.html" xlink:title="Banksy's 'Turf War'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Turf War'" target="_blank">
 				<text x="10" y="630" fill="gray">Turf War</text>
 			</a>
 		</g>
@@ -94,46 +94,46 @@
 		<text x="-45" y="655" fill="black">2004</text>
 		<circle r="3" cx="0" cy="650" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/because_im_worthless.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/because_im_worthless.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
 				<text x="10" y="680" fill="red">Because I'm Worthless</text>
 			</a>
-			<a xlink:href="gallery_pages/keep_your_coins_i_want_change.html" xlink:title="Banksy's 'Keep your Coins, I want Change'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/keep_your_coins_i_want_change.html" xlink:title="Banksy's 'Keep your Coins, I want Change'" target="_blank">
 				<text x="10" y="705" fill="red">Keep your Coins, I want Change</text>
 			</a>
-			<a xlink:href="gallery_pages/naplam_girl.html" xlink:title="Banksy's 'Naplam Girl'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/naplam_girl.html" xlink:title="Banksy's 'Naplam Girl'" target="_blank">
 				<text x="10" y="730" fill="red">Naplam Girl</text>
 			</a>
-			<a xlink:href="gallery_pages/barcode.html" xlink:title="Banksy's 'Barcode'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Barcode'" target="_blank">
 				<text x="10" y="755" fill="gray">Barcode</text>
 			</a>
-			<a xlink:href="gallery_pages/because_im_worthless.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
 				<text x="10" y="780" fill="gray">Because I'm Worthless</text>
 			</a>
-			<a xlink:href="gallery_pages/christ_with_shopping_bags.html" xlink:title="Banksy's 'Christ with Shopping Bags'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Christ with Shopping Bags'" target="_blank">
 				<text x="10" y="805" fill="gray">Christ with Shopping Bags</text>
 			</a>
-			<a xlink:href="gallery_pages/di_faced_tenners.html" xlink:title="Banksy's 'Di Faced Tenners'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Di Faced Tenners'" target="_blank">
 				<text x="10" y="830" fill="gray">Di Faced Tenners</text>
 			</a>
-			<a xlink:href="gallery_pages/get_out_while_you_can.html" xlink:title="Banksy's 'Get Out While You Can'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Get Out While You Can'" target="_blank">
 				<text x="10" y="855" fill="gray">Get Out While You Can</text>
 			</a>
-			<a xlink:href="gallery_pages/girl_with_balloon.html" xlink:title="Banksy's 'Girl With Balloon'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Girl With Balloon'" target="_blank">
 				<text x="10" y="880" fill="gray">Girl With Balloon</text>
 			</a>
-			<a xlink:href="gallery_pages/i_fought_the_law.html" xlink:title="Banksy's 'I Fought The Law'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'I Fought The Law'" target="_blank">
 				<text x="10" y="905" fill="gray">I Fought The Law</text>
 			</a>
-			<a xlink:href="gallery_pages/love_rat.html" xlink:title="Banksy's 'Love Rat'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Love Rat'" target="_blank">
 				<text x="10" y="930" fill="gray">Love Rat</text>
 			</a>
-			<a xlink:href="gallery_pages/napalm.html" xlink:title="Banksy's 'Napalm'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Napalm'" target="_blank">
 				<text x="10" y="955" fill="gray">Napalm</text>
 			</a>
-			<a xlink:href="gallery_pages/pulp_fiction.html" xlink:title="Banksy's 'Pulp Fiction'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Pulp Fiction'" target="_blank">
 				<text x="10" y="980" fill="gray">Pulp Fiction</text>
 			</a>
-			<a xlink:href="gallery_pages/cut_it_out.html" xlink:title="Banksy's 'Cut It Out'" target="_blank">
+			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Cut It Out'" target="_blank">
 				<text x="10" y="1005" fill="black">Cut It Out</text>
 			</a>
 		</g>
@@ -142,31 +142,31 @@
 		<text x="-45" y="1030" fill="black">2005</text>
 		<circle r="3" cx="0" cy="1025" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/dove_of_peace.html" xlink:title="Banksy's 'Dove of Peace'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/dove_of_peace.html" xlink:title="Banksy's 'Dove of Peace'" target="_blank">
 				<text x="10" y="1055" fill="red">Dove of Peace</text>
 			</a>
-			<a xlink:href="gallery_pages/hitchhikers_anywhere.html" xlink:title="Banksy's 'Hitchhikers Anywhere'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/hitchhikers_anywhere.html" xlink:title="Banksy's 'Hitchhikers Anywhere'" target="_blank">
 				<text x="10" y="1080" fill="red">Hitchhikers Anywhere</text>
 			</a>
-			<a xlink:href="gallery_pages/snorting_copper.html" xlink:title="Banksy's 'Snorting Copper'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/snorting_copper.html" xlink:title="Banksy's 'Snorting Copper'" target="_blank">
 				<text x="10" y="1105" fill="red">Snorting Copper</text>
 			</a>
-			<a xlink:href="gallery_pages/soldiers_painting_cnd_sign.html" xlink:title="Banksy's 'Soldiers Painting CND Sign'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/soldiers_painting_cnd_sign.html" xlink:title="Banksy's 'Soldiers Painting CND Sign'" target="_blank">
 				<text x="10" y="1130" fill="red">Soldiers Painting CND Sign</text>
 			</a>
-			<a xlink:href="gallery_pages/think_tank.html" xlink:title="Banksy's 'Think Tank'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/think_tank.html" xlink:title="Banksy's 'Think Tank'" target="_blank">
 				<text x="10" y="1155" fill="red">Think Tank</text>
 			</a>
-			<a xlink:href="gallery_pages/cnd_soldiers.html" xlink:title="Banksy's 'CND Soldiers'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'CND Soldiers'" target="_blank">
 				<text x="10" y="1180" fill="gray">CND Soldiers</text>
 			</a>
-			<a xlink:href="gallery_pages/grim_reaper.html" xlink:title="Banksy's 'Grim Reaper'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Grim Reaper'" target="_blank">
 				<text x="10" y="1205" fill="gray">Grim Reaper</text>
 			</a>
-			<a xlink:href="gallery_pages/jack_&amp;_jill.html" xlink:title="Banksy's 'Jack &amp; Jill'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Jack &amp; Jill'" target="_blank">
 				<text x="10" y="1230" fill="gray">Jack &amp; Jill</text>
 			</a>
-			<a xlink:href="gallery_pages/kate_moss.html" xlink:title="Banksy's 'Kate Moss'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Kate Moss'" target="_blank">
 				<text x="10" y="1255" fill="gray">Kate Moss</text>
 			</a>
 		</g>
@@ -175,31 +175,31 @@
 		<text x="-45" y="1280" fill="black">2006</text>
 		<circle r="3" cx="0" cy="1275" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/gangsta_rat.html" xlink:title="Banksy's 'Gangsta Rat'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/gangsta_rat.html" xlink:title="Banksy's 'Gangsta Rat'" target="_blank">
 				<text x="10" y="1305" fill="red">Gangsta Rat</text>
 			</a>
-			<a xlink:href="gallery_pages/old_skool.html" xlink:title="Banksy's 'Old Skool'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/old_skool.html" xlink:title="Banksy's 'Old Skool'" target="_blank">
 				<text x="10" y="1330" fill="red">Old Skool</text>
 			</a>
-			<a xlink:href="gallery_pages/old_woman.html" xlink:title="Banksy's 'Old Woman'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/old_woman.html" xlink:title="Banksy's 'Old Woman'" target="_blank">
 				<text x="10" y="1355" fill="red">Old Woman</text>
 			</a>
-			<a xlink:href="gallery_pages/sweep_it_under_the_carpet.html" xlink:title="Banksy's 'Sweep it Under the Carpet'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/sweep_it_under_the_carpet.html" xlink:title="Banksy's 'Sweep it Under the Carpet'" target="_blank">
 				<text x="10" y="1380" fill="red">Sweep it Under the Carpet</text>
 			</a>
-			<a xlink:href="gallery_pages/well_hung_lover.html" xlink:title="Banksy's 'Well, Hung Lover'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/well_hung_lover.html" xlink:title="Banksy's 'Well, Hung Lover'" target="_blank">
 				<text x="10" y="1405" fill="red">Well, Hung Lover</text>
 			</a>
-			<a xlink:href="gallery_pages/applause.html" xlink:title="Banksy's 'Applause'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Applause'" target="_blank">
 				<text x="10" y="1430" fill="gray">Applause</text>
 			</a>
-			<a xlink:href="gallery_pages/festival.html" xlink:title="Banksy's 'Festival'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Festival'" target="_blank">
 				<text x="10" y="1455" fill="gray">Festival</text>
 			</a>
-			<a xlink:href="gallery_pages/flags.html" xlink:title="Banksy's 'Flags'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Flags'" target="_blank">
 				<text x="10" y="1480" fill="gray">Flags</text>
 			</a>
-			<a xlink:href="gallery_pages/grannies.html" xlink:title="Banksy's 'Grannies'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Grannies'" target="_blank">
 				<text x="10" y="1505" fill="gray">Grannies</text>
 			</a>
 		</g>
@@ -208,34 +208,34 @@
 		<text x="-45" y="1530" fill="black">2007</text>
 		<circle r="3" cx="0" cy="1525" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/cash_machine_girl.html" xlink:title="Banksy's 'Cash Machine Girl'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/cash_machine_girl.html" xlink:title="Banksy's 'Cash Machine Girl'" target="_blank">
 				<text x="10" y="1555" fill="red">Cash Machine Girl</text>
 			</a>
-			<a xlink:href="gallery_pages/fallen_angel.html" xlink:title="Banksy's 'Fallen Angel'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/fallen_angel.html" xlink:title="Banksy's 'Fallen Angel'" target="_blank">
 				<text x="10" y="1580" fill="red">Fallen Angel</text>
 			</a>
-			<a xlink:href="gallery_pages/girl_with_skipping_rope.html" xlink:title="Banksy's 'Girl with Skipping Rope'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/girl_with_skipping_rope.html" xlink:title="Banksy's 'Girl with Skipping Rope'" target="_blank">
 				<text x="10" y="1605" fill="red">Girl with Skipping Rope</text>
 			</a>
-			<a xlink:href="gallery_pages/looting_soldiers.html" xlink:title="Banksy's 'Looting Soldiers'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/looting_soldiers.html" xlink:title="Banksy's 'Looting Soldiers'" target="_blank">
 				<text x="10" y="1630" fill="red">Looting Soldiers</text>
 			</a>
-			<a xlink:href="gallery_pages/policeman_searching.html" xlink:title="Banksy's 'Policeman Searching'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/policeman_searching.html" xlink:title="Banksy's 'Policeman Searching'" target="_blank">
 				<text x="10" y="1655" fill="red">Policeman Searching</text>
 			</a>
-			<a xlink:href="gallery_pages/space_girl_with_bird.html" xlink:title="Banksy's 'Space Girl with Bird'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/space_girl_with_bird.html" xlink:title="Banksy's 'Space Girl with Bird'" target="_blank">
 				<text x="10" y="1680" fill="red">Space Girl with Bird</text>
 			</a>
-			<a xlink:href="gallery_pages/stop_and_search.html" xlink:title="Banksy's 'Stop and Search'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/stop_and_search.html" xlink:title="Banksy's 'Stop and Search'" target="_blank">
 				<text x="10" y="1705" fill="red">Stop and Search</text>
 			</a>
-			<a xlink:href="gallery_pages/yellow_lines_flower_painter.html" xlink:title="Banksy's 'Yellow Lines Flower Painter'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/yellow_lines_flower_painter.html" xlink:title="Banksy's 'Yellow Lines Flower Painter'" target="_blank">
 				<text x="10" y="1730" fill="red">Yellow Lines Flower Painter</text>
 			</a>
-			<a xlink:href="gallery_pages/trolleys.html" xlink:title="Banksy's 'Trolleys'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Trolleys'" target="_blank">
 				<text x="10" y="1755" fill="gray">Trolleys</text>
 			</a>
-			<a xlink:href="gallery_pages/wall_and_piece.html" xlink:title="Banksy's 'Wall and Piece'" target="_blank">
+			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Wall and Piece'" target="_blank">
 				<text x="10" y="1780" fill="black">Wall and Piece</text>
 			</a>
 		</g>
@@ -244,31 +244,31 @@
 		<text x="-45" y="1805" fill="black">2008</text>
 		<circle r="3" cx="0" cy="1800" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/abraham_lincoln.html" xlink:title="Banksy's 'Abraham Lincoln'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/abraham_lincoln.html" xlink:title="Banksy's 'Abraham Lincoln'" target="_blank">
 				<text x="10" y="1830" fill="red">Abraham Lincoln</text>
 			</a>
-			<a xlink:href="gallery_pages/bubble_slide_girl.html" xlink:title="Banksy's 'Bubble Slide Girl'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/bubble_slide_girl.html" xlink:title="Banksy's 'Bubble Slide Girl'" target="_blank">
 				<text x="10" y="1855" fill="red">Bubble Slide Girl</text>
 			</a>
-			<a xlink:href="gallery_pages/cave_painting_removal.html" xlink:title="Banksy's 'Cave Painting Removal'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/cave_painting_removal.html" xlink:title="Banksy's 'Cave Painting Removal'" target="_blank">
 				<text x="10" y="1880" fill="red">Cave Painting Removal</text>
 			</a>
-			<a xlink:href="gallery_pages/gorilla_artist.html" xlink:title="Banksy's 'Gorilla Artist'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/gorilla_artist.html" xlink:title="Banksy's 'Gorilla Artist'" target="_blank">
 				<text x="10" y="1905" fill="red">Gorilla Artist</text>
 			</a>
-			<a xlink:href="gallery_pages/i_love_you.html" xlink:title="Banksy's 'I Love You'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/i_love_you.html" xlink:title="Banksy's 'I Love You'" target="_blank">
 				<text x="10" y="1930" fill="red">I Love You</text>
 			</a>
-			<a xlink:href="gallery_pages/injured_buddha.html" xlink:title="Banksy's 'Injured Buddha'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/injured_buddha.html" xlink:title="Banksy's 'Injured Buddha'" target="_blank">
 				<text x="10" y="1955" fill="red">Injured Buddha</text>
 			</a>
-			<a xlink:href="gallery_pages/one_nation_under_cctv.html" xlink:title="Banksy's 'One Nation Under CCTV'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/one_nation_under_cctv.html" xlink:title="Banksy's 'One Nation Under CCTV'" target="_blank">
 				<text x="10" y="1980" fill="red">One Nation Under CCTV</text>
 			</a>
-			<a xlink:href="gallery_pages/very_little_helps.html" xlink:title="Banksy's 'Very Little Helps'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/very_little_helps.html" xlink:title="Banksy's 'Very Little Helps'" target="_blank">
 				<text x="10" y="2005" fill="red">Very Little Helps</text>
 			</a>
-			<a xlink:href="gallery_pages/nola.html" xlink:title="Banksy's 'NOLA'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'NOLA'" target="_blank">
 				<text x="10" y="2030" fill="gray">NOLA</text>
 			</a>
 		</g>
@@ -277,19 +277,19 @@
 		<text x="-45" y="2055" fill="black">2009</text>
 		<circle r="3" cx="0" cy="2050" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/dont_forget_your_scarf.html" xlink:title="Banksy's 'Don't Forget your Scarf'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/dont_forget_your_scarf.html" xlink:title="Banksy's 'Don't Forget your Scarf'" target="_blank">
 				<text x="10" y="2080" fill="red">Don't Forget your Scarf</text>
 			</a>
-			<a xlink:href="gallery_pages/kentucky_fox.html" xlink:title="Banksy's 'Kentucky Fox'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/kentucky_fox.html" xlink:title="Banksy's 'Kentucky Fox'" target="_blank">
 				<text x="10" y="2105" fill="red">Kentucky Fox</text>
 			</a>
-			<a xlink:href="gallery_pages/thug_for_life_bunny.html" xlink:title="Banksy's 'Thug for Life Bunny'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/thug_for_life_bunny.html" xlink:title="Banksy's 'Thug for Life Bunny'" target="_blank">
 				<text x="10" y="2130" fill="red">Thug for Life Bunny</text>
 			</a>
-			<a xlink:href="gallery_pages/donuts.html" xlink:title="Banksy's 'Donuts'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Donuts'" target="_blank">
 				<text x="10" y="2155" fill="gray">Donuts</text>
 			</a>
-			<a xlink:href="gallery_pages/no_ball_games.html" xlink:title="Banksy's 'No Ball Games'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'No Ball Games'" target="_blank">
 				<text x="10" y="2180" fill="gray">No Ball Games</text>
 			</a>
 		</g>
@@ -298,28 +298,28 @@
 		<text x="-45" y="2205" fill="black">2010</text>
 		<circle r="3" cx="0" cy="2200" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/cameraman_and_flower.html" xlink:title="Banksy's 'Cameraman and Flower'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/cameraman_and_flower.html" xlink:title="Banksy's 'Cameraman and Flower'" target="_blank">
 				<text x="10" y="2230" fill="red">Cameraman and Flower</text>
 			</a>
-			<a xlink:href="gallery_pages/gorilla_with_pink_mask.html" xlink:title="Banksy's 'Gorilla With Pink Mask'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/gorilla_with_pink_mask.html" xlink:title="Banksy's 'Gorilla With Pink Mask'" target="_blank">
 				<text x="10" y="2255" fill="red">Gorilla With Pink Mask</text>
 			</a>
-			<a xlink:href="gallery_pages/interest_in_people.html" xlink:title="Banksy's 'Interest in People'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/interest_in_people.html" xlink:title="Banksy's 'Interest in People'" target="_blank">
 				<text x="10" y="2280" fill="red">Interest in People</text>
 			</a>
-			<a xlink:href="gallery_pages/modern_art.html" xlink:title="Banksy's 'Modern Art'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/modern_art.html" xlink:title="Banksy's 'Modern Art'" target="_blank">
 				<text x="10" y="2305" fill="red">Modern Art</text>
 			</a>
-			<a xlink:href="gallery_pages/no_future.html" xlink:title="Banksy's 'No Future'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/no_future.html" xlink:title="Banksy's 'No Future'" target="_blank">
 				<text x="10" y="2330" fill="red">No Future</text>
 			</a>
-			<a xlink:href="gallery_pages/no_trespassing.html" xlink:title="Banksy's 'No Trespassing'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/no_trespassing.html" xlink:title="Banksy's 'No Trespassing'" target="_blank">
 				<text x="10" y="2355" fill="red">No Trespassing</text>
 			</a>
-			<a xlink:href="gallery_pages/security_guard_with_pink_balloon.html" xlink:title="Banksy's 'Security Guard with Pink Balloon'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/security_guard_with_pink_balloon.html" xlink:title="Banksy's 'Security Guard with Pink Balloon'" target="_blank">
 				<text x="10" y="2380" fill="red">Security Guard with Pink Balloon</text>
 			</a>
-			<a xlink:href="gallery_pages/swing_girl.html" xlink:title="Banksy's 'Swing Girl'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/swing_girl.html" xlink:title="Banksy's 'Swing Girl'" target="_blank">
 				<text x="10" y="2405" fill="red">Swing Girl</text>
 			</a>
 		</g>
@@ -328,31 +328,31 @@
 		<text x="-45" y="2430" fill="black">2011</text>
 		<circle r="3" cx="0" cy="2425" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/baby_carriage.html" xlink:title="Banksy's 'Baby Carriage'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/baby_carriage.html" xlink:title="Banksy's 'Baby Carriage'" target="_blank">
 				<text x="10" y="2455" fill="red">Baby Carriage</text>
 			</a>
-			<a xlink:href="gallery_pages/child_soldier.html" xlink:title="Banksy's 'Child Soldier'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/child_soldier.html" xlink:title="Banksy's 'Child Soldier'" target="_blank">
 				<text x="10" y="2480" fill="red">Child Soldier</text>
 			</a>
-			<a xlink:href="gallery_pages/follow_your_dreams___canceled.html" xlink:title="Banksy's 'Follow your Dreams - Canceled'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/follow_your_dreams___canceled.html" xlink:title="Banksy's 'Follow your Dreams - Canceled'" target="_blank">
 				<text x="10" y="2505" fill="red">Follow your Dreams - Canceled</text>
 			</a>
-			<a xlink:href="gallery_pages/sorry_the_lifestyle_you_ordered.html" xlink:title="Banksy's 'Sorry, The Lifestyle you Ordered'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/sorry_the_lifestyle_you_ordered.html" xlink:title="Banksy's 'Sorry, The Lifestyle you Ordered'" target="_blank">
 				<text x="10" y="2530" fill="red">Sorry, The Lifestyle you Ordered</text>
 			</a>
-			<a xlink:href="gallery_pages/stained_window.html" xlink:title="Banksy's 'Stained Window'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/stained_window.html" xlink:title="Banksy's 'Stained Window'" target="_blank">
 				<text x="10" y="2555" fill="red">Stained Window</text>
 			</a>
-			<a xlink:href="gallery_pages/take_this_society.html" xlink:title="Banksy's 'Take this Society'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/take_this_society.html" xlink:title="Banksy's 'Take this Society'" target="_blank">
 				<text x="10" y="2580" fill="red">Take this Society</text>
 			</a>
-			<a xlink:href="gallery_pages/tap_phoned.html" xlink:title="Banksy's 'Tap Phoned'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/tap_phoned.html" xlink:title="Banksy's 'Tap Phoned'" target="_blank">
 				<text x="10" y="2605" fill="red">Tap Phoned</text>
 			</a>
-			<a xlink:href="gallery_pages/tox.html" xlink:title="Banksy's 'Tox'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/tox.html" xlink:title="Banksy's 'Tox'" target="_blank">
 				<text x="10" y="2630" fill="red">Tox</text>
 			</a>
-			<a xlink:href="gallery_pages/toxic_rat.html" xlink:title="Banksy's 'Toxic Rat'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/toxic_rat.html" xlink:title="Banksy's 'Toxic Rat'" target="_blank">
 				<text x="10" y="2655" fill="red">Toxic Rat</text>
 			</a>
 		</g>
@@ -361,25 +361,25 @@
 		<text x="-45" y="2680" fill="black">2012</text>
 		<circle r="3" cx="0" cy="2675" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/fridge_kite.html" xlink:title="Banksy's 'Fridge Kite'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/fridge_kite.html" xlink:title="Banksy's 'Fridge Kite'" target="_blank">
 				<text x="10" y="2705" fill="red">Fridge Kite</text>
 			</a>
-			<a xlink:href="gallery_pages/javelin_thrower.html" xlink:title="Banksy's 'Javelin Thrower'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/javelin_thrower.html" xlink:title="Banksy's 'Javelin Thrower'" target="_blank">
 				<text x="10" y="2730" fill="red">Javelin Thrower</text>
 			</a>
-			<a xlink:href="gallery_pages/london_calling.html" xlink:title="Banksy's 'London Calling'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/london_calling.html" xlink:title="Banksy's 'London Calling'" target="_blank">
 				<text x="10" y="2755" fill="red">London Calling</text>
 			</a>
-			<a xlink:href="gallery_pages/slave_labour.html" xlink:title="Banksy's 'Slave Labour'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/slave_labour.html" xlink:title="Banksy's 'Slave Labour'" target="_blank">
 				<text x="10" y="2780" fill="red">Slave Labour</text>
 			</a>
-			<a xlink:href="gallery_pages/winnie_the_pooh_bear_trap.html" xlink:title="Banksy's 'Winnie the Pooh Bear Trap'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/winnie_the_pooh_bear_trap.html" xlink:title="Banksy's 'Winnie the Pooh Bear Trap'" target="_blank">
 				<text x="10" y="2805" fill="red">Winnie the Pooh Bear Trap</text>
 			</a>
-			<a xlink:href="gallery_pages/copyright.html" xlink:title="Banksy's 'Copyright'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Copyright'" target="_blank">
 				<text x="10" y="2830" fill="gray">Copyright</text>
 			</a>
-			<a xlink:href="gallery_pages/love_hurts.html" xlink:title="Banksy's 'Love Hurts'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Love Hurts'" target="_blank">
 				<text x="10" y="2855" fill="gray">Love Hurts</text>
 			</a>
 		</g>
@@ -388,19 +388,19 @@
 		<text x="-45" y="2880" fill="black">2013</text>
 		<circle r="3" cx="0" cy="2875" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/bronx_zoo.html" xlink:title="Banksy's 'Bronx Zoo'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/bronx_zoo.html" xlink:title="Banksy's 'Bronx Zoo'" target="_blank">
 				<text x="10" y="2905" fill="red">Bronx Zoo</text>
 			</a>
-			<a xlink:href="gallery_pages/ghetto_for_life.html" xlink:title="Banksy's 'Ghetto for Life'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/ghetto_for_life.html" xlink:title="Banksy's 'Ghetto for Life'" target="_blank">
 				<text x="10" y="2930" fill="red">Ghetto for Life</text>
 			</a>
-			<a xlink:href="gallery_pages/graffiti_is_a_crime.html" xlink:title="Banksy's 'Graffiti Is A Crime'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/graffiti_is_a_crime.html" xlink:title="Banksy's 'Graffiti Is A Crime'" target="_blank">
 				<text x="10" y="2955" fill="red">Graffiti Is A Crime</text>
 			</a>
-			<a xlink:href="gallery_pages/hammer_boy.html" xlink:title="Banksy's 'Hammer Boy'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/hammer_boy.html" xlink:title="Banksy's 'Hammer Boy'" target="_blank">
 				<text x="10" y="2980" fill="red">Hammer Boy</text>
 			</a>
-			<a xlink:href="gallery_pages/waiting_in_vain.html" xlink:title="Banksy's 'Waiting in Vain'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/waiting_in_vain.html" xlink:title="Banksy's 'Waiting in Vain'" target="_blank">
 				<text x="10" y="3005" fill="red">Waiting in Vain</text>
 			</a>
 		</g>
@@ -409,16 +409,16 @@
 		<text x="-45" y="3030" fill="black">2014</text>
 		<circle r="3" cx="0" cy="3025" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/drunk_angel.html" xlink:title="Banksy's 'Drunk Angel'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/drunk_angel.html" xlink:title="Banksy's 'Drunk Angel'" target="_blank">
 				<text x="10" y="3055" fill="red">Drunk Angel</text>
 			</a>
-			<a xlink:href="gallery_pages/love_is_the_answer.html" xlink:title="Banksy's 'Love is the Answer'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/love_is_the_answer.html" xlink:title="Banksy's 'Love is the Answer'" target="_blank">
 				<text x="10" y="3080" fill="red">Love is the Answer</text>
 			</a>
-			<a xlink:href="gallery_pages/mobile_phone_lovers.html" xlink:title="Banksy's 'Mobile Phone Lovers'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/mobile_phone_lovers.html" xlink:title="Banksy's 'Mobile Phone Lovers'" target="_blank">
 				<text x="10" y="3105" fill="red">Mobile Phone Lovers</text>
 			</a>
-			<a xlink:href="gallery_pages/dumbo.html" xlink:title="Banksy's 'Dumbo'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Dumbo'" target="_blank">
 				<text x="10" y="3130" fill="gray">Dumbo</text>
 			</a>
 		</g>
@@ -427,19 +427,19 @@
 		<text x="-45" y="3155" fill="black">2015</text>
 		<circle r="3" cx="0" cy="3150" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/crying_woman.html" xlink:title="Banksy's 'Crying Woman'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/crying_woman.html" xlink:title="Banksy's 'Crying Woman'" target="_blank">
 				<text x="10" y="3180" fill="red">Crying Woman</text>
 			</a>
-			<a xlink:href="gallery_pages/gaza_kitty.html" xlink:title="Banksy's 'Gaza Kitty'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/gaza_kitty.html" xlink:title="Banksy's 'Gaza Kitty'" target="_blank">
 				<text x="10" y="3205" fill="red">Gaza Kitty</text>
 			</a>
-			<a xlink:href="gallery_pages/the_son_of_a_migrant_from_syria.html" xlink:title="Banksy's 'The Son Of A Migrant From Syria'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/the_son_of_a_migrant_from_syria.html" xlink:title="Banksy's 'The Son Of A Migrant From Syria'" target="_blank">
 				<text x="10" y="3230" fill="red">The Son Of A Migrant From Syria</text>
 			</a>
-			<a xlink:href="gallery_pages/watchtower_swing.html" xlink:title="Banksy's 'Watchtower Swing'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/watchtower_swing.html" xlink:title="Banksy's 'Watchtower Swing'" target="_blank">
 				<text x="10" y="3255" fill="red">Watchtower Swing</text>
 			</a>
-			<a xlink:href="gallery_pages/dismaland.html" xlink:title="Banksy's 'Dismaland'" target="_blank">
+			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Dismaland'" target="_blank">
 				<text x="10" y="3280" fill="black">Dismaland</text>
 			</a>
 		</g>
@@ -448,7 +448,7 @@
 		<text x="-45" y="3305" fill="black">2016</text>
 		<circle r="3" cx="0" cy="3300" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/burning_tyre.html" xlink:title="Banksy's 'Burning Tyre'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/burning_tyre.html" xlink:title="Banksy's 'Burning Tyre'" target="_blank">
 				<text x="10" y="3330" fill="red">Burning Tyre</text>
 			</a>
 		</g>
@@ -457,13 +457,13 @@
 		<text x="-45" y="3355" fill="black">2017</text>
 		<circle r="3" cx="0" cy="3350" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/civilian_drone_strike.html" xlink:title="Banksy's 'Civilian Drone STrike'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Civilian Drone STrike'" target="_blank">
 				<text x="10" y="3380" fill="gray">Civilian Drone STrike</text>
 			</a>
-			<a xlink:href="gallery_pages/israeli_palestinian_pillow_fight.html" xlink:title="Banksy's 'Israeli-Palestinian Pillow Fight'" target="_blank">
+			<a xlink:href="gallery_pages/paintings.html" xlink:title="Banksy's 'Israeli-Palestinian Pillow Fight'" target="_blank">
 				<text x="10" y="3405" fill="gray">Israeli-Palestinian Pillow Fight</text>
 			</a>
-			<a xlink:href="gallery_pages/the_walled_off_hotel.html" xlink:title="Banksy's 'The Walled Off Hotel'" target="_blank">
+			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'The Walled Off Hotel'" target="_blank">
 				<text x="10" y="3430" fill="black">The Walled Off Hotel</text>
 			</a>
 		</g>
@@ -472,28 +472,28 @@
 		<text x="-45" y="3455" fill="black">2018</text>
 		<circle r="3" cx="0" cy="3450" fill="red"/>
 		<g class="works">
-			<a xlink:href="gallery_pages/blinded_napoleon.html" xlink:title="Banksy's 'Blinded Napoleon'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/blinded_napoleon.html" xlink:title="Banksy's 'Blinded Napoleon'" target="_blank">
 				<text x="10" y="3480" fill="red">Blinded Napoleon</text>
 			</a>
-			<a xlink:href="gallery_pages/box_cutter_rat.html" xlink:title="Banksy's 'Box Cutter Rat'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/box_cutter_rat.html" xlink:title="Banksy's 'Box Cutter Rat'" target="_blank">
 				<text x="10" y="3505" fill="red">Box Cutter Rat</text>
 			</a>
-			<a xlink:href="gallery_pages/chisel_the_flag.html" xlink:title="Banksy's 'Chisel the Flag'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/chisel_the_flag.html" xlink:title="Banksy's 'Chisel the Flag'" target="_blank">
 				<text x="10" y="3530" fill="red">Chisel the Flag</text>
 			</a>
-			<a xlink:href="gallery_pages/draw_the_raised_bridge.html" xlink:title="Banksy's 'Draw The Raised Bridge'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/draw_the_raised_bridge.html" xlink:title="Banksy's 'Draw The Raised Bridge'" target="_blank">
 				<text x="10" y="3555" fill="red">Draw The Raised Bridge</text>
 			</a>
-			<a xlink:href="gallery_pages/go_flock_yourself.html" xlink:title="Banksy's 'Go Flock Yourself'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/go_flock_yourself.html" xlink:title="Banksy's 'Go Flock Yourself'" target="_blank">
 				<text x="10" y="3580" fill="red">Go Flock Yourself</text>
 			</a>
-			<a xlink:href="gallery_pages/rat_couple.html" xlink:title="Banksy's 'Rat Couple'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/rat_couple.html" xlink:title="Banksy's 'Rat Couple'" target="_blank">
 				<text x="10" y="3605" fill="red">Rat Couple</text>
 			</a>
-			<a xlink:href="gallery_pages/seal_mural.html" xlink:title="Banksy's 'Seal Mural'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/seal_mural.html" xlink:title="Banksy's 'Seal Mural'" target="_blank">
 				<text x="10" y="3630" fill="red">Seal Mural</text>
 			</a>
-			<a xlink:href="gallery_pages/seasons_greetings.html" xlink:title="Banksy's 'Season's Greetings'" target="_blank">
+			<a xlink:href="gallery_pages/graffiti/seasons_greetings.html" xlink:title="Banksy's 'Season's Greetings'" target="_blank">
 				<text x="10" y="3655" fill="red">Season's Greetings</text>
 			</a>
 		</g>

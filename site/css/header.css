@@ -22,7 +22,7 @@ a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5
 .main{ height: 81vh; order: 2;}
 .license-container{ height: 6vh; order: 3; font-size: 1.5vw;}
 .license{display: flex; width: 80%; height: 100%; align-items: center; justify-content: center;}
-.menu{display: flex; flex-direction: row; justify-content: space-between; width: 80%; align-items: center; font-size: 1.55vw; flex-wrap: nowrap; height: 100%;}
+.menu{display: flex; flex-direction: row; justify-content: space-between; width: 80%; align-items: center; font-size: 1.53vw; flex-wrap: nowrap; height: 100%;}
 .menu img{width: 100%; max-width: 300px; height: auto;}
 .menu li{list-style-type: none; display: inline-block; padding-left: .5em; padding-right: .5em}
 .left-side, .right-side{display: flex; width: 10%;}
