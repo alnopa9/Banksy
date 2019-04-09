@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Gun Clown</title>
+                    <date when="2007-04"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.4545" long="2.5879">Bristol</location>
+                    <size>large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="http://www.robertbanks.net/obras-de-banksy/gun-toting-clown/">Article That Supplied Information for Markup</ref>
+                    <edition total="" signed="" unsigned="">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>Several of these appeared in Bristol, most notably on Hotwell Road where this photo was taken. This piece by Banksy showed up with the Bomb Hugger as it mixes the innocence of children 
+            (in this case a children’s entertainer) with weaponry and destruction to demonstrate that innocence can easily be shattered and trust broken.</desc>
+        <p>
+            <img src="gun_clown.jpg" alt="Gun Clown Banksy"/>
+            <credit>By: Veronica Macades from London, https://www.pinterest.com/pin/370350769343256459/</credit>
+        </p>
+    </body>
+</root>
