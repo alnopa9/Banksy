@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>All Seeing Ostrich </title>
+                    <date when="2011"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
+                    <size>large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="">https://hypebeast.com/2011/12/banksy-at-the-national-gallery-london</ref>
+                    <edition total="1" signed="0" unsigned="1"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>This painting is of two Ostrich's one is hiding its head in the ground and the others head is depicted as a security camera. This piece was painted on the side of a wall in London UK.</desc>
+        <p>
+            <img src="all_seeing_ostrich.jpg" alt="All Seeing Ostrich"/>
+            <title>All Seeing Ostrich</title>
+            <credit>YThis article was written by someone named Jonathan Sawyer there was no photo credit given.</credit>
+        </p>
+    </body>
+</root>
