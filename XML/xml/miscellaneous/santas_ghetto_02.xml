@@ -18,9 +18,10 @@
                     <title>Santa's Ghetto 02</title>
                     <date when="2002-12"/>
                     <medium type="installation"/>
+                    <location lat="51.5262049" long="-0.0782037">Shoreditch, UK</location>
                     <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
-                    <ref target="https://banksyunofficial.com/2017/04/17/dismaland-august-september-2015/">Article That Supplied Information for Markup</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/16/santas-ghetto-02-london-2002/">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -28,7 +29,7 @@
     <body>
         <desc>Santa’s Ghetto was a “squat art concept store” set up at Christmas, each year in different locations around London. The 2002 edition was held at The Dragons Bar in Shoreditch.</desc>
         <p>
-            <img src="santas_ghetto_02.jpg" alt="Banksy's 'Santa's Ghetto 01'"/>
+            <img src="santas_ghetto_02.jpg" alt="Banksy's 'Santa's Ghetto 02'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>
         </p>
     </body>

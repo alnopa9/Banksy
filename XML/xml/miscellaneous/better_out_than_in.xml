@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Better Out Than In</title>
+                    <date when="2013-10-01"/>
+                    <medium type="installation"/>
+                    <location lat="40.7744146" long="-73.9678064">New York, USA</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/17/better-out-than-in-new-york-october-2013-2/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>On 1 October, Banksy began a one-month “show on the streets of New York”, for which he opened a separate website and twitter account. On every day for the rest of the month, he produced one street art piece in different locations.</p>
+            <p>A pop-up boutique of about 25 spray-art canvases appeared on Fifth Avenue near Central Park on 12 October. Tourists were able to buy Banksy art for just $60 each. In a note posted to his website, the artist wrote: “Please note this was a one-off. The stall will not be there again.” The BBC estimated that the street-stall art pieces could be worth as much as $31,000. The booth was manned by an unknown elderly man who went about four hours before making a sale, yawning and eating lunch as people strolled by without a second glance at the work. Banksy chronicled the surprise sale in a video posted to his website noting, “Yesterday I set up a stall in the park selling 100% authentic original signed Banksy canvases. For $60 each.” Two of the canvasses sold at a July 2014 auction for $214,000. </p>
+        </desc>
+        <p>
+            <img src="better_out_than_in.jpg" alt="Banksy's 'Better Out Than In'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>
