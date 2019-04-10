@@ -1,0 +1,1033 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      <link rel="stylesheet" href="../../../css/header.css"></link>
+      <link rel="icon" href="../../../img/background/SSI/icon.png"></link>
+      <title>Banksy | Abraham Lincoln</title>
+   </head>
+   <body>
+      <!-- SSI line below -->
+      <!--#include virtual="../../../ssi/topGallery.html" -->
+      <div class="main">
+         <!-- SSI line below -->
+         <!--#include virtual="../ssi/works_ssi.html" -->
+         <div class="gallery">
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/abraham_lincoln.jpg" target="_blank">
+                     <img src="../img/graffiti/abraham_lincoln.html" alt="Banksy's 'Abraham Lincoln'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Abraham Lincoln</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/all_seeing_ostrich.jpg" target="_blank">
+                     <img src="../img/graffiti/all_seeing_ostrich.html" alt="Banksy's 'All Seeing Ostrich '"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">All Seeing Ostrich </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/baby_carriage.jpg" target="_blank">
+                     <img src="../img/graffiti/baby_carriage.html" alt="Banksy's 'Baby Carriage'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Baby Carriage</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/because_im_worthless.jpg" target="_blank">
+                     <img src="../img/graffiti/because_im_worthless.html" alt="Banksy's 'Because I'm Worthless'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Because I'm Worthless</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/blinded_napoleon.jpg" target="_blank">
+                     <img src="../img/graffiti/blinded_napoleon.html" alt="Banksy's 'Blinded Napoleon'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Blinded Napoleon</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/bomb_hugger.jpg" target="_blank">
+                     <img src="../img/graffiti/bomb_hugger.html" alt="Banksy's 'Bomb Hugger'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Bomb Hugger</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/box_cutter_rat.jpg" target="_blank">
+                     <img src="../img/graffiti/box_cutter_rat.html" alt="Banksy's 'Box Cutter Rat'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Box Cutter Rat</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/bronx_zoo.jpg" target="_blank">
+                     <img src="../img/graffiti/bronx_zoo.html" alt="Banksy's 'Bronx Zoo'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Bronx Zoo</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/bubble_slide_girl.jpg" target="_blank">
+                     <img src="../img/graffiti/bubble_slide_girl.html" alt="Banksy's 'Bubble Slide Girl'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Bubble Slide Girl</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/burning_tyre.jpg" target="_blank">
+                     <img src="../img/graffiti/burning_tyre.html" alt="Banksy's 'Burning Tyre'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Burning Tyre</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/cameraman_and_flower.jpg" target="_blank">
+                     <img src="../img/graffiti/cameraman_and_flower.html" alt="Banksy's 'Cameraman and Flower'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Cameraman and Flower</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/cash_machine_girl.jpg" target="_blank">
+                     <img src="../img/graffiti/cash_machine_girl.html" alt="Banksy's 'Cash Machine Girl'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Cash Machine Girl</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/cave_painting_removal.jpg" target="_blank">
+                     <img src="../img/graffiti/cave_painting_removal.html" alt="Banksy's 'Cave Painting Removal'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Cave Painting Removal</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/child_soldier.jpg" target="_blank">
+                     <img src="../img/graffiti/child_soldier.html" alt="Banksy's 'Child Soldier'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Child Soldier</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/chisel_the_flag.jpg" target="_blank">
+                     <img src="../img/graffiti/chisel_the_flag.html" alt="Banksy's 'Chisel the Flag'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Chisel the Flag</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/choose_your_weapon.jpg" target="_blank">
+                     <img src="../img/graffiti/choose_your_weapon.html" alt="Banksy's 'Choose Your Weapon'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Choose Your Weapon</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/crying_woman.jpg" target="_blank">
+                     <img src="../img/graffiti/crying_woman.html" alt="Banksy's 'Crying Woman'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Crying Woman</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/cut_it_out.jpg" target="_blank">
+                     <img src="../img/graffiti/cut_it_out.html" alt="Banksy's 'Cut It Out'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Cut It Out</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/dont_forget_your_scarf.jpg" target="_blank">
+                     <img src="../img/graffiti/dont_forget_your_scarf.html" alt="Banksy's 'Don't Forget your Scarf'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Don't Forget your Scarf</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/dove_of_peace.jpg" target="_blank">
+                     <img src="../img/graffiti/dove_of_peace.html" alt="Banksy's 'Dove of Peace'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Dove of Peace</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/draw_the_raised_bridge.jpg" target="_blank">
+                     <img src="../img/graffiti/draw_the_raised_bridge.html" alt="Banksy's 'Draw The Raised Bridge'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Draw The Raised Bridge</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/drunk_angel.jpg" target="_blank">
+                     <img src="../img/graffiti/drunk_angel.html" alt="Banksy's 'Drunk Angel'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Drunk Angel</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/fake_plato_quote.jpg" target="_blank">
+                     <img src="../img/graffiti/fake_plato_quote.html" alt="Banksy's 'Fake Plato Qoute'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Fake Plato Qoute</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/fallen_angel.jpg" target="_blank">
+                     <img src="../img/graffiti/fallen_angel.html" alt="Banksy's 'Fallen Angel'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Fallen Angel</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/flying_balloon_girl.jpg" target="_blank">
+                     <img src="../img/graffiti/flying_balloon_girl.html" alt="Banksy's 'Flying Balloon Girl'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Flying Balloon Girl</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/follow_your_dreams_canceled.jpg" target="_blank">
+                     <img src="../img/graffiti/follow_your_dreams_canceled.html" alt="Banksy's 'Follow your Dreams - Canceled'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Follow your Dreams - Canceled</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/forgive_our_trespassing.jpg" target="_blank">
+                     <img src="../img/graffiti/forgive_our_trespassing.html" alt="Banksy's 'Forgive our Trespassing'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Forgive our Trespassing</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/fridge_kite.jpg" target="_blank">
+                     <img src="../img/graffiti/fridge_kite.html" alt="Banksy's 'Fridge Kite'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Fridge Kite</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/gangsta_rat.jpg" target="_blank">
+                     <img src="../img/graffiti/gangsta_rat.html" alt="Banksy's 'Gangsta Rat'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Gangsta Rat</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/gas_mask_wearing_musicians.jpg" target="_blank">
+                     <img src="../img/graffiti/gas_mask_wearing_musicians.html" alt="Banksy's 'Gas Mask Wearing Musicians'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Gas Mask Wearing Musicians</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/gaza_kitty.jpg" target="_blank">
+                     <img src="../img/graffiti/gaza_kitty.html" alt="Banksy's 'Gaza Kitty'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Gaza Kitty</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/ghetto_for_life.jpg" target="_blank">
+                     <img src="../img/graffiti/ghetto_for_life.html" alt="Banksy's 'Ghetto for Life'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Ghetto for Life</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/girl_and_mouse.jpeg" target="_blank">
+                     <img src="../img/graffiti/girl_and_mouse.jpeg.html" alt="Banksy's 'Girl and Mouse'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Girl and Mouse</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/girl_with_balloon.jpg" target="_blank">
+                     <img src="../img/graffiti/girl_with_balloon.html" alt="Banksy's 'Girl with Balloon'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Girl with Balloon</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/girl_with_skipping_rope.jpg" target="_blank">
+                     <img src="../img/graffiti/girl_with_skipping_rope.html" alt="Banksy's 'Girl with Skipping Rope'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Girl with Skipping Rope</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/gorilla_with_pink_mask.jpg" target="_blank">
+                     <img src="../img/graffiti/gorilla_with_pink_mask.html" alt="Banksy's 'Gorilla With Pink Mask'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Gorilla With Pink Mask</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/go_flock_yourself.jpg" target="_blank">
+                     <img src="../img/graffiti/go_flock_yourself.html" alt="Banksy's 'Go Flock Yourself'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Go Flock Yourself</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/graffiti_is_a_crime.jpg" target="_blank">
+                     <img src="../img/graffiti/graffiti_is_a_crime.html" alt="Banksy's 'Graffiti Is A Crime'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Graffiti Is A Crime</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/gun_clown.jpg" target="_blank">
+                     <img src="../img/graffiti/gun_clown.html" alt="Banksy's 'Gun Clown'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Gun Clown</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/hammer_boy.jpg" target="_blank">
+                     <img src="../img/graffiti/hammer_boy.html" alt="Banksy's 'Hammer Boy'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Hammer Boy</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/hitchhikers_anywhere.jpg" target="_blank">
+                     <img src="../img/graffiti/hitchhikers_anywhere.html" alt="Banksy's 'Hitchhikers Anywhere'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Hitchhikers Anywhere</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/ice_cream_bomb.jpg" target="_blank">
+                     <img src="../img/graffiti/ice_cream_bomb.html" alt="Banksy's 'Ice Cream Bomb'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Ice Cream Bomb</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/injured_buddha.jpg" target="_blank">
+                     <img src="../img/graffiti/injured_buddha.html" alt="Banksy's 'Injured Buddha'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Injured Buddha</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/interest_in_people.jpg" target="_blank">
+                     <img src="../img/graffiti/interest_in_people.html" alt="Banksy's 'Interest in People'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Interest in People</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/i_love_you.jpg" target="_blank">
+                     <img src="../img/graffiti/i_love_you.html" alt="Banksy's 'I Love You'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">I Love You</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/javelin_thrower.jpg" target="_blank">
+                     <img src="../img/graffiti/javelin_thrower.html" alt="Banksy's 'Javelin Thrower'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Javelin Thrower</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/keep_your_coins_i_want_change.jpg" target="_blank">
+                     <img src="../img/graffiti/keep_your_coins_i_want_change.html" alt="Banksy's 'Keep your Coins, I want Change'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Keep your Coins, I want Change</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/kentucky_fox.jpg" target="_blank">
+                     <img src="../img/graffiti/kentucky_fox.html" alt="Banksy's 'Kentucky Fox'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Kentucky Fox</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/laugh_now.jpg" target="_blank">
+                     <img src="../img/graffiti/laugh_now.html" alt="Banksy's 'Laugh Now'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Laugh Now</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/lenin_punk.jpg" target="_blank">
+                     <img src="../img/graffiti/lenin_punk.html" alt="Banksy's 'Lenin Punk'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Lenin Punk</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/london_calling.jpg" target="_blank">
+                     <img src="../img/graffiti/london_calling.html" alt="Banksy's 'London Calling'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">London Calling</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/looting_soldiers.jpg" target="_blank">
+                     <img src="../img/graffiti/looting_soldiers.html" alt="Banksy's 'Looting Soldiers'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Looting Soldiers</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/love_is_the_answer.jpg" target="_blank">
+                     <img src="../img/graffiti/love_is_the_answer.html" alt="Banksy's 'Love is the Answer'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Love is the Answer</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/mobile_phone_lovers.jpg" target="_blank">
+                     <img src="../img/graffiti/mobile_phone_lovers.html" alt="Banksy's 'Mobile Phone Lovers'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Mobile Phone Lovers</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/modern_art.jpg" target="_blank">
+                     <img src="../img/graffiti/modern_art.html" alt="Banksy's 'Modern Art'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Modern Art</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/napalm_girl.jpg" target="_blank">
+                     <img src="../img/graffiti/napalm_girl.html" alt="Banksy's 'Napalm Girl'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Napalm Girl</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/no_ball_games_rat.jpg" target="_blank">
+                     <img src="../img/graffiti/no_ball_games_rat.html" alt="Banksy's 'No Ball Games Rat'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">No Ball Games Rat</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/no_future.jpg" target="_blank">
+                     <img src="../img/graffiti/no_future.html" alt="Banksy's 'No Future'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">No Future</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/no_trespassing.jpg" target="_blank">
+                     <img src="../img/graffiti/no_trespassing.html" alt="Banksy's 'No Trespassing'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">No Trespassing</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/old_skool.jpg" target="_blank">
+                     <img src="../img/graffiti/old_skool.html" alt="Banksy's 'Old Skool'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Old Skool</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/old_woman.jpg" target="_blank">
+                     <img src="../img/graffiti/old_woman.html" alt="Banksy's 'Old Woman'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Old Woman</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/one_nation_under_cctv.jpg" target="_blank">
+                     <img src="../img/graffiti/one_nation_under_cctv.html" alt="Banksy's 'One Nation Under CCTV'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">One Nation Under CCTV</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/original_thought" target="_blank">
+                     <img src="../img/graffiti/original_thought.html" alt="Banksy's 'One Original Thought'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">One Original Thought</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/photo_opp.jpg" target="_blank">
+                     <img src="../img/graffiti/photo_opp.html" alt="Banksy's 'Photo Opportunity'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Photo Opportunity</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/policeman_searching.jpg" target="_blank">
+                     <img src="../img/graffiti/policeman_searching.html" alt="Banksy's 'Policeman Searching'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Policeman Searching</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/police_sniper.jpg" target="_blank">
+                     <img src="../img/graffiti/police_sniper.html" alt="Banksy's 'Police Sniper'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Police Sniper</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/rat_couple.jpg" target="_blank">
+                     <img src="../img/graffiti/rat_couple.html" alt="Banksy's 'Rat Couple'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Rat Couple</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/seal_mural.jpg" target="_blank">
+                     <img src="../img/graffiti/seal_mural.html" alt="Banksy's 'Seal Mural'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Seal Mural</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/seasons_greetings.jpg" target="_blank">
+                     <img src="../img/graffiti/seasons_greetings.html" alt="Banksy's 'Season's Greetings'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Season's Greetings</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/secured.jpg" target="_blank">
+                     <img src="../img/graffiti/secured.html" alt="Banksy's 'Secured'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Secured</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/security_guard_with_pink_balloon.jpg" target="_blank">
+                     <img src="../img/graffiti/security_guard_with_pink_balloon.html" alt="Banksy's 'Security Guard with Pink Balloon'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Security Guard with Pink Balloon</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/shave_kong.jpg" target="_blank">
+                     <img src="../img/graffiti/shave_kong.html" alt="Banksy's 'Gorilla Artist'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Gorilla Artist</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/slave_labour.jpg" target="_blank">
+                     <img src="../img/graffiti/slave_labour.html" alt="Banksy's 'Slave Labour'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Slave Labour</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/snorting_copper.jpg" target="_blank">
+                     <img src="../img/graffiti/snorting_copper.html" alt="Banksy's 'Snorting Copper'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Snorting Copper</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/soldiers_painting_cnd_sign.jpg" target="_blank">
+                     <img src="../img/graffiti/soldiers_painting_cnd_sign.html" alt="Banksy's 'Soldiers Painting CND Sign'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Soldiers Painting CND Sign</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/sorry_the_lifestyle_you_ordered.jpg" target="_blank">
+                     <img src="../img/graffiti/sorry_the_lifestyle_you_ordered.html" alt="Banksy's 'Sorry, The Lifestyle you Ordered'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Sorry, The Lifestyle you Ordered</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/space_girl_with_bird.jpg" target="_blank">
+                     <img src="../img/graffiti/space_girl_with_bird.html" alt="Banksy's 'Space Girl with Bird'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Space Girl with Bird</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/stained_window.jpg" target="_blank">
+                     <img src="../img/graffiti/stained_window.html" alt="Banksy's 'Stained Window '"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Stained Window </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/stop_and_search.jpg" target="_blank">
+                     <img src="../img/graffiti/stop_and_search.html" alt="Banksy's 'Stop and Search'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Stop and Search</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/stormtroopers_filming_oscars.jpg" target="_blank">
+                     <img src="../img/graffiti/stormtroopers_filming_oscars.html" alt="Banksy's 'Stormtroopers Filming Oscars'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Stormtroopers Filming Oscars</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/sweep_it_under_the_carpet.jpg" target="_blank">
+                     <img src="../img/graffiti/sweep_it_under_the_carpet.html" alt="Banksy's 'Sweep it Under the Carpet'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Sweep it Under the Carpet</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/swing_girl.jpg" target="_blank">
+                     <img src="../img/graffiti/swing_girl.html" alt="Banksy's 'Swing Girl'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Swing Girl</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/take_this_society.jpg" target="_blank">
+                     <img src="../img/graffiti/take_this_society.html" alt="Banksy's 'Take this Society'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Take this Society</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/tap_phoned.jpg" target="_blank">
+                     <img src="../img/graffiti/tap_phoned.html" alt="Banksy's 'Tap Phoned'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Tap Phoned</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/tesco_sandcastle.jpg" target="_blank">
+                     <img src="../img/graffiti/tesco_sandcastle.html" alt="Banksy's 'Tesco Sandcastle'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Tesco Sandcastle</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/thekla.jpg" target="_blank">
+                     <img src="../img/graffiti/thekla.html" alt="Banksy's 'Thekla'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Thekla</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/the_mild_mild_west.jpg" target="_blank">
+                     <img src="../img/graffiti/the_mild_mild_west.html" alt="Banksy's 'The Mild Mild West'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">The Mild Mild West</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/the_son_of_a_migrant_from_syria.jpg" target="_blank">
+                     <img src="../img/graffiti/the_son_of_a_migrant_from_syria.html" alt="Banksy's 'The Son Of A Migrant From Syria'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">The Son Of A Migrant From Syria</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/think_tank.jpg" target="_blank">
+                     <img src="../img/graffiti/think_tank.html" alt="Banksy's 'Think Tank'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Think Tank</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/thug_for_life_bunny.jpg" target="_blank">
+                     <img src="../img/graffiti/thug_for_life_bunny.html" alt="Banksy's 'Thug for Life Bunny'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Thug for Life Bunny</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/tox.jpg" target="_blank">
+                     <img src="../img/graffiti/tox.html" alt="Banksy's 'Tox'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Tox</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/toxic_rat.jpg" target="_blank">
+                     <img src="../img/graffiti/toxic_rat.html" alt="Banksy's 'Toxic Rat'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Toxic Rat</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/twin_towers.jpg" target="_blank">
+                     <img src="../img/graffiti/twin_towers.html" alt="Banksy's 'Twin Towers'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Twin Towers</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/umbrella_girl.jpg" target="_blank">
+                     <img src="../img/graffiti/umbrella_girl.html" alt="Banksy's 'Umbrella Girl'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Umbrella Girl</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/very_little_helps.jpg" target="_blank">
+                     <img src="../img/graffiti/very_little_helps.html" alt="Banksy's 'Very Little Helps'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Very Little Helps</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/waiting_in_vain.jpg" target="_blank">
+                     <img src="../img/graffiti/waiting_in_vain.html" alt="Banksy's 'Waiting in Vain'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Waiting in Vain</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/watchtower_swing.jpg" target="_blank">
+                     <img src="../img/graffiti/watchtower_swing.html" alt="Banksy's 'Watchtower Swing'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Watchtower Swing</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/well_hung_lover.jpg" target="_blank">
+                     <img src="../img/graffiti/well_hung_lover.html" alt="Banksy's 'Well, Hung Lover'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Well, Hung Lover</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/winnie_the_pooh_bear_trap.jpg" target="_blank">
+                     <img src="../img/graffiti/winnie_the_pooh_bear_trap.html" alt="Banksy's 'Winnie the Pooh Bear Trap'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Winnie the Pooh Bear Trap</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/yellow_lines_flower_painter.jpg" target="_blank">
+                     <img src="../img/graffiti/yellow_lines_flower_painter.html" alt="Banksy's 'Yellow Lines Flower Painter'"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">Yellow Lines Flower Painter</div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="gallery-column">
+               <div class="gallery-hover">
+                  <a href="gallery_pages/graffiti/zebra_stripes" target="_blank">
+                     <img src="../img/graffiti/zebra_stripes.html" alt="Banksy's 'zebra_stripes '"></img>
+                     <div class="gallery-overlay">
+                        <div class="gallery">zebra_stripes </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- SSI line below -->
+      <!--#include virtual="../../../ssi/license.html" -->
+   </body>
+</html>
