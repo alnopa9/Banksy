@@ -26,7 +26,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Banksy publishes his first book of four up to date: “Banging your head against a brick wall” contains some very well written texts along images of his most prominent street art and some interesting originals. 54 pages in black and white.</desc>
+        <desc>
+            <p>Banksy publishes his first book of four up to date: “Banging your head against a brick wall” contains some very well written texts along images of his most prominent street art and some interesting originals. 54 pages in black and white.</p>
+        </desc>
         <p>
             <img src="banging_your_head_against_a_brick_wall" alt="Banksy's 'Banging Your Head Against A Brick Wall'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

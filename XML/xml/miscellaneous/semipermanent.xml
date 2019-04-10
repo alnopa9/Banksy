@@ -27,7 +27,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Semipermanent is an annual art festival held in Sydney, Australia. Banksy participated with a 12 meter panel. Melbourne’s Burn Crew,  Dmote of Australia, 123Klan of France and Shepard Fairey also participated.</desc>
+        <desc>
+            <p>Semipermanent is an annual art festival held in Sydney, Australia. Banksy participated with a 12 meter panel. Melbourne’s Burn Crew,  Dmote of Australia, 123Klan of France and Shepard Fairey also participated.</p>
+        </desc>
         <p>
             <img src="semipermanent.jpg" alt="Banksy's 'Semipermanent'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

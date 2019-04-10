@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -18,21 +18,21 @@
                     <title>Police Sniper</title>
                     <date when="2010-09"/>
                     <medium type="spray_paint"/>
-                    <location lat="51.4545" long="2.5879">Bristol</location>
-                    <size>large</size>
+                    <location lat="51.4545" long="2.5879">Bristol, UK</location>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>This graffiti piece by Banksy of a police sniper crouching on top of a building with a boy standing behind him about to give him a loud surprise courtesy of a paper bag was 
-            visible in Bristol for several years and could be seen opposite the Bristol Royal Infirmary (BRI) and Bristol Children’s Hospital buildings but in 2012 it was defaced. </desc>
+        <desc>
+            <p>This graffiti piece by Banksy of a police sniper crouching on top of a building with a boy standing behind him about to give him a loud surprise courtesy of a paper bag was visible in Bristol for several years and could be seen opposite the Bristol Royal Infirmary (BRI) and Bristol Children’s Hospital buildings but in 2012 it was defaced.</p>
+        </desc>
         <p>
-            <img src="police_sniper.jpg" alt="Police Sniper Banksy"/>
+            <img src="police_sniper.jpg" alt="Banksy's 'Police Sniper'"/>
             <credit>By: Aaron Leve from Bristol, https://www.alamy.com/stock-photo-police-sniper-as-depicted-by-the-graffiti-artist-banksy-in-maudlin-48608093.html</credit>
         </p>
     </body>

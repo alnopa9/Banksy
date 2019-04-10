@@ -28,11 +28,11 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy makes up half of a two part piece of art, with the green ‘skipping rope’ snaking across the ground and connecting to the electric box in another Banksy painting. 
-            It was originally found in Brooklyn but was painted over after falling victim to ‘The Splasher’ and individual who goes around splashing paint on street art.</desc>
+        <desc>
+            <p>This piece by Banksy makes up half of a two part piece of art, with the green ‘skipping rope’ snaking across the ground and connecting to the electric box in another Banksy painting. It was originally found in Brooklyn but was painted over after falling victim to ‘The Splasher’ and individual who goes around splashing paint on street art.</p>
+        </desc>
         <p>
-            <img src="girl_with_skipping_rope.jpg"
-              alt="Banksy's 'Girl with Skipping Rope'"/>
+            <img src="girl_with_skipping_rope.jpg" alt="Banksy's 'Girl with Skipping Rope'"/>
             <credit>By: Joseph Keane from Brooklyn NY, https://www.pinterest.com/pin/155303887150330013/</credit>
         </p>
     </body>

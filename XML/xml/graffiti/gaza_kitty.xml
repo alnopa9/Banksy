@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting is a medium sized spray painting located in Gaza on the side of a ruined wall, it depicts a kitten playing with a ball that appears to be made of scrap metal. </desc>
+        <desc>
+            <p>This painting is a medium sized spray painting located in Gaza on the side of a ruined wall, it depicts a kitten playing with a ball that appears to be made of scrap metal.</p>
+        </desc>
         <p>
             <img src="gaza_kitty.jpg" alt="Banksy's 'Gaza Kitty'"/>
             <credit>Article was written by someone under the screen name of SAL and multiple people were given photo credit.</credit>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -18,7 +18,7 @@
                     <title>Donuts</title>
                     <date when="2009"/>
                     <medium type="canvas"/>
-                    <size dimension="76 x 86">medium</size>
+                    <size dimension="76 x 86" orientation="landscape">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
@@ -29,11 +29,13 @@
         </fileDesc>
     </header>
     <body>
-        <desc></desc>
+        <desc>
+            <p></p>
+        </desc>
         <p>
-            <img src="../img/donuts_brown_chocolate.jpg" alt="Banksy's 'Donuts (Brown/Chocolate)'"/>
+            <img src="donuts_brown_chocolate.jpg" alt="Banksy's 'Donuts (Brown/Chocolate)'"/>
             <credit>https://dl.airtable.com/nAhMfYdRqySMXqienSZ1_full_banksy-prints-chocolate-donutlarge.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
-            <img src="../img/donuts_pink_strawberry.jpg" alt="Banksy's 'Donuts (Pink/Strawberry)'"/>
+            <img src="donuts_pink_strawberry.jpg" alt="Banksy's 'Donuts (Pink/Strawberry)'"/>
             <credit>https://dl.airtable.com/mLHkGIqkRIekldblk7Za_full_Banksy-Donuts-Pink-.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
         </p>
     </body>

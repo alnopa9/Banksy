@@ -29,7 +29,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece depicts an angel in a bulletproof vest kneeling and holding a skull. It is believed to be a tribute to fellow graffiti artist Ozone.</desc>
+        <desc>
+            <p>This piece depicts an angel in a bulletproof vest kneeling and holding a skull. It is believed to be a tribute to fellow graffiti artist Ozone.</p>
+        </desc>
         <p>
             <img src="fallen_angel.jpg" alt="Banksy's 'Fallen Angel'"/>
             <credit>Ryan Acres</credit>

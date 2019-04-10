@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>One Nation Under CCTV was a 2007 mural by graffiti artist Banksy on Newman Street in London. Painted on the wall of a building used by the Royal Mail, it depicts a child in a red hooded top painting the phrase, while being watched by a police officer and a dog. The mural was situated adjacent to a CCTV camera.</desc>
+        <desc>
+            <p>One Nation Under CCTV was a 2007 mural by graffiti artist Banksy on Newman Street in London. Painted on the wall of a building used by the Royal Mail, it depicts a child in a red hooded top painting the phrase, while being watched by a police officer and a dog. The mural was situated adjacent to a CCTV camera.</p>
+        </desc>
         <p>
             <img src="one_nation_under_cctv.jpg" alt="Banksy's 'One Nation Under CCTV'"/>
             <credit>Wikipedia</credit>

@@ -28,8 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc> This piece by Banksy called Very Little Helps, appeared on London’s Essex Road in 2008 and features children saluting as another child runs a Tesco branded carrier bag up a flagpole. 
-            From time to time, pranksters would also add a real Tesco bag to the mural</desc>
+        <desc>
+            <p>This piece by Banksy called Very Little Helps, appeared on London’s Essex Road in 2008 and features children saluting as another child runs a Tesco branded carrier bag up a flagpole. From time to time, pranksters would also add a real Tesco bag to the mural</p>
+        </desc>
         <p>
             <img src="very_little_helps.jpg" alt="Banksy's 'Very Little Helps'"/>
             <credit>By Matt Randal from London, https://www.widewalls.ch/10-banksy-street-artworks-in-london/</credit>

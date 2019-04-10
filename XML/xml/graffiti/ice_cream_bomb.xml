@@ -28,8 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by banksy shows a girl holding an ice cream on a little house at a beach in Brighton with a bomb in the ice cream. Banksy wants to show 
-        that kids should not get there hopes up in the future.</desc>
+        <desc>
+            <p>This piece by banksy shows a girl holding an ice cream on a little house at a beach in Brighton with a bomb in the ice cream. Banksy wants to show that kids should not get there hopes up in the future.</p>
+        </desc>
         <p>
             <img src="ice_cream_bomb.jpg" alt="Banksy's 'Ice Cream Bomb'"/>
             <credit>By: Pedro Pabrala from Brighton, https://www.pinterest.com/pin/513199320024085457/</credit>

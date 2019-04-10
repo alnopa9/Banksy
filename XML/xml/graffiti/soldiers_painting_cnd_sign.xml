@@ -28,11 +28,11 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy of Soldiers Painting the CND sign was confiscated for allegedly breaking laws regarding protests in this area. 
-            It has been suggested that it represents the repression of free speech as well as acting as an anti-war protest. </desc>
+        <desc>
+            <p>This piece by Banksy of Soldiers Painting the CND sign was confiscated for allegedly breaking laws regarding protests in this area. It has been suggested that it represents the repression of free speech as well as acting as an anti-war protest.</p>
+        </desc>
         <p>
-            <img src="soldiers_painting_cnd_sign.jpg"
-              alt="Banksy's 'Soldiers Painting CND Sign'"/>
+            <img src="soldiers_painting_cnd_sign.jpg" alt="Banksy's 'Soldiers Painting CND Sign'"/>
             <credit>By: George Santronos from London, https://www.pinterest.com/pin/855402522944306497/</credit>
         </p>
     </body>

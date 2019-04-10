@@ -26,7 +26,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Cut It Out was the last of the three little black books. Contains some interesting street art, loads of rats and a few nice canvases. Among them “Suicide bombers just need a hug”, from the Turf War exhibition.</desc>
+        <desc>
+            <p>Cut It Out was the last of the three little black books. Contains some interesting street art, loads of rats and a few nice canvases. Among them “Suicide bombers just need a hug”, from the Turf War exhibition.</p>
+        </desc>
         <p>
             <img src="cut_it_out.jpg" alt="Banksy's 'Cut It Out'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

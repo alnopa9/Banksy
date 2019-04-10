@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting is a medium sized spray painting located in Gaza on the side of a wall, it depicts an amusement park swing where the cetner pole is a tower with a camera on top. </desc>
+        <desc>
+            <p>This painting is a medium sized spray painting located in Gaza on the side of a wall, it depicts an amusement park swing where the cetner pole is a tower with a camera on top.</p>
+        </desc>
         <p>
             <img src="watchtower_swing.jpg" alt="Banksy's 'Watchtower Swing'"/>
             <credit>Article was written by someone under the screen name of SAL and multiple people were given photo credit.</credit>

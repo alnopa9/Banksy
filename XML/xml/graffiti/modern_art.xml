@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting depicts a man staring blankly at an empty picture frame and admiring it. </desc>
+        <desc>
+            <p>This painting depicts a man staring blankly at an empty picture frame and admiring it.</p>
+        </desc>
         <p>
             <img src="modern_art.jpg" alt="Banksy's 'Modern Art'"/>
             <credit>Article was taken from 'https://arrestedmotion.com/2010/09/streets-banksy-in-basque/' no photo credits were given. </credit>

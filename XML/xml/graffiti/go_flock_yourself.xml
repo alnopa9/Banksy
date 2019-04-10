@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece is a spray painting that was done by Banksy in retaliation to the movement in Paris to displace migrants from their makeshift camps. The painting is of a young African girl covering a swastika with the fleur-de-lis.</desc>
+        <desc>
+            <p>This piece is a spray painting that was done by Banksy in retaliation to the movement in Paris to displace migrants from their makeshift camps. The painting is of a young African girl covering a swastika with the fleur-de-lis.</p>
+        </desc>
         <p>
             <img src="go_flock_yourself.jpg" alt="Banksy's 'Go Flock Yourself'"/>
             <credit>The article was written by Sasha Bogojev</credit>

@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting was created for an art gallery in Los Angeles California, Banksy worked with public school students in order to create the painting. It shows an old stain glass window(painted) and the glass panes of the window are filled with graffiti and a yound boy in street clothes is seen kneeling and praying in front of it. </desc>
+        <desc>
+            <p>This painting was created for an art gallery in Los Angeles California, Banksy worked with public school students in order to create the painting. It shows an old stain glass window(painted) and the glass panes of the window are filled with graffiti and a yound boy in street clothes is seen kneeling and praying in front of it.</p>
+        </desc>
         <p>
             <img src="stained_window.jpg" alt="Banksy's 'Stained Window'"/>
             <credit>The article was written by someone with the name of Joyce Lee and the photo credits go to a Brian Forrest.</credit>

@@ -30,11 +30,10 @@
         </fileDesc>
     </header>
     <body>
-        <desc>A sad-looking working class painter has painted the words ‘follow your dreams’ before having the word ‘cancelled’ stamped over 
-            in a big rectangular box. This piece is shown Chinatown, Boston. It represents everyones dreams coming to stop because your in reality. In Chinatown, behind Shadi Restrauant in Boston.</desc>
+        <desc><p>A sad-looking working class painter has painted the words ‘follow your dreams’ before having the word ‘cancelled’ stamped over in a big rectangular box. This piece is shown Chinatown, Boston. It represents everyones dreams coming to stop because your in reality. In Chinatown, behind Shadi Restrauant in Boston.</p>
+        </desc>
         <p>
-            <img src="follow_your_dreams_canceled.jpg"
-              alt="Banksy's 'Follow your Dreams - Canceled'"/>
+            <img src="follow_your_dreams_canceled.jpg" alt="Banksy's 'Follow your Dreams - Canceled'"/>
             <credit>By Shogi Harris from Boston, http://sugoihcontemprhetoric.blogspot.com/2013/10/analysis-of-visual-banksy-street-art.html</credit>
         </p>
     </body>

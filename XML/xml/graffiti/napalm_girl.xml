@@ -15,7 +15,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Naplam Girl</title>
+                    <title>Napalm Girl</title>
                     <date when="2004-09"/>
                     <medium type="spray_paint"/>
                     <location lat="51.5074" long="0.1278">London, UK</location>
@@ -28,9 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Banksy created Napalm Girl in 2004. It features a reproduction of an iconic photograph of a young girl during a napalm bombing in Vietnam in the seventies. 
-            In Banksy’s version the terrified naked girl is caught between Ronald McDonald and Mickey Mouse. 
-            The piece was created on cartridge paper and has been exhibited internationally in many different galleries.</desc>
+        <desc>
+            <p>Banksy created Napalm Girl in 2004. It features a reproduction of an iconic photograph of a young girl during a napalm bombing in Vietnam in the seventies. In Banksy’s version the terrified naked girl is caught between Ronald McDonald and Mickey Mouse. The piece was created on cartridge paper and has been exhibited internationally in many different galleries.</p>
+        </desc>
         <p>
             <img src="napalm_girl.jpg" alt="Banksy's 'Napalm Girl'"/>
             <credit>By:John Dimcelli from London, https://www.pinterest.com/pin/777996904352483988/</credit>

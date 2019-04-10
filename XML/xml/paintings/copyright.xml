@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -19,7 +19,7 @@
                     <date when="2012"/>
                     <medium type="canvas"/>
                     <location lat="51.5074" long="0.1278">London, UK</location>
-                    <size>small</size>
+                    <size orientation="landscape">small</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">https://arrestedmotion.com/2012/05/update-banksy/</ref>
@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting depicts a young boy stepping on the copyright symbol. This piece was painted on what appears to be canvas, and the glass protecting the piece is broken deliberately. </desc>
+        <desc>
+            <p>This painting depicts a young boy stepping on the copyright symbol. This piece was painted on what appears to be canvas, and the glass protecting the piece is broken deliberately.</p>
+        </desc>
         <p>
             <img src="copyright.jpg" alt="Banksy's 'Copyright'"/>
             <credit>The article was taken from the site 'https://arrestedmotion.com/2012/05/update-banksy/' and was written by sleepboy. No photo credits were given.</credit>

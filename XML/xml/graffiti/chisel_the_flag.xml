@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting is a large mural located in Dover, UK. It is of a man chiseling away atone of the stars on the EU Flag</desc>
+        <desc>
+            <p>This painting is a large mural located in Dover, UK. It is of a man chiseling away atone of the stars on the EU Flag</p>
+        </desc>
         <p>
             <img src="chisel_the_flag.jpg" alt="Banksy's 'Chisel the Flag'"/>
             <credit/>

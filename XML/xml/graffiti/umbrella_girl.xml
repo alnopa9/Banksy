@@ -23,14 +23,14 @@
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://www.myartbroker.com/artist/banksy/nola/">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy features a young New Orleanian girl holding an umbrella. What is surprising in this painting is that it is not
-            raining outside but the rain comes from the umbrella itself and pours onto the girl. Her expression shows shes having a tough time.</desc>
+        <desc>
+            <p>This piece by Banksy features a young New Orleanian girl holding an umbrella. What is surprising in this painting is that it is not raining outside but the rain comes from the umbrella itself and pours onto the girl. Her expression shows shes having a tough time.</p>
+        </desc>
         <p>
             <img src="umbrella_girl.jpg" alt="Umbrella Girl Banksy"/>
             <credit>By: Ashley Grantz from New Orleans, http://www.noladefender.com/content/banksys-girl-umbrella-defaced-again</credit>

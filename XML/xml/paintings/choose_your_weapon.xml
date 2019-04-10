@@ -29,7 +29,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>The dog in this piece pays tribute to Keith Haring’s iconic “Barking Dog,” appearing in an all white silhouette. The dog’s walker wears a hooded sweatshirt with a bandana disguise, possibly representing disgruntled youth which features prominently in British pop culture.</desc>
+        <desc>
+            <p>The dog in this piece pays tribute to Keith Haring’s iconic “Barking Dog,” appearing in an all white silhouette. The dog’s walker wears a hooded sweatshirt with a bandana disguise, possibly representing disgruntled youth which features prominently in British pop culture.</p>
+        </desc>
         <p>
             <img src="choose_your_weapon.jpg" alt="Banksy's 'Choose Your Weapon'"/>
             <credit>https://www.wikiart.org/en/banksy/haring-dog</credit>

@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>The artwork is a stencilled design on the Scott street bridge and depicts a child holding a wooden sword with the words written “DRAW THE RAISED BRIDGE!”.</desc>
+        <desc>
+            <p>The artwork is a stencilled design on the Scott street bridge and depicts a child holding a wooden sword with the words written “DRAW THE RAISED BRIDGE!”.</p>
+        </desc>
         <p>
             <img src="draw_the_raised_bridge.jpg"
               alt="Banksy's 'Draw The Raised Bridge'"/>

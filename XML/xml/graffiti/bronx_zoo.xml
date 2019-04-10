@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting is of a leopard yawning while lounging on a railing at Yankee Stadium</desc>
+        <desc>
+            <p>This painting is of a leopard yawning while lounging on a railing at Yankee Stadium</p>
+        </desc>
         <p>
             <img src="bronx_zoo.jpg" alt="Banksy's 'Bronx Zoo'"/>
             <credit>Julie Zeveloff is the author for the article.</credit>

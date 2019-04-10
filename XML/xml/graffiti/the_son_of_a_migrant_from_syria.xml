@@ -28,10 +28,11 @@
         </fileDesc>
     </header>
     <body>
-        <desc>The Son of a Migrant from Syria is a 2015 mural by graffiti artist Banksy. The mural was located in the Calais jungle, a nickname for the encampment near Calais, France, where migrants lived as they attempted to enter the United Kingdom. The artwork depicts the late Apple co-founder and former CEO Steve Jobs—the son of a Syrian migrant to the United States—as a traveling migrant.</desc>
+        <desc>
+            <p>The Son of a Migrant from Syria is a 2015 mural by graffiti artist Banksy. The mural was located in the Calais jungle, a nickname for the encampment near Calais, France, where migrants lived as they attempted to enter the United Kingdom. The artwork depicts the late Apple co-founder and former CEO Steve Jobs—the son of a Syrian migrant to the United States—as a traveling migrant.</p>
+        </desc>
         <p>
-            <img src="the_son_of_a_migrant_from_syria.jpg"
-              alt="Banksy's 'The Son Of A Migrant From Syria'"/>
+            <img src="the_son_of_a_migrant_from_syria.jpg" alt="Banksy's 'The Son Of A Migrant From Syria'"/>
             <credit/>
         </p>
     </body>

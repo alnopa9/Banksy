@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy is called the Kentucky Fox by showing the fox dragging away the colonel’s head (of KFC fame). It shows that the KFC are not welcomed in London.</desc>
+        <desc>
+            <p>This piece by Banksy is called the Kentucky Fox by showing the fox dragging away the colonel’s head (of KFC fame). It shows that the KFC are not welcomed in London.</p>
+        </desc>
         <p>
             <img src="kentucky_fox.jpg" alt="Banksy's 'Kentucky Fox'"/>
             <credit>By: Mark Bohman from London, https://www.pinterest.co.uk/pin/777996904352483986/</credit>

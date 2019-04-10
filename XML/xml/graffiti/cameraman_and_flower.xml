@@ -28,8 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy, Cameraman and Flower appeared on the wall of a Park City coffee shop in the lead up to the premier of Banksy’s film at Sundance in 2010. It represents the lengths people go to in order to preserve beauty, 
-            but often lead to it’s destruction as in this case where the cameraman has uprooted the flower in order to film it.</desc>
+        <desc>
+            <p>This piece by Banksy, Cameraman and Flower appeared on the wall of a Park City coffee shop in the lead up to the premier of Banksy’s film at Sundance in 2010. It represents the lengths people go to in order to preserve beauty, but often lead to it’s destruction as in this case where the cameraman has uprooted the flower in order to film it.</p>
+        </desc>
         <p>
             <img src="cameraman_and_flower.jpg" alt="Banksy's 'Cameraman and Flower'"/>
             <credit>By Graham Ramesy from Los Angeles, https://hiveminer.com/Tags/banksy%2Cutah</credit>

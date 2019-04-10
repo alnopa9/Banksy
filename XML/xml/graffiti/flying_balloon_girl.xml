@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -18,21 +18,21 @@
                     <title>Flying Balloon Girl</title>
                     <date when="2005-06"/>
                     <medium type="spray_paint"/>
-                    <location lat="31.9522" long="35.2332">Palestine, Israel</location>
-                    <size>large</size>
+                    <location lat="31.9522" long="35.2332">Palestine, IS</location>
+                    <size orientation="portrait">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">Article That Supplied Information for Markup</ref>
-                    <edition total="" signed="" unsigned="">
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>Flying Balloon Girl is perhaps one of Banksy’s most well known artworks. It was painted on a wall on the West Bank in Israel in 2005 and carries a poignant political message. 
-            Many believe that the piece signifies the children trapped by the conflict between Israelis and Palestine’s who are longing to fly away to freedom. </desc>
+        <desc>
+            <p>Flying Balloon Girl is perhaps one of Banksy’s most well known artworks. It was painted on a wall on the West Bank in Israel in 2005 and carries a poignant political message. Many believe that the piece signifies the children trapped by the conflict between Israelis and Palestine’s who are longing to fly away to freedom.</p>
+        </desc>
         <p>
-            <img src="flying_balloon_girl.jpg" alt="Flying Balloon Girl Banksy"/>
+            <img src="flying_balloon_girl.jpg" alt="Banksy's 'Flying Balloon Girl'"/>
             <credit>By Guereo Alveraz from Palenstine, https://www.pinterest.com/pin/120189883789260131/</credit>
         </p>
     </body>

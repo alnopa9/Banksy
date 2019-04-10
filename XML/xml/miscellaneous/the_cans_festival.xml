@@ -27,7 +27,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Banksy hosted an exhibition called The Cans Festival in London, over the weekend 3–5 May 2008.  It was situated on Leake Street, a road tunnel formerly used by Eurostar underneath London Waterloo station. Graffiti artists with stencils were invited to join in and paint their own artwork, as long as it did not cover anyone else’s.</desc>
+        <desc>
+            <p>Banksy hosted an exhibition called The Cans Festival in London, over the weekend 3–5 May 2008.  It was situated on Leake Street, a road tunnel formerly used by Eurostar underneath London Waterloo station. Graffiti artists with stencils were invited to join in and paint their own artwork, as long as it did not cover anyone else’s.</p>
+        </desc>
         <p>
             <img src="the_cans_festival.jpg" alt="Banksy's 'The Cans Festival'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

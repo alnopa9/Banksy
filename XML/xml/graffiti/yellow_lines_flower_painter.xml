@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -28,11 +28,12 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy shows the double yellow lines of the road are extended across the pavement and up the wall where they bloom into a flower. 
-            The pavement lines have been removed and the painter’s face is mostly obscured with newer graffiti, but the flower is still clear.</desc>
+        <desc>
+            <p>This piece by Banksy shows the double yellow lines of the road are extended across the pavement and up the wall where they bloom into a flower.</p>
+            <p>The pavement lines have been removed and the painter’s face is mostly obscured with newer graffiti, but the flower is still clear.</p>
+        </desc>
         <p>
-            <img src="yellow_lines_flower_painter.jpg"
-              alt="Banksy's 'Yellow Lines Flower Painter'"/>
+            <img src="yellow_lines_flower_painter.jpg" alt="Banksy's 'Yellow Lines Flower Painter'"/>
             <credit>By: Ronald Taylor from London, https://www.pinterest.com/pin/457256168402272579/</credit>
         </p>
     </body>

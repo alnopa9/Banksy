@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This is a spray painted piece that depicts two boys, one standing on the others back, reaching up to grab a can of spray paint, that is on a sign stating graffiti is a crime.</desc>
+        <desc>
+            <p>This is a spray painted piece that depicts two boys, one standing on the others back, reaching up to grab a can of spray paint, that is on a sign stating graffiti is a crime.</p>
+        </desc>
         <p>
             <img src="graffiti_is_a_crime.jpg" alt="Banksy's 'Graffiti Is A Crime'"/>
             <credit>Credit for this piece was given to someone going by the name Krytonika on the website steemit.com</credit>

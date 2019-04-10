@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy called London Calling was a take on the album cover of the same name by The Clash. It shows a figure smashing an office chair on the floor in place of the usual guitar. </desc>
+        <desc>
+            <p>This piece by Banksy called London Calling was a take on the album cover of the same name by The Clash. It shows a figure smashing an office chair on the floor in place of the usual guitar.</p>
+        </desc>
         <p>
             <img src="london_calling.jpg" alt="Banksy's 'London Calling'"/>
             <credit>By: Jared Katesh from London, http://www.unurth.com/Banksy-London-Calling</credit>

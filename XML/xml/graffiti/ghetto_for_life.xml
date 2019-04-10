@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting depicts a young boy spray painting the words 'ghetto for life' on a wall as his butler hands him a silver tray with cans of spray paint on it. </desc>
+        <desc>
+            <p>This painting depicts a young boy spray painting the words 'ghetto for life' on a wall as his butler hands him a silver tray with cans of spray paint on it.</p>
+        </desc>
         <p>
             <img src="ghetto_for_life.jpg" alt="Banksy's 'Ghetto for Life'"/>
             <credit>The article was taken from the site 'https://arrestedmotion.com/2013/10/streets-banksy-better-out-than-in-new-york-day-19-20-21/' and was written by sleepboy. No photo credits were given.</credit>

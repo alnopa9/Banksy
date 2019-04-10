@@ -15,26 +15,25 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Dove of Peace</title>
-                    <date when="2005-02"/>
+                    <title>Gas Mask Wearing Musicians</title>
+                    <date when="2008-07"/>
                     <medium type="spray_paint"/>
-                    <location lat="31.705791" long="31.705791">Bethlehem, IS</location>
-                    <size orientation="landscape">medium</size>
+                    <location lat="29.9511" long="-90.0715">New Orleans, USA</location>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
-                    <ref target="http://reinterpellations.web.unc.edu/about/banksy-armored-dove/banksy-armored-dove-essay/">Article That Supplied Information for Markup</ref>
+                    <ref target="https://www.nola.com/arts/2013/08/fifth_anniversary_tour_recalls.html">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy is on a building of Bethlehem and is often grouped with the series of works placed on the Israeli West bank wall during Banksy’s 2005 visit. 
-            It features a dove, the iconic symbol of peace, but it is dressed in a bullet proof vest with a red target on it’s chest.
-            
+        <desc>
+            <p>Another of the New Orleans pieces from Banksy shows a marching band wearing gas masks. The building that it appeared on has since been demolished, but it was one of the most iconic of Banksy’s work in the city.</p>
         </desc>
         <p>
-            <img src="dove_of_peace.jpg" alt="Dove of Peace Banksy"/>
-            <credit>By: Gina Ginolri from London, https://www.travelreportage.com/2012/12/09/graffiti-street-art-in-the-west-bank-banksy-separation-wall/</credit>
+            <img src="gas_mask_wearing_musicians.jpg" alt="Banksy's 'Gas Mask Wearing Musicians'"/>
+            <credit>Lisa Addams from New Orleans, https://www.pinterest.com/pin/339951471854059171/</credit>
         </p>
     </body>
 </root>

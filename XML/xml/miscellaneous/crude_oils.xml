@@ -27,7 +27,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Crude Oils opened at 100 Westbourne Grove in London and was Banksy’s second major exhibition, after Turf War in 2003. It featured 20 versions of classical oil paintings, among them Van Googh, Hopper, Warhol, Turner and Monet. Also present were 200 live rats and some interesting sculptures.</desc>
+        <desc>
+            <p>Crude Oils opened at 100 Westbourne Grove in London and was Banksy’s second major exhibition, after Turf War in 2003. It featured 20 versions of classical oil paintings, among them Van Googh, Hopper, Warhol, Turner and Monet. Also present were 200 live rats and some interesting sculptures.</p>
+        </desc>
         <p>
             <img src="crude_oils.jpg" alt="Banksy's 'Crude Oils'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

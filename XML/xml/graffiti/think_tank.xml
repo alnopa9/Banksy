@@ -28,8 +28,10 @@
         </fileDesc>
     </header>
     <body>
-        <desc>In 2005, Banksy released this piece designed to the cover art for Blur’s seventh studio album ‘Think Tank’. This led many to accuse Banksy of selling out, but it showed an example of his work. 
-            Ironically, due to a ban on all graffiti related posters by London Transport, Blur had difficulty advertising the album thanks to Banksy’s cover art!</desc>
+        <desc>
+            <p>In 2005, Banksy released this piece designed to the cover art for Blur’s seventh studio album ‘Think Tank’. This led many to accuse Banksy of selling out, but it showed an example of his work.</p>
+            <p>Ironically, due to a ban on all graffiti related posters by London Transport, Blur had difficulty advertising the album thanks to Banksy’s cover art!</p>
+        </desc>
         <p>
             <img src="think_tank.jpg" alt="Banksy's 'Think Tank'"/>
             <credit>by: Amanda Brinkmann from London, https://www.pinterest.com/pin/155303887159193818/</credit>

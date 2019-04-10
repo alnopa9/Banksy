@@ -29,7 +29,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This painting is a medium sized spray painting located in Gaza on a lone standing door, it depicts a woman hunched over presumably crying. </desc>
+        <desc>
+            <p>This painting is a medium sized spray painting located in Gaza on a lone standing door, it depicts a woman hunched over presumably crying.</p>
+        </desc>
         <p>
             <img src="crying_woman.jpg" alt="Banksy's 'Crying Woman'"/>
             <credit>Article was written by someone under the screen name of SAL and multiple people were given photo credit.</credit>

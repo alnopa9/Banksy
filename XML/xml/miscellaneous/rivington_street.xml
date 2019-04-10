@@ -27,7 +27,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>The first Banksy “exhibition” in London took place on Rivington Street on 31 May 2001. Banksy produced twelve stencils. In Banksy’s own words: “We came out of a pub one night arguing about how easy it would be to hold an exhibition in London without asking anyone permission. As we walked through a tunnel in Shoreditch someone said – You’re wasting your time, why would you want to paint pictures in a dump like this?”</desc>
+        <desc>
+            <p>The first Banksy “exhibition” in London took place on Rivington Street on 31 May 2001. Banksy produced twelve stencils. In Banksy’s own words: “We came out of a pub one night arguing about how easy it would be to hold an exhibition in London without asking anyone permission. As we walked through a tunnel in Shoreditch someone said – You’re wasting your time, why would you want to paint pictures in a dump like this?”</p>
+        </desc>
         <p>
             <img src="rivington_street.jpg" alt="Banksy's 'Rivington Street'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

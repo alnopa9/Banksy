@@ -28,8 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy shows a Fridge Kite by a child flying a kite, but it is actually a fridge. It has been suggested that this represents hunger and poverty. 
-            However, the child is still finding a way to be a child despite this. It shows the power of limitation that a child can have. This work has since been destroyed.</desc>
+        <desc>
+            <p>This piece by Banksy shows a Fridge Kite by a child flying a kite, but it is actually a fridge. It has been suggested that this represents hunger and poverty. However, the child is still finding a way to be a child despite this. It shows the power of limitation that a child can have. This work has since been destroyed.</p>
+        </desc>
         <p>
             <img src="fridge_kite.jpg" alt="Banksy's 'Fridge Kite'"/>
             <credit>By: Claude Johnston from New Orleans, https://commons.wikimedia.org/wiki/File:Banksy_Fridge_Kite.jpg</credit>

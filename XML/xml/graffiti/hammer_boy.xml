@@ -20,7 +20,7 @@
                     <date when="2013-10"/>
                     <medium type="spray_paint"/>
                     <location lat="40.47393" long="-73.585303">New York, USA</location>
-                    <size orientation="portrait"></size>
+                    <size orientation="portrait">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="https://www.instagram.com/p/BpDMo26h3Cu/">"&gt;Banksy's Personal Instagram</ref>
                     <ref target="https://untappedcities.com/2013/10/20/banksy-in-nyc-day-20-hammer-boy-on-the-upper-west-side/">Article That Supplied Information</ref>
@@ -30,8 +30,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Hammer Boy was the piece created on Day 20 of Banksy’s New York Residency in 2013.Banksy makes use of existing features/items and adds his different stencil style to bring them to life. 
-            Several attempts have been made to deface but the painting is still there today. On 79th street, in front of Building in New York City.</desc>
+        <desc>
+            <p>Hammer Boy was the piece created on Day 20 of Banksy’s New York Residency in 2013.Banksy makes use of existing features/items and adds his different stencil style to bring them to life. Several attempts have been made to deface but the painting is still there today. On 79th street, in front of Building in New York City.</p>
+        </desc>
         <p>
             <img src="hammer_boy.jpg" alt="Banksy's 'Hammer Boy'"/>
             <credit>By: Rom Levy from New York City, Hammer Boy, https://streetartnews.net/2013/10/banksy-new-street-piece-upper-west-side.html </credit>

@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This spray painting is of a mouse couple starring up and admiring the eiffel tower in downtown paris.</desc>
+        <desc>
+            <p>This spray painting is of a mouse couple starring up and admiring the eiffel tower in downtown paris.</p>
+        </desc>
         <p>
             <img src="rat_couple.jpg" alt="Banksy's 'Rat Couple'"/>
             <credit>This article was written by someone with the screen name "sleepboy" and photo credit was given to multiple people on the website.</credit>

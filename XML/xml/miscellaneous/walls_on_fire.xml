@@ -27,7 +27,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Walls on Fire was an open air street art exhibition put together on August 22 and 23 by Inkie and Banksy with the town hall’s agreement.</desc>
+        <desc>
+            <p>Walls on Fire was an open air street art exhibition put together on August 22 and 23 by Inkie and Banksy with the town hall’s agreement.</p>
+        </desc>
         <p>
             <img src="walls_on_fire_01.jpg" alt="Banksy's 'Walls On Fire 01'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

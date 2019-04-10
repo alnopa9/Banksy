@@ -28,8 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy shows another rat with a barrel of toxic waste spilling across the pavement in London by having the people show thats 
-            theres a lot of toxic being wasted everywhere.</desc>
+        <desc>
+            <p>This piece by Banksy shows another rat with a barrel of toxic waste spilling across the pavement in London by having the people show thats theres a lot of toxic being wasted everywhere.</p>
+        </desc>
         <p>
             <img src="toxic_rat.jpg" alt="Banksy's 'Toxic Rat'"/>
             <credit>By: Rachel Johnston from London, https://bauhausmag.wordpress.com/2013/01/05/banksy/banksy-graffiti-street-art-rat-toxic/</credit>

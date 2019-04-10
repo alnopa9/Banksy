@@ -27,7 +27,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc><p>Museum of Contemporary Art Los Angeles, MOCA, held a collective Street Art exhibition in April 2011 where Banksy participated with a room full of versions of old work but also some new stuff. The “Stained window” with the graffiti boy praying was a collaboration between Banksy and a local art school.</p></desc>
+        <desc>
+            <p>Museum of Contemporary Art Los Angeles, MOCA, held a collective Street Art exhibition in April 2011 where Banksy participated with a room full of versions of old work but also some new stuff. The “Stained window” with the graffiti boy praying was a collaboration between Banksy and a local art school.</p>
+        </desc>
         <p>
             <img src="moca.jpg" alt="Banksy's 'MOCA'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

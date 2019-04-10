@@ -27,7 +27,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Banksy opens his first exhibition in New York, “The Village Pet Store and Charcoal Grill”. It features mainly animatronics. Almost all of the content is used the following year in the “Banksy vs Bristol Museum”, Banksy’s biggest exhibition so far.</desc>
+        <desc>
+            <p>Banksy opens his first exhibition in New York, “The Village Pet Store and Charcoal Grill”. It features mainly animatronics. Almost all of the content is used the following year in the “Banksy vs Bristol Museum”, Banksy’s biggest exhibition so far.</p>
+        </desc>
         <p>
             <img src="village_pet_store_and_charcoal_grill.jpg" alt="Banksy's 'Village Pet Store And Charcoal Grill'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

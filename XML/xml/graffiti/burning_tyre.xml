@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>Banksy has given a special gift to schoolchildren by painting a 14-foot mural on a wall of a British elementary school, in his hometown of Bristol, which depicts a stick figure of a little girl spinning a burning tire</desc>
+        <desc>
+            <p>Banksy has given a special gift to schoolchildren by painting a 14-foot mural on a wall of a British elementary school, in his hometown of Bristol, which depicts a stick figure of a little girl spinning a burning tire</p>
+        </desc>
         <p>
             <img src="burning_tyre.jpg" alt="Banksy's 'Burning Tyre'"/>
             <credit>Henri Neuendorf</credit>

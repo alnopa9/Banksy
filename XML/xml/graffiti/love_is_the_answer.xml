@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by Banksy is called Love Is The Answer. It shows the representation of Einstein holding a placard bearing the words “love is the answer’.</desc>
+        <desc>
+            <p>This piece by Banksy is called Love Is The Answer. It shows the representation of Einstein holding a placard bearing the words “love is the answer’.</p>
+        </desc>
         <p>
             <img src="love_is_the_answer.jpg" alt="Banksy's 'Love is the Answer'"/>
             <credit>By: Sophie Bissel from London, https://www.etsy.com/listing/529476825/banksy-street-art-love-is-the-answer</credit>

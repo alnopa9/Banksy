@@ -28,8 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This Banksy art piece shows a salesman with an aim to attack the a capitalist society where respect for people can often be viewed as less important than commodities. 
-            The graffiti lasted only a couple of days before it was painted over by store staff. It shows that he wants people to underatnd other human beings as well.</desc>
+        <desc>
+            <p>This Banksy art piece shows a salesman with an aim to attack the a capitalist society where respect for people can often be viewed as less important than commodities. The graffiti lasted only a couple of days before it was painted over by store staff. It shows that he wants people to underatnd other human beings as well.</p>
+        </desc>
         <p>
             <img src="interest_in_people.jpg" alt="Banksy's 'Interest in People'"/>
             <credit>By: David Tooping from Toronto Ontario, https://torontoist.com/2010/05/banksy_comes_to_toronto/</credit>

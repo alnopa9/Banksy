@@ -28,7 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece is a spray painted piece and an interpretation of the original painting of Napoleon by Jacques-Louis David. </desc>
+        <desc>
+            <p>This piece is a spray painted piece and an interpretation of the original painting of Napoleon by Jacques-Louis David.</p>
+        </desc>
         <p>
             <img src="blinded_napoleon.jpg" alt="Banksy's 'Blinded Napoleon'"/>
             <credit>Sasha Bogojev was the original author for the article.</credit>

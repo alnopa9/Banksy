@@ -26,7 +26,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>The Walled Off Hotel is the latest big exhibition by Banksy with more than 20 new originals. The hotel is a joint venture between the Banksy team and a local Palestinian entrepreneur with a background in the London art world. The Walled Off Hotel mixes art, politics,  and tourism in a very effective way. On the ground floor, there are 15 new Banksys and a museum commemorating  “a hundred years since the British took control of Palestine and helped kick start a Century of confusion and conflict.” On the upper level,  there’s an exhibition hall with local Palestinian artists, among them Suleyman Mansour. The hotel in itself is a piece of political art in every aspect.</desc>
+        <desc>
+            <p>The Walled Off Hotel is the latest big exhibition by Banksy with more than 20 new originals. The hotel is a joint venture between the Banksy team and a local Palestinian entrepreneur with a background in the London art world. The Walled Off Hotel mixes art, politics,  and tourism in a very effective way. On the ground floor, there are 15 new Banksys and a museum commemorating  “a hundred years since the British took control of Palestine and helped kick start a Century of confusion and conflict.” On the upper level,  there’s an exhibition hall with local Palestinian artists, among them Suleyman Mansour. The hotel in itself is a piece of political art in every aspect.</p>
+        </desc>
         <p>
             <img src="walled_off_hotel.jpg" alt="Banksy's 'Walled Off Hotel'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>

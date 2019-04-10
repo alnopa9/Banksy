@@ -15,26 +15,25 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Policeman Searching</title>
-                    <date when="2007-03"/>
+                    <title>No Ball Games Rat</title>
+                    <date when="2008-05"/>
                     <medium type="spray_paint"/>
                     <location lat="51.5074" long="0.1278">London, UK</location>
-                    <size orientation="landscape">large</size>
+                    <size orientation="portrait">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
-                    <ref target="https://www.alamy.com/stock-photo-banksy-street-art-graffiti-showing-a-policeman-searching-a-young-girl-15279145.html">Article That Supplied Information for Markup</ref>
+                    <ref target="">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>TThis piece is related to the  ‘stop and search’ policy allowing Police to search any young people they deemed may be up to no good was met with much criticism so it is no surprise to see Banksy weigh in on the debate. 
-            Policeman Searching Girl appeared in London in 2007 showing a young girl with a teddy bear being frisked by a policeman. It has since been painted out.
-            
+        <desc>
+            <p>Banksy’s 'No Ball Games Rat' features a rat bouncing a ball below an existing ‘no ball games sign. Rats are one of the things that Banksy uses often and they have become something of a trademark. This particular rat was removed by thieves.</p>
         </desc>
         <p>
-            <img src="policeman_searching.jpg" alt="Policeman Searching Girl"/>
-            <credit>By: Dave Sayer from London, https://www.flickr.com/photos/bathmeme/564601303</credit>
+            <img src="no_ball_games_rat.jpg" alt="Banksy's 'No Ball Games Rat'"/>
+            <credit>By: Dave Parkison from London, https://www.pinterest.com/pin/478718635361556411/</credit>
         </p>
     </body>
 </root>

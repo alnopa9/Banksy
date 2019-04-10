@@ -28,8 +28,9 @@
         </fileDesc>
     </header>
     <body>
-        <desc>This piece by banksy saying I Love You is one of his most simplistic pieces and yet it is one of his most striking. The words ‘I Love You’ are shown by an hour glass 
-            with a heart shaped pile of sand trickling out of the top part. The painting however has been painted over today.</desc>
+        <desc>
+            <p>This piece by banksy saying I Love You is one of his most simplistic pieces and yet it is one of his most striking. The words ‘I Love You’ are shown by an hour glass with a heart shaped pile of sand trickling out of the top part. The painting however has been painted over today.</p>
+        </desc>
         <p>
             <img src="i_love_you.jpg" alt="Banksy's 'I Love You'"/>
             <credit>By: Ashley Graham from London, https://onthewight.com/will-banksys-no-future-artwork-be-preserved/</credit>
