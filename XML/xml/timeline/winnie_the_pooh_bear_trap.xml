@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"/>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"/>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Winnie the Pooh Bear Trap</title>
+                    <date when="2012-03"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.4545" long="2.5879">Bristol, UK</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://www.instagram.com/banksy/?hl=en">Banksy's Personal Instagram</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/16/early-stencils-in-bristol-1995-2000/1999-bristol-winnie-the-pooh-bear-trap/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>One of the works that has appeared in Banksy’s home town of Bristol is his rendition of beloved character Winnie the Pooh depicted caught in a bear trap with a pot of money on the ground rather than his usual honey.</p>
+        </desc>
+        <p>
+            <img src="winnie_the_pooh_bear_trap.jpg" alt="Banksy's 'Winnie the Pooh Bear Trap'"/>
+            <credit>By: John Kittell from London, https://banksyunofficial.com/2017/04/16/early-stencils-in-bristol-1995-2000/1999-bristol-winnie-the-pooh-bear-trap/ </credit>
+        </p>
+    </body>
+</root>

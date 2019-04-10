@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Because I'm Worthless</title>
+                    <date when="2004"/>
+                    <medium type="canvas"/>
+                    <size dimension="50 x 35" orientation="portrait">medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
+                    <edition total="250" signed="75" unsigned="175">Red</edition>
+                    <edition total="250" signed="75" unsigned="175">Pink</edition>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Banksy's classic rat wearing a peace sign necklace while holding a poster that reads "Because I'm Worthless".</p>
+        </desc>
+        <p>
+            <img src="worthless_pink.jpg" alt="Banksy's 'Because I'm Worthless (Pink)'"/>
+            <credit>https://dl.airtable.com/HdyWbGdDRaGK5RzcyJCR_full_banksy-because-im-wortthless-red-large.jpg.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
+            <img src="worthless_red.jpg" alt="Banksy's 'Because I'm Worthless (Red)'"/>
+            <credit>https://dl.airtable.com/qnERTEf0Sh2MeutS11Mr_full_Banksy-Because-I'm-Worthless500.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
+        </p>
+    </body>
+</root>

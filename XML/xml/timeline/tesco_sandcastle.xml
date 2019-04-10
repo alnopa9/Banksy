@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Tesco Sandcastle</title>
+                    <date when="2010-09"/>
+                    <medium type="spray_paint"/>
+                    <location lat="50.8543" long="0.5735">Hastings, UK</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="https://www.culture24.org.uk/art/painting-and-drawing/art82482">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>This Banksy work was found in Hastings by showing a young child building sandcastles. This in itself is not controversial, but when we notice that Tesco is printed on the sandcastles it takes on a new meaning. This is a common theme in Banksy’s work and here he seems to be indicating that the supermarket giant is taking over the country! The artwork is still visible on the Sea wall although it has been defaced by other graffitti artists.</p>
+        </desc>
+        <p>
+            <img src="tesco_sandcastle.jpg" alt="Tesco Sandcastle Banksy"/>
+            <credit>By: Eugene Kim from London, http://www.postersandprintsblog.com/postersandprintsblog/2010/8/24/new-banksy-tesco-sand-castle-in-hastings.html</credit>
+        </p>
+    </body>
+</root>

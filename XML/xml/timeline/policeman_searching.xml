@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Policeman Searching</title>
+                    <date when="2007-03"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.5074" long="0.1278">London, UK</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="https://www.alamy.com/stock-photo-banksy-street-art-graffiti-showing-a-policeman-searching-a-young-girl-15279145.html">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>This piece is related to the  ‘stop and search’ policy allowing Police to search any young people they deemed may be up to no good was met with much criticism so it is no surprise to see Banksy weigh in on the debate. Policeman Searching Girl appeared in London in 2007 showing a young girl with a teddy bear being frisked by a policeman. It has since been painted out.</p>
+        </desc>
+        <p>
+            <img src="policeman_searching.jpg" alt="Policeman Searching Girl"/>
+            <credit>By: Dave Sayer from London, https://www.flickr.com/photos/bathmeme/564601303</credit>
+        </p>
+    </body>
+</root>

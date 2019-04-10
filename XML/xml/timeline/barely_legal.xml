@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Barely Legal</title>
+                    <date when="2006-09-16"/>
+                    <medium type="installation"/>
+                    <location lat="34.0201613" long="-118.6919283">Los Angeles, USA</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/17/barely-legal-the-first-big-us-show-september-2006/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Barely Legal was the third major exhibition after Turf War and Crude Oils. It was held in a warehouse in Los Angeles on the weekend of 16 September 2006. Billed as a “three-day vandalised warehouse extravaganza”. The exhibition featured a live “elephant in a room,” painted in a pink and gold floral wallpaper pattern, which, according to leaflets handed out at the exhibition, was intended to draw attention to the issue of world poverty.  Banksy continues exploring the “modified oils” genre from the previous exhibition “Crude Oils”.</p>
+        </desc>
+        <p>
+            <img src="barely_legal.jpg" alt="Banksy's 'Barely Legal'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>

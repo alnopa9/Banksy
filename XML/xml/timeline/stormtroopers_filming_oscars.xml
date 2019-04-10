@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Stormtroopers Filming Oscars</title>
+                    <date when="2009-07"/>
+                    <medium type="spray_paint"/>
+                    <location lat="34.0522" long="-118.2437">Los Angeles, USA</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="https://www.theguardian.com/artanddesign/gallery/2011/feb/17/banksy-tags-los-angeles-pictures">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Banksy enjoys putting people and objects in unexpected scenarios and here the usually menacing stormtroopers appear somewhat comical in their setting as camera man an presenters. It seems fitting that this piece was part of a larger mural found in Hollywood – home of the movies! There is still some debate over whether or not this is in fact a Banksy or the work of another artists going by ‘Mr Brainwash’.</p>
+        </desc>
+        <p>
+            <img src="stormtroopers_filming_oscars.jpg" alt="Banksy's 'Stormtroopers Filming Oscars'"/>
+            <credit>By" Eugene Davidson from Los Angeles, https://www.theguardian.com/artanddesign/gallery/2011/feb/17/banksy-tags-los-angeles-pictures</credit>
+        </p>
+    </body>
+</root>

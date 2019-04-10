@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Dove of Peace</title>
+                    <date when="2005-02"/>
+                    <medium type="spray_paint"/>
+                    <location lat="31.705791" long="31.705791">Bethlehem, IS</location>
+                    <size orientation="landscape">medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="http://reinterpellations.web.unc.edu/about/banksy-armored-dove/banksy-armored-dove-essay/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>This piece by Banksy is on a building of Bethlehem and is often grouped with the series of works placed on the Israeli West bank wall during Banksy’s 2005 visit. It features a dove, the iconic symbol of peace, but it is dressed in a bullet proof vest with a red target on it’s chest.</p>
+        </desc>
+        <p>
+            <img src="dove_of_peace.jpg" alt="Dove of Peace Banksy"/>
+            <credit>By: Gina Ginolri from London, https://www.travelreportage.com/2012/12/09/graffiti-street-art-in-the-west-bank-banksy-separation-wall/</credit>
+        </p>
+    </body>
+</root>

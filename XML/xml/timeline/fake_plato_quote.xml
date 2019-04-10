@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Abdual Nadeem</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Fake Plato Qoute</title>
+                    <date when="2013-10"/>
+                    <medium type="spray_paint"/>
+                    <location lat="40.6782" long="-73.9442">Brooklyn, USA</location>
+                    <size orientation="landscape">medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="https://untappedcities.com/2013/10/08/banksy-in-ny-day-8-fake-plato-quote-in-greenpoint/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>This fake quote from Plato was part of Banksy’s Better Out Than In residency in New York during October 2013. It appeared in Brooklyn on Day 8. The quote appeared on a door which has since been removed completely. It was a way to get more Plato fans into the show.</p>
+        </desc>
+        <p>
+            <img src="fake_plato_quote.jpg" alt="Banksy's 'Fake Plato Quote'"/>
+            <credit>By: Julie Zezeloff from Michigan, https://www.businessinsider.com/banksy-quotes-plato-in-his-8th-work-in-new-york-city-2013-10</credit>
+        </p>
+    </body>
+</root>
