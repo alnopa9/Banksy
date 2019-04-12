@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -18,8 +18,8 @@
                     <title>Umbrella Girl</title>
                     <date when="2008-09"/>
                     <medium type="spray_paint"/>
-                    <location lat="29.9511" long="90.0715">New Orleans, USA</location>
-                    <size>large</size>
+                    <location lat="29.9511" long="-90.0715">New Orleans, USA</location>
+                    <size orientation="portrait">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://www.myartbroker.com/artist/banksy/nola/">Article That Supplied Information for Markup</ref>

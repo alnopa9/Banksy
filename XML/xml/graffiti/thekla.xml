@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <header>
         <fileDesc>
@@ -19,20 +19,20 @@
                     <date when="2003"/>
                     <medium type="spray_paint"/>
                     <location lat="51.4545" long="2.5879">Bristol, UK</location>
-                    <size>Medium</size>
+                    <size orientation="landscape">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="">https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations</ref>
-                    <edition total="1" signed="0" unsigned="1"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>This painting depicts the Grim Reaper paddling a row boat. The image is painted on the side of a boat nightclub, and has been re-painted since 2003 when it was originally done. </desc>
+        <desc>
+            <p>This painting depicts the Grim Reaper paddling a row boat. The image is painted on the side of a boat nightclub, and has been re-painted since 2003 when it was originally done.</p>
+        </desc>
         <p>
-            <img src="thekla.jpg" alt="thekla Grim Reaper"/>
-            <title>Thekla</title>
+            <img src="thekla.jpg" alt="Banksy's 'Thekla Grim Reaper'"/>
             <credit>The image was taken from wikipedia</credit>
         </p>
     </body>

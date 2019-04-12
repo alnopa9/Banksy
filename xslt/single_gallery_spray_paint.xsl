@@ -40,7 +40,7 @@
                                 <xsl:if test="descendant::sourceDesc//size[@orientation='portrait']">
                                     <div class="gallery-page-img" id="portrait">
                                         <xsl:text>&#10;</xsl:text>
-                                        <img src="../../../img/graffiti/{descendant::body//img/@src/lower-case(string()) ! tokenize(., '/')[last()]}" alt="{descendant::body//img/@alt/string()}"/>
+                                        <img src="../../../img/graffiti/{descendant::body//img/@src/string()}" alt="{descendant::body//img/@alt/string()}"/>
                                         <xsl:text>&#10;</xsl:text>
                                         <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
                                     </div>

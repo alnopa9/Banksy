@@ -21,7 +21,7 @@
                     <size dimension="41 x 56" orientation="portrait">medium</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
-                    <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
+                    <ref target="https://www.myartbroker.com/artist/banksy/turf-war/">Article that supplied markup</ref>
                     <edition total="750" signed="150" unsigned="600"/>
                 </bibl>
             </sourceDesc>
@@ -29,7 +29,7 @@
     </header>
     <body>
         <desc>
-            <p></p>
+            <p>this piece of a punk-inspired Winston Leonard Spencer-Churchill. The man who was Prime Minister of Britain during World War II and again in the first half of the 1950s, has been immortalised and reimagined by street artist Banksy as a punk rocker. Banksy has adorned Churchill’s head with a bright green strip of hair, which whilst resembling a mohican is also not too dissimilar from a piece of turf. Boiling war down to its very basics, a fight between two sides over a piece of turf. Not only is this well-known it’s also highly coveted because of its origins. As Banksy art, this piece is well-known and is regularly in demand; its relatively low edition size contributes to its desirability.</p>
         </desc>
         <p>
             <img src="turf_war.jpg" alt="Banksy's 'Turf War'"/>
