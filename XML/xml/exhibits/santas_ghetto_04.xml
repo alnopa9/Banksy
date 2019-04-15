@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Santa's Ghetto 04</title>
+                    <date when="2004-12"/>
+                    <medium type="installation"/>
+                    <location lat="51.5127939" long="-0.1310406">London, UK</location>
+                    <size orientation="portrait">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/tag/banksy-santas-ghetto-2004/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>The 2004 Santa’s Ghetto was held at Charing Cross Road. Two modified oils. Banksy’s “counterfeited” ten pound notes with Lady Di see the light.</p>
+        </desc>
+        <p>
+            <img src="santas_ghetto_04_01.jpg" alt="Banksy's 'Santa's Ghetto '04 01'"/>
+            <img src="santas_ghetto_04_02.jpg" alt="Banksy's 'Santa's Ghetto '04 02'"/>
+            <img src="santas_ghetto_04_03.jpg" alt="Banksy's 'Santa's Ghetto '04 03'"/>
+            <img src="santas_ghetto_04_04.jpg" alt="Banksy's 'Santa's Ghetto '04 04'"/>
+            <img src="santas_ghetto_04_05.jpg" alt="Banksy's 'Santa's Ghetto '04 05'"/>
+            <img src="santas_ghetto_04_06.jpg" alt="Banksy's 'Santa's Ghetto '04 06'"/>
+            <img src="santas_ghetto_04_07.jpg" alt="Banksy's 'Santa's Ghetto '04 07'"/>
+            <img src="santas_ghetto_04_08.jpg" alt="Banksy's 'Santa's Ghetto '04 08'"/>
+            <img src="santas_ghetto_04_09.jpg" alt="Banksy's 'Santa's Ghetto '04 09'"/>
+            <img src="santas_ghetto_04_10.jpg" alt="Banksy's 'Santa's Ghetto '04 10'"/>
+            <img src="santas_ghetto_04_11.jpg" alt="Banksy's 'Santa's Ghetto '04 11'"/>
+            <img src="santas_ghetto_04_12.jpg" alt="Banksy's 'Santa's Ghetto '04 02'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>

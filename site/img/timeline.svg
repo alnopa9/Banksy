@@ -3,8 +3,8 @@
 <desc>Banksy Works Timeline</desc>
 <g transform="translate(120)">
 	<line x1="0" y1="30" x2="0" y2="4530" stroke="gray" stroke-width="1"/>
-	<g class="year">
-		<text x="-45" y="30" fill="black">1997</text>
+	<g class="year" id="svg_1997">
+		<text x="-45" y="30" fill="grey">1997</text>
 		<circle r="3" cx="0" cy="25" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/lenin_punk.html" xlink:title="Banksy's 'Lenin Punk'" target="_blank">
@@ -12,8 +12,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="80" fill="black">1999</text>
+	<g class="year" id="svg_1999">
+		<text x="-45" y="80" fill="grey">1999</text>
 		<circle r="3" cx="0" cy="75" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/the_mild_mild_west.html" xlink:title="Banksy's 'The Mild Mild West'" target="_blank">
@@ -21,8 +21,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="130" fill="black">2000</text>
+	<g class="year" id="svg_2000">
+		<text x="-45" y="130" fill="grey">2000</text>
 		<circle r="3" cx="0" cy="125" fill="red"/>
 		<g class="works">
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Severnshed'" target="_blank">
@@ -30,15 +30,15 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="180" fill="black">2001</text>
+	<g class="year" id="svg_2001">
+		<text x="-45" y="180" fill="grey">2001</text>
 		<circle r="3" cx="0" cy="175" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/twin_towers.html" xlink:title="Banksy's 'Twin Towers'" target="_blank">
 				<text x="10" y="205" fill="red">Twin Towers</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Love Is In The Air (CCCP)'" target="_blank">
-				<text x="10" y="230" fill="gray">Love Is In The Air (CCCP)</text>
+			<a xlink:href="gallery_pages/paintings/love_is_in_the_air_(cccp).html" xlink:title="Banksy's 'Love Is In The Air (CCCP)'" target="_blank">
+				<text x="10" y="230" fill="darkSlateGrey">Love Is In The Air (CCCP)</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Banging Your Head Against A Brick Wall'" target="_blank">
 				<text x="10" y="255" fill="black">Banging Your Head Against A Brick Wall</text>
@@ -48,8 +48,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="305" fill="black">2002</text>
+	<g class="year" id="svg_2002">
+		<text x="-45" y="305" fill="grey">2002</text>
 		<circle r="3" cx="0" cy="300" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/choose_your_weapon.html" xlink:title="Banksy's 'Choose Your Weapon'" target="_blank">
@@ -81,8 +81,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="555" fill="black">2003</text>
+	<g class="year" id="svg_2003">
+		<text x="-45" y="555" fill="grey">2003</text>
 		<circle r="3" cx="0" cy="550" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/bomb_hugger.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
@@ -91,35 +91,35 @@
 			<a xlink:href="gallery_pages/graffiti/ice_cream_bomb.html" xlink:title="Banksy's 'Ice Cream Bomb'" target="_blank">
 				<text x="10" y="605" fill="red">Ice Cream Bomb</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
-				<text x="10" y="630" fill="gray">Bomb Hugger</text>
+			<a xlink:href="gallery_pages/paintings/bomb_hugger.html" xlink:title="Banksy's 'Bomb Hugger'" target="_blank">
+				<text x="10" y="630" fill="darkSlateGrey">Bomb Hugger</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Bomb Middle England'" target="_blank">
-				<text x="10" y="655" fill="gray">Bomb Middle England</text>
+			<a xlink:href="gallery_pages/paintings/bomb_middle_england.html" xlink:title="Banksy's 'Bomb Middle England'" target="_blank">
+				<text x="10" y="655" fill="darkSlateGrey">Bomb Middle England</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Flying Copper'" target="_blank">
-				<text x="10" y="680" fill="gray">Flying Copper</text>
+			<a xlink:href="gallery_pages/paintings/flying_copper.html" xlink:title="Banksy's 'Flying Copper'" target="_blank">
+				<text x="10" y="680" fill="darkSlateGrey">Flying Copper</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Golf Sale'" target="_blank">
-				<text x="10" y="705" fill="gray">Golf Sale</text>
+			<a xlink:href="gallery_pages/paintings/golf_sale.html" xlink:title="Banksy's 'Golf Sale'" target="_blank">
+				<text x="10" y="705" fill="darkSlateGrey">Golf Sale</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'HMV'" target="_blank">
-				<text x="10" y="730" fill="gray">HMV</text>
+			<a xlink:href="gallery_pages/paintings/hmv.html" xlink:title="Banksy's 'HMV'" target="_blank">
+				<text x="10" y="730" fill="darkSlateGrey">HMV</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Happy Choppers'" target="_blank">
-				<text x="10" y="755" fill="gray">Happy Choppers</text>
+			<a xlink:href="gallery_pages/paintings/happy_choppers.html" xlink:title="Banksy's 'Happy Choppers'" target="_blank">
+				<text x="10" y="755" fill="darkSlateGrey">Happy Choppers</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Love Is In The Air'" target="_blank">
-				<text x="10" y="780" fill="gray">Love Is In The Air</text>
+			<a xlink:href="gallery_pages/paintings/love_is_in_the_air.html" xlink:title="Banksy's 'Love Is In The Air'" target="_blank">
+				<text x="10" y="780" fill="darkSlateGrey">Love Is In The Air</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Monkey Queen'" target="_blank">
-				<text x="10" y="805" fill="gray">Monkey Queen</text>
+			<a xlink:href="gallery_pages/paintings/monkey_queen.html" xlink:title="Banksy's 'Monkey Queen'" target="_blank">
+				<text x="10" y="805" fill="darkSlateGrey">Monkey Queen</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Queen Victoria'" target="_blank">
-				<text x="10" y="830" fill="gray">Queen Victoria</text>
+			<a xlink:href="gallery_pages/paintings/queen_victoria.html" xlink:title="Banksy's 'Queen Victoria'" target="_blank">
+				<text x="10" y="830" fill="darkSlateGrey">Queen Victoria</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Turf War'" target="_blank">
-				<text x="10" y="855" fill="gray">Turf War</text>
+			<a xlink:href="gallery_pages/paintings/turf_war.html" xlink:title="Banksy's 'Turf War'" target="_blank">
+				<text x="10" y="855" fill="darkSlateGrey">Turf War</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Santa's Ghetto 03'" target="_blank">
 				<text x="10" y="880" fill="black">Santa's Ghetto 03</text>
@@ -132,8 +132,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="955" fill="black">2004</text>
+	<g class="year" id="svg_2004">
+		<text x="-45" y="955" fill="grey">2004</text>
 		<circle r="3" cx="0" cy="950" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/because_im_worthless.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
@@ -145,32 +145,32 @@
 			<a xlink:href="gallery_pages/graffiti/napalm_girl.html" xlink:title="Banksy's 'Napalm Girl'" target="_blank">
 				<text x="10" y="1030" fill="red">Napalm Girl</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Barcode'" target="_blank">
-				<text x="10" y="1055" fill="gray">Barcode</text>
+			<a xlink:href="gallery_pages/paintings/barcode.html" xlink:title="Banksy's 'Barcode'" target="_blank">
+				<text x="10" y="1055" fill="darkSlateGrey">Barcode</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
-				<text x="10" y="1080" fill="gray">Because I'm Worthless</text>
+			<a xlink:href="gallery_pages/paintings/because_im_worthless.html" xlink:title="Banksy's 'Because I'm Worthless'" target="_blank">
+				<text x="10" y="1080" fill="darkSlateGrey">Because I'm Worthless</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Christ with Shopping Bags'" target="_blank">
-				<text x="10" y="1105" fill="gray">Christ with Shopping Bags</text>
+			<a xlink:href="gallery_pages/paintings/christ_with_shopping_bags.html" xlink:title="Banksy's 'Christ with Shopping Bags'" target="_blank">
+				<text x="10" y="1105" fill="darkSlateGrey">Christ with Shopping Bags</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Di Faced Tenners'" target="_blank">
-				<text x="10" y="1130" fill="gray">Di Faced Tenners</text>
+			<a xlink:href="gallery_pages/paintings/di_faced_tenners.html" xlink:title="Banksy's 'Di Faced Tenners'" target="_blank">
+				<text x="10" y="1130" fill="darkSlateGrey">Di Faced Tenners</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Girl With Balloon'" target="_blank">
-				<text x="10" y="1155" fill="gray">Girl With Balloon</text>
+			<a xlink:href="gallery_pages/paintings/girl_with_balloon.html" xlink:title="Banksy's 'Girl With Balloon'" target="_blank">
+				<text x="10" y="1155" fill="darkSlateGrey">Girl With Balloon</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'I Fought The Law'" target="_blank">
-				<text x="10" y="1180" fill="gray">I Fought The Law</text>
+			<a xlink:href="gallery_pages/paintings/i_fought_the_law.html" xlink:title="Banksy's 'I Fought The Law'" target="_blank">
+				<text x="10" y="1180" fill="darkSlateGrey">I Fought The Law</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Love Rat'" target="_blank">
-				<text x="10" y="1205" fill="gray">Love Rat</text>
+			<a xlink:href="gallery_pages/paintings/love_rat.html" xlink:title="Banksy's 'Love Rat'" target="_blank">
+				<text x="10" y="1205" fill="darkSlateGrey">Love Rat</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Napalm'" target="_blank">
-				<text x="10" y="1230" fill="gray">Napalm</text>
+			<a xlink:href="gallery_pages/paintings/napalm.html" xlink:title="Banksy's 'Napalm'" target="_blank">
+				<text x="10" y="1230" fill="darkSlateGrey">Napalm</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Pulp Fiction'" target="_blank">
-				<text x="10" y="1255" fill="gray">Pulp Fiction</text>
+			<a xlink:href="gallery_pages/paintings/pulp_fiction.html" xlink:title="Banksy's 'Pulp Fiction'" target="_blank">
+				<text x="10" y="1255" fill="darkSlateGrey">Pulp Fiction</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Cut It Out'" target="_blank">
 				<text x="10" y="1280" fill="black">Cut It Out</text>
@@ -180,8 +180,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="1330" fill="black">2005</text>
+	<g class="year" id="svg_2005">
+		<text x="-45" y="1330" fill="grey">2005</text>
 		<circle r="3" cx="0" cy="1325" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/dove_of_peace.html" xlink:title="Banksy's 'Dove of Peace'" target="_blank">
@@ -205,14 +205,14 @@
 			<a xlink:href="gallery_pages/graffiti/think_tank.html" xlink:title="Banksy's 'Think Tank'" target="_blank">
 				<text x="10" y="1505" fill="red">Think Tank</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'CND Soldiers'" target="_blank">
-				<text x="10" y="1530" fill="gray">CND Soldiers</text>
+			<a xlink:href="gallery_pages/paintings/cnd_soldiers.html" xlink:title="Banksy's 'CND Soldiers'" target="_blank">
+				<text x="10" y="1530" fill="darkSlateGrey">CND Soldiers</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Grim Reaper'" target="_blank">
-				<text x="10" y="1555" fill="gray">Grim Reaper</text>
+			<a xlink:href="gallery_pages/paintings/grim_reaper.html" xlink:title="Banksy's 'Grim Reaper'" target="_blank">
+				<text x="10" y="1555" fill="darkSlateGrey">Grim Reaper</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Kate Moss'" target="_blank">
-				<text x="10" y="1580" fill="gray">Kate Moss</text>
+			<a xlink:href="gallery_pages/paintings/kate_moss.html" xlink:title="Banksy's 'Kate Moss'" target="_blank">
+				<text x="10" y="1580" fill="darkSlateGrey">Kate Moss</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Crude Oils'" target="_blank">
 				<text x="10" y="1605" fill="black">Crude Oils</text>
@@ -225,8 +225,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="1680" fill="black">2006</text>
+	<g class="year" id="svg_2006">
+		<text x="-45" y="1680" fill="grey">2006</text>
 		<circle r="3" cx="0" cy="1675" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/gangsta_rat.html" xlink:title="Banksy's 'Gangsta Rat'" target="_blank">
@@ -244,17 +244,17 @@
 			<a xlink:href="gallery_pages/graffiti/well_hung_lover.html" xlink:title="Banksy's 'Well, Hung Lover'" target="_blank">
 				<text x="10" y="1805" fill="red">Well, Hung Lover</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Applause'" target="_blank">
-				<text x="10" y="1830" fill="gray">Applause</text>
+			<a xlink:href="gallery_pages/paintings/applause.html" xlink:title="Banksy's 'Applause'" target="_blank">
+				<text x="10" y="1830" fill="darkSlateGrey">Applause</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Festival'" target="_blank">
-				<text x="10" y="1855" fill="gray">Festival</text>
+			<a xlink:href="gallery_pages/paintings/festival.html" xlink:title="Banksy's 'Festival'" target="_blank">
+				<text x="10" y="1855" fill="darkSlateGrey">Festival</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Flags'" target="_blank">
-				<text x="10" y="1880" fill="gray">Flags</text>
+			<a xlink:href="gallery_pages/paintings/flags.html" xlink:title="Banksy's 'Flags'" target="_blank">
+				<text x="10" y="1880" fill="darkSlateGrey">Flags</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Grannies'" target="_blank">
-				<text x="10" y="1905" fill="gray">Grannies</text>
+			<a xlink:href="gallery_pages/paintings/grannies.html" xlink:title="Banksy's 'Grannies'" target="_blank">
+				<text x="10" y="1905" fill="darkSlateGrey">Grannies</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Barely Legal'" target="_blank">
 				<text x="10" y="1930" fill="black">Barely Legal</text>
@@ -264,8 +264,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="1980" fill="black">2007</text>
+	<g class="year" id="svg_2007">
+		<text x="-45" y="1980" fill="grey">2007</text>
 		<circle r="3" cx="0" cy="1975" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/cash_machine_girl.html" xlink:title="Banksy's 'Cash Machine Girl'" target="_blank">
@@ -295,8 +295,8 @@
 			<a xlink:href="gallery_pages/graffiti/yellow_lines_flower_painter.html" xlink:title="Banksy's 'Yellow Lines Flower Painter'" target="_blank">
 				<text x="10" y="2205" fill="red">Yellow Lines Flower Painter</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Trolleys'" target="_blank">
-				<text x="10" y="2230" fill="gray">Trolleys</text>
+			<a xlink:href="gallery_pages/paintings/trolleys.html" xlink:title="Banksy's 'Trolleys'" target="_blank">
+				<text x="10" y="2230" fill="darkSlateGrey">Trolleys</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Santa's Ghetto 07'" target="_blank">
 				<text x="10" y="2255" fill="black">Santa's Ghetto 07</text>
@@ -306,8 +306,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="2305" fill="black">2008</text>
+	<g class="year" id="svg_2008">
+		<text x="-45" y="2305" fill="grey">2008</text>
 		<circle r="3" cx="0" cy="2300" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/abraham_lincoln.html" xlink:title="Banksy's 'Abraham Lincoln'" target="_blank">
@@ -346,8 +346,8 @@
 			<a xlink:href="gallery_pages/graffiti/very_little_helps.html" xlink:title="Banksy's 'Very Little Helps'" target="_blank">
 				<text x="10" y="2605" fill="red">Very Little Helps</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'NOLA'" target="_blank">
-				<text x="10" y="2630" fill="gray">NOLA</text>
+			<a xlink:href="gallery_pages/paintings/nola.html" xlink:title="Banksy's 'NOLA'" target="_blank">
+				<text x="10" y="2630" fill="darkSlateGrey">NOLA</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'The Cans Festival'" target="_blank">
 				<text x="10" y="2655" fill="black">The Cans Festival</text>
@@ -357,8 +357,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="2705" fill="black">2009</text>
+	<g class="year" id="svg_2009">
+		<text x="-45" y="2705" fill="grey">2009</text>
 		<circle r="3" cx="0" cy="2700" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/dont_forget_your_scarf.html" xlink:title="Banksy's 'Don't Forget your Scarf'" target="_blank">
@@ -373,19 +373,19 @@
 			<a xlink:href="gallery_pages/graffiti/thug_for_life_bunny.html" xlink:title="Banksy's 'Thug for Life Bunny'" target="_blank">
 				<text x="10" y="2805" fill="red">Thug for Life Bunny</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Donuts'" target="_blank">
-				<text x="10" y="2830" fill="gray">Donuts</text>
+			<a xlink:href="gallery_pages/paintings/donuts.html" xlink:title="Banksy's 'Donuts'" target="_blank">
+				<text x="10" y="2830" fill="darkSlateGrey">Donuts</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'No Ball Games'" target="_blank">
-				<text x="10" y="2855" fill="gray">No Ball Games</text>
+			<a xlink:href="gallery_pages/paintings/no_ball_games.html" xlink:title="Banksy's 'No Ball Games'" target="_blank">
+				<text x="10" y="2855" fill="darkSlateGrey">No Ball Games</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'Banksy VS Bristol'" target="_blank">
 				<text x="10" y="2880" fill="black">Banksy VS Bristol</text>
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="2905" fill="black">2010</text>
+	<g class="year" id="svg_2010">
+		<text x="-45" y="2905" fill="grey">2010</text>
 		<circle r="3" cx="0" cy="2900" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/cameraman_and_flower.html" xlink:title="Banksy's 'Cameraman and Flower'" target="_blank">
@@ -426,8 +426,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="3230" fill="black">2011</text>
+	<g class="year" id="svg_2011">
+		<text x="-45" y="3230" fill="grey">2011</text>
 		<circle r="3" cx="0" cy="3225" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/baby_carriage.html" xlink:title="Banksy's 'Baby Carriage'" target="_blank">
@@ -465,8 +465,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="3530" fill="black">2012</text>
+	<g class="year" id="svg_2012">
+		<text x="-45" y="3530" fill="grey">2012</text>
 		<circle r="3" cx="0" cy="3525" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/fridge_kite.html" xlink:title="Banksy's 'Fridge Kite'" target="_blank">
@@ -484,13 +484,13 @@
 			<a xlink:href="gallery_pages/graffiti/winnie_the_pooh_bear_trap.html" xlink:title="Banksy's 'Winnie the Pooh Bear Trap'" target="_blank">
 				<text x="10" y="3655" fill="red">Winnie the Pooh Bear Trap</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Copyright'" target="_blank">
-				<text x="10" y="3680" fill="gray">Copyright</text>
+			<a xlink:href="gallery_pages/paintings/copyright.html" xlink:title="Banksy's 'Copyright'" target="_blank">
+				<text x="10" y="3680" fill="darkSlateGrey">Copyright</text>
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="3705" fill="black">2013</text>
+	<g class="year" id="svg_2013">
+		<text x="-45" y="3705" fill="grey">2013</text>
 		<circle r="3" cx="0" cy="3700" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/bronx_zoo.html" xlink:title="Banksy's 'Bronx Zoo'" target="_blank">
@@ -516,8 +516,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="3905" fill="black">2014</text>
+	<g class="year" id="svg_2014">
+		<text x="-45" y="3905" fill="grey">2014</text>
 		<circle r="3" cx="0" cy="3900" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/drunk_angel.html" xlink:title="Banksy's 'Drunk Angel'" target="_blank">
@@ -529,13 +529,13 @@
 			<a xlink:href="gallery_pages/graffiti/mobile_phone_lovers.html" xlink:title="Banksy's 'Mobile Phone Lovers'" target="_blank">
 				<text x="10" y="3980" fill="red">Mobile Phone Lovers</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Dumbo'" target="_blank">
-				<text x="10" y="4005" fill="gray">Dumbo</text>
+			<a xlink:href="gallery_pages/paintings/dumbo.html" xlink:title="Banksy's 'Dumbo'" target="_blank">
+				<text x="10" y="4005" fill="darkSlateGrey">Dumbo</text>
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="4030" fill="black">2015</text>
+	<g class="year" id="svg_2015">
+		<text x="-45" y="4030" fill="grey">2015</text>
 		<circle r="3" cx="0" cy="4025" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/crying_woman.html" xlink:title="Banksy's 'Crying Woman'" target="_blank">
@@ -555,8 +555,8 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="4180" fill="black">2016</text>
+	<g class="year" id="svg_2016">
+		<text x="-45" y="4180" fill="grey">2016</text>
 		<circle r="3" cx="0" cy="4175" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/burning_tyre.html" xlink:title="Banksy's 'Burning Tyre'" target="_blank">
@@ -564,23 +564,23 @@
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="4230" fill="black">2017</text>
+	<g class="year" id="svg_2017">
+		<text x="-45" y="4230" fill="grey">2017</text>
 		<circle r="3" cx="0" cy="4225" fill="red"/>
 		<g class="works">
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Civilian Drone STrike'" target="_blank">
-				<text x="10" y="4255" fill="gray">Civilian Drone STrike</text>
+			<a xlink:href="gallery_pages/paintings/civilian_drone_strike.html" xlink:title="Banksy's 'Civilian Drone Strike'" target="_blank">
+				<text x="10" y="4255" fill="darkSlateGrey">Civilian Drone Strike</text>
 			</a>
-			<a xlink:href="paintings.html" xlink:title="Banksy's 'Israeli-Palestinian Pillow Fight'" target="_blank">
-				<text x="10" y="4280" fill="gray">Israeli-Palestinian Pillow Fight</text>
+			<a xlink:href="gallery_pages/paintings/israeli_palestinian_pillow_fight.html" xlink:title="Banksy's 'Israeli-Palestinian Pillow Fight'" target="_blank">
+				<text x="10" y="4280" fill="darkSlateGrey">Israeli-Palestinian Pillow Fight</text>
 			</a>
 			<a xlink:href="miscellaneous.html" xlink:title="Banksy's 'The Walled Off Hotel'" target="_blank">
 				<text x="10" y="4305" fill="black">The Walled Off Hotel</text>
 			</a>
 		</g>
 	</g>
-	<g class="year">
-		<text x="-45" y="4330" fill="black">2018</text>
+	<g class="year" id="svg_2018">
+		<text x="-45" y="4330" fill="grey">2018</text>
 		<circle r="3" cx="0" cy="4325" fill="red"/>
 		<g class="works">
 			<a xlink:href="gallery_pages/graffiti/blinded_napoleon.html" xlink:title="Banksy's 'Blinded Napoleon'" target="_blank">

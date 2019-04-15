@@ -23,9 +23,9 @@
     </xsl:template>
     <xsl:template match="descendant::group/child::year">
         <xsl:text>&#10;&#9;</xsl:text>
-        <g class="year">
+        <g class="year" id="svg_{current()/text()}">
             <xsl:text>&#10;&#9;&#9;</xsl:text>
-            <text x="-45" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}" fill="black">
+            <text x="-45" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}" fill="grey">
                 <xsl:apply-templates select="current()/text()"/>
             </text>
             <xsl:text>&#10;&#9;&#9;</xsl:text>
@@ -51,9 +51,9 @@
                     </a>
                 </xsl:when>
                 <xsl:when test="@class='canvas'">
-                    <a xlink:href='paintings.html' xlink:title="Banksy's '{current()}'" target="_blank">
+                    <a xlink:href='gallery_pages/paintings/{lower-case(current()/replace(., "[&#39;]|[&#44;]", "") ! translate(., "-", "_") ! tokenize(., " ") => string-join("_"))}.html' xlink:title="Banksy's '{current()}'" target="_blank">
                         <xsl:text>&#10;&#9;&#9;&#9;&#9;</xsl:text>
-                        <text x="10" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}" fill="gray">
+                        <text x="10" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}" fill="darkSlateGrey">
                             <xsl:apply-templates select="current()/string()"/>
                         </text>
                         <xsl:text>&#10;&#9;&#9;&#9;</xsl:text>

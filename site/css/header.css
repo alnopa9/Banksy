@@ -47,9 +47,17 @@ a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5
 svg a:hover{fill: red}
 svg a{fill: black}
 svg{overflow: visible; font-size: 1em;}
-.left-svg, .right-svg{display: flex; overflow-y: scroll; flex-direction: column; height: 100%;}
-.left-svg{width: 40%; order: 1}
-.right-svg{width: 60%; order: 2}
+.left-side-svg, .right-svg{display: flex; flex-direction: column;}
+.left-side-svg{width: 40%; order: 1; height: 100%;}
+.left-svg{overflow-y: scroll; align-items: flex-start; text-align: left;}
+.right-svg{width: 60%; order: 2; height: 100%; overflow-y: scroll;}
+.table-counter{display: flex; flex-direction: row; width: 100%; justify-content: center;}
+#year-graph tr[id] {display: none; width: 100%;}
+#year-graph tr[id="1997"] {display: table-row;}
+.year-span{color: grey}
+.graffiti-span{color: red}
+.prints-span{color: darkSlateGrey}
+.misc-span{color: black}
 .svg{display: flex; flex-direction: row; height: 100%; flex: 5; width: 100%; justify-content: center; align-items: flex-start; flex-wrap: wrap; overflow: hidden;}
 .container{display: flex; flex-direction: column; justify-content: flex-start; align-items: center; width: 32%; height: 100%; flex-wrap: wrap;text-align: left;}
 .bio {width: 85%;}

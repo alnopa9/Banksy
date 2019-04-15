@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Peace Is Though</title>
+                    <date when="2002-03"/>
+                    <medium type="installation"/>
+                    <location lat="55.8584979" long="-4.2586479">Bristol, UK</location>
+                    <size orientation="portrait">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/16/peace-is-though-glasgow-march-2002/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>In March 2002 Banksy heads up to Glasgow to participate in an exhibition at The Arches, a cafe/restaurant. Very little documentation remains.</p>
+        </desc>
+        <p>
+            <img src="peace_is_though_01.jpg" alt="Banksy's 'Peace Is Though 01'"/>
+            <img src="peace_is_though_02.jpg" alt="Banksy's 'Peace Is Though 02'"/>
+            <img src="peace_is_though_03.jpg" alt="Banksy's 'Peace Is Though 03'"/>
+            <img src="peace_is_though_04.jpg" alt="Banksy's 'Peace Is Though 04'"/>
+            <img src="peace_is_though_05.jpg" alt="Banksy's 'Peace Is Though 05'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>

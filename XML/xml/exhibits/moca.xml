@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>MOCA</title>
+                    <date when="2011-04"/>
+                    <medium type="installation"/>
+                    <location lat="34.0533504" long="-118.2529103">Los Angeles, USA</location>
+                    <size orientation="portrait">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/17/moca-los-angeles-april-2011/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Museum of Contemporary Art Los Angeles, MOCA, held a collective Street Art exhibition in April 2011 where Banksy participated with a room full of versions of old work but also some new stuff. The “Stained window” with the graffiti boy praying was a collaboration between Banksy and a local art school.</p>
+        </desc>
+        <p>
+            <img src="moca_01.jpg" alt="Banksy's 'MOCA 01'"/>
+            <img src="moca_02.jpg" alt="Banksy's 'MOCA 02'"/>
+            <img src="moca_03.jpg" alt="Banksy's 'MOCA 03'"/>
+            <img src="moca_04.jpg" alt="Banksy's 'MOCA 04'"/>
+            <img src="moca_05.jpg" alt="Banksy's 'MOCA 05'"/>
+            <img src="moca_06.jpg" alt="Banksy's 'MOCA 06'"/>
+            <img src="moca_07.jpg" alt="Banksy's 'MOCA 07'"/>
+            <img src="moca_08.jpg" alt="Banksy's 'MOCA 08'"/>
+            <img src="moca_09.jpg" alt="Banksy's 'MOCA 09'"/>
+            <img src="moca_10.jpg" alt="Banksy's 'MOCA 10'"/>
+            <img src="moca_21.jpg" alt="Banksy's 'MOCA 21'"/>
+            <img src="moca_22.jpg" alt="Banksy's 'MOCA 22'"/>
+            <img src="moca_23.jpg" alt="Banksy's 'MOCA 23'"/>
+            <img src="moca_24.jpg" alt="Banksy's 'MOCA 24'"/>
+            <img src="moca_25.jpg" alt="Banksy's 'MOCA 25'"/>
+            <img src="moca_26.jpg" alt="Banksy's 'MOCA 26'"/>
+            <img src="moca_27.jpg" alt="Banksy's 'MOCA 27'"/>
+            <img src="moca_28.jpg" alt="Banksy's 'MOCA 28'"/>
+            <img src="moca_29.jpg" alt="Banksy's 'MOCA 29'"/>
+            <img src="moca_20.jpg" alt="Banksy's 'MOCA 20'"/>
+            <img src="moca_21.jpg" alt="Banksy's 'MOCA 21'"/>
+            <img src="moca_22.jpg" alt="Banksy's 'MOCA 22'"/>
+            <img src="moca_23.jpg" alt="Banksy's 'MOCA 23'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>

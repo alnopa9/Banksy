@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Turf War</title>
+                    <date when="2003-07-18"/>
+                    <medium type="installation"/>
+                    <location lat="51.528308" long="-0.3817765">London, UK</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/17/turf-war-london-july-18-21-2003/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Opened on July 18 and lasted for three days. Turf War is Banksy’s first major exhibition where he displays a great variety of different techniques and styles. Marks the beginning of a string of brilliant exhibitions with a periodicity of approximately two years. Turf War in 2003, Crude Oils, 2005, Barely Legal, 2006, Banksy vs Bristol Museum 2009, etc. The live cows and sheep are transported from the Somerset farm. There is also a section of “modified oils”, the most prominent being “Suicide bombers just need a hug”. The London art critics call the exhibitions one of the most interesting of the year.</p>
+        </desc>
+        <p>
+            <img src="turf_war_01.jpg" alt="Banksy's 'Turf War 01'"/>
+            <img src="turf_war_02.jpg" alt="Banksy's 'Turf War 02'"/>
+            <img src="turf_war_03.jpg" alt="Banksy's 'Turf War 03'"/>
+            <img src="turf_war_04.jpg" alt="Banksy's 'Turf War 04'"/>
+            <img src="turf_war_05.jpg" alt="Banksy's 'Turf War 05'"/>
+            <img src="turf_war_06.jpg" alt="Banksy's 'Turf War 06'"/>
+            <img src="turf_war_07.jpg" alt="Banksy's 'Turf War 07'"/>
+            <img src="turf_war_08.jpg" alt="Banksy's 'Turf War 08'"/>
+            <img src="turf_war_09.jpg" alt="Banksy's 'Turf War 09'"/>
+            <img src="turf_war_10.jpg" alt="Banksy's 'Turf War 10'"/>
+            <img src="turf_war_11.jpg" alt="Banksy's 'Turf War 11'"/>
+            <img src="turf_war_12.jpg" alt="Banksy's 'Turf War 12'"/>
+            <img src="turf_war_13.jpg" alt="Banksy's 'Turf War 13'"/>
+            <img src="turf_war_14.jpg" alt="Banksy's 'Turf War 14'"/>
+            <img src="turf_war_15.jpg" alt="Banksy's 'Turf War 15'"/>
+            <img src="turf_war_16.jpg" alt="Banksy's 'Turf War 16'"/>
+            <img src="turf_war_17.jpg" alt="Banksy's 'Turf War 17'"/>
+            <img src="turf_war_18.jpg" alt="Banksy's 'Turf War 18'"/>
+            <img src="turf_war_19.jpg" alt="Banksy's 'Turf War 19'"/>
+            <img src="turf_war_20.jpg" alt="Banksy's 'Turf War 20'"/>
+            <img src="turf_war_21.jpg" alt="Banksy's 'Turf War 21'"/>
+            <img src="turf_war_22.jpg" alt="Banksy's 'Turf War 22'"/>
+            <img src="turf_war_23.jpg" alt="Banksy's 'Turf War 23'"/>
+            <img src="turf_war_24.jpg" alt="Banksy's 'Turf War 24'"/>
+            <img src="turf_war_25.jpg" alt="Banksy's 'Turf War 25'"/>
+            <img src="turf_war_26.jpg" alt="Banksy's 'Turf War 26'"/>
+            <img src="turf_war_27.jpg" alt="Banksy's 'Turf War 27'"/>
+            <img src="turf_war_28.jpg" alt="Banksy's 'Turf War 28'"/>
+            <img src="turf_war_29.jpg" alt="Banksy's 'Turf War 29'"/>
+            <img src="turf_war_30.jpg" alt="Banksy's 'Turf War 30'"/>
+            <img src="turf_war_31.jpg" alt="Banksy's 'Turf War 31'"/>
+            <img src="turf_war_32.jpg" alt="Banksy's 'Turf War 32'"/>
+            <img src="turf_war_33.jpg" alt="Banksy's 'Turf War 33'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>
