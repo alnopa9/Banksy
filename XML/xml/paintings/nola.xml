@@ -24,7 +24,7 @@
                     <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
                     <edition total="63" signed="63" unsigned="0">Grey</edition>
                     <edition total="32" signed="32" unsigned="0">Orange</edition>
-                    <edition>Pink and Yellow Rain</edition>
+                    <edition>Pink and Yellow</edition>
                     <edition total="289" signed="289" unsigned="0">White</edition>
                     <edition total="31" signed="31" unsigned="0">Yellow</edition>
                 </bibl>
@@ -40,7 +40,7 @@
             <credit>https://dl.airtable.com/ItmSpNLCSmGduE6p7Gqu_full_banksy-nola-grey-rain.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
             <img src="nola_orange.jpg" alt="Banksy's 'NOLA (Orange)'"/>
             <credit>https://dl.airtable.com/UDhFMSF7SewoE50XhQu4_full_banksy-print-nola--orange-32.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
-            <img src="nola_pink_and_yellow_rain.jpg" alt="Banksy's 'NOLA (Pink and Yellow Rain)'"/>
+            <img src="nola_pink_and_yellow_rain.jpg" alt="Banksy's 'NOLA (Pink and Yellow)'"/>
             <credit>https://dl.airtable.com/KI53WU7iTfaevZXvY6XD_full_2017_CKS_13879_0217_000.jpg%3Fheight%3D400</credit>
             <img src="nola_white.jpg" alt="Banksy's 'NOLA (White)'"/>
             <credit>https://dl.airtable.com/f3pm6eQPRJqE53u8948x_full_banksy_nola_large.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>

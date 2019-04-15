@@ -22,7 +22,7 @@
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
-                    <edition total="50" signed="50" unsigned="0"/>
+                    <edition total="50" signed="50" unsigned="0">Original</edition>
                     <edition total="20" signed="20" unsigned="0">Apricot/Gold</edition>
                     <edition total="20" signed="20" unsigned="0">Blue/Grey</edition>
                     <edition total="20" signed="20" unsigned="0">Green</edition>
@@ -37,7 +37,7 @@
             <p></p>
         </desc>
         <p>
-            <img src="kate_moss.jpg" alt="Banksy's 'Kate Moss'"/>
+            <img src="kate_moss.jpg" alt="Banksy's 'Kate Moss (Original)'"/>
             <credit>https://dl.airtable.com/CNr8GuSRQou3FNjpq8fe_full_banksy-kate-moss-original-colourway.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
             <img src="kate_moss_apricot_gold.jpg" alt="Banksy's 'Kate Moss (Apricot/Gold)'"/>
             <credit>https://dl.airtable.com/1AUELxZ8Rs6XPHFte97o_full_banksy-katemoss-apricot.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>

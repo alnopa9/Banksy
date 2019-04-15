@@ -11,6 +11,7 @@
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
                 <link rel="stylesheet" href="../../../css/header.css"/>
                 <link rel="icon" href="../../../img/background/SSI/icon.png"/>
+                <script src="../javascript/paintings_array.js">/**/</script>
                 <title>Banksy | Prints</title>
             </head>
             <body>
@@ -48,8 +49,15 @@
     </xsl:template>
     <xsl:template match="descendant::title" mode="column1">
         <div class="gallery-hover">
-            <a href="gallery_pages/paintings/{following::body//img[1]/@src/replace(., '\.jpg', '')}.html" target="_blank">
-                <img src="../img/paintings/{following::body//img[1]/@src}" alt="Banksy's '{current()/string()}'"/>
+            <a href="gallery_pages/paintings/{. ! tokenize(., ' ') => string-join('_') => lower-case()}.html" target="_blank">
+                <xsl:choose>
+                    <xsl:when test="following::body//img[parent::p] => count() gt 1">
+                        <img src="../img/paintings/{following::body//img[1]/@src}" id="{. ! tokenize(., ' ') => string-join('_') => lower-case()}_rotator" alt="Banksy's '{current()/string()}'"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <img src="../img/paintings/{following::body//img[1]/@src}" alt="Banksy's '{current()/string()}'"/>
+                    </xsl:otherwise>
+                </xsl:choose>
                 <div class="gallery-overlay">
                     <div class="gallery-text"><xsl:apply-templates select="string()"/></div>
                 </div>
@@ -58,8 +66,15 @@
     </xsl:template>
     <xsl:template match="descendant::title" mode="column2">
         <div class="gallery-hover">
-            <a href="gallery_pages/paintings/{following::body//img[1]/@src/replace(., '\.jpg', '')}.html" target="_blank">
-                <img src="../img/paintings/{following::body//img[1]/@src}" alt="Banksy's '{current()/string()}'"/>
+            <a href="gallery_pages/paintings/{translate(. ! tokenize(., ' ') => string-join('_') => lower-case(), '	&#8217;', '')}.html" target="_blank">
+                <xsl:choose>
+                    <xsl:when test="following::body//img[parent::p] => count() gt 1">
+                        <img src="../img/paintings/{following::body//img[1]/@src}" id="{. ! tokenize(., ' ') => string-join('_') => lower-case()}_rotator" alt="Banksy's '{current()/string()}'"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <img src="../img/paintings/{following::body//img[1]/@src}" alt="Banksy's '{current()/string()}'"/>
+                    </xsl:otherwise>
+                </xsl:choose>
                 <div class="gallery-overlay">
                     <div class="gallery-text"><xsl:apply-templates select="string()"/></div>
                 </div>
@@ -68,8 +83,15 @@
     </xsl:template>
     <xsl:template match="descendant::title" mode="column3">
         <div class="gallery-hover">
-            <a href="gallery_pages/paintings/{following::body//img[1]/@src/replace(., '\.jpg', '')}.html" target="_blank">
-                <img src="../img/paintings/{following::body//img[1]/@src}" alt="Banksy's '{current()/string()}'"/>
+            <a href="gallery_pages/paintings/{. ! tokenize(., ' ') => string-join('_') => lower-case()}.html" target="_blank">
+                <xsl:choose>
+                    <xsl:when test="following::body//img[parent::p] => count() gt 1">
+                        <img src="../img/paintings/{following::body//img[1]/@src}" id="{. ! tokenize(., ' ') => string-join('_') => lower-case()}_rotator" alt="Banksy's '{current()/string()}'"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <img src="../img/paintings/{following::body//img[1]/@src}" alt="Banksy's '{current()/string()}'"/>
+                    </xsl:otherwise>
+                </xsl:choose>
                 <div class="gallery-overlay">
                     <div class="gallery-text"><xsl:apply-templates select="string()"/></div>
                 </div>

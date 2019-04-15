@@ -23,7 +23,7 @@
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
-                    <edition total="650" signed="150" unsigned="500"/>
+                    <edition total="650" signed="150" unsigned="500">Original</edition>
                     <edition total="27" signed="27" unsigned="0">Orange</edition>
                     <edition total="27" signed="27" unsigned="0">Rainbow</edition>
                     <edition total="50" signed="50" unsigned="0">Serpentine Edition</edition>
@@ -36,7 +36,7 @@
             <p></p>
         </desc>
         <p>
-            <img src="napalm.jpg" alt="Banksy's 'Napalm'"/>
+            <img src="napalm.jpg" alt="Banksy's 'Napalm (Original)'"/>
             <credit>https://dl.airtable.com/ikJJzsnQTmW5oJlJf9Zm_full_banksy-prints-napalm.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
             <img src="napalm_orange.jpg" alt="Banksy's 'Napalm (Orange)'"/>
             <credit>https://dl.airtable.com/kuUyRf3WRIOET88oTHNx_full_NapalmAPlarge.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>

@@ -12,7 +12,7 @@
             <xsl:variable name="filename">
                 <xsl:value-of select="replace(base-uri(), '\.xml', '.html') ! tokenize(., '/')[last()]"/>
             </xsl:variable>
-            <xsl:result-document method="xml" indent="yes" href="../site/html/xslt_gallery_pages/Paintings/{$filename}">
+            <xsl:result-document method="xml" indent="yes" href="../site/html/xslt_gallery_pages/Prints/{$filename}">
                 <html>
                     <head>
                         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -40,7 +40,7 @@
                                 <xsl:if test="descendant::sourceDesc//size[@orientation='portrait']">
                                     <div class="gallery-page-img" id="portrait">
                                         <xsl:text>&#10;</xsl:text>
-                                        <img src="../../../img/graffiti/{(descendant::body//img/@src)[1]}" alt="{(descendant::body//img/@alt/string())[1]}"/>
+                                        <img src="../../../img/paintings/{(descendant::body//img/@src)[1]}" alt="{(descendant::body//img/@alt/string())[1]}"/>
                                         <xsl:text>&#10;</xsl:text>
                                         <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
                                     </div>
@@ -48,43 +48,48 @@
                                 <xsl:if test="descendant::sourceDesc//size[@orientation='landscape']">
                                     <div class="gallery-page-img" id="landscape">
                                         <xsl:text>&#10;</xsl:text>
-                                        <img src="../../../img/graffiti/{(descendant::body//img/@src)[1]}" alt="{(descendant::body//img/@alt/string())[1]}"/>
+                                        <img src="../../../img/paintings/{(descendant::body//img/@src)[1]}" alt="{(descendant::body//img/@alt/string())[1]}"/>
                                         <xsl:text>&#10;</xsl:text>
                                         <a href="{descendant::sourceDesc//ref[last()]/@target/string()}">Credit</a>
                                     </div>
                                 </xsl:if>
                                 <div class="gallery-page-desc">
-                                    <span class="desc"/>
+                                    <div class="desc">Description</div>
                                     <xsl:text>&#10;</xsl:text>
-                                    <span class="medium">Prints</span>
+                                    <div class="date"><xsl:apply-templates select="descendant::sourceDesc//date/@when/string()"/></div>
                                     <xsl:text>&#10;</xsl:text>
-                                    <span class="editions">
+                                    <div class="medium">Prints</div>
+                                    <xsl:text>&#10;</xsl:text>
+                                    <div class="editions">
                                         <div class="thumbnail">
                                             <xsl:if test="descendant::edition => count() = 0">
-                                                <p>Editions: NA</p>
+                                                <p>Editions: Original</p>
                                             </xsl:if>
                                             <xsl:if test="descendant::edition => count() = 1">
                                                 <p>Editions: <xsl:apply-templates select="descendant::bibl/edition/string()"/></p>
                                             </xsl:if>
                                             <xsl:if test="descendant::edition => count() gt 1">
                                                 <div class="thumbnail-column">
-                                                    <xsl:for-each select="descendant::body/descendant::img[position() mod 3 = 1]">
-                                                        <xsl:apply-templates select="ancestor::p[img]" mode="column1"/>
-                                                    </xsl:for-each>
+                                                    <xsl:if test="descendant::body/child::p[img]/img[position() mod 3 = 1]">
+                                                        <xsl:apply-templates select="descendant::img[parent::p][position() mod 3 = 1]"  mode="column1"/>
+                                                    </xsl:if>
+                                                    <br/>
                                                 </div>
                                                 <div class="thumbnail-column">
-                                                    <xsl:for-each select="descendant::body/descendant::img[position() mod 3 = 2]">
-                                                        <xsl:apply-templates select="ancestor::p[img]" mode="column2"/>
-                                                    </xsl:for-each>
+                                                    <xsl:if test="descendant::body/child::p[img]/img[position() mod 3 = 2]">
+                                                        <xsl:apply-templates select="descendant::img[parent::p][position() mod 3 = 2]"  mode="column2"/>
+                                                    </xsl:if>
+                                                    <br/>
                                                 </div>
                                                 <div class="thumbnail-column">
-                                                    <xsl:for-each select="descendant::body/descendant::img[position() mod 3 = 0]">
-                                                        <xsl:apply-templates select="ancestor::p[img]" mode="column3"/>
-                                                    </xsl:for-each>
+                                                    <xsl:if test="descendant::body/child::p[img]/img[position() mod 3 = 0]">
+                                                        <xsl:apply-templates select="descendant::img[parent::p][position() mod 3 = 0]"  mode="column3"/>
+                                                    </xsl:if>
+                                                    <br/>
                                                 </div>
                                             </xsl:if>
                                         </div>
-                                    </span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -96,28 +101,22 @@
             </xsl:result-document>
         </xsl:for-each>
     </xsl:template>
-    <xsl:template match="p[img]" mode="column1">
+    <xsl:template match="descendant::img[parent::p][position() mod 3 = 1]" mode="column1">
         <div class="thumbnail-hover">
-            <img src="../../../img/graffiti/{child::img/@src/string()}" alt="{child::img/@alt/string()}"/>
-            <div class="thumbnail-overlay">
-                <div class="thumbnail-text"><xsl:apply-templates select="current()/preceding::edition/string()"/></div>
-            </div>
+            <img src="../../../img/paintings/{@src/string()}" alt="{current()/@alt/string()}"/>
+            <p>'<xsl:apply-templates select="translate(attribute::alt/substring-after(., '('), ')', '')"/></p>
         </div>
     </xsl:template>
-    <xsl:template match="p[img]" mode="column2">
+    <xsl:template match="descendant::img[parent::p][position() mod 3 = 2]" mode="column2">
         <div class="thumbnail-hover">
-            <img src="../../../img/graffiti/{child::img/@src/string()}" alt="{child::img/@alt/string()}"/>
-            <div class="thumbnail-overlay">
-                <div class="thumbnail-text"><xsl:apply-templates select="current()/preceding::edition/string()"/></div>
-            </div>
+            <img src="../../../img/paintings/{@src/string()}" alt="{current()/@alt/string()}"/>
+            <p>'<xsl:apply-templates select="translate(attribute::alt/substring-after(., '('), ')', '')"/></p>
         </div>
     </xsl:template>
-    <xsl:template match="p[img]" mode="column3">
+    <xsl:template match="descendant::img[parent::p][position() mod 3 = 0]" mode="column3">
         <div class="thumbnail-hover">
-            <img src="../../../img/graffiti/{child::img/@src/string()}" alt="{child::img/@alt/string()}"/>
-            <div class="thumbnail-overlay">
-                <div class="thumbnail-text"><xsl:apply-templates select="current()/preceding::edition/string()"/></div>
-            </div>
+            <img src="../../../img/paintings/{@src/string()}" alt="{current()/@alt/string()}"/>
+            <p>'<xsl:apply-templates select="translate(attribute::alt/substring-after(., '('), ')', '')"/></p>
         </div>
     </xsl:template>
 </xsl:stylesheet>

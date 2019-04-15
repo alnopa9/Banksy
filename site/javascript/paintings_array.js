@@ -21,7 +21,7 @@ function init() {
         var imagesCYW = new Array ('../img/paintings/choose_your_weapon_bright_purple.jpg', '../img/paintings/choose_your_weapon_dark_blue.jpg', '../img/paintings/choose_your_weapon_dark_orange.jpg', '../img/paintings/choose_your_weapon_gold.jpg', '../img/paintings/choose_your_weapon_green.jpg', '../img/paintings/choose_your_weapon_grey.jpg', '../img/paintings/choose_your_weapon_khaki.jpg', '../img/paintings/choose_your_weapon_lemon.jpg', '../img/paintings/choose_your_weapon_light_orange.jpg', '../img/paintings/choose_your_weapon_magenta.jpg', '../img/paintings/choose_your_weapon_olive.jpg', '../img/paintings/choose_your_weapon_queue_jump_grey.jpg', '../img/paintings/choose_your_weapon_red.jpg', '../img/paintings/choose_your_weapon_silver.jpg', '../img/paintings/choose_your_weapon_sky.jpg', '../img/paintings/choose_your_weapon_slate.jpg', '../img/paintings/choose_your_weapon_soft_yellow.jpg', '../img/paintings/choose_your_weapon_turquoise.jpg', '../img/paintings/choose_your_weapon_white.jpg')
             var thisImageCYW = 0;
         var thisImageCYW = Math.floor(Math.random()*(imagesCYW.length)) ;
-        document.getElementById("cyw_rotator").src = imagesCYW[thisImageCYW];
+        document.getElementById("choose_your_weapon_rotator").src = imagesCYW[thisImageCYW];
         setTimeout(rotateCYW, 3 * 1000);
     }
 
@@ -61,7 +61,7 @@ function init() {
         var imagesGOWYC = new Array ('../img/paintings/get_out_while_you_can_red.jpg', '../img/paintings/get_out_while_you_can_pink.jpg')
             var thisImageGOWYC = 0;
         var thisImageGOWYC = Math.floor(Math.random()*(imagesGOWYC.length)) ;
-        document.getElementById("gowyc_rotator").src = imagesGOWYC[thisImageGOWYC];
+        document.getElementById("get_out_while_you_can_rotator").src = imagesGOWYC[thisImageGOWYC];
         setTimeout(rotateGOWYC, 3 * 1000);
     }
 
@@ -69,7 +69,7 @@ function init() {
         var imagesIFTL = new Array ('../img/paintings/i_fought_the_law_orange.jpg', '../img/paintings/i_fought_the_law_pink.jpg', '../img/paintings/i_fought_the_law_red.jpg')
             var thisImageIFTL = 0;
         var thisImageIFTL = Math.floor(Math.random()*(imagesIFTL.length)) ;
-        document.getElementById("iftl_rotator").src = imagesIFTL[thisImageIFTL];
+        document.getElementById("i_fought_the_law_rotator").src = imagesIFTL[thisImageIFTL];
         setTimeout(rotateIFTL, 3 * 1000);
     }
 
@@ -77,7 +77,7 @@ function init() {
         var imagesJandJ = new Array ('../img/paintings/jack_and_jill_blue.jpg', '../img/paintings/jack_and_jill_pink.jpg')
             var thisImageJandJ = 0;
         var thisImageJandJ = Math.floor(Math.random()*(imagesJandJ.length)) ;
-        document.getElementById("jandj_rotator").src = imagesJandJ[thisImageJandJ];
+        document.getElementById("jack_and_jill_rotator").src = imagesJandJ[thisImageJandJ];
         setTimeout(rotateJandJ, 3 * 1000);
     }
 
@@ -133,6 +133,6 @@ function init() {
         var imagesWorthless = new Array ('../img/paintings/worthless_pink.jpg', '../img/paintings/worthless_red.jpg')
             var thisImageWorthless = 0;
         var thisImageWorthless = Math.floor(Math.random()*(imagesWorthless.length)) ;
-        document.getElementById("worthless_rotator").src = imagesWorthless[thisImageWorthless];
+        document.getElementById("because_im_worthless_rotator").src = imagesWorthless[thisImageWorthless];
         setTimeout(rotateWorthless, 3 * 1000);
     }

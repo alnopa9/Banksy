@@ -22,7 +22,7 @@
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
                     <ref target="https://airtable.com/universe/expXzVY5PPYiJCAw2/artery-the-banksy-database?explore=true">Artery: The Banksy Database</ref>
-                    <edition total="750" signed="150" unsigned="600"/>
+                    <edition total="750" signed="150" unsigned="600">Original</edition>
                     <edition total="8" signed="8" unsigned="0">Stretched</edition>
                 </bibl>
             </sourceDesc>
@@ -33,7 +33,7 @@
             <p></p>
         </desc>
         <p>
-            <img src="pulp_fiction.jpg" alt="Banksy's 'Pulp Fiction'"/>
+            <img src="pulp_fiction.jpg" alt="Banksy's 'Pulp Fiction (Original)'"/>
             <credit>https://dl.airtable.com/qyGSENu7TZO22WuZdYb8_full_banksy-pulp-fiction-stretched.jpg%3FAction%3Dthumbnail%26Width%3D1200</credit>
         </p>
     </body>
