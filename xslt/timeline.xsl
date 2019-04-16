@@ -60,7 +60,7 @@
                     </a>
                 </xsl:when>
                 <xsl:when test="@class='misc'">
-                    <a xlink:href='miscellaneous.html' xlink:title="Banksy's '{current()}'" target="_blank">
+                    <a xlink:href='gallery_pages/miscellaneous/{lower-case(current()/replace(., "[&#39;]|[&#44;]", "") ! translate(., "-", "_") ! tokenize(., " ") => string-join("_"))}.html' xlink:title="Banksy's '{current()}'" target="_blank">
                         <xsl:text>&#10;&#9;&#9;&#9;&#9;</xsl:text>
                         <text x="10" y="{(current() => count() * (preceding::year => count() + preceding::title => count()) + 1) * 25 + 5}" fill="black">
                             <xsl:apply-templates select="current()/string()"/>

@@ -8,6 +8,14 @@
         </works>
     </group>
     <group>
+        <year>1998</year>
+        <works>
+            <other>
+                <title>Easton Exhibition</title>
+            </other>
+        </works>
+    </group>
+    <group>
         <year>1999</year>
         <works>
             <graffiti>
@@ -34,6 +42,7 @@
             </graffiti>
             <other>
                 <title>Banging Your Head Against A Brick Wall</title>
+                <title>Easton Cowboys</title>
                 <title>Rivington Street</title>
             </other>
         </works>
@@ -42,7 +51,6 @@
         <year>2002</year>
         <works>
             <graffiti>
-                <title>Choose Your Weapon</title>
                 <title>Choose Your Weapon</title>
                 <title>Girl with Balloon</title>
                 <title>Laugh Now</title>
@@ -74,10 +82,13 @@
             <graffiti>
                 <title>Bomb Hugger</title>
                 <title>Ice Cream Bomb</title>
+                <title>Thekla</title>
             </graffiti>
             <other>
+                <title>May Day</title>
                 <title>Santa's Ghetto 03</title>
                 <title>Semipermanent</title>
+                <title>Tate Britain Prank</title>
                 <title>Turf War</title>
             </other>
         </works>
@@ -90,6 +101,8 @@
                 <title>Because I'm Worthless</title>
                 <title>Christ with Shopping Bags</title>
                 <title>Di Faced Tenners</title>
+                <title>Gangsta Rat</title>
+                <title>Get Out While You Can</title>
                 <title>Girl With Balloon</title>
                 <title>I Fought The Law</title>
                 <title>Love Rat</title>
@@ -100,9 +113,12 @@
                 <title>Because I'm Worthless</title>
                 <title>Keep your Coins, I want Change</title>
                 <title>Napalm Girl</title>
+                <title>Photo Opportunity</title>
             </graffiti>
             <other>
                 <title>Cut It Out</title>
+                <title>London Museum Prank</title>
+                <title>Louvre Museum Prank</title>
                 <title>Santa's Ghetto 04</title>
             </other>
         </works>
@@ -113,6 +129,7 @@
             <canvas>
                 <title>CND Soldiers</title>
                 <title>Grim Reaper</title>
+                <title>Jack &amp; Jill</title>
                 <title>Kate Moss</title>
             </canvas>
             <graffiti>
@@ -125,7 +142,9 @@
                 <title>Think Tank</title>
             </graffiti>
             <other>
+                <title>British Museum Prank</title>
                 <title>Crude Oils</title>
+                <title>New York Museums Prank</title>
                 <title>Santa's Ghetto 05</title>
                 <title>The Segregation Wall</title>
             </other>
@@ -149,6 +168,7 @@
             </graffiti>
             <other>
                 <title>Barely Legal</title>
+                <title>Guantanamo Bay Detainee</title>
                 <title>Santa's Ghetto 06</title>
             </other>
         </works>
@@ -157,6 +177,7 @@
         <year>2007</year>
         <works>
             <canvas>
+                <title>Morons</title>
                 <title>Trolleys</title>
             </canvas>
             <graffiti>
@@ -171,6 +192,7 @@
                 <title>Yellow Lines Flower Painter</title>
             </graffiti>
             <other>
+                <title>GlastonBury</title>
                 <title>Santa's Ghetto 07</title>
                 <title>Wall and Piece</title>
             </other>
@@ -195,8 +217,10 @@
                 <title>One Nation Under CCTV</title>
                 <title>Umbrella Girl</title>
                 <title>Very Little Helps</title>
+                <title>Zebra Stripes</title>
             </graffiti>
             <other>
+                <title>New Orleans</title>
                 <title>The Cans Festival</title>
                 <title>Village Pet Store And Charcoal Grill</title>
             </other>
@@ -223,9 +247,12 @@
     <group>
         <year>2010</year>
         <works>
+            <canvas>
+                <title>Choose Your Weapon</title>
+            </canvas>
             <graffiti>
                 <title>Cameraman and Flower</title>
-                <title>Forgive our Trespassing</title>
+                <title>Forgive Our Trespassing</title>
                 <title>Gorilla With Pink Mask</title>
                 <title>Interest in People</title>
                 <title>Modern Art</title>
@@ -237,7 +264,9 @@
                 <title>Tesco Sandcastle</title>
             </graffiti>
             <other>
+                <title>Exit Through The Gift Shop</title>
                 <title>Marks And Stencils</title>
+                <title>The Simpsons</title>
             </other>
         </works>
     </group>
@@ -245,6 +274,7 @@
         <year>2011</year>
         <works>
             <graffiti>
+                <title>All Seeing Ostrich</title>
                 <title>Baby Carriage</title>
                 <title>Child Soldier</title>
                 <title>Cut It Out</title>
@@ -302,6 +332,7 @@
                 <title>Drunk Angel</title>
                 <title>Love is the Answer</title>
                 <title>Mobile Phone Lovers</title>
+                <title>One Original Thought</title>
             </graffiti>
         </works>
     </group>
@@ -332,7 +363,6 @@
         <works>
             <canvas>
                 <title>Civilian Drone Strike</title>
-                <title>Israeli-Palestinian Pillow Fight</title>
             </canvas>
             <other>
                 <title>The Walled Off Hotel</title>
