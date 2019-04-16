@@ -12,7 +12,7 @@
             <xsl:variable name="filename">
                 <xsl:value-of select="replace(base-uri(), '\.xml', '.html') ! tokenize(., '/')[last()]"/>
             </xsl:variable>
-            <xsl:result-document method="xml" indent="yes" href="../site/html/xslt_gallery_pages/Prints/{$filename}">
+            <xsl:result-document method="xhtml" indent="yes" href="../site/html/xslt_gallery_pages/Prints/{$filename}">
                 <html>
                     <head>
                         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

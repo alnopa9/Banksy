@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Easton Exhibition</title>
+                    <date when="1998"/>
+                    <medium type="installation"/>
+                    <location lat="51.5256952" long="-0.1128056">London, UK</location>
+                    <size orientation="portrait">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/16/early-exhibition-in-easton-1998/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Banksy’s first non – street art exhibition took place in a flat in Easton, Bristol. Mostly acrylic. There was an early version of “Love is in the air”.</p>
+        </desc>
+        <p>
+            <img src="easton_exhibition_01.jpg" alt="Banksy's 'Easton Exhibition 01'"/>
+            <img src="easton_exhibition_02.jpg" alt="Banksy's 'Easton Exhibition 02'"/>
+            <img src="easton_exhibition_03.jpg" alt="Banksy's 'Easton Exhibition 03'"/>
+            <img src="easton_exhibition_04.jpg" alt="Banksy's 'Easton Exhibition 04'"/>
+            <img src="easton_exhibition_05.jpg" alt="Banksy's 'Easton Exhibition 05'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>

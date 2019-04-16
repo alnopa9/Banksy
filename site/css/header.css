@@ -99,7 +99,7 @@ svg{overflow: visible; font-size: 1em;}
 #portrait img{height: 100%; max-height: 440px; width: auto;}
 #landscape img{width: 100%; max-width: 500px; height: auto;}
 .gallery-page-desc{display: flex; width: 50%; order: 2; flex-direction: column; justify-content: center; align-items: center;}
-.desc{display: flex; text-align: left; justify-content: center; align-items: center; height: 30%; width: 100%;}
+.desc{display: flex; text-align: left; justify-content: center; align-items: flex-start; height: 30%; width: 100%; overflow-y: auto;}
 .date{display: flex; justify-content: center; height: 5%; width: 100%;}
 .medium{display: flex; justify-content: center; height: 5%; width: 100%;}
 .location{display: flex; justify-content: center; height: 60%; width: 100%;}
