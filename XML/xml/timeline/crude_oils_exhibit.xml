@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Crude Oils</title>
+                    <date when="2005-10"/>
+                    <medium type="installation"/>
+                    <location lat="51.5152606" long="-0.1964603">London, UK</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/17/crude-oils-london-october-2005/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Crude Oils opened at 100 Westbourne Grove in London and was Banksy’s second major exhibition, after Turf War in 2003. It featured 20 versions of classical oil paintings, among them Van Googh, Hopper, Warhol, Turner and Monet. Also present were 200 live rats and some interesting sculptures.</p>
+        </desc>
+        <p>
+            <img src="crude_oils_01.jpg" alt="Banksy's 'Crude Oils 01'"/>
+            <img src="crude_oils_02.jpg" alt="Banksy's 'Crude Oils 02'"/>
+            <img src="crude_oils_03.jpg" alt="Banksy's 'Crude Oils 03'"/>
+            <img src="crude_oils_04.jpg" alt="Banksy's 'Crude Oils 04'"/>
+            <img src="crude_oils_05.jpg" alt="Banksy's 'Crude Oils 05'"/>
+            <img src="crude_oils_06.jpg" alt="Banksy's 'Crude Oils 06'"/>
+            <img src="crude_oils_07.jpg" alt="Banksy's 'Crude Oils 07'"/>
+            <img src="crude_oils_08.jpg" alt="Banksy's 'Crude Oils 08'"/>
+            <img src="crude_oils_09.jpg" alt="Banksy's 'Crude Oils 09'"/>
+            <img src="crude_oils_10.jpg" alt="Banksy's 'Crude Oils 10'"/>
+            <img src="crude_oils_11.jpg" alt="Banksy's 'Crude Oils 11'"/>
+            <img src="crude_oils_12.jpg" alt="Banksy's 'Crude Oils 12'"/>
+            <img src="crude_oils_13.jpg" alt="Banksy's 'Crude Oils 13'"/>
+            <img src="crude_oils_14.jpg" alt="Banksy's 'Crude Oils 14'"/>
+            <img src="crude_oils_15.jpg" alt="Banksy's 'Crude Oils 15'"/>
+            <img src="crude_oils_16.jpg" alt="Banksy's 'Crude Oils 16'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>

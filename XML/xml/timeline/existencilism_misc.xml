@@ -15,20 +15,19 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Existencilism (Exhibit)</title>
-                    <date when="2002-07"/>
-                    <medium type="installation"/>
-                    <location lat="34.0834222" long="-118.3596888">Los Angeles, USA</location>
-                    <size orientation="landscape">large</size>
+                    <title>Existencilism</title>
+                    <date when="2002-05"/>
+                    <medium type="book"/>
+                    <size orientation="portrait">small</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
-                    <ref target="https://banksyunofficial.com/2017/04/16/existencilism-los-angeles-june-19-2002/">Article That Supplied Information for Markup</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/16/banksys-second-book-existencilism-may-2002/">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
         <desc>
-            <p>Banksy held his first Los Angeles exhibition, “Existencilism”,  at the 33 1/3 Gallery. It opened on 19 July. Some of his most iconic work saw the light, such as “Love is in the air”, “Queen Victoria” and “Laugh Now”. A few years later he would be back in LA big time with Barely Legal.</p>
+            <p>Banksy’s second book sees the light in May 2002 and is heavier on rats than his first. “Like most people I have a fantasy that all the little powerless losers will gang up together. That all the vermin will get some good equipment and then the underground will go overground and tear the city apart”.</p>
         </desc>
         <p>
             <img src="existencilism_01.jpg" alt="Banksy's 'Existencilism 01'"/>
@@ -36,11 +35,10 @@
             <img src="existencilism_03.jpg" alt="Banksy's 'Existencilism 03'"/>
             <img src="existencilism_04.jpg" alt="Banksy's 'Existencilism 04'"/>
             <img src="existencilism_05.jpg" alt="Banksy's 'Existencilism 05'"/>
-            <img src="existencilism_06.jpg" alt="Banksy's 'Existencilism 06"/>
+            <img src="existencilism_06.jpg" alt="Banksy's 'Existencilism 06'"/>
             <img src="existencilism_07.jpg" alt="Banksy's 'Existencilism 07'"/>
             <img src="existencilism_08.jpg" alt="Banksy's 'Existencilism 08'"/>
             <img src="existencilism_09.jpg" alt="Banksy's 'Existencilism 09'"/>
-            <img src="existencilism_10.jpg" alt="Banksy's 'Existencilism 10'"/>
             <credit>Rikard Anderson with Banksy Unofficial</credit>
         </p>
     </body>

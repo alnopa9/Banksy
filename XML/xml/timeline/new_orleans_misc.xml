@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>New Orleans</title>
+                    <date when="2008-09"/>
+                    <medium type="installation"/>
+                    <location lat="30.0326996" long="-90.1627533">New Orleans, USA</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/17/exit-through-the-gift-shop-at-sundance-film-festival-january-24-utah/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Banksy went to New Orleans on the third anniversary of the Hurricane Katherina disaster. There are possibly eleven stencils in New Orleans from this period, among them the iconic Nola. The stencil on a petrol station in Alabama of a hooded Ku Klux Klan member was quickly removed.</p>
+        </desc>
+        <p>
+            <img src="new_orleans_01.jpg" alt="Banksy's 'New Orleans 01'"/>
+            <img src="new_orleans_02.jpg" alt="Banksy's 'New Orleans 02'"/>
+            <img src="new_orleans_03.jpg" alt="Banksy's 'New Orleans 03'"/>
+            <img src="new_orleans_04.jpg" alt="Banksy's 'New Orleans 04'"/>
+            <img src="new_orleans_05.jpg" alt="Banksy's 'New Orleans 05'"/>
+            <img src="new_orleans_06.jpg" alt="Banksy's 'New Orleans 06'"/>
+            <img src="new_orleans_07.jpg" alt="Banksy's 'New Orleans 07'"/>
+            <img src="new_orleans_08.jpg" alt="Banksy's 'New Orleans 08'"/>
+            <img src="new_orleans_09.jpg" alt="Banksy's 'New Orleans 09'"/>
+            <img src="new_orleans_10.jpg" alt="Banksy's 'New Orleans 10'"/>
+            <img src="new_orleans_11.jpg" alt="Banksy's 'New Orleans 11'"/>
+            <img src="new_orleans_12.jpg" alt="Banksy's 'New Orleans 12'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>

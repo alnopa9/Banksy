@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Barely Legal</title>
+                    <date when="2006-09-16"/>
+                    <medium type="installation"/>
+                    <location lat="34.0201613" long="-118.6919283">Los Angeles, USA</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/17/barely-legal-the-first-big-us-show-september-2006/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>Barely Legal was the third major exhibition after Turf War and Crude Oils. It was held in a warehouse in Los Angeles on the weekend of 16 September 2006. Billed as a “three-day vandalised warehouse extravaganza”. The exhibition featured a live “elephant in a room,” painted in a pink and gold floral wallpaper pattern, which, according to leaflets handed out at the exhibition, was intended to draw attention to the issue of world poverty.  Banksy continues exploring the “modified oils” genre from the previous exhibition “Crude Oils”.</p>
+        </desc>
+        <p>
+            <img src="barely_legal_01.jpg" alt="Banksy's 'Barely Legal 01'"/>
+            <img src="barely_legal_02.jpg" alt="Banksy's 'Barely Legal 02'"/>
+            <img src="barely_legal_03.jpg" alt="Banksy's 'Barely Legal 03'"/>
+            <img src="barely_legal_04.jpg" alt="Banksy's 'Barely Legal 04'"/>
+            <img src="barely_legal_05.jpg" alt="Banksy's 'Barely Legal 05'"/>
+            <img src="barely_legal_06.jpg" alt="Banksy's 'Barely Legal 06'"/>
+            <img src="barely_legal_07.jpg" alt="Banksy's 'Barely Legal 07'"/>
+            <img src="barely_legal_08.jpg" alt="Banksy's 'Barely Legal 08'"/>
+            <img src="barely_legal_09.jpg" alt="Banksy's 'Barely Legal 09'"/>
+            <img src="barely_legal_10.jpg" alt="Banksy's 'Barely Legal 10'"/>
+            <img src="barely_legal_11.jpg" alt="Banksy's 'Barely Legal 11'"/>
+            <img src="barely_legal_12.jpg" alt="Banksy's 'Barely Legal 12'"/>
+            <img src="barely_legal_13.jpg" alt="Banksy's 'Barely Legal 13'"/>
+            <img src="barely_legal_14.jpg" alt="Banksy's 'Barely Legal 14'"/>
+            <img src="barely_legal_15.jpg" alt="Banksy's 'Barely Legal 15'"/>
+            <img src="barely_legal_16.jpg" alt="Banksy's 'Barely Legal 16'"/>
+            <img src="barely_legal_17.jpg" alt="Banksy's 'Barely Legal 17'"/>
+            <img src="barely_legal_18.jpg" alt="Banksy's 'Barely Legal 18'"/>
+            <img src="barely_legal_19.jpg" alt="Banksy's 'Barely Legal 19'"/>
+            <img src="barely_legal_20.jpg" alt="Banksy's 'Barely Legal 20'"/>
+            <img src="barely_legal_21.jpg" alt="Banksy's 'Barely Legal 21'"/>
+            <img src="barely_legal_22.jpg" alt="Banksy's 'Barely Legal 22'"/>
+            <img src="barely_legal_23.jpg" alt="Banksy's 'Barely Legal 23'"/>
+            <img src="barely_legal_24.jpg" alt="Banksy's 'Barely Legal 24'"/>
+            <img src="barely_legal_25.jpg" alt="Banksy's 'Barely Legal 25'"/>
+            <img src="barely_legal_26.jpg" alt="Banksy's 'Barely Legal 26'"/>
+            <img src="barely_legal_27.jpg" alt="Banksy's 'Barely Legal 27'"/>
+            <img src="barely_legal_28.jpg" alt="Banksy's 'Barely Legal 28'"/>
+            <img src="barely_legal_29.jpg" alt="Banksy's 'Barely Legal 29'"/>
+            <img src="barely_legal_30.jpg" alt="Banksy's 'Barely Legal 30'"/>
+            <img src="barely_legal_31.jpg" alt="Banksy's 'Barely Legal 31'"/>
+            <img src="barely_legal_32.jpg" alt="Banksy's 'Barely Legal 32'"/>
+            <img src="barely_legal_33.jpg" alt="Banksy's 'Barely Legal 33'"/>
+            <img src="barely_legal_34.jpg" alt="Banksy's 'Barely Legal 34'"/>
+            <img src="barely_legal_35.jpg" alt="Banksy's 'Barely Legal 35'"/>
+            <img src="barely_legal_36.jpg" alt="Banksy's 'Barely Legal 36'"/>
+            <img src="barely_legal_37.jpg" alt="Banksy's 'Barely Legal 37'"/>
+            <img src="barely_legal_38.jpg" alt="Banksy's 'Barely Legal 38'"/>
+            <img src="barely_legal_39.jpg" alt="Banksy's 'Barely Legal 39'"/>
+            <img src="barely_legal_40.jpg" alt="Banksy's 'Barely Legal 40'"/>
+            <img src="barely_legal_41.jpg" alt="Banksy's 'Barely Legal 41'"/>
+            <img src="barely_legal_42.jpg" alt="Banksy's 'Barely Legal 42'"/>
+            <img src="barely_legal_43.jpg" alt="Banksy's 'Barely Legal 43'"/>
+            <img src="barely_legal_44.jpg" alt="Banksy's 'Barely Legal 44'"/>
+            <img src="barely_legal_45.jpg" alt="Banksy's 'Barely Legal 45'"/>
+            <img src="barely_legal_46.jpg" alt="Banksy's 'Barely Legal 46'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>

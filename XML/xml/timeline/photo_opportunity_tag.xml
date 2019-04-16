@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Photo Opportunity</title>
+                    <date when="2004"/>
+                    <medium type="spray_paint"/>
+                    <location lat="51.1051" long="2.9262">Somerset, UK</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="">https://us.canvasartrocks.com/blogs/posts/70529347-121-amazing-banksy-graffiti-artworks-with-locations</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>This painting is painted 40 meters up a cliff in Cheddar Gorge, Somerset. It is not an image which are typical of Banksy, but it is of a phrase that reads "This is not a photo opportunity".</p>
+        </desc>
+        <p>
+            <img src="photo_opportunity.jpg" alt="Banksy's 'Photo Opportunity'"/>
+            <credit>Image credit was given to 'Art with Zoe and Emma'.</credit>
+        </p>
+    </body>
+</root>

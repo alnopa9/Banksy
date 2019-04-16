@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>James Farley</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Guantanamo Bay Detainee</title>
+                    <date when="2006"/>
+                    <medium type="installation"/>
+                    <location lat="33.8121" long="-117.9190">Anaheim, USA</location>
+                    <size orientation="landscape">medium</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="">Banksy's Personal Instagram</ref>
+                    <ref target="">http://news.bbc.co.uk/2/hi/entertainment/5335400.stm</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>This piece is different from Banksy's normal artwork. 
+            It isn't a painting or a statue. It is a life-size blow-up doll that has been 
+            dressed in prisoner orange and handcuffed with a black hood placed over its face.
+            The doll was placed next to the "Big Thunder Mountain Railroad" at Disneyland in 
+            California. The piece refers to the war on terror and to highlight the plight of 
+            terror suspects.
+            </p>
+        </desc>
+        <p>
+            <img src="guantanamo_detainee" alt="Guantanamo Bay Detainee"/>
+            <credit>No Photo Credit Given</credit>
+        </p>
+    </body>
+</root>

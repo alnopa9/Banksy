@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../2-banksy_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../3-banksy_schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<root>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <creator>Banksy</creator>
+                <editor>Alyssa Argento</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target="http://combe.newtfire.org/Banksy.html"></ref>
+                    and GitHub: <ref target="https://github.com/alnopa9/Banksy"></ref>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Severnshed</title>
+                    <date when="2000-02"/>
+                    <medium type="installation"/>
+                    <location lat="51.449188" long="-2.5952532">Bristol, UK</location>
+                    <size orientation="landscape">large</size>
+                    <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
+                    <ref target="https://banksyunofficial.com/2017/04/17/banksy-vs-bristol-museum-june-2009/">Article That Supplied Information for Markup</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <body>
+        <desc>
+            <p>After moving to London in early 2000, Banksy went back to Bristol in February the same year, where he opened his first regular exhibition in his own name at the restaurant Severnshed, behind the docks. It’s was a mixture of stencil and acrylic. All pieces were priced under £ 1,000. The “Self-portrait” of Banksy,  with a chimp head,  sold for £ 198,000 at Bonhams in 2007. There are two remarkable pieces – “Simple intelligence testing” and “Sharks”.</p>
+        </desc>
+        <p>
+            <img src="severnshed_01.jpg" alt="Banksy's 'Severnshed 01'"/>
+            <img src="severnshed_02.jpg" alt="Banksy's 'Severnshed 02'"/>
+            <img src="severnshed_03.jpg" alt="Banksy's 'Severnshed 03'"/>
+            <img src="severnshed_04.jpg" alt="Banksy's 'Severnshed 04'"/>
+            <img src="severnshed_05.jpg" alt="Banksy's 'Severnshed 05'"/>
+            <img src="severnshed_06.jpg" alt="Banksy's 'Severnshed 06'"/>
+            <img src="severnshed_07.jpg" alt="Banksy's 'Severnshed 07'"/>
+            <img src="severnshed_08.jpg" alt="Banksy's 'Severnshed 08'"/>
+            <img src="severnshed_09.jpg" alt="Banksy's 'Severnshed 09'"/>
+            <img src="severnshed_10.jpg" alt="Banksy's 'Severnshed 10'"/>
+            <img src="severnshed_11.jpg" alt="Banksy's 'Severnshed 11'"/>
+            <img src="severnshed_12.jpg" alt="Banksy's 'Severnshed 12'"/>
+            <img src="severnshed_13.jpg" alt="Banksy's 'Severnshed 13'"/>
+            <img src="severnshed_14.jpg" alt="Banksy's 'Severnshed 14'"/>
+            <img src="severnshed_15.jpg" alt="Banksy's 'Severnshed 15'"/>
+            <img src="severnshed_16.jpg" alt="Banksy's 'Severnshed 16'"/>
+            <img src="severnshed_17.jpg" alt="Banksy's 'Severnshed 17'"/>
+            <img src="severnshed_18.jpg" alt="Banksy's 'Severnshed 18'"/>
+            <credit>Rikard Anderson with Banksy Unofficial</credit>
+        </p>
+    </body>
+</root>
