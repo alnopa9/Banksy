@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="80" width="730px" height="250px" viewBox="0 80 730 250">
+<svg xmlns="http://www.w3.org/2000/svg" x="100" y="80" width="730px" height="250px" viewBox="100 80 730 250">
     <desc></desc>
     <g alignment-baseline="baseline" transform="translate (100, 100)">
         <!--Y Axis number of works--> <line x1="0" y1="0" x2="0" y2="200" stroke="black" stroke-width="2"/>

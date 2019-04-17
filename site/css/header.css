@@ -30,7 +30,7 @@ a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5
 .left-side{align-items:flex-start; order: 1;}
 .right-side{align-items:flex-end; order: 3;}
 .left-content{display: flex; width: 100%; height: 100%; flex: 1; align-items: center; justify-content: center;}
-.right-content{display: flex; flex-direction: column; width: 100%; height: 100%; flex: 1.5; align-items: center; justify-content: center; text-align: left; padding-right: 2%;}
+.right-content{display: flex; flex-direction: column; width: 100%; height: 98%; flex: 1.5; align-items: center; justify-content: flex-start; text-align: left; padding-right: 2%; overflow-y: scroll;}
 .body-container{
     display: flex;
     justify-content: center;
@@ -99,7 +99,7 @@ svg{overflow: visible; font-size: 1em;}
 #portrait img{height: 100%; max-height: 440px; width: auto;}
 #landscape img{width: 100%; max-width: 500px; height: auto;}
 .gallery-page-desc{display: flex; width: 50%; order: 2; flex-direction: column; justify-content: center; align-items: center;}
-.desc{display: flex; text-align: left; justify-content: center; align-items: flex-start; height: 30%; width: 100%; overflow-y: auto;}
+.desc{display: flex; flex-direction: column; text-align: left; justify-content: flex-start; align-items: center; height: 30%; width: 100%; overflow-y: auto; padding-top: 6px;}
 .date{display: flex; justify-content: center; height: 5%; width: 100%;}
 .medium{display: flex; justify-content: center; height: 5%; width: 100%;}
 .location{display: flex; justify-content: center; height: 60%; width: 100%;}
@@ -107,5 +107,16 @@ svg{overflow: visible; font-size: 1em;}
 .thumbnail{display: flex; flex-direction: row; overflow-y: auto; width: 100%; height: 100%; justify-content: center;}
 .thumbnail-column{display: flex; justify-content: flex-start; align-items: center; flex-direction: column; width: 33%; height: 100%;}
 .thumbnail-column img{width: 100%; max-width: 120px; height: auto;}
+.network-graph{display: flex; width: 100%; height: 100%; flex-direction: column; overflow-y: auto;}
+.top-network, .middle-network, .bottom-network{display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;}
+.top-network{order: 1;}
+.top-network img{width: 100%; max-width: 900px; height: auto;}
+.middle-network{order: 3}
+.middle-network img{width: 700px}
+.bottom-network{order: 5;}
+.bottom-network img{width: 100%; max-width: 900px; height: auto;}
+.network-divider{display: flex; order: 2; justify-content: center;}
+.graph-divider{display: flex; order: 4; justify-content: center;}
+.sources-text{display: flex; flex-direction: column; width: 98%; height: 100%; text-align: left; padding-left: 2%; overflow-y: auto;}
 
 
