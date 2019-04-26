@@ -1,88 +1,58 @@
 html { background-image: url(../img/background/SSI/background.png); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;}
+html, body{margin:0; padding: 0;}
 body{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
+    top: 1%;
+    left: 0%;
     text-align: center;
-    flex-wrap: wrap;
     height: 100%;
     width: 100%;
     overflow: hidden;
     font-family: 'Arial', sans-serif;
-    color: black ;
-    font-size: 1vh;
+    color: black;
 }
-.map{display: flex; justify-content: center; align-items: center; height: 100%; width: 100%; flex: 3;}
-.map iframe{width: 95%; height: 95%; overflow: hidden;}
-a{text-decoration: none; color: black;}
-a:hover{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease;}
-.header, .main, .license-container{display: flex; justify-content: center; width: 100%; border: 1px solid black}
+.header, .main, .license-container{display: flex; justify-content: center; height: 100%; width: 100%;}
 .header{height: 10%; align-items: center; order: 1;}
-.main{height: 83%; width: 97vw; order: 2; flex-direction: row; overflow-x: hidden;}
-.license-container{height: 6%; order: 3; font-size: 2.5vw;}
-.license{display: flex; width: 100%; height: 100%; align-items: center; justify-content: center;}
-.menu{display: flex; flex-direction: column; justify-content: center; width: 80%; align-items: center; font-size: 2.3vw; flex-wrap: nowrap; height: 100%;}
-.menu img{height: 100%; max-height: 250px; width: auto;}
+.main{height: 83%; width: 100%; order: 2; flex-direction: column; overflow: hidden;}
+.license-container{height: 7%; order: 3;}
+.menu{display: flex; flex-direction: column; height: 100%; width: 90%; justify-content: center; font-size: 1.7vh;}
 .menu li{list-style-type: none; display: inline-block; padding-left: .5em; padding-right: .5em}
-.left-side, .right-side{position: absolute;}
-.left-side img, .right-side img{width: 100%; max-width: 6vw; height: auto;}
-.left-side{left: 0%; top: 1%; order: 1}
-.right-side{right: 0%; top: 1%; order: 3}
-.left-content{display: flex; width: 98%; height: 100%; flex: 1.5; order: 2; align-items: center; justify-content: center;}
-.left-content img{height: 100%; max-height: 900px; width: auto;}
-.right-content{display: flex; flex-direction: column; width: 100%; height: 100%; flex: 1; order: 1; align-items: center; justify-content: center;}
-.body-container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    order: 2;
-    background-color: white;
-    border: 2px dashed;
-    border-radius: 15px;
-    flex-direction: column;
-}
-svg a:hover{fill: red}
-svg a{fill: black}
-svg{overflow: visible; font-size: 1em;}
-.left-svg, .right-svg{display: flex; overflow-y: auto; flex-direction: column; height: 100%;}
-.left-svg{width: 40%}
-.right-svg{width: 60%}
-.svg{display: flex; flex-direction: row; height: 100%; flex: 5; width: 100%; justify-content: center; align-items: flex-start; flex-wrap: wrap;}
-.container{display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; height: 32%; flex-wrap: wrap;}
-.bio {width: 98%; order: 3; font-size: 26px; text-align: left;}
-.container h1{order: 1; width: 100%;}
-.container a{order: 2; width: 100%}
-.container img{width: 100%; max-width: 50px; height: auto;}
-.container:hover{transition: .5s ease; color: white;}
-.container#front:hover{background-color:#66ff66;}
-.container#middle:hover{background-color:#ff6600;}
-.container#last:hover{background-color:#33ccff;}
-.vertical-flow{display: flex; flex-direction: column; height: 100%; justify-content: center; align-items: center; width: 100%;}
+.menu img{height: 100%; max-height: 7vh; width: auto;}
+.left-side img, .right-side img{position: absolute; height: 100%; max-height: 9vh; width: auto;}
+.left-side img{left: 2%; top: 0%;}
+.right-side img{right: 2%; top: 0%;}
+.body-container{width: 100%; height: 100%; background-color: white; overflow-y: auto; overflow-x: hidden; justify-content: center; align-items: center;}
+.left-content{display: flex; width: 98%; height: 100%; order: 2; align-items: center; justify-content: center;}
+.left-content img{height: 100%; max-height: 100vh; width: auto;}
+.right-content{display: flex; flex-direction: column; width: 100%; height: 100%; order: 1; align-items: center; justify-content: center;}
+ul{list-style-type: none;}
+.text-container #map{width: 100%; height: 20%; justify-content: center; align-items: center;}
+.text-container-works{width: 100%; height: 25%; display: flex; justify-content: center; align-items: center;}
+.works{width: 100%; height: 75%; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+.works img{display: none;}
+.works-text{display: flex; flex-direction: row; justify-content: center; align-items: center;}
+a{text-decoration: none; color: black;}
+.map{display: flex; justify-content: center; align-items: center; height: 80%; width: 100%;}
+.map iframe{width: 95%; height: 95%; overflow: hidden;}
+.table-counter{display: none;}
+.svg{display: flex; flex-direction: column; justify-content: flex-start; align-items: flex-start; width: 100%; overflow-x: scroll;}
+.left-svg svg, .right-svg svg{width: 115vw}
+.network-graph{display: flex; width: 100%; height: 95%; flex-direction: column; justify-content: flex-start; align-items: center;}
+.top-network, .middle-network, .bottom-network, .network-divider, .graph-divider{display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;}
+.top-network{height: 75%;}
+.network-divider{height: 5%;}
+.middle-network{height: 75%;}
+.graph-divider{height: 5%;}
+.bottom-network{height: 75%;}
+.top-network img, .middle-network img, .bottom-network img{width: 100%; height: auto;}
+.middle-network img{max-width: 100vw;}
+.top-network img, .bottom-network img{max-width: 90vw;}
 .works-ssi{display: flex; align-items: center; justify-content: space-between; flex-direction: row; width: 99%; height: 5%;}
-.text-container{display: flex; align-items: center; justify-content: center; flex-direction: column; height: 100%; width: 100%;}
-.text-container#map{flex:1}
-.text-container#timeline-text{flex:1}
-.text-container-works{display: flex; align-items: center; justify-content: center; flex-direction: column; width: 99%; height: 20%;}
-.text-container p{text-align: left;}
-.works{display: flex; flex-direction: row; flex-wrap: wrap; width: 100%; height: 79%; justify-content: center; }
-.graffiti-img img, .paintings-img img{position: absolute; top: 29%; height: 32%; width: auto; opacity: 0; transition: .5s ease;}
-.sculptures-img img, .exhibits-img img{position: absolute; top: 61%; height: 32%; width: auto; opacity: 0; transition: .5s ease;}
-.graffiti-column:hover .graffiti-img img, .paintings-column:hover .paintings-img img, .sculptures-column:hover .sculptures-img img, .exhibits-column:hover .exhibits-img img{opacity:.5}
-.graffiti-img img{left:20%;}
-.paintings-img img{left:64%}
-.sculptures-img img{left:20%}
-.exhibits-img img{left:64%;}
-.graffiti-column:hover, .paintings-column:hover, .sculptures-column:hover, .exhibits-column:hover{color: red; text-shadow: 2px 2px black; transition: .5s ease}
-.works-text{display: flex; flex-direction: column; flex-wrap: wrap; justify-content: center; align-items: center; height: 100%; width: 100%; font-size: 1.75vh; line-height: 0%}
-.graffiti-column, .paintings-column{display: flex; width: 45%; height: 50%; justify-content: center; align-items: center;}
-.sculptures-column, .exhibits-column{display: flex; width: 45%; height: 50%; justify-content: center; align-items: center;}
-.graffiti-column:hover a, .paintings-column:hover a, .sculptures-column:hover a, .exhibits-column:hover a{color: red; text-shadow: 2px 2px black; z-index: 1}
-::-webkit-scrollbar {width: 10px;}
-::-webkit-scrollbar-track {border-radius: 20px; background: #f1f1f1;}
-::-webkit-scrollbar-thumb {background: #888; border-radius: 50px;}
-::-webkit-scrollbar-thumb:hover {background: #555;}
+.container{display: flex; width: 100%; height: auto; flex-direction: column;}
+.container #front{order: 1}
+.container #middle{order: 2}
+.container #last{order: 3}
+.container img{width: 100%; max-width: 100px; height: auto;}
 .gallery{display: flex; flex-direction: row; overflow-y: auto; width: 100%; height: 95%;}
 .gallery-column{display: flex; justify-content: flex-start; align-items: center; flex-direction: column; width: 33%; height: 100%;}
 .gallery-column img{width: 100%; max-width: 320px; height: auto;}
@@ -91,12 +61,11 @@ svg{overflow: visible; font-size: 1em;}
 .gallery-hover:hover .gallery-overlay{transform: scale(1)}
 .gallery-hover:hover img{opacity: .2}
 .gallery-text{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease; font-size: 20px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center}
-.single-work{display: flex; width: 100%; height: 95%; flex-direction: row;}
-.gallery-page-img {display: flex; width: 50%; align-items: center; justify-content: center; flex-direction: column; order: 1; overflow-x: hidden;}
-#portrait img{height: 100%; max-height: 440px; width: auto;}
-#landscape img{width: 100%; max-width: 500px; height: auto;}
-.gallery-page-desc{display: flex; width: 50%; order: 2; flex-direction: column; justify-content: center; align-items: center;}
-.desc{display: flex; text-align: left; justify-content: center; align-items: center; height: 40%; width: 100%;}
-.location{display: flex; justify-content: center; height: 20%; width: 100%;}
-.date{display: flex; justify-content: center; height: 20%; width: 100%}
-.medium{display: flex; justify-content: center; height: 20%; width: 100%;}
+.gallery-page-img{display: flex; flex-direction: column; align-items: center; justify-content: center;}
+.gallery-page-desc{display: flex; flex-direction: column; align-items: center; justify-content: center;}
+#landscape img{width: 100%; max-width: 90vw; height: auto;}
+#portrait img{height: 100%; max-height: 80vh; width: auto;}
+.thumbnail{display: flex; flex-direction: row; overflow-y: auto; width: 100%; height: 100%; justify-content: center;}
+.thumbnail-column{display: flex; justify-content: flex-start; align-items: center; flex-direction: column; width: 33%; height: 100%;}
+.thumbnail-column img{width: 100%; max-width: 120px; height: auto;}
+
