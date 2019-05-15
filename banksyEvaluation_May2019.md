@@ -29,7 +29,7 @@ In each of these, your plots are attentive to that graffiti category. With the t
 
 **Correction**: In the year 2002 in your left-hand timeline, one title is *Though* when it should be *Tough*. 
 
-The KML map helps to show some patterns, orienting us to the artist’s home base in England and how far apart the works are proliferating on multiple continents. But we are most impressed of all with your network graphs. It can be very difficult to make these be legible ways of communicating information, but you made some excellent decisions to organize the data and put forward those graffiti tags. One network make it very easy at a glance to see which works were revisited in multiple media. The other is a network of places to help us see more clearly than we can with the markers on the Google Map which countries have the most Banksy artwork. We are super impressed with the balancing act of setting three complex infographics on the same page. The Analysis page renders perfectly in Firefox and Chrome, but seems to be problematic in Safari. The page perfectly passes w3c validation and we suspect Safari might not be consistently rendering the scaling you want in your SVG. There is [a Stack Overflow posting](https://stackoverflow.com/questions/11768364/svg-scaling-issues-in-safari) about this which may be helpful, and we recommend trying the solution, to add:
+The KML map helps to show some patterns, orienting us to the artist’s home base in England and how far apart the works are proliferating on multiple continents. But we are most impressed of all with your network graphs. It can be very difficult ot make these be legible ways of communicating information, but you made some excellent decisions to organize the data and put forward those graffiti tags. One network make it very easy at a glance to see which works were revisited in multiple media. The other is a network of places to help us see more clearly than we can with the markers on the Google Map which countries have the most Banksy artwork. We are super impressed with the balancing act of setting three complex infographics on the same page. The Analysis page renders perfectly in Firefox and Chrome, but seems to be problematic in Safari. The page perfectly passes w3c validation and we suspect Safari might not be consistently rendering the scaling you want in your SVG. There is [a Stack Overflow posting](https://stackoverflow.com/questions/11768364/svg-scaling-issues-in-safari) about this which may be helpful, and we recommend trying the solution, to add:
 ```
 preserveAspectRatio="xMinYMin none"
 ```
@@ -40,7 +40,7 @@ The user experience is delightful, even playful in exploring Banksy’s work, an
 
 
 ### GitHub and project file management
-With Alyssa’s strong leadership and James and Abdual’s due diligence, he team maintained a strong and mutually supportive balance through the term. Your GitHub is well organized which will make it easy for you to add new content when Banksy makes a new tag!
+With Alyssa’s strong leadership and James and Abdual’s due diligence, the team maintained a strong and mutually supportive balance through the term. Your GitHub is well organized which will make it easy for you to add new content when Banksy makes a new tag!
 
 
 ### Closing Comments
