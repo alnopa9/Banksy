@@ -10,24 +10,25 @@ body{
     overflow: hidden;
     font-family: 'Arial', sans-serif;
     color: black;
+    font-size: 2.7vh;
 }
 .header, .main, .license-container{display: flex; justify-content: center; height: 100%; width: 100%;}
 .header{height: 10%; align-items: center; order: 1;}
 .main{height: 83%; width: 100%; order: 2; flex-direction: column; overflow: hidden;}
-.license-container{height: 7%; order: 3;}
+.license-container{height: 7%; order: 3; font-size: 1.5vh}
 .menu{display: flex; flex-direction: column; height: 100%; width: 90%; justify-content: center; font-size: 1.7vh;}
 .menu li{list-style-type: none; display: inline-block; padding-left: .5em; padding-right: .5em}
-.menu img{height: 100%; max-height: 7vh; width: auto;}
+.menu img{height: 100%; max-height: 10vh; width: auto;}
 .left-side img, .right-side img{position: absolute; height: 100%; max-height: 9vh; width: auto;}
 .left-side img{left: 2%; top: 0%;}
 .right-side img{right: 2%; top: 0%;}
-.body-container{width: 100%; height: 100%; background-color: white; overflow-y: auto; overflow-x: hidden; justify-content: center; align-items: center;}
-.left-content{display: flex; width: 98%; height: 100%; order: 2; align-items: center; justify-content: center;}
-.left-content img{height: 100%; max-height: 100vh; width: auto;}
-.right-content{display: flex; flex-direction: column; width: 100%; height: 100%; order: 1; align-items: center; justify-content: center;}
+.body-container{width: 100%; height: 100%; background-color: white; overflow-y: auto; overflow-x: hidden; justify-content: center; align-items: center; flex-direction: column;}
+.left-content{display: flex; width: 98%; height: 100%; order: 1; align-items: flex-start; justify-content: center;}
+.left-content img{height: 50vh; width: auto;}
+.right-content{display: flex; flex-direction: column; width: 100%; height: 100%; order: 2; align-items: center; justify-content: center;}
 ul{list-style-type: none;}
 .text-container #map{width: 100%; height: 20%; justify-content: center; align-items: center;}
-.text-container-works{width: 100%; height: 25%; display: flex; justify-content: center; align-items: center;}
+.text-container-works{width: 100%; height: 25%; display: flex; justify-content: center; align-items: flex-start;}
 .works{width: 100%; height: 75%; display: flex; flex-direction: column; justify-content: center; align-items: center;}
 .works img{display: none;}
 .works-text{display: flex; flex-direction: row; justify-content: center; align-items: center;}
@@ -36,36 +37,37 @@ a{text-decoration: none; color: black;}
 .map iframe{width: 95%; height: 95%; overflow: hidden;}
 .table-counter{display: none;}
 .svg{display: flex; flex-direction: column; justify-content: flex-start; align-items: flex-start; width: 100%; overflow-x: scroll;}
-.left-svg svg, .right-svg svg{width: 115vw}
-.network-graph{display: flex; width: 100%; height: 95%; flex-direction: column; justify-content: flex-start; align-items: center;}
-.top-network, .middle-network, .bottom-network, .network-divider, .graph-divider{display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;}
-.top-network{height: 75%;}
-.network-divider{height: 5%;}
-.middle-network{height: 75%;}
-.graph-divider{height: 5%;}
-.bottom-network{height: 75%;}
-.top-network img, .middle-network img, .bottom-network img{width: 100%; height: auto;}
-.middle-network img{max-width: 100vw;}
-.top-network img, .bottom-network img{max-width: 90vw;}
+.left-svg svg, .right-svg svg{display: flex; width: 60vh; height: 100%; justify-content: center; align-items: center; font-size: 1.7vh}
+.left-svg{order: 1}
+.right-svg{order: 2}
+.network-graph{display: flex; width: 100%; height: 100%; flex-direction: column; overflow-y: auto;}
+.top-network, .middle-network, .bottom-network{display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;}
+.top-network{order: 1}
+.middle-network{order: 2}
+.bottom-network{order: 3}
+.top-network img, .bottom-network img{width: 100%; max-width: 70vh; height: 100%}
+.middle-network img{width: 100%; max-width: 140vh; height: 100%}
+#analysis{font-size:1.5vh}
+.sources-text{display: flex; flex-direction: column; width: 98%; height: 100%; text-align: left; padding-left: 2%; overflow-y: auto;}
+.sources-text h3{text-align: center}
 .works-ssi{display: flex; align-items: center; justify-content: space-between; flex-direction: row; width: 99%; height: 5%;}
 .container{display: flex; width: 100%; height: auto; flex-direction: column;}
 .container #front{order: 1}
 .container #middle{order: 2}
 .container #last{order: 3}
-.container img{width: 100%; max-width: 100px; height: auto;}
+.container img{width: 100%; max-width: 7vh; height: auto;}
 .gallery{display: flex; flex-direction: row; overflow-y: auto; width: 100%; height: 95%;}
 .gallery-column{display: flex; justify-content: flex-start; align-items: center; flex-direction: column; width: 33%; height: 100%;}
-.gallery-column img{width: 100%; max-width: 320px; height: auto;}
+.gallery-column img{width: 100%; max-width: 20vh; height: auto;}
 .gallery-hover{position: relative; width: 90%}
 .gallery-overlay{position: absolute; bottom: 0; left: 0; right: 0; overflow: hidden; width: 100%; height: 100%; transform: scale(0); transition: .3s ease;}
 .gallery-hover:hover .gallery-overlay{transform: scale(1)}
 .gallery-hover:hover img{opacity: .2}
-.gallery-text{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease; font-size: 20px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center}
-.gallery-page-img{display: flex; flex-direction: column; align-items: center; justify-content: center;}
+.gallery-text{color:red; text-shadow: 2px 2px black; font-weight: bold; transition: .5s ease; font-size: 3vh; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center}.gallery-page-img{display: flex; flex-direction: column; align-items: center; justify-content: center;}
 .gallery-page-desc{display: flex; flex-direction: column; align-items: center; justify-content: center;}
 #landscape img{width: 100%; max-width: 90vw; height: auto;}
 #portrait img{height: 100%; max-height: 80vh; width: auto;}
 .thumbnail{display: flex; flex-direction: row; overflow-y: auto; width: 100%; height: 100%; justify-content: center;}
 .thumbnail-column{display: flex; justify-content: flex-start; align-items: center; flex-direction: column; width: 33%; height: 100%;}
-.thumbnail-column img{width: 100%; max-width: 120px; height: auto;}
+.thumbnail-column img{width: 100%; max-width: 20vh; height: auto;}
 

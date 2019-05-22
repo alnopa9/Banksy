@@ -109,14 +109,13 @@ svg{overflow: visible; font-size: 1em;}
 .thumbnail-column img{width: 100%; max-width: 120px; height: auto;}
 .network-graph{display: flex; width: 100%; height: 100%; flex-direction: column; overflow-y: auto;}
 .top-network, .middle-network, .bottom-network{display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;}
-.top-network{order: 1;}
+.top-network{order: 1}
 .top-network img{width: 100%; max-width: 900px; height: auto;}
-.middle-network{order: 3}
+.middle-network{order: 2}
 .middle-network img{width: 700px}
-.bottom-network{order: 5;}
+.bottom-network{order: 3}
 .bottom-network img{width: 100%; max-width: 900px; height: auto;}
-.network-divider{display: flex; order: 2; justify-content: center;}
-.graph-divider{display: flex; order: 4; justify-content: center;}
+.works-ssi #analysis{font-size: 2vh}
 .sources-text{display: flex; flex-direction: column; width: 98%; height: 100%; text-align: left; padding-left: 2%; overflow-y: auto;}
-
+.sources-text h3{text-align: center}
 
