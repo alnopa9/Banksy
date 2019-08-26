@@ -17,21 +17,25 @@
                 <bibl>
                     <title></title>
                     <date when="2019-05-22"/>
-                    <medium type="Exhibit"/>
-                    <location lat="" long=""/>
-                    <size>Size of Piece, try to keep measurements universal (all one type -> meters)</size>
+                    <medium type="installation"/>
+                    <location lat="45.4341549" long="12.3364388">Venice, IT</location>
+                    <size orientation="landscape">large</size>
                     <ref target="http://www.banksy.co.uk/">Banksy's Personal Site</ref>
                     <ref target="">Banksy's Personal Instagram</ref>
-                    <ref target="">Article That Supplied Information for Markup</ref>
+                    <ref target="https://news.artnet.com/art-world/banksy-venice-1554328">Article That Supplied Information for Markup</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </header>
     <body>
-        <desc>Short description about the work. Although the location and date are in the meta data, include it in the description as well. This will be displayed on the site.</desc>
+        <desc><p></p></desc>
         <p>
-            <img src="" alt=""/>
-            <credit></credit>
+            <img src="venice_in_oil_01" alt="Banksy's 'Venice In Oil (Full)'"/>
+            <img src="venice_in_oil_02" alt="Banksy's 'Venice In Oil (Partial 1)'"/>
+            <img src="venice_in_oil_03" alt="Banksy's 'Venice In Oil (Partial 2)'"/>
+            <img src="venice_in_oil_04" alt="Banksy's 'Venice In Oil (Partial 3)'"/>
+            <img src="venice_in_oil_05" alt="Banksy's 'Venice In Oil (Partial 4)'"/>
+            <credit>http://www.banksy.co.uk/img/venice2400.jpg</credit>
         </p>
     </body>
 </root>
