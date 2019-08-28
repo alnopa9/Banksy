@@ -5,7 +5,7 @@ function init() {
 
             
             function rotate() {
-          var images = new Array ('../../img/background/slideshow/panda.png', '../../img/background/slideshow/bomb_hugger.png', '../../img/background/slideshow/flower_thrower.png', '../../img/background/slideshow/rat_camera.png', '../../img/background/slideshow/rat_paint.png', '../../img/background/slideshow/rat_parachute.png', '../../img/background/slideshow/anarchy_rat.png', '../../img/background/slideshow/angel.png', '../../img/background/slideshow/elephant_bomb.png', '../../img/background/slideshow/lenin.png', '../../img/background/slideshow/monkey_bomb.png', '../../img/background/slideshow/monkey_sign.png', '../../img/background/slideshow/rat_jackhammer.png', '../../img/background/slideshow/zebra.png')
+          var images = new Array ('../../img/background/slideshow/panda.svg', '../../img/background/slideshow/bomb_hugger.svg', '../../img/background/slideshow/flower_thrower.svg', '../../img/background/slideshow/rat_camera.svg', '../../img/background/slideshow/rat_paint.svg', '../../img/background/slideshow/rat_parachute.svg', '../../img/background/slideshow/anarchy_rat.svg', '../../img/background/slideshow/angel.svg', '../../img/background/slideshow/elephant_bomb.svg', '../../img/background/slideshow/lenin.svg', '../../img/background/slideshow/monkey_bomb.svg', '../../img/background/slideshow/monkey_sign.svg', '../../img/background/slideshow/rat_jackhammer.svg', '../../img/background/slideshow/zebra.svg')
                 var thisImage = 0;
       var thisImage = Math.floor(Math.random()*(images.length)) ;
 
